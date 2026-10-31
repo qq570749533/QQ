@@ -249,6 +249,26 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/quickpowerbutton.png
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/quickpowerbutton/js.json
 Author: SINI
 
+Package: com.storeswitcher.appstore
+Architecture: iphoneos-arm64e
+Version: 1.0.6
+Section: Bootstrap
+Maintainer: 0xkuj
+Depends: firmware (>= 11)
+Conflicts: com.yourepo.0xkuj.storeswitcher2rootless
+Filename: debs/com.storeswitcher.appstore_1.0.6_iphoneos-arm64e.deb
+Size: 51110
+MD5sum: 510720165709f9cf865b932fa62f0257
+SHA1: d4de18f11ac64b642f5e4f82f777d2fded32b551
+SHA256: ed0abeb0def19e3c550228d36660e89e724213c886bdbb2eed59f8741b68239c
+SHA512: d452aeda2487ba79265b36ef101b1f5697820f697c6889693e93e57e25f6d5924f7001d14cf8a7a35086f89fa243d859fd82c653a0c0cd808ef420b9990691b3
+Description: 桌面长按 App Store 进行切换账号
+ * 长按桌面上的 App Store 可切换帐户
+Name: StoreSwitcher 账号切换
+Author: subdiox & iosdump
+icon: https://TrollStoreX.Github.io/sileodepiction/StoreSwitcher/icon.png
+SileoDepiction: https://TrollStoreX.Github.io/sileodepiction/StoreSwitcher/js.json
+
 Package: com.unknown.notesreadonly
 Architecture: iphoneos-arm64e
 Version: 1.0.8
