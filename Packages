@@ -55,6 +55,24 @@ Description: CocoaTop64 进程查看，基于真皮版定制：中文翻译+UI�
 Name: CocoaTop64 中文版(Relaxin)
 Author: Domo, SXX
 
+Package: com.nan.enableccmutemodule
+Architecture: iphoneos-arm64e
+Version: 0.2.0
+Section: System
+Maintainer: zhaonan
+Depends: firmware (>> 11.0)
+Filename: debs/com.nan.enableccmutemodule_0.2.0_iphoneos-arm64e.deb
+Size: 1392
+MD5sum: 3d89fbf9dbcfe82b20d2738c1db9b8a3
+SHA1: 7e1ccb2c89091f0d33b2c6bb5ff7f6688f4a54e5
+SHA256: c4862e343ff67a16694d13416b72ea105f5f38396451ed7007caeb92306c18a9
+SHA512: 9f71ee10c042cc976264ca4cc395f8404cc180ab9c132015710cc420e268d6bdc0acf0adef349d68e89d804d07c838d84f5ad5fff68346ac92c647b01d0d3ff2
+Description: 激活原生 iPhone 控制中心静音模块
+Name: Enable CC MuteModule
+Author: zhaonan <invalidunit@icloud.com>
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.enableccmutemodule/js.json
+Icon: https://invalidunit.github.io/sileodepiction/com.nan.enableccmutemodule/image.png
+
 Package: com.opa334.altlist
 Architecture: iphoneos-arm64e
 Version: 1.0.11
@@ -190,6 +208,25 @@ Name: CCRespring
 Icon: https://sini921.github.io/repo/sileodepiction/icon/ccrespring.png
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/ccrespring/js.json
 Author: Mr.Zhang <mr_zhang_00@163.com>
+
+Package: com.sini921.quickpowerbutton
+Architecture: iphoneos-arm64e
+Version: 0.0.1-39
+Section: 越狱插件
+Maintainer: SINI
+Installed-Size: 600
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.sini921.quickpowerbutton_0.0.1-39_iphoneos-arm64e.deb
+Size: 194408
+MD5sum: ecff363b49fc454c022455cde735dbdd
+SHA1: 90ce6ac19a4be06894e66002b1d414eb3dd88bf4
+SHA256: a479d1f0b88635490a5885b2213458d0eacfd7e60a2411a521a7f237617d612d
+SHA512: 36e2254f89702a72906e997b593b596671653150a6718ce3fdfca16b2a3d91701fcd3a9ba785d16774d8e34ed078bd35fd3f7a02e3395a2fa4ab3489cb585e25
+Description: 在锁屏界面手电筒与相机中间添加一个快捷按钮，点击后弹出电源选项
+Name: QuickPowerButton(roothide)
+Icon: https://sini921.github.io/repo/sileodepiction/icon/quickpowerbutton.png
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/quickpowerbutton/js.json
+Author: SINI
 
 Package: com.unknown.notesreadonly
 Architecture: iphoneos-arm64e
