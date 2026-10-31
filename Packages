@@ -56,6 +56,24 @@ Name: CCSupport
 Author: opa334
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsupportDp
 
+Package: com.opa334.libsandy
+Architecture: iphoneos-arm64e
+Version: 1.1.6-4
+Section: System
+Maintainer: opa334
+Installed-Size: 468
+Filename: debs/com.opa334.libsandy_1.1.6-4_iphoneos-arm64e.deb
+Size: 45532
+MD5sum: 88f9bcf2a3fa2223554721f4434ac5d2
+SHA1: 30d55bc4660bd7c9e3e203ef314df3018f13fc3b
+SHA256: 6ec456b4a3b8609f1de58ff643f73a1056dcb2e20d39f3fa67b15fba670ba71e
+SHA512: 25923f261d181397de460ea5a35f71f72b76134f3e2aa0d9c008710960a8e63ae2cbe9aa33da258b27e3e96ec0d08eeb83d6a404d7f916a961187acdbcaf64fe
+Description: 安全地扩展系统进程和用户应用程序的沙盒
+Tag: role::developer
+Name: libSandy
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libsandyDp
+Author: opa334
+
 Package: com.qq391160.cpucore
 Architecture: iphoneos-arm64e
 Version: 2.0.322
@@ -97,6 +115,23 @@ Name: PullOver Plus
 Author: qq391160（基于 mlgm 的 PullOver X）
 dev: mlgm
 Icon: https://mlgm66.github.io/icon/pullover.png
+
+Package: com.roothide.patchloader
+Architecture: iphoneos-arm64e
+Version: 0.0.8
+Section: System
+Maintainer: roothide
+Installed-Size: 132
+Filename: debs/com.roothide.patchloader_0.0.8_iphoneos-arm64e.deb
+Size: 8350
+MD5sum: 77b53b86bda6a510c4a389474451915a
+SHA1: 9ad334c56b4a8a7872c0245b04da306dcf900809
+SHA256: 5daee347de2a2b13b2ba472117059bf94cc2fd44c024a2ad6158b4226d8db112
+SHA512: b31bb4076163c5cc6e69e929dc85d60d8bc3303ff65a382960826a0e77ce349929f58b4e17456a5361316c83b55aa3a7e09c132106ffa9e7196aac99292fb6a1
+Description: RootHide动态补丁加载器
+Tag: role::developer
+Name: PatchLoader
+Author: roothide
 
 Package: com.unknown.notesreadonly
 Architecture: iphoneos-arm64e
