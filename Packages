@@ -82,6 +82,25 @@ Name: SquidExtender VH
 Author: SquidForce, Backup
 icon: https://huayuarc.github.io/icon/SquidExtender@2x.png
 
+Package: com.wkk.boardswipe
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: Tweaks
+Maintainer: AnubisTweaks
+Installed-Size: 1036
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/滑动切换键盘.deb
+Size: 70442
+MD5sum: c91e307ec677ec944f1586edf75a4f3e
+SHA1: 12413b82624227be33d96243b3c25e5643608bae
+SHA256: 5f125ada4c3af916d958e2d2aec026d20cde08c3f41fa6fdb8dd1442787f4c4a
+SHA512: 9e32b26cadd690e714261d1e52f4edefe2f565af3c5687e5f8569830ca04e5c8f49c3b2b67b10e6b223e11ed9a50842b79ddfb65e5a2c716f07c567c07322df3
+Description: 向下滑动以关闭键盘，向上滑动以切换键盘，已汉化。
+Name: BoardSwipe
+Author: AnubisTweaks
+Icon: https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/icons/boardswipe/icon.png
+
 Package: com.fiore.calculatorhistory
 Architecture: iphoneos-arm64e
 Version: 1.3
