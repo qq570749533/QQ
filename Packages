@@ -1,0 +1,42 @@
+Package: com.qq391160.cpucore
+Architecture: iphoneos-arm64e
+Version: 2.0.322
+Priority: optional
+Section: Tweaks
+Maintainer: qq391160
+Installed-Size: 4608
+Depends: firmware (>= 16.0)
+Conflicts: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
+Replaces: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
+Filename: debs/com.qq391160.cpucore_2.0.322_iphoneos-arm64e.deb
+Size: 717392
+MD5sum: a7c8423d41acbd151fed595d6764f8dc
+SHA1: 9ae9dbd2527f712b0d1d297810f0d12f0634f3f4
+SHA256: 92113e5c4068246944a79aca6057509479490513b354693182134d0ea8bfb04e
+SHA512: 71cbb69a0e1f11881dbb56179ed987a6ec2c1a91d2e3974b40e01a688f7f80034a054ec2049ba02fc1ef73f68e56d6c2a0d5b3c126d63071eb7269073c9d3380
+Description: 三种模式一键切换的智能温控管理。 智能：游戏高性能、应用低频率、桌面原生、滑动提速、熄屏省电； 低功耗：全局省电，可放行个别应用； 性能模式：全局高性能，可单独压低指定应用； 每个应用可单独设置档位。
+Name: CPU智能温控(iOS16/17)
+Author: qq391160
+Icon: https://qq391160.github.io/repo/icons/thermal.png
+
+Package: com.qq391160.pulloverplus
+Architecture: iphoneos-arm64e
+Version: 1.0.567
+Priority: optional
+Section: Tweaks
+Maintainer: qq391160
+Pre-Depends: rootless-compat(>= 0.9)
+Conflicts: com.dao.pulloverpro, com.c1d3r.pulloverpro, com.huayuarc.pulloverplus
+Replaces: com.dao.pulloverpro, com.c1d3r.pulloverpro, com.huayuarc.pulloverplus
+Filename: debs/com.qq391160.pulloverplus_1.0.567_iphoneos-arm64e.deb
+Size: 1198174
+MD5sum: cf2b032108c2d2a73cfd64b753b72c6d
+SHA1: 56a6435a6c1620180e0d7502a676198def9986c8
+SHA256: 98bea45074947815f6db833fa3b152154210667ffbb7e0700cb63ad6ec98f4ec
+SHA512: 5718ed1cfcfd13e7a7b79b3784477c596b9741abbdb0ac42476f49c685c8fc75ceeed6eac32f546d47159340734fe324c61926bc5e82c3c83d40358ab53231f3
+Description: 此插件基于 PullOver X（原作者 mlgm）与 PullOver Pro 修改；本版为 qq391160 的增强版。
+Name: PullOver Plus
+Author: qq391160（基于 mlgm 的 PullOver X）
+dev: mlgm
+Icon: https://mlgm66.github.io/icon/pullover.png
+

@@ -1,0 +1,15 @@
+Origin: QQ570749533 的源
+Label: QQ570749533 的源
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm64 iphoneos-arm64e
+Components: main
+Description: QQ570749533 的越狱软件源
+Support: https://qq570749533.github.io/QQ570749533.github.io/
+MD5Sum:
+ 1e68efc92f9e78c8393dbc20169786b2  2108 Packages
+ eec8b1f11574273a0abde5c04b65a3d6  1185 Packages.gz
+SHA256:
+ 9ffea5308f78fd2feddda7dcf627d97ca19e4cdb2717935512a7db28d2cb749c  2108 Packages
+ 78aa42f6c4b392993e3f092f8df2d700a7cce3b88e880a72421f93c006157448  1185 Packages.gz
