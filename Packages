@@ -184,6 +184,25 @@ Name: AVPhotos照片视频画中画
 Author: MiRO 来了老弟
 Icon: https://huayuarc.github.io/icon/avphotos.jpg
 
+Package: cn.zqbb.3dtouch.inject.roothide
+Architecture: iphoneos-arm64e
+Version: 2.1
+Section: Tweaks
+Maintainer: zqbb
+Installed-Size: 168
+Depends: mobilesubstrate
+Conflicts: zp.3dtouchtounject
+Filename: debs/cn.zqbb.3dtouch.inject.roothide_2.1_iphoneos-arm64e.deb
+Size: 5676
+MD5sum: fac5dccba2d5eab0eb73ba3368a81f86
+SHA1: 939f2ec1eb0475fe80629abc6d5b819e426e79f2
+SHA256: 1600decaa0e6329c99e095db18405913162920f856b0cfe945b70841d3ea214b
+SHA512: 5b1567181306d5bdd487e6a5bffed0618f30f72b4ff3c01e845acde1677a60f3c766c9ffdb9b8c8dc52a4af482cda95558d451ef9ae8f6dc10949416f3543862
+Description: roothide白名单版 控制是否注入（也是操作plist文件，官方版不支持）
+Name: 白名单注入之长按图标 (RootHide)
+Author: zqbb
+SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.3dtouch.inject.roothide
+
 Package: cn.zqbb.disupdateapp
 Architecture: iphoneos-arm64e
 Version: 2.0.0-6
@@ -331,6 +350,25 @@ SHA512: 4268c3df5daf234eb5f1683e328a0053ea3ddf1facb4a9003c7be217ec6042847aafb40c
 Description: 沿键盘轻扫可移动光标和选择文本。
 Name: SwipeSelection
 Author: Kyle Howells
+
+Package: com.brend0n.nopassafterrespringsafe
+Architecture: iphoneos-arm64e
+Version: 0.0.3
+Section: Tweaks
+Maintainer: Brend0n <brendonjkding@126.com>
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: debs/com.brend0n.nopassafterrespringsafe_0.0.3_iphoneos-arm64e.deb
+Size: 6964
+MD5sum: a7ce7ba1196d878308420a7dc527a2e6
+SHA1: b8905114989c976b7eab2c3b0ba37c755b90bb5e
+SHA256: 89c4406a07f48495cd3b401d356bd35c85fc520ae77538c3f353525cff7fad6b
+SHA512: 8d5af7d2c70cc4a8b366be2f28164551ffedf0d49ce9cefedb2999001316de10ddd1a03ca08d0cfddbf8167dac4f1c7508e554061a9989836c16d69bdc9ba965
+Description: Disables passcode after a respring.在注销前是解锁状态的情况下，注销后自动跳过人脸或指纹识别到桌面。
+Name: NoPassAfterRespring (Safe)
+Author: Brend0n <brendonjkding@126.com>
+icon: https://huayuarc.github.io/icon/huayuarc.jpg
 
 Package: com.chargelimiter.mod
 Architecture: iphoneos-arm64e
@@ -1014,6 +1052,25 @@ Tag: role::developer
 Name: PatchLoader
 Author: roothide
 
+Package: com.simon.ccmusic
+Architecture: iphoneos-arm64e
+Version: 2.4
+Section: Tweaks
+Maintainer: simon
+Installed-Size: 428
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: debs/com.simon.ccmusic_2.4_iphoneos-arm64e.deb
+Size: 49514
+MD5sum: ef13faa58e7bb87d70cc88595221df2e
+SHA1: 2b7a00ba045e3dccba56560ea6023599f27749a4
+SHA256: f23f0f43864d92f7cd34197a813d073ec2035d7faddb36729a514d052998f9a3
+SHA512: 5f4e8b86bdf0062e48c0ca0808c689fdbbc9812e7d1180463f594de5a326dab19ca955a3ecc836215b359218695aba78afadffe0aad86d6be18b39d97ddbfdf2
+Description: 为控制中心的音乐模块添加动画
+Name: 控制中心音乐模块动画
+Author: simon
+icon: https://huayuarc.github.io/icon/fugap.jpg
+
 Package: com.sini.autoscroll15
 Architecture: iphoneos-arm64e
 Version: 1.0.0
@@ -1128,6 +1185,44 @@ Author: SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/folderpro.png
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/folderpro/js.json
 
+Package: com.sini921.freepip
+Architecture: iphoneos-arm64e
+Version: 0.0.6-3
+Section: 越狱插件
+Maintainer: Soh Satoh & SINI
+Installed-Size: 440
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.sini921.freepip_0.0.6-3_iphoneos-arm64e.deb
+Size: 85588
+MD5sum: 69fb5e207918fd111aa3fdcd285b6b25
+SHA1: 3c57ad808dae5284171376b70a1c2c120d4eba9f
+SHA256: 4a5a8332557b96e3bc6be7bf99229d6b17030901ae5eb667661cde4546adafa6
+SHA512: 996995228b7fa39a2521e8839fee2847e63d2a61581b9fb1c3fce0769a4f248e82d2e0be258f61d6fedf5ebddcab252733e65302c52cbc33d6f74f9290f64c31
+Description: 任意调整画中画大小和位置，长按画中画窗口切换模式，基于开源重新编译，优化了一些代码，改进了一些细节。
+Name: FreePIP(roothide)
+icon: https://sini921.github.io/repo/sileodepiction/icon/freepip.png
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/freepip/js.json
+Author: Soh Satoh & SINI
+
+Package: com.sini921.indicators
+Architecture: iphoneos-arm64e
+Version: 1.2-23
+Section: 越狱插件
+Maintainer: LacertosusDeus & SINI
+Installed-Size: 584
+Depends: mobilesubstrate
+Filename: debs/com.sini921.indicators_1.2-23_iphoneos-arm64e.deb
+Size: 180312
+MD5sum: 29a2f61d05be27f470ef95f13802d9e6
+SHA1: 4add758fa48342019ed7919d639ee3dfd2f3a327
+SHA256: 81b0d8300e771586dfbffac7819045f21359ca044a8cd7eb91a3e0ed1bbb8bd6
+SHA512: 4aa1f052fd7fa1cf3f01810e1a1a15d659f9d2f1635f4592481091378de6514b97ee1543417e4a6f926cc4e320327ecba3154ced6945e5e6b3743e9add6068b0
+Description: VPN、勿扰模式、手电筒打开时右上角显示对应的指示灯，基于开源重新编译，修复支持iOS15+无根/隐根越狱。
+Name: Indicators(roothide)
+Icon: https://sini921.github.io/repo/sileodepiction/icon/indicators.png
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/indicators/js.json
+Author: LacertosusDeus & SINI
+
 Package: com.sini921.kayokolite
 Architecture: iphoneos-arm64e
 Version: 4.3.3-6
@@ -1184,6 +1279,25 @@ Name: PSCamera(roothide)
 Author: PoomSmart & SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/pscamera.png
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/pscamera/js.json
+
+Package: com.sini921.quickappskill
+Architecture: iphoneos-arm64e
+Version: 0.0.1-14
+Section: 越狱插件
+Maintainer: SINI
+Installed-Size: 532
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.sini921.quickappskill_0.0.1-14_iphoneos-arm64e.deb
+Size: 137112
+MD5sum: 8f40791e945ed2965f471e93fd06723f
+SHA1: 9dc72d60705d7412b444f32f28bc06cf1ab79a72
+SHA256: 1f8562919ada2078ae7f005c2b18f6902615807903aff72e9b782d0d9d47d9d9
+SHA512: 736e009cf57f7fee5b4dc047d0cd07cd531b6f724843dea5efa5dcf771137dda4dde391ed49977024eee4da0ca3b92395129fd28ce17bd9abb39477e3da9d66d
+Description: 在后台界面添加一个清除所有App的按钮
+Name: QuickAppsKill(roothide)
+Icon: https://sini921.github.io/repo/sileodepiction/icon/quickappskill.png
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/quickappskill/js.json
+Author: SINI
 
 Package: com.sini921.quickpowerbutton
 Architecture: iphoneos-arm64e
@@ -1311,6 +1425,24 @@ Description: Telegram iOS 版的最佳调整工具
 Name: Lead
 Author: w3ltyyy
 Icon: https://github.com/Kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/Lead@2x.png?raw=true
+
+Package: com.wkk.afakerxi
+Architecture: iphoneos-arm64e
+Version: 1.0.3
+Section: Tweaks
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 212
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: debs/com.wkk.afakerxi_1.0.3_iphoneos-arm64e.deb
+Size: 29380
+MD5sum: d51f0c1f581ca84e6674682b15f68458
+SHA1: ec345562ffe34365bad5c4f9109eefb3160f05c9
+SHA256: cddb224890f8f13bc9dad660dd7aa7eaed37301fab028e6c4c41a67878e4aa79
+SHA512: 9bc4b1f76a8c385c39707a293b9829fec21fbab3fcd9c6c73958c5309962a4b264f32c1f42e7a304b28eb28aa637813d599dcef99c33c65177ccabceb3484a61
+Description: 伪装电量，步数修改。
+Name: AFakerXI
+Author: lenglengyu
+Icon: https://s1.imagehub.cc/images/2025/12/25/84d30bdfaeb41881309878d3cc6c574d.png
 
 Package: com.wkk.cctunneltap
 Architecture: iphoneos-arm64e
@@ -1473,6 +1605,25 @@ SHA512: ad50b25135d9ec342927845f5e65a0bac162d84f01f6e8b4ce7bf4ff9e5035677b7b4034
 Description: ...
 Name: sileo悬浮底栏
 Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
+Package: com.wkk.zaire
+Architecture: iphoneos-arm64e
+Version: 0.9.0
+Section: Tweaks
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: debs/com.wkk.zaire_0.9.0_iphoneos-arm64e.deb
+Size: 5906
+MD5sum: 0366b427dbcdefac2e8722d9816a91dc
+SHA1: 958ff92775907ec3813c3eae1e292e35e31a3f36
+SHA256: bf931b588db036ea600c7fd0432c27ace9e12886b120b7a52fd4bb9e053fec12
+SHA512: 541ccf9830c5337c89516d842a37c6700b50f5f7180d8021aef4f2a8d50ac2c417ae521fcd46fbb489d139033abadf76aaeee247a0c3760624027b73cb94d07d
+Description: 存储页面中右上角显示已安装的应用程序的数量。
+Name: Zaire
+Author: Luki
+Sponsor: ekk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 
 Package: com.xybp888.callassist16.dopamine.roothide
@@ -1722,6 +1873,24 @@ SHA512: 73368385ed7a718ebef1a150488dfbf63b31a23f2c444bd928a884df52322afe151247c5
 Description: 隐根越狱依赖插件。无根调整的兼容层。
 Name: rootless-compat
 Author: roothide
+
+Package: zp.stopshortcutsautomationnotif
+Architecture: iphoneos-arm64e
+Version: 1.0.1
+Section: Tweaks
+Maintainer: zqbb
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: debs/zp.stopshortcutsautomationnotif_1.0.1_iphoneos-arm64e.deb
+Size: 3494
+MD5sum: 8305b05ccc892109dedd3c78426cd0b8
+SHA1: 885977c11d63a9a6482b50f0414f9cbdf2f3754e
+SHA256: b3cd52808b3caef18bd62e84a4957cda6a01263cc9c863b18de0d6dedfbc54b7
+SHA512: 2e4e1748a6b97904b2cd4407b17cc7b712114d058daa130a36d86f51d52189e7ea61146d8e821506ca490e0ea65dcba023e1d21d915bf787cc788bd12540c44b
+Description: 屏蔽快捷指令自动化通知!
+Name: 屏蔽快捷指令自动化通知
+Author: zqbb
 
 Package: com.azzou.rounderls
 Architecture: iphoneos-arm64e
