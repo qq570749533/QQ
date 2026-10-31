@@ -55,6 +55,27 @@ Description: CocoaTop64 进程查看，基于真皮版定制：中文翻译+UI�
 Name: CocoaTop64 中文版(Relaxin)
 Author: Domo, SXX
 
+Package: com.lenglengyu.ghallownetwork
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Tweaks
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 152
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: mobilesubstrate
+Filename: debs/com.lenglengyu.ghallownetwork_0.0.1_iphoneos-arm64e.deb
+Size: 14530
+MD5sum: e2484f6130576d626dc1402a58c4d978
+SHA1: fc617d1bfd520721060b6b697cdccbcad3d6bf3f
+SHA256: 79486a9ceba669a6d931070f2136736fcce6e1a53bd8f979b0088b88ec4b285a
+SHA512: 016c21aa581c85df250b029cb1d37168c4e04cc315f4733f324f165a3ee6350a36376d9c5949cfb40dd1c3521d0250ffecc4157c066c342697262562c1446986
+Description: 国行手机自动允许使用网络。
+Name: Allow Network
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/ghallownetwork.html
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/ghallownetworksileo
+icon: https://huayuarc.github.io/icon/huayuarc.jpg
+
 Package: com.nan.enableccmutemodule
 Architecture: iphoneos-arm64e
 Version: 0.2.0
