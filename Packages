@@ -16,6 +16,46 @@ Description: CocoaTop64 进程查看，基于真皮版定制：中文翻译+UI�
 Name: CocoaTop64 中文版(Relaxin)
 Author: Domo, SXX
 
+Package: com.opa334.altlist
+Architecture: iphoneos-arm64e
+Version: 1.0.11
+Section: System
+Maintainer: opa334
+Installed-Size: 340
+Depends: firmware (>=7.0)
+Filename: debs/com.opa334.altlist_1.0.11_iphoneos-arm64e.deb
+Size: 58068
+MD5sum: 019eb5c535bfb7f42f2520e12e3ee414
+SHA1: 13d7ff7ea10e72ac6a2103cae272308c1a89e73b
+SHA256: b4ed82115b46d46140e1e14437df7d2f535d2e1c25d54967b803e32d43f5de4f
+SHA512: 65ceaaf8eed8f4697e293bfe86ea3674ac469cc7889ecbaf76f3dcbe308c5eb12f7b37d3912f7ef4f57fac7d108a5415f4c1d91532379356e5f9d86da0658bdd
+Description: 现代AppList替代品
+Tag: role::developer
+Name: AltList
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=altlistDp
+Author: opa334
+
+Package: com.opa334.ccsupport
+Architecture: iphoneos-arm64e
+Version: 1.3.13-2-15+debug
+Section: Tweaks
+Maintainer: opa334
+Installed-Size: 716
+Provides: com.ioscreatix.silo
+Depends: mobilesubstrate, firmware (>=11.0)
+Conflicts: com.ioscreatix.silo
+Replaces: com.ioscreatix.silo
+Filename: debs/com.opa334.ccsupport_1.3.13-2-15_debug_iphoneos-arm64e.deb
+Size: 161502
+MD5sum: 9c3b9f8d9bf6ab10de5f26db682dbf1a
+SHA1: 8f47b4a938b4e6d0f9286495444853426d0f57cb
+SHA256: 9e60ed1c3885e0fa643501b69ca95303515224bc41822dacd545e9bc77a3fd61
+SHA512: ff420af41216449e52787f40f973e3fdd2c38eefd5061fda98f8bb7dac255eaacefb952c7b521bc0517f5d792ed38e005318e5e495345c2129f5c737412ebe6a
+Description: 支持CC模块的调整！
+Name: CCSupport
+Author: opa334
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsupportDp
+
 Package: com.qq391160.cpucore
 Architecture: iphoneos-arm64e
 Version: 2.0.322
