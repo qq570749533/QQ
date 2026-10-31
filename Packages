@@ -85,12 +85,12 @@ Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altli
 Conflicts: codes.aurora.kayoko, dev.traurige.kayoko, com.82flex.kayoko
 Replaces: codes.aurora.kayoko, dev.traurige.kayoko, com.82flex.kayoko
 Filename: debs/com.zqbb.kayoko_4.3_iphoneos-arm64e.deb
-Size: 809524
-MD5sum: 9246e96c5e5fc7a41521739b8ca0adc5
-SHA1: b42c8ed00099856ececa08984a94af668bd21537
-SHA256: e520f845d0493a9fe19feb6d218312bcbe248c6581322877d5830440d5a22516
-SHA512: 14be755f11894a6318da085091fa950f3615f71429a7256162dafc5aa3ad6e30c8b89da886154f8d8fcb92b87e7410fe79685c48eaca8804f2b0f8b0e3c13f94
-Description: A smarter clipboard experience that stays close whenever you need it.
+Size: 714384
+MD5sum: cfc2b35230ad774a99b71e490c869ddf
+SHA1: a02291534e44c558ac3d0461da4ff74a56faa7c9
+SHA256: 0230aaf98d928ebed112e03a1b6434608aae093e6d8ee37afbbdd0a133e68a1b
+SHA512: e35555b45f2b475941e92136e5967abf94216e548dd004fe2c426e8d70cba55f824fe7846254472e016ea2a81ebdba33cd6587b34885af5fdfe5ebe4df69317e
+Description: 更智能的剪贴板体验，随时随地保持关闭状态。
 Name: Hello Kayoko
 Author: 82Flex, zqbb
 Icon: https://apt.002599.xyz/web/icon/com.zqbb.kayoko.png
