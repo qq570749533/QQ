@@ -407,6 +407,25 @@ Name: Swiftgram Crack
 Author: Netskao
 icon: https://huayuarc.github.io/icon/huayuarc.jpg
 
+Package: com.nx.stheno
+Architecture: iphoneos-arm64e
+Version: 2.0
+Section: Tweaks
+Maintainer: kanuo
+Installed-Size: 3676
+Depends: dev.theos.orion, firmware (>= 16.1)
+Filename: debs/com.nx.stheno_2.0_iphoneos-arm64e.deb
+Size: 1463002
+MD5sum: be26e571f44d10295915d489ad1577be
+SHA1: 08dd3c1cda535b4a1a2278452c95ea29967cd073
+SHA256: 0b74c6b4651673cf70ac8570af7ec0fb1d3b92ac19a9b43cb318f92abe20225d
+SHA512: 2a20ea17d6ecf6cf9967a0757c1238a4001ad891d33df5e70fa25f1ddebc314252d8c58a5d9ebd550e7ec08fc05004a3ac4d8a480d8df204f5e9a7b67a48f7d1
+Description: Stheno通过分类控件、应用程序图标和收藏夹栏直接进行Swift设置。
+Name: Stheno-去除验证版
+Author: kanuo
+Icon: https://jimkanuo.github.io/apt-repo/depictions/stheno/icon.png
+SileoDepiction: https://jimkanuo.github.io/apt-repo/depictions/com.nx.stheno.json
+
 Package: com.opa334.altlist
 Architecture: iphoneos-arm64e
 Version: 1.0.11
