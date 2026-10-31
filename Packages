@@ -95,7 +95,7 @@ Version: 1.0-1
 Section: 美化
 Maintainer: wkk
 Pre-Depends: rootless-compat(>= 0.9)
-Filename: debs/a_a_a_e_c_-1.0-1-iphoneos-arm64e.deb
+Filename: debs/a_a_a-1-iphoneos-arm64e.deb
 Size: 37880
 MD5sum: d4e61c73ddb101583729d3355eb123e6
 SHA1: e3264bdc476f5e93f59ae452beb29b506c34f308
