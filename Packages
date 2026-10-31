@@ -40,6 +40,29 @@ Author: qq391160（基于 mlgm 的 PullOver X）
 dev: mlgm
 Icon: https://mlgm66.github.io/icon/pullover.png
 
+Package: cn.octoforce.squidgesturepro
+Architecture: iphoneos-arm64e
+Version: 2.7.6K
+Section: Tweaks
+Maintainer: SquidForce, Backup
+Installed-Size: 6620
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
+Conflicts: com.lclrc.squidgesture, com.lclrc.squidgesturepro
+Filename: debs/乌贼手势.deb
+Size: 3570594
+MD5sum: 11210d98027966fae2a7b01641f7ebe6
+SHA1: 46914859334f238421f72024cd805b75b96806e5
+SHA256: 0f77f56d6fc94e3600a504b2e9002512baf952b87c2c0426cc135c410f248ea2
+SHA512: 242d164c43ab98162b8224f3c62492a76e4319c4dea145140950b153462449839380c7b424c72baff2384692da00cec2c32d12d9f753604166d60efc22973dcf
+Description: 一款手势增强插件。专业版支持将多项操作聚合到同一个手势，并以面板形式展示；后续还会支持动作流。
+ * 触发方式
+ * 底部边缘手势：逻辑和系统应用切换手势一致，根据滑动距离触发不同操作。
+ * 状态栏手势：单击、双击、长按、左滑、右滑。
+Name: SquidGesturePro
+Author: SquidForce, Backup
+icon: https://huayuarc.github.io/icon/SquidGesture@2x.png
+
 Package: cn.octoforce.squidextender
 Architecture: iphoneos-arm64e
 Version: 3.7.4K
