@@ -431,6 +431,44 @@ Name: PhotoX
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 
+Package: com.xybp888.callassist16.dopamine.roothide
+Architecture: iphoneos-arm64e
+Version: 3.3.2
+Priority: optional
+Section: Tweaks
+Maintainer: xybp888
+Depends: firmware (>= 16.0), preferenceloader, com.opa334.libsandy
+Filename: debs/com.xybp888.callassist16.dopamine.roothide_3.3.2_iphoneos-arm64e.deb
+Size: 7701868
+MD5sum: 039da17173201a1bc44864aee3978b32
+SHA1: b43f4c2c894404616afefc7896ee7c1a64793493
+SHA256: 725920bd85370ff7776c50f615696e906daef82d0084c59e6012a097293c2485
+SHA512: fe39c0ccaad01be00d6525da551a31a510a9a3f7cfe94d76c656cc8fcfc3c94ccdbd520c7709719cb256be0c63a1eed0d764c2d4d1ebe67b2c59a6f50392d742
+Description: 电话助手授权版本,通话录音,通话记录合并,T9双卡选卡拨号键盘,短信双卡选卡,来去电归属地,黑名单,骚扰拦截,状态栏图标替换,时间格式修改,常用小功能等强大插件
+Name: 电话助手iOS16-正式版(Roothide)
+Author: xybp888
+Depiction: https://apt.htv123.com/view/1115
+SileoDepiction: https://apt.htv123.com/sileo/1115
+
+Package: com.xybp888.perfectdynamiclsland.roothide
+Architecture: iphoneos-arm64e
+Version: 1.4.0
+Priority: optional
+Section: System
+Maintainer: xybp888
+Depends: firmware (>= 16.0), mobilesubstrate
+Filename: debs/com.xybp888.perfectdynamiclsland.roothide_1.4.0_iphoneos-arm64e.deb
+Size: 1814560
+MD5sum: f4903fdd41049e13c551f651264d3516
+SHA1: 803f00e27bcf29c0f4b59fbd80ab7acab69ed1f7
+SHA256: 2892a0d27523bde0a1874ed6f9f6139a4be18213c9ecaf57494c01610452dd09
+SHA512: 6e701f6b29517559b6ac655b168b4730a3812a6e567d48b69d419e5505226fc36c0b1e2ddb974a819d41a223222083a397161aff5909dd8ac128ab92bb705028
+Description: 完美的使用原生灵动岛展示系统通知等...
+Name: 灵动通知iOS16-正式版(RootHide)
+Author: xybp888
+Depiction: https://apt.htv123.com/view/999
+SileoDepiction: https://apt.htv123.com/sileo/999
+
 Package: com.zqbb.kayoko
 Architecture: iphoneos-arm64e
 Version: 4.3
