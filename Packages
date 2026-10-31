@@ -219,6 +219,43 @@ Description: 获取当前页面的视频并下载，仅Safari浏览器可用；�
 Name: PyVideo
 Author: crctdd
 
+Package: com.curtin.pkc.rootless
+Architecture: iphoneos-arm64e
+Version: 0.9-9-Beta2
+Priority: optional
+Section: PKC-插件
+Maintainer: curtinlv@126.com
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: debs/com.curtin.pkc.rootless_0.9-9-Beta2_iphoneos-arm64e.deb
+Size: 2519102
+MD5sum: 80f71ecb1f1a2a0f1b10e5afc9cf30e1
+SHA1: ed9516374852a0bd6cec36333112c6d040220106
+SHA256: 7431817de5a9702a68921306387b6c5554a1f94d2848b18cd73f8e9671281431
+SHA512: 56af8fb1012c24d741b798c85440a97e30378554b954d07f9057b4164b881e1e19336467d69095842d43200ef447416b543cd668ad3f98e5374af4bf463246e1
+Homepage: https://github.com/curtinlv
+Description: AI对话、AI聊天分析、AI朋友圈分析、AI图像生成、AI视频生成、群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
+Name: PKC
+Author: Curtin
+Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
+
+Package: com.dao.infuseplus
+Architecture: iphoneos-arm64e
+Version: 2.6
+Section: 嗨-工具
+Maintainer: dvntm
+Depends: mobilesubstrate
+Conflicts: com.dvntm.infuseplus
+Filename: debs/com.dao.infuseplus_2.6_iphoneos-arm64e.deb
+Size: 588394
+MD5sum: aff70e4505d7ae35776962767ee162f7
+SHA1: a874f7d8f4b7d49f3a460d2d1bfb6eb29b653cad
+SHA256: 039aaa8dcf50e3f29a14f607632a5f3360ed3873af3f89d6910de6cec0fb58e7
+SHA512: 5aed0b19f91f4ce6f4aac821c53f04d29604124aa3d1d796c0d33e8647d61ce679d57b350972d727ed54694751fc4d7164ab8e0b2f32e4de564158f18fba98ff
+Description: Infuse增强插件，开启Plus功能，新增更多实用功能。
+Name: Infuse Plus(RootHide)
+Author: dvntm
+
 Package: com.dao.neofreebird.bht
 Architecture: iphoneos-arm64e
 Version: 7.3.0+debug
@@ -292,6 +329,40 @@ Author: HuangBai <QQ:1343309363@qq.com>
 dev: HuangBai
 Sponsor: Mao
 Name: 黄白助手(微信娱乐插件)
+
+Package: com.huami.wcpulse
+Architecture: iphoneos-arm64e
+Version: 1.7-6
+Section: Tweaks
+Maintainer: huami
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.huami.wcpulse_1.7-6_iphoneos-arm64e.deb
+Size: 6426746
+MD5sum: 3b9c4263a7c4c22dbe3dce14669ebf42
+SHA1: ca28c9abcd42464f7dc955aa572c04611263c307
+SHA256: 24933a9401fa5059517f5855229f90bb80760391a252a50159c25fff42afa79f
+SHA512: af734d019cd280b3bdca0abdc7c59b88f908319f848ae5c2dfb9157482dcba5a228545e16d2f80c5be435722359fb485342889fe2a9249128a016a56cb0349f3
+Description: WCPulse
+Name: WCPulse
+Author: huami
+
+Package: com.huayuarc.sneakycam
+Architecture: iphoneos-arm64e
+Version: 2.2.5-1
+Section: Tweaks
+Maintainer: Huayuarc
+Installed-Size: 1424
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: debs/com.huayuarc.sneakycam_2.2.5-1_iphoneos-arm64e.deb
+Size: 263560
+MD5sum: a86570d775ffaf779e46a8e99d0c6a8b
+SHA1: 54e03e379758eaa7ba85b533b1b0387da7391cab
+SHA256: 2bf31f819feb2ed910a736178f6647a63caffc6db1b46abfb5f2ba6b6f7dd0b1
+SHA512: 695e873c9c686872e2a654da97d96a4a0f7cc2d26fd9e7eb7c674c92197027102311a25bbe1361b26988a00ad30e37b9be1ce482ee21b424bf9b6874116336f5
+Description: iOS 16原生SneakyCam为多巴胺无根和RootHide构建。 SneakyCam 是一款支持息屏状态使用拍照或录像的插件。即使在关闭屏幕的情况下，也能随时随地谨慎地拍照或录制视频。控制中心CC模块可一键启用/关闭。视频或者照片默认保存路径：/var/mobile/Media/Camera。
+Name: SneakyCam 隐私相机
+Author: Spark
+icon: https://huayuarc.github.io/icon/SneakyCam.png
 
 Package: com.iosdump.appdata
 Architecture: iphoneos-arm64e
@@ -386,6 +457,27 @@ Name: Fix Filza Path
 Author: zhaonan
 SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.fix-filza-path/js.json
 Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
+
+Package: com.netskao.ccquantumultxswitch
+Architecture: iphoneos-arm64e
+Version: 1.1-3
+Section: Tweaks
+Maintainer: Nets
+Installed-Size: 1144
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
+Filename: debs/com.netskao.ccquantumultxswitch_1.1-3_iphoneos-arm64e.deb
+Size: 949858
+MD5sum: f7a0bc7caafcde2c88c86f05d103fa18
+SHA1: 6524c680ff679b1ba9b37345440e12bb9242fab9
+SHA256: 248aaa4ee64e5d4d746648538fc1b0190d60bec776cb1472ab31458b113144f8
+SHA512: d7c8a8489963574999ca428d4b9df8425f527ed0a8ed72900e2cd226cedbe7ed5da7f68e0fd44ad3882ce84370e7039c58034c8a6648397ed66ca9a9e3adc296
+Description: 在控制中心添加 Quantumult X VPN 状态快速切换按钮
+SileoDepiction: https://jailrepo.initnil.com/api?Package=com.netskao.ccquantumultxswitch
+Name: CCQuantumultXSwitch
+Author: Netskao
+Markdowndescription: Add a quick toggle for Quantumult X VPN status in Control Center<br><br>• v1.1-3: Fixed potential icon status synchronization issues
+icon: https://huayuarc.github.io/icon/huayuarc.jpg
 
 Package: com.netskao.swiftgramcrack
 Architecture: iphoneos-arm64e
@@ -521,6 +613,23 @@ Name: libSandy
 Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libsandyDp
 Author: opa334
 
+Package: com.opa334.libundirect
+Architecture: iphoneos-arm64e
+Version: 1.1.6
+Section: 依赖插件
+Maintainer: opa334
+Installed-Size: 168
+Filename: debs/com.opa334.libundirect_1.1.6_iphoneos-arm64e.deb
+Size: 14626
+MD5sum: 200c75f6fc467620ba4267c1d6f73f57
+SHA1: 86d5833bd5cdc8def3fad272cf05e4ff793c1be1
+SHA256: 8d4fbff283e077d9fe1d8cf190a5b9a4d61116e8fdb90b05945d0a9084e0adc0
+SHA512: 12dbcc1d9cc40c3b770d0e4b1c2f1164862c295bdd1c6ca7be40cc4de6810568d5124529a13ff979ee64a473b2fdf908c5dfaf4dab1574cd2b5747714c6d8701
+Description: 隐根越狱依赖插件。
+Tag: role::developer
+Name: libundirect
+Author: opa334
+
 Package: com.qimiao.wcrefine
 Architecture: iphoneos-arm64e
 Version: 2.2-2beta1
@@ -654,6 +763,64 @@ Name: CCRespring
 Icon: https://sini921.github.io/repo/sileodepiction/icon/ccrespring.png
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/ccrespring/js.json
 Author: Mr.Zhang <mr_zhang_00@163.com>
+
+Package: com.sini.vitreux
+Architecture: iphoneos-arm64e
+Version: 1.3
+Section: Tweaks
+Maintainer: MTAC
+Installed-Size: 7028
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: debs/com.sini.vitreux_1.3_iphoneos-arm64e.deb
+Size: 287322
+MD5sum: 92aec2e88f9a67fa45323da0b5849d8a
+SHA1: 41dca124f993c15f2f0faa8ee295be51cfd9bbfa
+SHA256: ed8f912d349e00cdcdb0162e1202e7d3ea07b3bf5e0c759508f72c2ce7465329
+SHA512: 9c3a2c74e2900d627893954c5aec44fa06919f92d5fb6666cc99bd6bd5a50571234a8371f2ea65085982a00589696cb48da932cfc57de478b643ac5b5fddd539
+Description: 仿iOS26液态玻璃
+Name: Vitreux
+Icon: https://sini921.github.io/repo/sileodepiction/icon/vitreux.png
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/vitreux/js.json
+Author: MTAC
+
+Package: com.sini921.ccborder
+Architecture: iphoneos-arm64e
+Version: 1.1.2-44
+Section: 控制中心
+Maintainer: fiore & p2kdev & SINI
+Installed-Size: 1028
+Depends: mobilesubstrate, firmware (>= 16.0), com.opa334.libsandy
+Filename: debs/com.sini921.ccborder_1.1.2-44_iphoneos-arm64e.deb
+Size: 456480
+MD5sum: 56099ee718b243653b3e5a40dc3d5438
+SHA1: d7c3047167eb3dc6bf61ddb3e863a30961dd50c7
+SHA256: 9aaced3e3c211e3bfabf213208ca70765d5644f5f0815d7744c35e4ab50090d3
+SHA512: 12125e76a8ca0d7507772886e5b02483f822ce304c6e0c239590f49e195a3b5b7b470a9c6a421c5606ab99fc6960a5dbeef61c375d7300cfd26bcf488ec7fac3
+Description: 控制中心调整，基于开源修改编译，去掉了AlderisColorPicker依赖
+Name: CCBorder(roothide)
+Author: fiore & p2kdev & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/ccborder.png
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/ccborder/js.json
+
+Package: com.sini921.folderpro
+Architecture: iphoneos-arm64e
+Version: 0.0.1-39
+Section: 越狱插件
+Maintainer: SINI
+Installed-Size: 1524
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.sini921.folderpro_0.0.1-39_iphoneos-arm64e.deb
+Size: 1109178
+MD5sum: 6c9a6f2de4729207cf5c72ef8b9845d0
+SHA1: 0e072833c44446e2ae5a9d4b0fbabbd43a1c6153
+SHA256: df133856788ea861489a812993b66f751aeb45b5f1e7ccbbe31561920fcbc951
+SHA512: e44a6d8d881f7e4ac28f9e912c669be62f86fa071d861fde26f45ae8c1654b7271a7f63f67b854ff1eb097fb5951e8d50754ede81fdab9dd360231c38a0b3ac8
+Description: 文件夹简单优化
+Name: FolderPro(roothide)
+Author: SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/folderpro.png
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/folderpro/js.json
 
 Package: com.sini921.kayokolite
 Architecture: iphoneos-arm64e
@@ -799,6 +966,24 @@ Description: Telegram iOS 版的最佳调整工具
 Name: Lead
 Author: w3ltyyy
 Icon: https://github.com/Kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/Lead@2x.png?raw=true
+
+Package: com.wkk.cctunneltap
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: Tweaks
+Maintainer: fries
+Installed-Size: 148
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: debs/com.wkk.cctunneltap_1.0.0_iphoneos-arm64e.deb
+Size: 29010
+MD5sum: 9379598b45305b58df43232becae21e8
+SHA1: a6a4687aaf8a6276c893d96d6e6617a42dc90a2e
+SHA256: ce7a4d0c04b648997361d9de6dfb63874698bdf473e21e48dc238f3eba055a97
+SHA512: ee7b6a3e7c381a815a4d55daea178790a7864630487ac80e810999ad9ae216f55521b86e28a7c28a780d9cdfd98c37dcf95d31360cdec1533dfe333b200acc76
+Description: 控制中心启动快速小火箭。
+Name: CCTunnelTap
+Author: fries
+Icon: https://mieing.github.io/icon/CCTunnelTap.png
 
 Package: com.wkk.photox
 Architecture: iphoneos-arm64e
