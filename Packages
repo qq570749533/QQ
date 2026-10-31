@@ -82,3 +82,21 @@ Name: SquidExtender VH
 Author: SquidForce, Backup
 icon: https://huayuarc.github.io/icon/SquidExtender@2x.png
 
+Package: com.fiore.calculatorhistory
+Architecture: iphoneos-arm64e
+Version: 1.3
+Section: Tweaks
+Maintainer: fiore
+Installed-Size: 436
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: debs/计算器历史记录.deb
+Size: 56286
+MD5sum: fd29ff118a57efb33580a338cf90c5a4
+SHA1: 1ab43e0735bef28e01b3a6d84759a478146095cf
+SHA256: a28a4039f0fef9aee48adcab69ebe7993bc6324610500b303ba7ef712c170557
+SHA512: 32d53a9b20bba5c956fa9cc653ae1dc602465482745e10b9ece631032e965d412ba412c27dc5314abbe03c7b7c2e63747b7bc9a630953db49a36f213cff225cf
+Description: 计算器历史记录！
+Name: 计算器历史记录
+Author: fiore
+
