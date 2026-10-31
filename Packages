@@ -40,3 +40,22 @@ Author: qq391160（基于 mlgm 的 PullOver X）
 dev: mlgm
 Icon: https://mlgm66.github.io/icon/pullover.png
 
+Package: cn.octoforce.squidextender
+Architecture: iphoneos-arm64e
+Version: 3.7.4K
+Section: Tweaks
+Maintainer: SquidForce, Backup
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: com.squidforce.squidextender,cn.octoforce.squidextender
+Filename: debs/乌贼键盘.deb
+Size: 4928144
+MD5sum: 3c0004230ce66f4a45393a19727575f0
+SHA1: ae9408aeef0511f3afee4956242c90602d39daa0
+SHA256: 328783b07d942f8a1eb284775e25c1d7180467e4f83794d867b79626fc43f14a
+SHA512: ee75bd0d1e4e305d011482c51957d91c87a22716ad974521b7e20e6dea92f1228e45bc52da04aebff235288ca82c120aad0c5297c5b8036565d45877b2335110
+Description: 沉浸式、高度可自定义的键盘增强插件，会在键盘上方增加工具栏。
+Name: SquidExtender VH
+Author: SquidForce, Backup
+icon: https://huayuarc.github.io/icon/SquidExtender@2x.png
+
