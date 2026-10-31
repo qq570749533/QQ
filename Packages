@@ -58,6 +58,23 @@ Author: qq391160（基于 mlgm 的 PullOver X）
 dev: mlgm
 Icon: https://mlgm66.github.io/icon/pullover.png
 
+Package: com.unknown.notesreadonly
+Architecture: iphoneos-arm64e
+Version: 1.0.8
+Section: Tweaks
+Maintainer: unknown
+Installed-Size: 124
+Depends: firmware (>= 16.0), mobilesubstrate
+Filename: debs/com.unknown.notesreadonly_1.0.8_iphoneos-arm64e.deb
+Size: 20922
+MD5sum: 095cb29fe720aa21873c95100721c7a3
+SHA1: 253874aa8b39d7a476752da37dfff081b42dd200
+SHA256: 59390f1a72bcb315e3bd0e4639b9a8d7d74460fdb5efa8336e440988152504c1
+SHA512: bbdb975e9218f2726fed545f1ce0284580cc4c431e260deadf42195e14874ab0e18721c24269cc4b507833fd5a0fc01379c5ddf70333be31732a5fceb3b663db
+Description: 在备忘录 App 的右上角菜单里加一个只读开关。
+Name: 备忘录只读
+Author: unknown
+
 Package: com.zqbb.kayoko
 Architecture: iphoneos-arm64e
 Version: 4.3
