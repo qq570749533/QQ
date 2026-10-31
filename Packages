@@ -254,6 +254,24 @@ Author: zhaonan <invalidunit@icloud.com>
 SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.enableccmutemodule/js.json
 Icon: https://invalidunit.github.io/sileodepiction/com.nan.enableccmutemodule/image.png
 
+Package: com.nan.fix-filza-path
+Architecture: iphoneos-arm64e
+Version: 0.1.0
+Section: Addons
+Maintainer: zhaonan
+Depends: sed, plutil
+Filename: debs/com.nan.fix-filza-path_0.1.0_iphoneos-arm64e.deb
+Size: 2062
+MD5sum: 8b9f0abd2bb5a21af87e82c6b3d285b0
+SHA1: ce4bd8fba96bb8215ceee8de1eff928d0032016a
+SHA256: 7ce0cedb86e8e7d250a9542d38de50678e0b5d776f9848ab8c619698ac55e1f6
+SHA512: a676b4a671c13cec5ca3c8853fa10768b36b6c915ab4d53913f67059e83c6c12d20adc88d74f76bb443aeda987838be21201b62db00e5c98f989121ed1d8378d
+Description: 缓解 RootHide 下 Filza 经常重启后路径对不上的问题
+Name: Fix Filza Path
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.fix-filza-path/js.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
+
 Package: com.netskao.swiftgramcrack
 Architecture: iphoneos-arm64e
 Version: 1.1-7
@@ -723,6 +741,44 @@ Description: 隐根越狱依赖插件。
 Tag: role::developer
 Name: Orion (iOS 14-17)
 Author: Theos Team <theos@kabiroberai.com>
+
+Package: ellekit
+Architecture: iphoneos-arm64e
+Version: 1.2-3
+Priority: optional
+Section: Tweak Injection
+Maintainer: Dhinak G <dhinak@dhinak.net>
+Provides: mobilesubstrate (= 99), org.coolstar.libhooker (= 1.6.9)
+Conflicts: com.ex.substitute, org.coolstar.libhooker, science.xnu.substitute, mobilesubstrate, com.saurik.substrate.safemode
+Breaks: com.opa334.libsandy (<= 1.1.6-3)
+Replaces: com.ex.libsubstitute, org.coolstar.libhooker, mobilesubstrate
+Filename: debs/ellekit_1.2-3_iphoneos-arm64e.deb
+Size: 354280
+MD5sum: 11167e3663d0e8f40d11ddb18dcbc8fc
+SHA1: 8d000dd39b21b966173ed28c100cb7c8c11897f6
+SHA256: 1bdb87145a5f7b6da44dc3cd973b3317aeacad786b9be37e5c9dc0a61ba5eff6
+SHA512: 8d571714e8a7f4d9a6096ec9fa58ac05f598e445887d635514441af7d3e0d3589a89ebff0a354f2005d9f5581026fb5d38613954231eb5559628029670813594
+Description: ElleKit调整注射库和加载器
+Name: ElleKit
+Author: Evelyn
+Icon: https://ellekit.space/logos/logo.png
+
+Package: rootless-compat
+Architecture: iphoneos-arm64e
+Version: 2.0.1
+Section: 依赖插件
+Maintainer: roothide
+Installed-Size: 300
+Depends: com.roothide.patchloader (>= 0.0.4)
+Filename: debs/rootless-compat_2.0.1_iphoneos-arm64e.deb
+Size: 97318
+MD5sum: bf0c7dade3c579149f465ade77847b30
+SHA1: 87f88c3cd62213a5f50f855b3a9d765b9115bb31
+SHA256: 637a0275670fd0f58363bd92ba0b5bdef303791753631a18878053ab00976741
+SHA512: 73368385ed7a718ebef1a150488dfbf63b31a23f2c444bd928a884df52322afe151247c5d9ccfcda796b4e80bbec3344cec0d4f52bf6cf58091010550788cb43
+Description: 隐根越狱依赖插件。无根调整的兼容层。
+Name: rootless-compat
+Author: roothide
 
 Package: com.azzou.rounderls
 Architecture: iphoneos-arm64e
