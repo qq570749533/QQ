@@ -108,6 +108,23 @@ Description: 沿键盘轻扫可移动光标和选择文本。
 Name: SwipeSelection
 Author: Kyle Howells
 
+Package: com.crctdd.choicy-patch
+Architecture: iphoneos-arm64e
+Version: 0.0.2
+Section: Tweaks
+Maintainer: crctdd
+Installed-Size: 96
+Depends: firmware (>= 15.0), firmware (<< 18.0), mobilesubstrate, com.opa334.choicy (>= 1.4), com.opa334.altlist (>= 1.0.4)
+Filename: debs/com.crctdd.choicy-patch_0.0.2_iphoneos-arm64e.deb
+Size: 20592
+MD5sum: d52c939cfe48eff23f7e13787788bd7f
+SHA1: 96a8f3ddb4ebfdb433c7a0a14a610e993358f82d
+SHA256: 62ace86b1fc0999fb171971f3a0bf2d3b4af97d1b32271b15277e67f0371bd69
+SHA512: ccaa47d6e9ce271d932922865854b4157638fd9ca667b24e698cc8271d44d3e268b2b27b89944623680a10b396b5757ba5afde3622fea2169f725cc244e4e81e
+Description: 给Choicy增加已设置置顶 / 进程页面本地缓存。(支持iOS 15-17)
+Name: Choicy Patch
+Author: crctdd
+
 Package: com.iosdump.appdata
 Architecture: iphoneos-arm64e
 Version: 2.7.5
@@ -126,6 +143,24 @@ Description: 在主屏幕查看应用数据与管理应用
 Name: AppData
 Author: iosdump
 Icon: file:///Library/PreferenceBundles/AppDataPrefs.bundle/AppData@3x.png
+
+Package: com.iosdump.shellx
+Architecture: iphoneos-arm64e
+Version: 11.3
+Section: Tweaks
+Maintainer: iosdump
+Installed-Size: 11452
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.jontelang.snapper3, byg.iosios.net.snapper3, com.jontelang.snapper, com.jontelang.snapper2.packix, xyz.cypwn.snapperfr33, com.crctdd.sbtrim
+Filename: debs/com.iosdump.shellx_11.3_iphoneos-arm64e.deb
+Size: 5090946
+MD5sum: 5b1a338d44066def22bc34728eb5a063
+SHA1: e206537f71dff321502fe25d950dc795370a6bbc
+SHA256: 501717d244478727cb8e78381f8a71afeefdd0873b204d041696c18efff225a3
+SHA512: c5be5853e8b4786768b9609029f2fd1e29c8ebecc9ba64a5cecea3d26aaf3cd776f93c7de9b8f2166b86bc3b24e72f1f30fbb36f6b183efdbd5edf1d8a441f66
+Description: 支持录屏/截图套壳，水印以及区域截图、长截图、Ai问答、快捷手势等，兼容iOS14-17所有越狱
+Name: SHELLX
+Author: iosdump
 
 Package: com.lenglengyu.ghallownetwork
 Architecture: iphoneos-arm64e
@@ -225,6 +260,43 @@ Description: 支持CC模块的调整！
 Name: CCSupport
 Author: opa334
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsupportDp
+
+Package: com.opa334.choicy
+Architecture: iphoneos-arm64e
+Version: 1.5.4-3
+Section: 嗨-系统
+Maintainer: opa334 <opa334@protonmail.com>
+Installed-Size: 1108
+Depends: mobilesubstrate, com.opa334.altlist (>= 1.0.4), preferenceloader
+Conflicts: com.opa334.choicy
+Filename: debs/com.opa334.choicy_1.5.4-3_iphoneos-arm64e.deb
+Size: 316224
+MD5sum: 67e44548a8dd0bcbc1d09cd1cccb866a
+SHA1: e550e2948b24ea613c9a2d6c0c2451a2b9554251
+SHA256: a693ed874b8b844648ea93ef643a34549b455f450959313fe14cd8b0d21a07e5
+SHA512: 6194c22c6a2f0c960243d90fd6c48a9f53cce97655fc0c8eb2a9311ba8f55edcf66536a76caba522f0bbfeabd514f39f0b19bb941dcca91f1f1a2d16aba0b798
+Description: 高级插件注入管理工具，支持按进程及全局控制插件加载，并可通过快捷方式临时切换插件状态。
+Name: Choicy(RootHide)
+Author: opa334 <opa334@protonmail.com>
+
+Package: com.opa334.crane
+Architecture: iphoneos-arm64e
+Version: 1.3.17-2
+Section: Tweaks
+Maintainer: opa334
+Installed-Size: 3252
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>= 1.0.5), com.opa334.libsandy (>= 1.1.6), com.opa334.libundirect (>= 1.1.4) | firmware (<< 14.0)
+Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
+Filename: debs/com.opa334.crane_1.3.17-2_iphoneos-arm64e.deb
+Size: 1129954
+MD5sum: 69e89122e13bea7fc3bc6f106ea94dcc
+SHA1: d41f2195f35de2c27995ba6a7937ea34e271b75c
+SHA256: 41cb2d382d498e8b2db59fa5d0994cdd8652d52e270d91c684cbfc64b14dee96
+SHA512: ee7a8c916b9c0c42830641cd9d8d7324e5cfedfa9890a7f64c07c52c79fa2bd2b5fb241bd26ae2ba68c58c94ee0a7aeb12c523e24e10747c7eb2821ed15b5e76
+Description: 为您的应用程序提供多个容器！
+Name: Crane
+Author: opa334
 
 Package: com.opa334.libsandy
 Architecture: iphoneos-arm64e
