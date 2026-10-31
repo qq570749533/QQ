@@ -73,6 +73,23 @@ Name: 左滑返回-Roothide
 Author: Mao
 Sponsor: admin@25mao.com
 
+Package: com.82flex.removewidgetbg
+Architecture: iphoneos-arm64e
+Version: 2.1.1
+Section: Tweaks
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 404
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.altlist
+Filename: debs/com.82flex.removewidgetbg_2.1.1_iphoneos-arm64e.deb
+Size: 55476
+MD5sum: 0f19d4852dad9b6fefd2d9d6e9e88989
+SHA1: 2bfb2b9fea367f606b6796ef271d9c9593d39778
+SHA256: d85f0eb6c1fef4a17295077b9a357e61ee2f21b898589b229f48414bc29ebfed
+SHA512: 7264b9a834b6d1e791c11842ed92ccb4a52895b28c2531d0de40e6962c263264528589c214ca744fd71c6a1017a36e89e58d49384463ec3b08982197f38831a8
+Description: 删除主屏幕上小部件的背景。
+Name: Remove Widget Background
+Author: Lessica <82flex@gmail.com>
+
 Package: com.ali7assan.swipeselection.rootless
 Architecture: iphoneos-arm64e
 Version: 2.0
@@ -415,6 +432,25 @@ Name: Hello Kayoko
 Author: 82Flex, zqbb
 Icon: https://apt.002599.xyz/web/icon/com.zqbb.kayoko.png
 SileoDepiction: https://apt.002599.xyz/web/com.zqbb.kayoko
+
+Package: dev.theos.orion14
+Architecture: iphoneos-arm64e
+Version: 1.0.1-3+debug
+Section: 依赖插件
+Maintainer: Theos Team <theos@kabiroberai.com>
+Installed-Size: 1220
+Provides: dev.theos.orion (= 1.0.1-3+debug)
+Depends: firmware (>= 14.0), firmware (<< 18.0), mobilesubstrate (>= 0.9.5000)
+Filename: debs/dev.theos.orion14_1.0.1-3_debug_iphoneos-arm64e.deb
+Size: 447984
+MD5sum: a2a1d54e9415927f5c01656961812498
+SHA1: 96ffbd112081c788a360c549fe7c707f1631b27c
+SHA256: 93782355ed4fa192db6ac509811fa524e79ea85057e3c24875e5cb34c7fa07a1
+SHA512: 1819734b0a31ea0651754c969ceb687728ad225d0c839103fcfc140cb05fe4bb92cb897ea8b5e74c7625b8ab38df90dc63b18d288c75b4ec2d179e06548df35a
+Description: 隐根越狱依赖插件。
+Tag: role::developer
+Name: Orion (iOS 14-17)
+Author: Theos Team <theos@kabiroberai.com>
 
 Package: com.azzou.rounderls
 Architecture: iphoneos-arm64e
