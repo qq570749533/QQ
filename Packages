@@ -219,6 +219,42 @@ Description: 获取当前页面的视频并下载，仅Safari浏览器可用；�
 Name: PyVideo
 Author: crctdd
 
+Package: com.dao.neofreebird.bht
+Architecture: iphoneos-arm64e
+Version: 7.3.0+debug
+Section: 嗨-工具
+Maintainer: NeoFreeBird
+Installed-Size: 14128
+Depends: mobilesubstrate
+Conflicts: com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter, com.nfb.tweak
+Filename: debs/com.dao.neofreebird.bht_7.3.0_debug_iphoneos-arm64e.deb
+Size: 7781784
+MD5sum: 09fdea048de7a0d37d19dea4cde6c372
+SHA1: 80e680159d08619ad1bf2b4158ce252736e1948f
+SHA256: 39e2b1ff186a0cfd009240392dea495f631ccb8fc7fa8271e25e808c9319b57c
+SHA512: e2f7ecaabb335d515442897f2f5882b624a2340c8a1f3b980523d34bc919aef5e87610cbae22d303f2473cedfc6be09688f5f4f23da5065894466439f2208dc7
+Description: NeoFreeBird 推特增强插件。
+Name: NeoFreeBird(RootHide)
+Author: NeoFreeBird
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb/js.json
+
+Package: com.dao.ryukgram
+Architecture: iphoneos-arm64e
+Version: 1.5.1
+Section: 嗨-工具
+Maintainer: Ryuk
+Depends: mobilesubstrate
+Conflicts: com.faroukbmiled.ryukgram.legacy, com.faroukbmiled.ryukgram
+Filename: debs/com.dao.ryukgram_1.5.1_iphoneos-arm64e.deb
+Size: 33915536
+MD5sum: fd51c18ef0596e9bd7dd549b1f7ea7ec
+SHA1: 137af6a676e8830176c64c901e7e1370ac0e7fea
+SHA256: 06970203f7bcf4b76957891e9764be3d9582e7ef95a0620ecfe7ecb53545aa7d
+SHA512: 0771f325a2bbdda94dc1dd068f0a8d802ed94a9840a094421faaeeed71d5836c6f3f20ad58297448383fef1f2a6047278006b57755ecb7d8d177217278568a17
+Description: 功能丰富的 Instagram 增强插件，可以下载 1080p 等；插件入口：长按首页（🏠）按钮、或者长按个人页右上角"三"。
+Name: RyukGram(RootHide)
+Author: Ryuk
+
 Package: com.dao.ytkace
 Architecture: iphoneos-arm64e
 Version: 1.1.4
@@ -237,6 +273,25 @@ Description: YouTube 多功能插件，根据开源编译，刀刀补全翻译�
 Name: YTKACE(RootHide)
 Author: itzzace & daodao
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytkace/js.json
+
+Package: com.hbwechathelper.ailun
+Architecture: iphoneos-arm64e
+Version: 2.2.1
+Section: Tweaks
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: firmware (>= 7.0), mobilesubstrate
+Filename: debs/com.hbwechathelper.ailun_2.2.1_iphoneos-arm64e.deb
+Size: 15196440
+MD5sum: d1b146ac1d24613914344863dbfc48ad
+SHA1: a315be89bf9c96f5ce85d8d9901e5c0a8557219a
+SHA256: eaa7a8f00439fef9549cab4da8fa9a02114e65154d7701c89e6cbebe05234894
+SHA512: 0abe075a68b115bf13a3a1a8641560b5859de4acd32a09705e3f8c817a73fe4c4b57c79d889d1feb898c306f21297c5d98391327641bc7332055b7b0159c2522
+Description: 黄白助手-微信插件，点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况 Live 图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载 dylib 文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能
+Author: HuangBai <QQ:1343309363@qq.com>
+dev: HuangBai
+Sponsor: Mao
+Name: 黄白助手(微信娱乐插件)
 
 Package: com.iosdump.appdata
 Architecture: iphoneos-arm64e
@@ -902,6 +957,26 @@ SHA512: 65e8a612c5c8535a382a16445cd24071dabf061b3c6da612c8c567c4b787a28ec1f08d67
 Description: 刀刀补充汉化，并在插件列表左侧增加架构指示器(arm64e → 绿色、arm64 → 蓝色、arm → 橙色、all → 灰色)，可识别刀刀源内的 RootHidePatcher 中文版，也识别 UmbraPatcher，转换插件一条龙。
 Name: Sileo(RootHide)
 Author: Amy While
+
+Package: preferenceloader.top
+Architecture: iphoneos-arm64e
+Version: 2.2.8-2
+Section: System
+Maintainer: ProcursusTeam <support@procurs.us>
+Installed-Size: 340
+Provides: preferenceloader (= 2.2.6)
+Depends: mobilesubstrate
+Conflicts: preferenceloader, preferenceloader.rootless, preferenceloader.rootless.top
+Replaces: preferenceloader, preferenceloader.rootless, preferenceloader.rootless.top
+Filename: debs/preferenceloader.top_2.2.8-2_iphoneos-arm64e.deb
+Size: 39094
+MD5sum: 62d38d206424120e09df1f1ab2b36757
+SHA1: 5a4c7ace21052193c1f4c022c4d286fbdec84724
+SHA256: add3f0fe335a02e4013b3b2350785e8b2912ff16a01dfe218e5fdd3aa495d3ed
+SHA512: d2e9e4ee187a3c9fd4a71aebd769e38238dadf0e0a82089fbce556fd6554e3b68120dc9aa60dd360013fbf0b5e554210ceb4641f012d0ffd48f89a16943e2774
+Description: 加载样式偏好
+Author: Dhinak G <dhinak@dhinak.net>
+Name: PreferenceLoader (Top)
 
 Package: rootless-compat
 Architecture: iphoneos-arm64e
