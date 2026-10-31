@@ -37,6 +37,25 @@ Description: 自用
 Name: 抖音图层
 Author: 𝙓
 
+Package: cn.zqbb.hello.memorystatus
+Architecture: iphoneos-arm64e
+Version: 3.9.0-9
+Section: zqbb Tweaks
+Maintainer: zqbb
+Installed-Size: 13952
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, launchctl
+Filename: debs/cn.zqbb.hello.memorystatus_3.9.0-9_iphoneos-arm64e.deb
+Size: 7833658
+MD5sum: c12853e8e7acc8a3c8eca446ddf8f8db
+SHA1: f9eb9a133b582bc11c9a63dadf99dfa8c51632e2
+SHA256: dccc6bf9e32f8e4dfa0e4360bb8331698fe5d659f89ef2aee915cafa43f7e9ce
+SHA512: 35c13e74343e557c93a33872f2321b790564c51f085c79f59569d6ade935e8e155da1be8fbfaa6b51f1f67b6e1bd877ea0884e1cbf53e89e6ded2624c3c5d553
+Description: 设置memorystatus以避免被系统杀死
+Author: zqbb
+Name: Hello Memory Status
+Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.hello.memorystatus.png
+SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.hello.memorystatus
+
 Package: cn.dao.relaxin.cocoatop
 Architecture: iphoneos-arm64e
 Version: 2.3.3.1
