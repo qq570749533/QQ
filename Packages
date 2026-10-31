@@ -1,3 +1,58 @@
+Package: com.nan.disablesblockaftercrash
+Architecture: iphoneos-arm64e
+Version: 0.1.0
+Section: System
+Maintainer: zhaonan
+Pre-Depends: firmware (>= 7.0)
+Depends: plutil | com.bingner.plutil
+Filename: debs/Disable_SB_Lock_After_Crash-0.1.0-iphoneos-arm64e.deb
+Size: 1232
+MD5sum: b6496220bedd88533273432210e08668
+SHA1: 79a12da1cca20bccbc006cae553a4f9c9f9c1e89
+SHA256: 5c6b8be1d3854cd280879befec34a02be3271b60a284e9f3c9d30b6417f597e9
+SHA512: 2edb0a607204dbc744659791c712334b760aabcc4631845fd8211b10d7c14383819c76a3d32ff7d9dd9219aa55ebff9684abca7abce66f2ab679517294a82db0
+Description: 禁用 SpringBoard 崩溃后自动锁定的策略
+Name: Disable SB Lock After Crash
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.disablesblockaftercrash/js.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
+
+Package: com.nan.miic
+Architecture: iphoneos-arm64e
+Version: 0.1.0
+Section: System
+Maintainer: zhaonan
+Depends: coreutils
+Filename: debs/Move_Icon_Image_Cache-0.1.0-iphoneos-arm64e.deb
+Size: 1152
+MD5sum: e23a394d69f7c9c62095372f4c531d26
+SHA1: bd10a3178f8afed0f255f3310299f3da132a8ac8
+SHA256: 9be01c2244fd5a0486dc982984d8f5cc23564c6e0ff28ff53e7e6aef42b99c7c
+SHA512: 75307b08307c735830ec1ab0a3effdc46501c1bb411c91e84f504a5f2c80a97520e11520a1b92d85ab0658691067d9f7e2542c6d3fecd1a7c9d9ce5e6521adc4
+Description: 将系统图标图片缓存文件夹指向 /tmp 达到每次重启时清空缓存的目的，可能可以解决异常缓存造成的不好影响？
+Name: Move Icon Image Cache
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.miic/js.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
+
+Package: com.nan.realitytmp
+Architecture: iphoneos-arm64e
+Version: 0.3.3-1
+Section: Addons
+Maintainer: zhaonan
+Depends: coreutils, gawk, grep, system-cmds, file-cmds, text-cmds
+Filename: debs/Reality_tmp-0.3.3-1-iphoneos-arm64e.deb
+Size: 2488
+MD5sum: 3f0825d485c592ea43fe648fa198ec32
+SHA1: 6ef10f676c28faa236f8fee0e08e7d1ef3c7b621
+SHA256: 8f128ea18482ca1993520387670541b6fe5dc67fb7b82f348a7cc1c6847da0db
+SHA512: 75c986283890a44d3f549354a58fa79c09ec9920f8c73b94f8a31cbd0cbef192de22d4375c15e8d000f693a6043ea09ff0f0447a9068d067c532d86a46651147
+Description: 将 jb tmp 放在 /tmp 以防止越来越多的缓存垃圾
+Name: Reality tmp
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.realitytmp/js.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
+
 Package: awej
 Architecture: iphoneos-arm64e
 Version: 1.2.0
@@ -37,6 +92,23 @@ Description: 自用
 Name: 抖音图层
 Author: 𝙓
 
+Package: cn.llld.avphotos
+Architecture: iphoneos-arm64e
+Version: 1.0.1
+Section: Tweaks
+Maintainer: 来了老弟
+Depends: firmware (>=14.0), mobilesubstrate
+Filename: debs/cn.llld.avphotos_1.0.1_iphoneos-arm64e.deb
+Size: 7840
+MD5sum: d79a673c340048b70833307e1909cb88
+SHA1: db6200212e6fc45f18d663b4d6d0e7ed4252d4b1
+SHA256: 2f5a5b4777549c45e2cbe553c9c999a7a4f990cb3b46a98ee53a4939adc0bdd9
+SHA512: 113e613e9761c7fa8a7af6f630ff0fb65478128a32f304be2fce916308686dd652ee02ccc8970e0b75cb5b123ddd936e1827922e61e8c88edb3efd75aaed1573
+Description: 在相册中播放照片视频可以画中画效果！
+Name: AVPhotos照片视频画中画
+Author: MiRO 来了老弟
+Icon: https://huayuarc.github.io/icon/avphotos.jpg
+
 Package: cn.zqbb.hello.memorystatus
 Architecture: iphoneos-arm64e
 Version: 3.9.0-9
@@ -74,6 +146,26 @@ Name: RootHide Inject Manager
 Author: zqbb, roothide
 Icon: https://apt.002599.xyz/web/icon/cn.zqbb.inject.manager
 SileoDepiction: https://apt.002599.xyz/web/cn.zqbb.inject.manager
+
+Package: cn.zqbb.stopautolaunchapps
+Architecture: iphoneos-arm64e
+Version: 2.5
+Section: zqbb Tweaks
+Maintainer: zqbb
+Installed-Size: 1120
+Depends: mobilesubstrate (>= 0.9.5000) , firmware (>= 15.0)
+Conflicts: zp.stopautolaunchapps
+Filename: debs/cn.zqbb.stopautolaunchapps_2.5_iphoneos-arm64e.deb
+Size: 466134
+MD5sum: 96ca6fa29889ce3deebaeb9ce9d8cb5f
+SHA1: 79783a1850b7cbb88713ced875ea7c189a544655
+SHA256: cb5b35a96d7a36704382aa592d4d35c1cd05e0c553bc9545cd3fa95ebb45b7a8
+SHA512: 02c947ad7303777b5564414d39f5dff1b4217dfe151aeb362a8e8e1cb3061ff316c3cd305fe8f2c9bde4c1d902828d5fce3950a4ad272b028764962a638f1f01
+Description: 别在后台热加载app咯! 
+ - 优点:节约内存,少杀后台.
+Author: zqbb
+Name: Hello 3Q
+SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.stopautolaunchapps
 
 Package: cn.dao.relaxin.cocoatop
 Architecture: iphoneos-arm64e
@@ -1080,6 +1172,24 @@ Description: 隐根越狱依赖插件。
 Tag: role::developer
 Name: Orion (iOS 14-17)
 Author: Theos Team <theos@kabiroberai.com>
+
+Package: com.nan.dpkg-fill
+Architecture: iphoneos-arm64e
+Version: 0.3.8
+Section: Terminal_Support
+Maintainer: zhaonan
+Depends: firmware (>= 11.0), sed, coreutils, lsof
+Filename: debs/dpkg-fill-0.3.8-iphoneos-arm64e.deb
+Size: 2036
+MD5sum: 517af14d0cbccc9f2137b15024657dbe
+SHA1: d007d70acb72a09898d1b21a44001cbe88b6680b
+SHA256: 81fa1b2fd2d6aafba7e20d6c68a1a6cba81a4383fe6a08df635cd54b0ca4d580
+SHA512: e52a9c76796c1f18245278748461734569fc376daa302dee1b140b487c5ca8e4c147bc05b041393fac23855e7a5bb0bc7c2ebd64691333d3c78896269d9fcf01
+Description: 修补因缺少维护者和描述的报错信息
+Name: dpkg-fill
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.dpkg-fill/js.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_terminal.png
 
 Package: ellekit
 Architecture: iphoneos-arm64e
