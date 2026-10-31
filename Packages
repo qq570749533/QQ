@@ -108,6 +108,23 @@ Description: 沿键盘轻扫可移动光标和选择文本。
 Name: SwipeSelection
 Author: Kyle Howells
 
+Package: com.crctdd.autocopyverify
+Architecture: iphoneos-arm64e
+Version: 0.0.5
+Section: Tweaks
+Maintainer: crctdd
+Installed-Size: 740
+Depends: mobilesubstrate, firmware (>= 15.0), firmware (<< 18.0)
+Filename: debs/com.crctdd.autocopyverify_0.0.5_iphoneos-arm64e.deb
+Size: 345474
+MD5sum: 496128ef307bae29fada2f1d21357de3
+SHA1: f1efc8d81fba57f6344465be0336634b78c6a375
+SHA256: 8586caa68a94dbfaa2290ed76b4091bce2e8440c488f0ec609992eb5e9314bd7
+SHA512: 09739ac1865159a6585939709b60e9c5b23d6d6377ed0666ae60c3e5fc8bfb96dfec60ef46083d6f3d73f813ec6766359cb7c517a9ef57e381d0df177940963a
+Description: 自动复制短信、系统邮件、部分主流第三方邮件的验证码到剪切板，第三方邮件只能从临时通知框内获取，获取不到则无法复制；无设置项。（支持iOS 15-17）
+Name: Auto Copy Verify
+Author: crctdd
+
 Package: com.crctdd.choicy-patch
 Architecture: iphoneos-arm64e
 Version: 0.0.2
@@ -374,6 +391,24 @@ Description: RootHide动态补丁加载器
 Tag: role::developer
 Name: PatchLoader
 Author: roothide
+
+Package: com.sini.autoscroll15
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: Tweaks
+Maintainer: CyPwn
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: mobilesubstrate
+Filename: debs/com.sini.autoscroll15_1.0.0_iphoneos-arm64e.deb
+Size: 10686
+MD5sum: f65de280c344ec319d0275d4597daaaa
+SHA1: e7bc72acede7620ddbbf9b135697ad6671e5bc89
+SHA256: 7075159f520928a056f179f7adf6f2f34f5767b709ecd6af60888579eac57514
+SHA512: 8e6dc58480fe7f7bbd56000174b731fd51382d32b87e0c707dae4212504a8f96f19019ec1e86cb1fa2e93a8567ecd4b56d75fbb1cb11f40476a4b80b809643ac
+Description: 只需滑一下即可不停的一直滑，手终于可以闲下来去打了
+Name: AutoScroll
+Author: pxcex
+icon: https://sini921.github.io/repo/sileodepiction/icon/auto.png
 
 Package: com.sini.ccrespring
 Architecture: iphoneos-arm64e
