@@ -172,6 +172,25 @@ Tag: role::developer
 Name: PatchLoader
 Author: roothide
 
+Package: com.sini.ccrespring
+Architecture: iphoneos-arm64e
+Version: 2.0.0-1
+Section: Tweaks
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Installed-Size: 192
+Depends: com.opa334.ccsupport
+Filename: debs/com.sini.ccrespring_2.0.0-1_iphoneos-arm64e.deb
+Size: 32280
+MD5sum: 4a25c707fda925ef5bce00dc0921bde7
+SHA1: b4e88a8cd0145e2dfc49cbdb9e9ac28b69477b60
+SHA256: c50772b170a1734949de5fea3412e8b71ac939b7e919c7108c5703878f03c52e
+SHA512: a6aec46bbb44a155a45580e4937a6914b234ad9592751ae64a7d73733bef7432d13eb3a7b16c363d2d2d7d1b7a50fe0d3431a49d54bdddd9d78e671060a12451
+Description: 控制中心注销模块
+Name: CCRespring
+Icon: https://sini921.github.io/repo/sileodepiction/icon/ccrespring.png
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/ccrespring/js.json
+Author: Mr.Zhang <mr_zhang_00@163.com>
+
 Package: com.unknown.notesreadonly
 Architecture: iphoneos-arm64e
 Version: 1.0.8
