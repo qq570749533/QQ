@@ -394,6 +394,25 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/ccrespring.png
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/ccrespring/js.json
 Author: Mr.Zhang <mr_zhang_00@163.com>
 
+Package: com.sini921.kayokolite
+Architecture: iphoneos-arm64e
+Version: 4.3.3-6
+Section: 越狱插件
+Maintainer: SINI
+Installed-Size: 3044
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: debs/com.sini921.kayokolite_4.3.3-6_iphoneos-arm64e.deb
+Size: 1805878
+MD5sum: 92bc2db03db204a9fcf971e3820c66f3
+SHA1: f74bdd25a50527938245560ad08337b808960674
+SHA256: 5b7a0e5576a0805d93da71f5e2377efc9ea73a405327882adbe081744715b138
+SHA512: 58a752fd5081da58fa39f4d3a67b0aa27488ec0670c218b292f1c6e13d7d320695c38cbd09e5686f59aff595a00a058ced3fe6c02d951868979c4f7aafa7eab5
+Description: 基于82Flex的Kayoko开源项目重新修改编译
+Name: KayokoLite(roothide)
+Author: SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/kayokolite.png
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/kayokolite/js.json
+
 Package: com.sini921.lockscreenhelper
 Architecture: iphoneos-arm64e
 Version: 0.0.1-19
