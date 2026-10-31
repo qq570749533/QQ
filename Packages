@@ -401,12 +401,12 @@ Section: System
 Maintainer: roothide
 Installed-Size: 132
 Filename: debs/com.roothide.patchloader_0.0.8_iphoneos-arm64e.deb
-Size: 8350
-MD5sum: 77b53b86bda6a510c4a389474451915a
-SHA1: 9ad334c56b4a8a7872c0245b04da306dcf900809
-SHA256: 5daee347de2a2b13b2ba472117059bf94cc2fd44c024a2ad6158b4226d8db112
-SHA512: b31bb4076163c5cc6e69e929dc85d60d8bc3303ff65a382960826a0e77ce349929f58b4e17456a5361316c83b55aa3a7e09c132106ffa9e7196aac99292fb6a1
-Description: RootHide动态补丁加载器
+Size: 8386
+MD5sum: 425dc4d7a7b5e2bf7a92031837411d52
+SHA1: 6b76409e1324056692612b546831cc3967dc1ed2
+SHA256: f4fd43b35f74c8263ddb281ef0e9e8bb9d6200f0c0335d82589fdfc293400248
+SHA512: b9d50bad9f87b3619638a85de9f2c17b5837e2270f2106d3d26e8ba27997ea45a148277347038c7ae1afc00a9e6885fc9eca9fc87af7952a91c2a441395f8201
+Description: RootHide 动态补丁加载器
 Tag: role::developer
 Name: PatchLoader
 Author: roothide
