@@ -17,6 +17,23 @@ Author: zhaonan
 SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.disablesblockaftercrash/js.json
 Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
 
+Package: com.roothide.lockdown
+Architecture: iphoneos-arm64e
+Version: 2.0
+Section: Tweaks
+Maintainer: roothide
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/Lockdown-Roothide-2.0-iphoneos-arm64e.deb
+Size: 5412
+MD5sum: 7a947eb00eeb7522ddf166627ac63fc8
+SHA1: 4ab8a00cc2e11a8e4f35858ea0f910b79a5f97ec
+SHA256: 2aeb212e6ac09e14c269126966442031903074de5d7e55c6f37e21d2d084151b
+SHA512: 90e612ab37235165a13923d26e40bf10f031092aa03d1f39701b3de2450691410c96e623c5f748c2ea164d63b291d6df2c664f913fab7f5e954bdcbd9982f55c
+Description: 让你的设备免受DarkSword/Coruna漏洞攻击。WebContent流程的JSC安全强化。配置JavaScriptCore选项，以消除漏洞原语（addrof/fakeobj、JIT类型混淆、GC UAF）。默认启用！
+Name: Lockdown-Roothide
+Author: roothide
+
 Package: com.nan.miic
 Architecture: iphoneos-arm64e
 Version: 0.1.0
@@ -895,6 +912,25 @@ Author: fiore & p2kdev & SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/ccborder.png
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/ccborder/js.json
 
+Package: com.sini921.ersatz
+Architecture: iphoneos-arm64e
+Version: 1.0.1-2
+Section: 越狱插件
+Maintainer: Skitty & SINI
+Installed-Size: 408
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.sini921.ersatz_1.0.1-2_iphoneos-arm64e.deb
+Size: 69004
+MD5sum: 2ddf900b1fb421becc59aa9c0401738f
+SHA1: c2cc231c9203cd8c478f9c25a7a6c0a5fbb39892
+SHA256: 0139ab7cf35a60a819c789b9a1f17c08941a10f719f9544e6eb7c5db7d7d75cc
+SHA512: b8aa1db8ce7ca67c0a4f61da99fbfbe156e3d74f0fa1522bd690e7a766c8969bb0c8ead56506a71e54cc77cb8c6f5c40401bbb5ac475fe16767feea62996b972
+Description: 替换系统范围内的任何文本！基于开源直接编译适配roothide。
+Name: Ersatz(roothide)
+Icon: https://sini921.github.io/repo/sileodepiction/icon/ersatz.png
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/ersatz/js.json
+Author: Skitty & SINI
+
 Package: com.sini921.folderpro
 Architecture: iphoneos-arm64e
 Version: 0.0.1-39
@@ -989,6 +1025,28 @@ Name: QuickPowerButton(roothide)
 Icon: https://sini921.github.io/repo/sileodepiction/icon/quickpowerbutton.png
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/quickpowerbutton/js.json
 Author: SINI
+
+Package: com.squidforce.hidenotificationbadges
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Tweaks
+Maintainer: SquidForce
+Installed-Size: 168
+Provides: com.squidforce.hidenotificationbadge
+Pre-Depends: rootless-compat(>= 0.9)
+Conflicts: com.squidforce.hidenotificationbadge
+Replaces: com.squidforce.hidenotificationbadge
+Filename: debs/com.squidforce.hidenotificationbadges_0.0.1_iphoneos-arm64e.deb
+Size: 2922
+MD5sum: ac6fa4981ff1e2477057c53f67408d6b
+SHA1: 7d17d3fbdddc9662b52205df722c823c101b0881
+SHA256: 6c41df55cf8de26df4a3da70fc5198aa172aa846f2c37a7980a742ce4f1c6d62
+SHA512: 073a4fc21eab5615c806b1e585295aac36e4316ae3cab176eb3bc94ea93416c8ba9d36bde4d20f582857143a91e5f35b98f12e8c10fd6d6c1db597ea95e46f76
+Description: 隐藏推送通知图标右下角标
+Name: 隐藏通知图标右下角标
+Author: SquidForce
+icon: https://TrollStoreX.Github.io/sileodepiction/HideNotificationBadge/icon.png
+SileoDepiction: https://TrollStoreX.Github.io/sileodepiction/HideNotificationBadge/js.json
 
 Package: com.storeswitcher.appstore
 Architecture: iphoneos-arm64e
