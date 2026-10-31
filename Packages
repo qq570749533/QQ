@@ -377,6 +377,24 @@ Name: Lead
 Author: w3ltyyy
 Icon: https://github.com/Kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/Lead@2x.png?raw=true
 
+Package: com.wkk.photox
+Architecture: iphoneos-arm64e
+Version: 1.0-2
+Section: Tweaks
+Maintainer: wkk
+Installed-Size: 356
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: debs/com.wkk.photox_1.0-2_iphoneos-arm64e.deb
+Size: 41200
+MD5sum: 329a41e1203393b80ffa914f6f34936c
+SHA1: 668523e880185e20f9450d25e47857c7d9b83493
+SHA256: ff87e631cec5c20c238bd5802379ed1393bc7aa0787f0293f4233aa738a139ec
+SHA512: 91caeeeccdb48dd12f4e1f0a8eee14101ac7655c48b7fdba3daa7822070989e67b01bc0452fe4de65c503a3a26cdeb7c6b4adc387a473737d6f28f1e37f961ad
+Description: 相册优化。
+Name: PhotoX
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
 Package: com.zqbb.kayoko
 Architecture: iphoneos-arm64e
 Version: 4.3
