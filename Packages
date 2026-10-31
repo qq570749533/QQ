@@ -94,6 +94,26 @@ Author: zhaonan <invalidunit@icloud.com>
 SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.enableccmutemodule/js.json
 Icon: https://invalidunit.github.io/sileodepiction/com.nan.enableccmutemodule/image.png
 
+Package: com.netskao.swiftgramcrack
+Architecture: iphoneos-arm64e
+Version: 1.1-7
+Section: Tweaks
+Maintainer: Nets
+Installed-Size: 1080
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: firmware (>= 13.0), mobilesubstrate
+Filename: debs/com.netskao.swiftgramcrack_1.1-7_iphoneos-arm64e.deb
+Size: 723152
+MD5sum: c7f03d488257a33736e7fc5309036588
+SHA1: 61d65eef915a61eb9e193777eda230d55de4a9eb
+SHA256: 533e710d9821a01d1cc5292edf0ea2d1a4eb4f74060ff46c6a31c06d8eb3a864
+SHA512: 74113691dd52339e1a8ca36bad9d8d1f02208ab0cc96d62fbead65fb4ce754944844c5a3af364ba05945b14e3ebfedd7306e60696d56a6a6ecc921b03c989f1b
+Description: Swiftgram Pro. 附加解除下载保护/解除截图保护/去除官方广告, 支持当前最新版12.2(解锁Pro首次登录需重启一次应用)
+SileoDepiction: https://jailrepo.initnil.com/api?Package=com.netskao.swiftgramcrack
+Name: Swiftgram Crack
+Author: Netskao
+icon: https://huayuarc.github.io/icon/huayuarc.jpg
+
 Package: com.opa334.altlist
 Architecture: iphoneos-arm64e
 Version: 1.0.11
@@ -229,6 +249,25 @@ Name: CCRespring
 Icon: https://sini921.github.io/repo/sileodepiction/icon/ccrespring.png
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/ccrespring/js.json
 Author: Mr.Zhang <mr_zhang_00@163.com>
+
+Package: com.sini921.pscamera
+Architecture: iphoneos-arm64e
+Version: 0.0.1-5
+Section: 越狱插件
+Maintainer: PoomSmart & SINI
+Installed-Size: 600
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.sini921.pscamera_0.0.1-5_iphoneos-arm64e.deb
+Size: 248678
+MD5sum: bb6f90c3c4f3355eb9d9c773b9c58ce8
+SHA1: 3ee5c7bf1f8c4b39083a12bde01b70b9607fdcdd
+SHA256: 3ba522f7bf8c1f12013d02317d0a3c443f1ba5920afc96c2a99c9298ce3e0797
+SHA512: 1a87db7738edd2d55c8b337765780747a1f073d8364db58623eeb861468a4842697a24d13db3f754fe0d74679dd02673f1a6cdb8614bd38ca7d19b867a10631c
+Description: 系统相机App简单优化，使用了一些PoomSmart的开源代码
+Name: PSCamera(roothide)
+Author: PoomSmart & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/pscamera.png
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/pscamera/js.json
 
 Package: com.sini921.quickpowerbutton
 Architecture: iphoneos-arm64e
