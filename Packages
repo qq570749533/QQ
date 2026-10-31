@@ -56,6 +56,25 @@ Name: Hello Memory Status
 Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.hello.memorystatus.png
 SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.hello.memorystatus
 
+Package: cn.zqbb.inject.manager
+Architecture: iphoneos-arm64e
+Version: 3.3.0-1
+Section: System
+Maintainer: zqbb
+Installed-Size: 928
+Depends: firmware (>= 15.0)
+Filename: debs/cn.zqbb.inject.manager_3.3.0-1_iphoneos-arm64e.deb
+Size: 579370
+MD5sum: 001ef759d891ce65a3b8af6d4f3f1437
+SHA1: 54e9ed26107aa7b75a25d9c697cb4a5274a4b906
+SHA256: 92353e2663d7f3fb5eb992c137beea64cfbcce4c9254a5b8e33df404f2532b56
+SHA512: 2816b1e0da7ab5cabfedf9bad38b0183ea2e75c6ca6de97a5563b2493373b6ef5e8147260489b4440170c83420f420a0b36aab3fe244daaefd7ebe9e7d19ab4a
+Description: 配置RootHide的功能
+Name: RootHide Inject Manager
+Author: zqbb, roothide
+Icon: https://apt.002599.xyz/web/icon/cn.zqbb.inject.manager
+SileoDepiction: https://apt.002599.xyz/web/cn.zqbb.inject.manager
+
 Package: cn.dao.relaxin.cocoatop
 Architecture: iphoneos-arm64e
 Version: 2.3.3.1
@@ -177,6 +196,47 @@ SHA512: ccaa47d6e9ce271d932922865854b4157638fd9ca667b24e698cc8271d44d3e268b2b27b
 Description: 给Choicy增加已设置置顶 / 进程页面本地缓存。(支持iOS 15-17)
 Name: Choicy Patch
 Author: crctdd
+
+Package: com.crctdd.pyvideo
+Architecture: iphoneos-arm64e
+Version: 0.0.3
+Section: Tweaks
+Maintainer: crctdd
+Installed-Size: 2968
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy (>= 1.1.6)
+Filename: debs/com.crctdd.pyvideo_0.0.3_iphoneos-arm64e.deb
+Size: 1797184
+MD5sum: e6cbed544cbfb01ab7a8e2f7322d4489
+SHA1: 4ef1f454af534458561956d5279510ddb8adceae
+SHA256: 6a086cca87456bc58c8000d5e54b5b37ba98877c5f96e37c7c873debdee45341
+SHA512: b61b7b5da5568ae2ab82c6a640141eb055c0de2fa560dcefce3c744fd04705d27374f8ca2c1f86c17164f1246281ea59e5d0004b2341563aa697da37e497098e
+Description: 获取当前页面的视频并下载，仅Safari浏览器可用；无设置项。（支持iOS 15-17）\
+ \
+ 长按Safari右下角菜单键 或者\
+ ↓使用以下URL Scheme触发↓\
+ \
+ pyvideo://video-downloader
+Name: PyVideo
+Author: crctdd
+
+Package: com.dao.ytkace
+Architecture: iphoneos-arm64e
+Version: 1.1.4
+Section: 嗨-工具
+Maintainer: daodao
+Installed-Size: 6256
+Depends: mobilesubstrate, firmware (>= 15.0)
+Conflicts: com.itzzace.ytkace
+Filename: debs/com.dao.ytkace_1.1.4_iphoneos-arm64e.deb
+Size: 4072320
+MD5sum: 44f348025b133ad60221ec8e705442ab
+SHA1: 07e63a731eaebdb836c734b84f311e16a25ee01e
+SHA256: da50442f7179ac84d52617695774555f5dfe4fdeb898ca8019e687cd89adc717
+SHA512: 7a18f34226ccfd8565ec4aa38c8d7647a2714619903374e2769432267c0df6a7670efba33d1409a6c3c8e2632382cf74d68782e6a95fabc1819546cd8e402231
+Description: YouTube 多功能插件，根据开源编译，刀刀补全翻译，并优化部分功能。
+Name: YTKACE(RootHide)
+Author: itzzace & daodao
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytkace/js.json
 
 Package: com.iosdump.appdata
 Architecture: iphoneos-arm64e
@@ -386,6 +446,26 @@ Tag: role::developer
 Name: libSandy
 Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libsandyDp
 Author: opa334
+
+Package: com.qimiao.wcrefine
+Architecture: iphoneos-arm64e
+Version: 2.2-2beta1
+Priority: optional
+Section: Tweaks
+Maintainer: 热心网友
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: debs/com.qimiao.wcrefine_2.2-2beta1_iphoneos-arm64e.deb
+Size: 17855280
+MD5sum: c3435dc82f98e44febba587f37f84145
+SHA1: 64538e9b6e000369bdcda7db187d1299664934a2
+SHA256: 304d52a0734f6e8e7c504fb5cbba74fd857ca8d92fe3dd85fa9b1ddf174fd703
+SHA512: 2b3487cca2bcad3597b65ed1d76e848dd54f82fc90e5d1ea11d91d34db55925b3d1a39a35ade6c308f82c560cabe45974ad0b2377a19b2e59bbd86b3d47044d1
+Description: 微信优化的重制版，上百种功能优化你的微信。
+Name: WCRefine
+Author: 热心网友
+dev: 君临
+Icon: https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/eb/b5/a8/ebb5a892-c161-c79f-ba51-2089219fb833/source/512x512bb.jpg
 
 Package: com.qq391160.cpucore
 Architecture: iphoneos-arm64e
@@ -762,6 +842,66 @@ Description: ElleKit调整注射库和加载器
 Name: ElleKit
 Author: Evelyn
 Icon: https://ellekit.space/logos/logo.png
+
+Package: fanqiefn.roothide
+Architecture: iphoneos-arm64e
+Version: 3.3.0
+Section: Tweaks
+Maintainer: junhong
+Installed-Size: 3396
+Provides: fanqiefn
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: fanqiefn
+Replaces: fanqiefn
+Filename: debs/fanqiefn.roothide_3.3.0_iphoneos-arm64e.deb
+Size: 2691022
+MD5sum: 8516511afe1499193371a1b711eb20df
+SHA1: 922d22084b5c8467a4c702fabecc5756cb217516
+SHA256: 952ecd49a47e1e51b5efbb8e935a05ad0206e6036298b5f0cfc679064a9efd5e
+SHA512: f28486ac20d6530a876fdf57ec92921d6f17c4b9ecdf710163b465906307abf15551e4338667619fa33b8776e94f4190f34ca1c30d6624006e5dc2b70c0dbd93
+Homepage: https://fanqie.goforit.si
+Description: 番茄小说通知/小组件伪装、阅读及听书广告净化、关闭章末圈子、评价邀请和听读赚钱挂件、会员状态伪装与原生设置开关，保留催更与更新历史
+Name: 番茄净化 (Roothide)
+Author: junhong
+
+Package: github.poqw312.icleanerpro
+Architecture: iphoneos-arm64e
+Version: 7.10.0k
+Section: 系统增强
+Maintainer: MainRepo
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: firmware (>= 15.0)
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Filename: debs/github.poqw312.icleanerpro_7.10.0k_iphoneos-arm64e.deb
+Size: 1739392
+MD5sum: 08b488f85b86a37b4713acdc30d10769
+SHA1: 353bbb1c13b46992a4f7addd06dff385e2ab8298
+SHA256: 0c2d6e0265b251e266cbc8ea7f029b82606b82f9d12a05d085468652f554d0e3
+SHA512: 1c4e716ffd8f09cb383087de06f8ddcc108b3ba62b2cb9f4b40d381cadc54f3d01b5f237135d880336da5bca9dddbe649e7ddb0994780a4b4ea9c76c6adaa9f5
+Description: 首款真正的iOS系统清理与优化工具。此版本为破解注册版！默认打开就是简体中文。
+Name: iCleaner Pro系统清理-Roothide
+Author: Ivano Bilenchi <support@ib-soft.net>
+Depiction:
+SileoDepiction:
+Icon: https://apprecs.org/ios/images/app-icons/256/3a/1161431866.jpg
+
+Package: org.coolstar.sileo
+Architecture: iphoneos-arm64e
+Version: 2.5.1-14
+Section: 嗨-系统
+Maintainer: 刀刀
+Depends: firmware (>= 11.0), firmware (>= 12.2) | org.swift.libswift (>= 5.0), coreutils (>= 8.30-1), dpkg (>= 1.19.4-1), apt (>= 1.8.2), libzstd1
+Replaces: org.coolstar.sileo
+Filename: debs/org.coolstar.sileo_2.5.1-14_iphoneos-arm64e.deb
+Size: 5187148
+MD5sum: 1383a133b4aaac97aa763e0dc26d0e31
+SHA1: d46250eb743a33ee5fd030130a0c978220b212b5
+SHA256: f3a3a2d2fc059fb48dea8523b7f44209fcec9b5d3602f6bd95002dc055e0e27f
+SHA512: 65e8a612c5c8535a382a16445cd24071dabf061b3c6da612c8c567c4b787a28ec1f08d67b5279786e3e8f54f916b3208284e56552029857d396b6c9c03438729
+Description: 刀刀补充汉化，并在插件列表左侧增加架构指示器(arm64e → 绿色、arm64 → 蓝色、arm → 橙色、all → 灰色)，可识别刀刀源内的 RootHidePatcher 中文版，也识别 UmbraPatcher，转换插件一条龙。
+Name: Sileo(RootHide)
+Author: Amy While
 
 Package: rootless-compat
 Architecture: iphoneos-arm64e
