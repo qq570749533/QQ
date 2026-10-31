@@ -394,6 +394,24 @@ Author: qq391160（基于 mlgm 的 PullOver X）
 dev: mlgm
 Icon: https://mlgm66.github.io/icon/pullover.png
 
+Package: com.roothide.patcher
+Architecture: iphoneos-arm64e
+Version: 2.1.5
+Section: 嗨-系统
+Maintainer: daodao
+Depends: firmware (>= 15.0), libxar1, ldid, file, dpkg, gawk, plutil (>= 0.2.2-1), uikittools (>= 2.1.6-4)
+Conflicts: com.roothide.patcher
+Replaces: com.roothide.patcher
+Filename: debs/com.roothide.patcher_2.1.5_iphoneos-arm64e.deb
+Size: 1776718
+MD5sum: cf8db3c2aa47471a60e1e5ae2b578088
+SHA1: e267f9af760fae48c9541deb3f586970df131f0a
+SHA256: 4381a897a2408b35a74e70d90005a8ad76ed98a9ac4a76b0962b69bca69cdd2d
+SHA512: b7779df6f5322395059e5bd686e78b8b631b6c857e3baad2e2053174efdcae8b58cf76326817d26faf00100a084efdd8234d692a79b74b053dd247443b8c36c1
+Description: 转换器：把 rootless 包转换/修补成 RootHide 格式，但不保证所有插件或软件包都兼容；刀刀简单汉化，必须用刀刀源内的 Sileo 才能调用。
+Name: RootHidePatcher 中文版
+Author: roothide
+
 Package: com.roothide.patchloader
 Architecture: iphoneos-arm64e
 Version: 0.0.8
