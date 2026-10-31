@@ -1203,24 +1203,6 @@ Description: Snowboard 主题引擎！roothide主题路径：[jbroot]/Library/Th
 Name: SnowBoard(RootHide)
 Author: Spark & Dennis D. Bednarz
 
-Package: com.opa334.choicy
-Architecture: iphoneos-arm64e
-Version: 1.5.4-2
-Section: 嗨-系统
-Maintainer: opa334 <opa334@protonmail.com>
-Installed-Size: 1104
-Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
-Conflicts: com.opa334.choicy
-Filename: debs/禁止注入.deb
-Size: 311964
-MD5sum: f50c01b7cfe4b048133c600ea7c163c9
-SHA1: 69e0837ede41e7792a6488588559d5c9b3e93082
-SHA256: ea01167a499850fcfefa05b885bf15cf228391615accead9058637c916b1c233
-SHA512: 2a9a5d666852cfc98219378a04cf2c5d7cae2b264aa03da5a8705b4affb8ffa6fadf607a5f3345d4ab29ed810ee83fa22b19d4226ebd3637c55b978c0f378d99
-Description: 高级插件配置器，可单独为每个程序启用/禁用插件等。
-Name: Choicy(RootHide)
-Author: opa334 <opa334@protonmail.com>
-
 Package: com.swing.tiktoknocreatbutton
 Architecture: iphoneos-arm64e
 Version: 1.0.0
