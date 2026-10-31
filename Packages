@@ -108,6 +108,25 @@ Description: 沿键盘轻扫可移动光标和选择文本。
 Name: SwipeSelection
 Author: Kyle Howells
 
+Package: com.iosdump.appdata
+Architecture: iphoneos-arm64e
+Version: 2.7.5
+Section: Tweaks
+Maintainer: iosdump
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Conflicts: com.netskao.appdatas, com.netskao.appdata, cn.zqbb.appdata, com.fouadraheb.appdata
+Filename: debs/com.iosdump.appdata_2.7.5_iphoneos-arm64e.deb
+Size: 2428570
+MD5sum: ac3bd5bf047d9319bed98aed8f1e5e8e
+SHA1: 0a957270c99f4c93ff620bd3b8a01429c19ebfec
+SHA256: aa2899c46be99b52cbc8349273cf27822aa6b66b1ff9e5b357bb86612e1eb736
+SHA512: c64e340b51d10ff31e9f75b072270ca5a1c1c5c803984b6d534b7273c286b7e3f442ac6178bd1a785dd2bcd78227c204487dfce87d69dac986cbc71c001f6228
+Description: 在主屏幕查看应用数据与管理应用
+Name: AppData
+Author: iosdump
+Icon: file:///Library/PreferenceBundles/AppDataPrefs.bundle/AppData@3x.png
+
 Package: com.lenglengyu.ghallownetwork
 Architecture: iphoneos-arm64e
 Version: 0.0.1
