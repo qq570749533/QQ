@@ -303,6 +303,25 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/ccrespring.png
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/ccrespring/js.json
 Author: Mr.Zhang <mr_zhang_00@163.com>
 
+Package: com.sini921.lockscreenhelper
+Architecture: iphoneos-arm64e
+Version: 0.0.1-19
+Section: 越狱插件
+Maintainer: SINI
+Installed-Size: 732
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist, com.opa334.libsandy
+Filename: debs/com.sini921.lockscreenhelper_0.0.1-19_iphoneos-arm64e.deb
+Size: 188096
+MD5sum: c5a12f83b2894f923481dfd6cb485df0
+SHA1: ab80ddd4aa691cf9ed8eaa99e9c2f754ed2dc355
+SHA256: 7dd0404c3723780d75891a851fb56354b21973c3281fdba9ab1d8e6339328097
+SHA512: 7afcf547d48122514168dcfb784b63a56b7cb82b0bf281b322519f35869ff14d33c571009acc528529ceb2fe29d28d5e588ccb9803cc9b81ceea2c0560713cc2
+Description: 锁屏界面相关的简单优化
+Name: LockScreenHelper(roothide)
+Author: SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/lockscreenhelper.png
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/lockscreenhelper/js.json
+
 Package: com.sini921.pscamera
 Architecture: iphoneos-arm64e
 Version: 0.0.1-5
