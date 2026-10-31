@@ -17,6 +17,26 @@ Description: aweJ 独立版抖⁺功能插件
 Name: aweJ
 Author: siwenjiajia
 
+Package: aweme.x
+Architecture: iphoneos-arm64e
+Version: 2.6.2
+Section: Tweaks
+Maintainer: 𝙓
+Installed-Size: 11908
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.xx.dyhook
+Replaces: com.xx.dyhook
+Filename: debs/aweme.x_2.6.2_iphoneos-arm64e.deb
+Size: 6554280
+MD5sum: 84acbde9c9528e2531e1884d34bed2ab
+SHA1: 2d7368422e0051e688c6ec03155e131557579731
+SHA256: 6a98276a31137a4571393f0b9bdad6321b9359b46864d7b234c9c4c1cc6796c4
+SHA512: 944cd4e375d4dce9c1f26d4e6d9cd591f516ecd52a4980de5f680fb44479251278613daffd68a6747e0560def89b2dff892269cfcc4890c31a2cf9fbc9692828
+Description: 自用
+Name: 抖音图层
+Author: 𝙓
+
 Package: cn.dao.relaxin.cocoatop
 Architecture: iphoneos-arm64e
 Version: 2.3.3.1
