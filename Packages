@@ -212,6 +212,23 @@ Name: Hammer It
 Author: lclrc(SquidForce)
 Icon: https://huayuarc.github.io/icon/HammerIt.png
 
+Package: com.0xkuj.safarix
+Architecture: iphoneos-arm64e
+Version: 1.9.9.1
+Section: 嗨-工具
+Maintainer: 0xkuj
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: debs/浏览器增强.deb
+Size: 252864
+MD5sum: 9332c4dabf45f1d4269f79027864f383
+SHA1: 7ac48c65a80db53072e587b9ac78e82929a18b48
+SHA256: e7fbd71ca194ce66f57900c6a9b0416fc54537d1b1e09a8c085fb7e2feadb2ff
+SHA512: 2f17c502b928857166be26386bde18f036c73d1b5ee1c71253a598599e1039f14136a7892f2089a919fa0ca035823e3173cb4866d137a96986bc69d8be721255
+Description: Safari 浏览器多功能增强插件；源内有汉化包；SafariX后期加了验证，不能改包名。
+Name: SafariX-New(RootHide)
+Author: 0xkuj
+
 Package: com.wkk.boardswipe
 Architecture: iphoneos-arm64e
 Version: 1.0.0
@@ -230,6 +247,82 @@ Description: 向下滑动以关闭键盘，向上滑动以切换键盘，已汉�
 Name: BoardSwipe
 Author: AnubisTweaks
 Icon: https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/icons/boardswipe/icon.png
+
+Package: com.dao.snowboard
+Architecture: iphoneos-arm64e
+Version: 1.5.37-Beta4
+Section: 嗨-系统
+Maintainer: Spark
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard, com.spark.snowboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: debs/滑雪板.deb
+Size: 1602356
+MD5sum: 423ebf75d89b2864fd80b4afdd402b85
+SHA1: f3a34939970eceff45aa2f57b40e9cc6807fd0b0
+SHA256: e210aadc91286327977becd2207e1ea4bac72909741c2d21b4eaaa6d368c84ce
+SHA512: 43139059a901cc39d283d0e1787b189718adbbe89ed6e0d0147d6937e5fc0e23edcf9bd507e7f0470058412ec33c60518d6c3fb3ba6b83b9065c68f294862788
+Description: Snowboard 主题引擎！roothide主题路径：[jbroot]/Library/Themes
+Name: SnowBoard(RootHide)
+Author: Spark & Dennis D. Bednarz
+
+Package: com.opa334.choicy
+Architecture: iphoneos-arm64e
+Version: 1.5.4-2
+Section: 嗨-系统
+Maintainer: opa334 <opa334@protonmail.com>
+Installed-Size: 1104
+Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
+Conflicts: com.opa334.choicy
+Filename: debs/禁止注入.deb
+Size: 311964
+MD5sum: f50c01b7cfe4b048133c600ea7c163c9
+SHA1: 69e0837ede41e7792a6488588559d5c9b3e93082
+SHA256: ea01167a499850fcfefa05b885bf15cf228391615accead9058637c916b1c233
+SHA512: 2a9a5d666852cfc98219378a04cf2c5d7cae2b264aa03da5a8705b4affb8ffa6fadf607a5f3345d4ab29ed810ee83fa22b19d4226ebd3637c55b978c0f378d99
+Description: 高级插件配置器，可单独为每个程序启用/禁用插件等。
+Name: Choicy(RootHide)
+Author: opa334 <opa334@protonmail.com>
+
+Package: com.swing.tiktoknocreatbutton
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: 应用破解
+Maintainer: SWING
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/移除海外抖音创建按钮.deb
+Size: 3334
+MD5sum: 0e93a0270d474a89930db8b471133713
+SHA1: 655bcbe8739b928aeff97991a07cd72b080c969e
+SHA256: 45aaa7f2b269ecdfe9d496a412d35908edd30cd6e0d81d3de5f1d89f24f3d290
+SHA512: a92e4c3454786140ac504b6cfa0455d9efba49f2ddd59981760b879d9348ffc51adf6299e2ecd30cc4ae3bc466d5369efc6f1e4502c9bfef3e0f9c54c75a6939
+Description: 移除海外抖音创建按钮
+Name: 移除海外抖音创建按钮
+Author: SWING
+icon: https://TrollStoreX.Github.io/sileodepiction/TikTok/TikTokHide.png
+SileoDepiction: https://TrollStoreX.Github.io/sileodepiction/TikTok/jss.json
+
+Package: com.huayuarc.speedster
+Architecture: iphoneos-arm64e
+Version: 2.1.3-7
+Section: Tweaks
+Maintainer: Huayuarc
+Installed-Size: 568
+Depends: firmware (>=13.0), preferenceloader, mobilesubstrate
+Filename: debs/系统增强.deb
+Size: 140342
+MD5sum: d91449ba9b7c579e81338141c8a60caf
+SHA1: 343525b6d47eed39326c92579132a3d94e364537
+SHA256: 29480949022dec149dd4970d0549205583852a96c0a8ed2f9e2bb0e7f5536c45
+SHA512: 56bdeeb1541df126a6c13d3224ac7a51048dc30ae10839a55a14e670e7f0e7b3a4a5c8de3a989be65e9fbfba75ae9d251e87f95a5ccb6a9bd50342626826db47
+Description: 更快的动画 + 系统增强：浮动Dock与透明Dock/Home Bar与通知外观精简/通知不亮锁屏/禁用App资源库/自动清理僵尸进程/禁锁屏手电&相机/禁快门声/移除解锁延迟/锁屏来电拒接/应用动画方向/彻关Wi-Fi蓝牙/设备朝下锁屏/通话录音静音/Watch配对/禁用OTA/禁用企业签名/杜比全景声&空间音频&EQ增强。
+Name: Speedster
+Author: Hoangdus&Unknown
+icon: https://huayuarc.github.io/icon/Speedster.png
 
 Package: com.fiore.calculatorhistory
 Architecture: iphoneos-arm64e
@@ -269,6 +362,27 @@ Author: SHTM
 Icon: https://orig.shtm.best/descriptions/com.shtm.neowave16/NeoWave16.png
 Depiction: https://orig.shtm.best/descriptions/com.shtm.neowave16/sileo.json
 SileoDepiction: https://orig.shtm.best/descriptions/com.shtm.neowave16/sileo.json
+
+Package: com.lclrc.exacttime
+Architecture: iphoneos-arm64e
+Version: 2.0.4
+Section: Tweaks
+Maintainer: SquidForce
+Installed-Size: 1284
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: com.gilshahar7.exacttimemail, com.gilshahar7.exacttimephone, com.gilshahar7.exacttimemessages
+Filename: debs/通知时间.deb
+Size: 93108
+MD5sum: 9f4f0d70aa2a4e5fefb2bb03ea3e4023
+SHA1: d44ffaf0a591a11fc2746f5238eb25a9c6f97da6
+SHA256: b2f9a216711fde30e3b181489ec78308c3b5272aa29813cf03089c1e0b823332
+SHA512: 853daeb7c9300daf7174a770a3951d065fad0c3b6fa021766803a6b70f0f20b716522a6856c08124719b0745af83c372c7f619d466366b8c676bb3ba0907b330
+Description: 在通知、信息、电话、邮箱中显示准确时间，闹钟中显示剩余时间。
+Name: ExactTime通知时间-Roothide
+Author: gilshahar7, SquidForce
+Icon: file:///var/jb/Library/PreferenceBundles/ExactTimeprefs.bundle/ExactTime@3x.png
+SileoDepiction: https://lclrc.github.io/repo/depictions/native/com.lclrc.exacttime/depiction.json
 
 Package: com.chloe.physpringboards
 Architecture: iphoneos-arm64e
