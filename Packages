@@ -610,6 +610,24 @@ Name: SneakyCam 隐私相机
 Author: Spark
 icon: https://huayuarc.github.io/icon/SneakyCam.png
 
+Package: com.icraze.keepmyjb
+Architecture: iphoneos-arm64e
+Version: 1.1
+Section: Tweaks
+Maintainer: iCraze
+Installed-Size: 152
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: debs/com.icraze.keepmyjb_1.1_iphoneos-arm64e.deb
+Size: 7872
+MD5sum: 2b93a709116f07956b663838b5071396
+SHA1: 2fdc6a98902a303b9fbb2d37366052e086969638
+SHA256: f857b0dc777d4b5924ec2729857516751cb1e24825e12040868d414541d08e7d
+SHA512: 7b6467ba642fe9429244129265be788b2c9cbe7710acf21e4ee4b77806800d5321edbd787cf31f2705271f6bbb9d3a6ebb39af860b70b61587db06ebeed59e81
+Description: 隐藏“设置-通用-软件更新” & “设置-通用-传输或还原iPhone-抹掉所有内容和设置”这两个窗口。插件无设置项，安装、注销立即生效。
+Name: 隐藏系统更新窗口
+Author: iCraze
+
 Package: com.iosdump.appdata
 Architecture: iphoneos-arm64e
 Version: 2.7.5
@@ -1312,6 +1330,79 @@ Name: CCTunnelTap
 Author: fries
 Icon: https://mieing.github.io/icon/CCTunnelTap.png
 
+Package: com.wkk.ceshi
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: 美化
+Maintainer: liuf
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: debs/com.wkk.ceshi_0.0.1_iphoneos-arm64e.deb
+Size: 4580
+MD5sum: 79cbc22c6271c56a694bb08bf4c00061
+SHA1: 62bd2443866c7ca4c0e2140e3f7af9455f1f3f7a
+SHA256: 1191859ec6a5673fa0b5194cd9ea36fb1c4648ac0705c91ac3c841da4a1d71f4
+SHA512: d3ad3bb82f7c2287759725df18ac0050773670af2d4e4359232bfe268b19b631775806806bec8f8ac54266187226ef144a52bdc7bcd0672f46d760ac361b6301
+Description: Sileo首页头像旋转。
+Name: sileo头像旋转
+Author: liuf <1602389262>
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
+Package: com.wkk.kb2hook
+Architecture: iphoneos-arm64e
+Version: 1.0-1
+Section: Tweaks
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.wkk.kb2hook_1.0-1_iphoneos-arm64e.deb
+Size: 6114
+MD5sum: 5a806e93fbe1ab46c0a98524ea896f05
+SHA1: 9dba494b4977d7c49e36d80b8137784b13a95f49
+SHA256: acc84a32deac6184c229016fe3bd33277d67faa9a4a8fb99b10a922a4195df39
+SHA512: 7f04c4fdfe9393a28a9a9804cfdca18eacdb9e88981086f5b0de9a9542255a1b239f6aab5f480234bed5e605f9cfcea93d08c8f34a03de314ec1f79c8328cd07
+Description: 圆角度为11，源里另一个为10，有些人喜欢更圆润一点，自行选择吧，两个版本均不会抽搐/失效/无需重启用户空间！
+Name: 系统键盘圆角2
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
+Package: com.wkk.kbhook
+Architecture: iphoneos-arm64e
+Version: 1.0-1
+Section: Tweaks
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.wkk.kbhook_1.0-1_iphoneos-arm64e.deb
+Size: 5966
+MD5sum: b4ddff95e89645d3955015ad8a5235f5
+SHA1: dcb8ee0b1d8a07d9d42e9848685784f855e7cb60
+SHA256: 79784513b749c9aa9fdea917ed0321cc933314850e6989a25921e5ae2abe88c7
+SHA512: d5edb01631119402cb1ae66e2fd24e44152e40a8553d8a10218199a8f337682769bd978142664b882a69dfb3a9520e2d6948de57b3861cee01dd3db42b628883
+Description: cool
+Name: 系统键盘圆角
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
+Package: com.wkk.lstimeseconds16
+Architecture: iphoneos-arm64e
+Version: 1.0-1
+Section: Tweaks
+Maintainer: b4db1r3
+Installed-Size: 432
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: debs/com.wkk.lstimeseconds16_1.0-1_iphoneos-arm64e.deb
+Size: 42774
+MD5sum: 4a41bc76dc73a9aed7bac3d919cd75b4
+SHA1: ef4f7f7043eac0a0d27052f29ddd1844d3e4d855
+SHA256: 75a074938d89334dcfb5da9b1124e8a9e29d2780f1b31f9188bf2a5458f2c127
+SHA512: 59956d7a750b5ce14783538f7d04b4901b2412e78698bdd88cd5def9a084be087efdd25b120f9d36e5154bc655ef52a38b5a66541b0abbf5f044b591e3f6d4d7
+Description: 锁屏时间增加秒数。
+Name: LSTimeSeconds
+Author: b4db1r3
+icon: https://s1.imagehub.cc/images/2025/01/21/41ef6b4004a05a669e5679b61a1bb012.png
+
 Package: com.wkk.photox
 Architecture: iphoneos-arm64e
 Version: 1.0-2
@@ -1345,6 +1436,42 @@ SHA256: a1f84e458b206600a4d4175ad2fa3c9ac3b7eb1a78fadc9ec7978b08dfd30d29
 SHA512: f061f8b71898387c82b7feadedf7bc959f107c703992523f934c74eca99d937e1aa982b0b2cfb61b295f674418fa16a380477aec6f3c398ab08285386dc66cfa
 Description: 隐藏画中画挂起时的背景，保留箭头，使其看上去并有那么显眼。
 Name: 隐藏画中画挂起背景
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
+Package: com.wkk.sileosourcesearch
+Architecture: iphoneos-arm64e
+Version: 1.0-1
+Section: Tweaks
+Maintainer: wkk
+Installed-Size: 92
+Depends: org.coolstar.sileo
+Filename: debs/com.wkk.sileosourcesearch_1.0-1_iphoneos-arm64e.deb
+Size: 22998
+MD5sum: aef9214f0c663addf0c6842eb21b32cd
+SHA1: 7ec62d8bfc919a767380f20ca197acf4d536c8a2
+SHA256: 3d0f47e5eb3f66ea9a9aac00378001e5038171d1a00058b3c61be9c8ee4b62be
+SHA512: 0582da952f56a8f9f5c05bc3005be3443b4e0887557045c6e52165a2c5767888c9fb69355f320c8f9816294bb154081edd352be737f868bc5ffffe3703aa908d
+Description: 在 Sileo 软件源页面加入源名称和网址模糊搜索，并可直接跳转到对应软件源。
+Name: Sileo 源搜索
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
+Package: com.wkk.tbhook
+Architecture: iphoneos-arm64e
+Version: 1.0-1
+Section: 美化
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.wkk.tbhook_1.0-1_iphoneos-arm64e.deb
+Size: 13910
+MD5sum: 5cc554c1fd2f4adc5816dc0880f5aa6c
+SHA1: 633c2e3bbf181fbf4502e7ca44b0d8bbec06ea57
+SHA256: 7613ad1b31eff490386f3f81e810589aeefb764c12f0515bd51032ffc0dd1c11
+SHA512: ad50b25135d9ec342927845f5e65a0bac162d84f01f6e8b4ce7bf4ff9e5035677b7b4034caf6f40aff05afc00b5a7329f2b7cda8418fb84e64783bf0d52929d6
+Description: ...
+Name: sileo悬浮底栏
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 
@@ -1406,6 +1533,23 @@ Name: Hello Kayoko
 Author: 82Flex, zqbb
 Icon: https://apt.002599.xyz/web/icon/com.zqbb.kayoko.png
 SileoDepiction: https://apt.002599.xyz/web/com.zqbb.kayoko
+
+Package: daniel.batman
+Architecture: iphoneos-arm64e
+Version: 0.0.2-1+debug
+Section: Tweaks
+Maintainer: daniel
+Installed-Size: 156
+Depends: mobilesubstrate
+Filename: debs/daniel.batman_0.0.2-1_debug_iphoneos-arm64e.deb
+Size: 9686
+MD5sum: ada9dd1f59d986d8a1ed92dc629de0bf
+SHA1: 46b99fe5052946a5f20380715a1ab869335b70bf
+SHA256: 1d3597fd6d98d846021424eb7d1b35379a18ae35e8b9e57ab16f04fc20e7c065
+SHA512: f37a6252d0178eae67ba5f4a9bd5d8f306b32ed5162a02873b7036f15265eafac97b8e2dcaff7d27c696bcdbd05879109d9da56ef9e8ab598b1ed6202c968b73
+Description: 显示更多电池信息
+Name: Batman (roothide)
+Author: daniel
 
 Package: dev.theos.orion14
 Architecture: iphoneos-arm64e
@@ -1507,6 +1651,23 @@ Author: Ivano Bilenchi <support@ib-soft.net>
 Depiction:
 SileoDepiction:
 Icon: https://apprecs.org/ios/images/app-icons/256/3a/1161431866.jpg
+
+Package: oldabi
+Architecture: iphoneos-arm64e
+Version: 2.0.1+roothide-1
+Section: Tweaks
+Maintainer: Nightwind
+Installed-Size: 68
+Depends: ellekit (>= 0.4), cy+cpu.arm64e, firmware (>= 15.0)
+Filename: debs/oldabi_2.0.1_roothide-1_iphoneos-arm64e.deb
+Size: 4460
+MD5sum: 68c73b263bcaa3f134ff6215215c016a
+SHA1: 17db14ab9845924e65cf9c38ac0fa13c147fadf7
+SHA256: 97a5e717e061c893fc647c70211e7b8ca82be81c6f2e7c3eea772266d3e5cce8
+SHA512: 136e42047405cc844dadbe693768338bde7b8dde8585d48b037d91e51cdcdec636ec5c2ea8c1a0175575d7d013bc4c43ba2b9d704b67c9c3e838b5ff9e5331e9
+Description: iOS 15.0中对传统arm64e ABI的支持+
+Name: Legacy arm64e Support
+Author: Nightwind
 
 Package: org.coolstar.sileo
 Architecture: iphoneos-arm64e
