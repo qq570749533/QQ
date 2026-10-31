@@ -1,3 +1,22 @@
+Package: com.simon.ccweathermodule
+Architecture: iphoneos-arm64e
+Version: 1.0.4
+Section: Tweaks
+Maintainer: simon
+Installed-Size: 356
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: debs/-1.0.4-iphoneos-arm64e.deb
+Size: 92184
+MD5sum: b99e0ac3447fe6ad4c2771578677adaa
+SHA1: 2005a4ada739fff6e97632376359581254474999
+SHA256: 296e90278bc1f4785bef4f9265247305319df454f6f0c2c8585da325a5c43dcd
+SHA512: 2e497178452dcad6ddb7392aff3878f9ea6099f4182a7da955dbb897e75210691058335a59d93b49758017b16d34105c8825a7eb40e917a7d6070720b9396e1a
+Description: 控制中心的天气模块。 显示当前天气、温度和每小时预报。
+Name: 控制中心天气
+Author: simon
+Icon: https://huayuarc.github.io/icon/CCWeatherModule.png
+
 Package: com.nan.disablesblockaftercrash
 Architecture: iphoneos-arm64e
 Version: 0.1.0
@@ -70,6 +89,26 @@ Author: zhaonan
 SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.realitytmp/js.json
 Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
 
+Package: com.wkk.xly
+Architecture: iphoneos-arm64e
+Version: 1.0-1
+Section: 美化
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: debs/a_a_a_e_c_-1.0-1-iphoneos-arm64e.deb
+Size: 37880
+MD5sum: d4e61c73ddb101583729d3355eb123e6
+SHA1: e3264bdc476f5e93f59ae452beb29b506c34f308
+SHA256: c8e023286d72010ea0f79d7e1e8cc8bb9caefc208c392843ded615f7c718d6d5
+SHA512: d6539a4d4cfc33dd2956818d10e578f9bfd7d3e2e0b56e0a9087c43421ff6616b167741e417c059cf367a5b1f626c7d77f6447e2f97a1af24593482922d8d47b
+Description: 仅支持14PM iOS16无根/隐根越狱，将你的灵动岛录屏变成写轮眼！
+  * 挂载路径：/Applications/ReplayKitAngel.app/sc_compact_minimal_v2-D73.ca
+  * 挂载路径：/Applications/ReplayKitAngel.app/sc_compact_leading_v2-D73.ca
+  * 注意：先挂载路径再下载此插件，最后重启Springboard即可。
+Author: wkk
+Name: 录屏写轮眼
+Icon: https://s1.imagehub.cc/images/2025/12/30/d4c66f162988cbda1fe9e73e896929f4.jpeg
+
 Package: awej
 Architecture: iphoneos-arm64e
 Version: 1.2.0
@@ -109,6 +148,25 @@ Description: 自用
 Name: 抖音图层
 Author: 𝙓
 
+Package: com.wkk.pkq
+Architecture: iphoneos-arm64e
+Version: 1.0-1
+Section: 美化
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: debs/c_a_a_e_a_c_-1.0-1-iphoneos-arm64e.deb
+Size: 771036
+MD5sum: 1262b0a93aa7de120e5f848f8e52be1f
+SHA1: 8c1766fa995d4b7aa60d616c8b3efadfa18542f9
+SHA256: 73c4d75c18a8c01290f5404250508a7056131592d4955f60a0982b0e551bdb8d
+SHA512: 53f071bcee0dfa133a927b25af5e9e35575b63019a8d9a0146d9f2894f2e54e2bd2c7ec432f5de27b2efe5c1927ba7d537a4ac692311a0bbb470dd2603f9280e
+Description: 仅支持无根/隐根越狱
+  * 注销动画路径：/System/Library/PrivateFrameworks/BackBoardServices.framework/
+  * 注意：先挂载注销动画路径再下载此插件，最后重启Springboard后随便找个插件注销即可看到一个可爱的动态皮卡丘。
+Author: wkk
+Name: 皮卡丘注销动画
+Icon: https://s1.imagehub.cc/images/2025/01/06/75dc8800d1c97029204392465be466b4.jpeg
+
 Package: cn.llld.avphotos
 Architecture: iphoneos-arm64e
 Version: 1.0.1
@@ -125,6 +183,25 @@ Description: 在相册中播放照片视频可以画中画效果！
 Name: AVPhotos照片视频画中画
 Author: MiRO 来了老弟
 Icon: https://huayuarc.github.io/icon/avphotos.jpg
+
+Package: cn.zqbb.disupdateapp
+Architecture: iphoneos-arm64e
+Version: 2.0.0-6
+Section: Tweaks
+Maintainer: zqbb
+Installed-Size: 720
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
+Filename: debs/cn.zqbb.disupdateapp_2.0.0-6_iphoneos-arm64e.deb
+Size: 274134
+MD5sum: b722f168535814a86e3d34c14380141a
+SHA1: 9b19d427cf02af7c4c49ff5ee6cee1a548cd7a0f
+SHA256: df062c2502fa4661cf308f91a45f30a357efc2c7d8bfd53e73cf3d57ac94f684
+SHA512: 56652f5fc126c4bd3fc6cc52a10f68e7a992977ae892dde83c1e823cf84013eb0e8cdc9639b9176161ccc0d6fafcc372388c6ed1738dd66dbe6d087f098fc497
+Description: 屏蔽App Store更新提示(Block App Store Updates)!
+Name: Hello App
+Author: zqbb
+Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.disupdateapp
+SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.disupdateapp
 
 Package: cn.zqbb.hello.memorystatus
 Architecture: iphoneos-arm64e
@@ -384,6 +461,25 @@ Name: NeoFreeBird(RootHide)
 Author: NeoFreeBird
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb/js.json
 
+Package: com.dao.reverie
+Architecture: iphoneos-arm64e
+Version: 1.1
+Section: 嗨-工具
+Maintainer: 刀刀
+Installed-Size: 888
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, com.opa334.ccsupport
+Conflicts: lilliana.reverie, com.hk.reverie, com.qms.reverie
+Filename: debs/com.dao.reverie_1.1_iphoneos-arm64e.deb
+Size: 279546
+MD5sum: e512d4d3b23879db7e3ed795490259da
+SHA1: 8fc430a1e08838fdd63295925230593d05f581d5
+SHA256: 8dd25b7c1f79d085afeaa2f3513ff19b0faeb86b2befc26cc6254654786d6e5e
+SHA512: 1fd151de7fc463da1fc464100a2d33248613668b4e5c2bb8af0019859789163eb127f70cbdff36fcb8d0d65e3a2cbd55eb222f82532842a4b4bd96c7bbc73587
+Description: 自由的休眠设备来节省电量。
+Name: Reverie 中文版(RootHide)
+Author: Paisseon
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/reverie/js.json
+
 Package: com.dao.ryukgram
 Architecture: iphoneos-arm64e
 Version: 1.5.1
@@ -419,6 +515,47 @@ Description: YouTube 多功能插件，根据开源编译，刀刀补全翻译�
 Name: YTKACE(RootHide)
 Author: itzzace & daodao
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytkace/js.json
+
+Package: com.daodao.goodwifi
+Architecture: iphoneos-arm64e
+Version: 1.7.5
+Section: 嗨-工具
+Maintainer: daodao
+Installed-Size: 500
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0)
+Conflicts: com.julioverne.goodwifi, com.qms.goodwifi, com.hk.goodwifi, com.daodao.goodwifi16
+Filename: debs/com.daodao.goodwifi_1.7.5_iphoneos-arm64e.deb
+Size: 138812
+MD5sum: 45c7c87e8daccfa030cc3b80173e54aa
+SHA1: a25f58966daf3d13b9211e3469ce0a704b7e21e5
+SHA256: f2fb2044c9b292c607da98c50ed933dc604e430a94f456ced7f7a1f26ad81cd2
+SHA512: b855a32d376e309f52a4ba24c5e06cd440128716c0107489753af2e42a86868381c03e71bb0b4474b5648f34155eb3c111712d0e6434061ac18f1220cae3de10
+Description: 更好的 WiFi 配置，查看 WiFi 信道、加密方式和密码、信号值，去除 RSSI 限制，显示 MAC 地址等；简体中文优化版。
+Name: GoodWiFi(RootHide)
+Author: julioverne & daodao
+SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi/js.json
+
+Package: com.dvntm.fbos
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.dvntm.fbo
+Filename: debs/com.dvntm.fbos_0.0.1_iphoneos-arm64e.deb
+Size: 3408
+MD5sum: 686d2c4d67be329037dc921d5c211ccf
+SHA1: b7123fc058c5a9854307b89d7e6912a20a4caf5b
+SHA256: 77dd98be30519c7edc2c84617a0f4e0521222b7f08dbb0ec2c3e0820a2d9a001
+SHA512: 3a886e63de182633c9f0c44a192c70f53a26381def145c5740c50ba90fe53dc771e2bf75762bbf06ee3ad4aa9bec29a92ea1eb02bdfa452b340ea40b002d2b79
+Description: 文件 App 仅显示“浏览”选项卡并隐藏底栏
+ * Displays only the Browse tab and hides the tab bar
+Name: FilesBrowsingOnly 精简文件 App
+Author: dvntm
+Icon: https://TrollStoreX.Github.io/sileodepiction/FilesBrowsingOnly/icon.png
+SileoDepiction: https://TrollStoreX.Github.io/sileodepiction/FilesBrowsingOnly/js.json
 
 Package: com.hbwechathelper.ailun
 Architecture: iphoneos-arm64e
@@ -530,6 +667,29 @@ Author: lenglengyu
 Depiction: https://repo.lenglengyu.top/packageInfo/ghallownetwork.html
 Sileodepiction: https://repo.lenglengyu.top/packageInfo/ghallownetworksileo
 icon: https://huayuarc.github.io/icon/huayuarc.jpg
+
+Package: com.lenglengyu.passbyccs
+Architecture: iphoneos-arm64e
+Version: 1.0.2
+Section: 控制中心
+Maintainer: lenglengyu
+Provides: com.lenglengyu.passbycc
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 15.0), com.opa334.ccsupport
+Conflicts: com.lenglengyu.passbycc
+Replaces: com.lenglengyu.passbycc
+Filename: debs/com.lenglengyu.passbyccs_1.0.2_iphoneos-arm64e.deb
+Size: 126684
+MD5sum: 7398c4892bde196f628302bd4c224f9b
+SHA1: 557d7cbbd77ec3c4cec10e0bf30675c7732367d7
+SHA256: b71bccdaf43a11c0cddd37b0312019d290eb2c077972c5a481d1302572f1cb74
+SHA512: 0242ab04147b4c16934cf214d1c6bc7dbc0dbd9d9b7626b293392d97e537811fc70e508bdefc3b548b8b785b4bbf93a00a93ed83823c8e78092676ecd399647e
+Description: 控制中心模块，临时绕过面容，绕过密码解锁，修改为 FaceID 图标。
+Name: 临时绕过面容 PassbyCC
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/passbycc.html
+SileoDepiction: https://TrollStoreX.Github.io/sileodepiction/PassbyCC/js.json
+icon: https://TrollStoreX.Github.io/sileodepiction/PassbyCC/icon.png
 
 Package: com.nan.enableccmutemodule
 Architecture: iphoneos-arm64e
@@ -1025,6 +1185,23 @@ Name: QuickPowerButton(roothide)
 Icon: https://sini921.github.io/repo/sileodepiction/icon/quickpowerbutton.png
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/quickpowerbutton/js.json
 Author: SINI
+
+Package: com.snail.allowlocationonce.roothide
+Architecture: iphoneos-arm64e
+Version: 1.0.2
+Section: Tweaks
+Installed-Size: 304
+Depends: mobilesubstrate
+Filename: debs/com.snail.allowlocationonce.roothide_1.0.2_iphoneos-arm64e.deb
+Size: 103518
+MD5sum: a10e0c0075b3877c5c5e395de149cb73
+SHA1: dfd9c634ea94f86df4409d6a6b1cec93fafbe206
+SHA256: 618e8a61e8f21488d90b78084bc23f54def0133e3e36231de4538b665974d946
+SHA512: 35a0a038370bfea10e30d6cf7a8deac0be004c9c1289bca4f21b03e0d9d235018eb21b61ddd1c8b8b370bd5c8eb0988a30df3ddcca14fb419990f93854bf15c1
+Description: 地理位置请求弹窗，自动"允许一次
+Name: 位置自动允许一次
+Author: Snail <mu514983786@gmail.com>
+icon: https://huayuarc.github.io/icon/huayuarc.jpg
 
 Package: com.squidforce.hidenotificationbadges
 Architecture: iphoneos-arm64e
