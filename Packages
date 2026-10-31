@@ -127,6 +127,23 @@ Description: 沿键盘轻扫可移动光标和选择文本。
 Name: SwipeSelection
 Author: Kyle Howells
 
+Package: com.chargelimiter.mod
+Architecture: iphoneos-arm64e
+Version: 1.17.5
+Priority: optional
+Section: Applications
+Maintainer: tune
+Depends: firmware (>= 13.0)
+Filename: debs/com.chargelimiter.mod_1.17.5_iphoneos-arm64e.deb
+Size: 1232146
+MD5sum: 2a2d1634517ca23ee0651947cae738d2
+SHA1: 21e1da1d337e520290d730c93b96644371c4f462
+SHA256: b02a637d6655a1d19c84640d40e2a748e85b2109e4e3021664064e6b3b792a00
+SHA512: 34cdb2cacfa6d7c9e3858180b5dc12a69fc003d1b284d3c0756651cccdbc44b3202e85ec95e091e2537b84d79edba4bc1e448b9b57687906f28b970f7862c3b7
+Description: 优化了一下界面
+Name: Modified ChargeLimiter
+Author: tune
+
 Package: com.crctdd.autocopyverify
 Architecture: iphoneos-arm64e
 Version: 0.0.5
