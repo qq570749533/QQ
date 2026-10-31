@@ -1,22 +1,3 @@
-Package: com.simon.ccweathermodule
-Architecture: iphoneos-arm64e
-Version: 1.0.4
-Section: Tweaks
-Maintainer: simon
-Installed-Size: 356
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, firmware (>= 14.0)
-Filename: debs/-1.0.4-iphoneos-arm64e.deb
-Size: 92184
-MD5sum: b99e0ac3447fe6ad4c2771578677adaa
-SHA1: 2005a4ada739fff6e97632376359581254474999
-SHA256: 296e90278bc1f4785bef4f9265247305319df454f6f0c2c8585da325a5c43dcd
-SHA512: 2e497178452dcad6ddb7392aff3878f9ea6099f4182a7da955dbb897e75210691058335a59d93b49758017b16d34105c8825a7eb40e917a7d6070720b9396e1a
-Description: 控制中心的天气模块。 显示当前天气、温度和每小时预报。
-Name: 控制中心天气
-Author: simon
-Icon: https://huayuarc.github.io/icon/CCWeatherModule.png
-
 Package: com.nan.disablesblockaftercrash
 Architecture: iphoneos-arm64e
 Version: 0.1.0
@@ -88,6 +69,25 @@ Name: Reality tmp
 Author: zhaonan
 SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.realitytmp/js.json
 Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
+
+Package: com.simon.ccweathermodule
+Architecture: iphoneos-arm64e
+Version: 1.0.4
+Section: Tweaks
+Maintainer: simon
+Installed-Size: 356
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: debs/Weather-1.0.4-iphoneos-arm64e.deb
+Size: 92184
+MD5sum: b99e0ac3447fe6ad4c2771578677adaa
+SHA1: 2005a4ada739fff6e97632376359581254474999
+SHA256: 296e90278bc1f4785bef4f9265247305319df454f6f0c2c8585da325a5c43dcd
+SHA512: 2e497178452dcad6ddb7392aff3878f9ea6099f4182a7da955dbb897e75210691058335a59d93b49758017b16d34105c8825a7eb40e917a7d6070720b9396e1a
+Description: 控制中心的天气模块。 显示当前天气、温度和每小时预报。
+Name: 控制中心天气
+Author: simon
+Icon: https://huayuarc.github.io/icon/CCWeatherModule.png
 
 Package: com.wkk.xly
 Architecture: iphoneos-arm64e
