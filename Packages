@@ -55,6 +55,42 @@ Description: CocoaTop64 进程查看，基于真皮版定制：中文翻译+UI�
 Name: CocoaTop64 中文版(Relaxin)
 Author: Domo, SXX
 
+Package: com.25mao.leftpan
+Architecture: iphoneos-arm64e
+Version: 2.0-1
+Section: Tweaks
+Maintainer: admin@25mao.com
+Installed-Size: 376
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist (>= 1.0.4)
+Filename: debs/com.25mao.leftpan_2.0-1_iphoneos-arm64e.deb
+Size: 60744
+MD5sum: 2f2b9564c05d2bbd1420c92805846309
+SHA1: 347ad3de1e9be3969bb18bd35ba754a46ec1b189
+SHA256: a84c5088f1ae7403148ec770d7e757ddbd5e28f83e719e151b881f2ab1cf1f44
+SHA512: bc53c1c80734113da248ddbd04eac8f2599b2dd8ad31c196ea5959e4975c2d3897cd8d9e5ea30992efc8a0ad568c3a1e5302d3d9ee7f113e3b307f8977dd17b6
+Description: 左滑返回上一页面。
+Name: 左滑返回-Roothide
+Author: Mao
+Sponsor: admin@25mao.com
+
+Package: com.ali7assan.swipeselection.rootless
+Architecture: iphoneos-arm64e
+Version: 2.0
+Section: Tweaks
+Maintainer: Ali7assan
+Installed-Size: 156
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: mobilesubstrate
+Filename: debs/com.ali7assan.swipeselection.rootless_2.0_iphoneos-arm64e.deb
+Size: 28464
+MD5sum: 73022939118ed1d218309f48830f8508
+SHA1: 8cef688799c15956054f754839ad498eebbca734
+SHA256: 36e100bb298a312a5cf5d9dd2bd9b007b843cf2f186a18e5e22720bb20c40a83
+SHA512: 4268c3df5daf234eb5f1683e328a0053ea3ddf1facb4a9003c7be217ec6042847aafb40c31288228b252498d3f1dcdf19e6f3013047affafd653f261abf1b09b
+Description: 沿键盘轻扫可移动光标和选择文本。
+Name: SwipeSelection
+Author: Kyle Howells
+
 Package: com.lenglengyu.ghallownetwork
 Architecture: iphoneos-arm64e
 Version: 0.0.1
