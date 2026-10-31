@@ -1153,6 +1153,24 @@ Name: PhotoX
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 
+Package: com.wkk.piphook
+Architecture: iphoneos-arm64e
+Version: 1.0-1
+Section: Tweaks
+Maintainer: wkk
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.wkk.piphook_1.0-1_iphoneos-arm64e.deb
+Size: 13276
+MD5sum: 097e864448ba22573f0f2f6afee01070
+SHA1: a7fc42db08e366e2c3a708a5c47f33d43687cf79
+SHA256: a1f84e458b206600a4d4175ad2fa3c9ac3b7eb1a78fadc9ec7978b08dfd30d29
+SHA512: f061f8b71898387c82b7feadedf7bc959f107c703992523f934c74eca99d937e1aa982b0b2cfb61b295f674418fa16a380477aec6f3c398ab08285386dc66cfa
+Description: 隐藏画中画挂起时的背景，保留箭头，使其看上去并有那么显眼。
+Name: 隐藏画中画挂起背景
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
 Package: com.xybp888.callassist16.dopamine.roothide
 Architecture: iphoneos-arm64e
 Version: 3.3.2
