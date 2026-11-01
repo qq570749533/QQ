@@ -2246,6 +2246,24 @@ Name: 去除原生键盘候选词高亮背景
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 
+Package: com.wkk.sileoseparatorhider
+Architecture: iphoneos-arm64e
+Version: 1.0-1
+Section: Tweaks
+Maintainer: wkk
+Installed-Size: 72
+Depends: org.coolstar.sileo
+Filename: debs/com.wkk.sileoseparatorhider_1.0-1_iphoneos-arm64e.deb
+Size: 6764
+MD5sum: 545ff8644c4f5043d7b6125b8610cde0
+SHA1: 86456ebfcd1f20c84cfe9d3ee0e4af58ae8909a0
+SHA256: abaca5da98a76c8fec501b831ba553715cdc354f0031fa2e577307694c219aaf
+SHA512: fd157e30dae2981b5e2afc9f7ff89ab977419ebc47b45a712723bd338f1cfb9bd3c45ef2250e03c27d36d5ac9b5884ebbf5bb9cc07996507f9942c0756bc8175
+Description: 隐藏 Sileo 内的系统列表分割线与自定义细分割线。
+Name: Sileo 隐藏分割线
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
 Package: com.wkk.sileosourcesearch
 Architecture: iphoneos-arm64e
 Version: 1.0-1
