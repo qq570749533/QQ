@@ -1956,6 +1956,25 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/vitreux.png
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/vitreux/js.json
 Author: MTAC
 
+Package: com.sini921.appstoretroller
+Architecture: iphoneos-arm64e
+Version: 0.1.2-5
+Section: 越狱插件
+Maintainer: Mineek & Nathan & SINI
+Installed-Size: 568
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.sini921.appstoretroller_0.1.2-5_iphoneos-arm64e.deb
+Size: 97050
+MD5sum: 599430b86c22caa032b0c9266679eadb
+SHA1: f8e1bbdd100d267242c1121cf873f941d264f93d
+SHA256: d2f451bfce311ae9a9fcde4ff7b1f1c51775363774f8be8ca6485a9a5101ef85
+SHA512: 5b6305e67b112ad760998705a4ebc5eb18b71c62b10eae5c8aa5728c1154f44b00dc613157535326f9ec964178f595875f7268e0b5f06770b2e81d7e0c4c8366
+Description: 可以安装苹果商店中提示「需要iOSXX或更高版本」的应用，入库了以后可以安装兼容你系统的版本(如果有的话)，基于开源汉化编译
+Name: AppStoreTroller(roothide)
+icon: https://sini921.github.io/repo/sileodepiction/icon/appstoretroller.png
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/appstoretroller/js.json
+Author: Mineek & Nathan & SINI
+
 Package: com.sini921.batterybuddy
 Architecture: iphoneos-arm64e
 Version: 1.3.5-14
