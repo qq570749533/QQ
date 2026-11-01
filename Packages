@@ -1601,6 +1601,25 @@ Author: fiore & p2kdev & SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/ccborder.png
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/ccborder/js.json
 
+Package: com.sini921.cursorpro
+Architecture: iphoneos-arm64e
+Version: 0.0.1-4
+Section: 越狱插件
+Maintainer: SINI
+Installed-Size: 460
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist
+Filename: debs/com.sini921.cursorpro_0.0.1-4_iphoneos-arm64e.deb
+Size: 116290
+MD5sum: 5f50ee7889f729ff2366a811dbd5931d
+SHA1: 73ab2fe79f0e9d4fa1427520cbcdd9de9bee309d
+SHA256: c303ebf042a37134a791fa39e0d58ab3f99b4a2f1c6d9a06f9cd1929277f5bf9
+SHA512: 2cfd1620bcd5573cef6a8c940812a9130131c284761e97a3ee1192d4bca36d5078e46c6b81262815b221469b2fcf5940a3877856597989104578765d3f38ed42
+Description: 光标简单优化
+Name: CursorPro(roothide)
+Author: SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/cursorpro.png
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/cursorpro/js.json
+
 Package: com.sini921.ersatz
 Architecture: iphoneos-arm64e
 Version: 1.0.1-2
