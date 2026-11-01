@@ -1937,6 +1937,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/filzaswipeselect.png
 Name: FilzaSwipeSelect
 Author: korboy <korboybeats@gmail.com>
 
+Package: com.wkk.hideserialnumber
+Architecture: iphoneos-arm64e
+Version: 1.0-4
+Section: Tweaks
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.2), mobilesubstrate, preferenceloader
+Filename: debs/com.wkk.hideserialnumber_1.0-4_iphoneos-arm64e.deb
+Size: 66536
+MD5sum: 4f36557a34ed42a56eec6fe690589101
+SHA1: 70b4dce1ea6072ddcf38021e6ea9b49be5bcddfe
+SHA256: 8021529bbc94d48eadd8c969169a46632403c3d0e2c9e76af21e29db6925e2ab
+SHA512: e602a0600775388f780d7d1fc4217fe186d1502b794eb056bcf8ff5e46120cd5967a4905058df7d0fde8549c0f8240e64defbf4ab76958ed7415b8cba74fbb8e
+Description: 自定义序列号机型等多个信息，装逼用。
+Name: HideSerialNumber
+Author: ichitaso <qiaozhani000@163.com>
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
 Package: com.wkk.kb2hook
 Architecture: iphoneos-arm64e
 Version: 1.0-1
