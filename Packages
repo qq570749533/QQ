@@ -1263,6 +1263,30 @@ Description: Zone 插件用于设置.tendies交互壁纸/视频壁纸 支持iOS1
 Name: Zone
 Author: iosdump
 
+Package: com.kingpuffdaddi.control-center.ccvpn.surge
+Architecture: iphoneos-arm64e
+Version: 1.0.6
+Section: 控制中心
+Maintainer: https://trollstorex.github.io/repo/
+Provides: com.kingpuffdaddi.control-center.ccvpn
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), com.opa334.ccsupport
+Conflicts: com.kingpuffdaddi.control-center.ccvpn
+Replaces: com.kingpuffdaddi.control-center.ccvpn
+Filename: debs/com.kingpuffdaddi.control-center.ccvpn.surge_1.0.6_iphoneos-arm64e.deb
+Size: 26972
+MD5sum: 31bb652aa34ee4686397b2999c581ed2
+SHA1: d179719598a61fe968a9f892bf7ab7892ef426f9
+SHA256: a72c066984019986aded3e0af7975dfe9ca6afc7cb5745c55708e7ff53ad22fe
+SHA512: 38bfe47b4f7e9cc1e689dc30bc522db848c30fe336860c9abb92801af9979907dc949c3cba8625663c08fddc243b6a253cfa2267de32766cc6bb41582f7572f8
+Description: CCVPN 控制中心图标修改为 Surge
+Tag: purpose::extension
+Author: KingPuffdaddi
+Name: CCVPN Surge
+dev: kingpuffdaddi
+icon: https://TrollStoreX.Github.io/sileodepiction/CCVPN/icon.png
+SileoDepiction: https://TrollStoreX.Github.io/sileodepiction/CCVPN/js.json
+
 Package: com.lclrc.recordanywhere
 Architecture: iphoneos-arm64e
 Version: 1.1.0
