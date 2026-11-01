@@ -1235,6 +1235,25 @@ Depiction: https://repo.lenglengyu.top/packageInfo/passbycc.html
 SileoDepiction: https://TrollStoreX.Github.io/sileodepiction/PassbyCC/js.json
 icon: https://TrollStoreX.Github.io/sileodepiction/PassbyCC/icon.png
 
+Package: com.mrgcgamer.libgcuniversal
+Architecture: iphoneos-arm64e
+Version: 1.7.0
+Section: 嗨-系统
+Maintainer: MrGcGamer
+Provides: com.mrgcgamer.libgcimagepicker, com.mrgcgamer.libgccolorpicker
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0) | ws.hbang.alderis, firmware (>= 12.0)
+Filename: debs/com.mrgcgamer.libgcuniversal_1.7.0_iphoneos-arm64e.deb
+Size: 118232
+MD5sum: 1118a9d4cbcbcf27c68b78a28d8962f5
+SHA1: 889b8137a3f1a7c1172fc25737425e5fbc8acb95
+SHA256: ead8feba4132307a095c3f1d86c2ba636ba0f6967c25c73cb5ac69301e7fa725
+SHA512: b73ad93cf8600a59a0c3ed58c8028b7480bfab64870d7b25162619b2cdd2d43bf658880c8578c871d32e27c91fda0f8eef0dfc79c36189565fc10cd5b9b336ab
+Description: 开发通用库，例如SettingsRevamp就需要依赖此；转换支持roothide。
+Tag: role::developer
+Name: LibGcUniversal(RootHide)
+Author: MrGcGamer
+
 Package: com.nan.enableccmutemodule
 Architecture: iphoneos-arm64e
 Version: 0.2.0
