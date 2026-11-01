@@ -681,6 +681,25 @@ Description: 功能丰富的 Instagram 增强插件，可以下载 1080p 等；�
 Name: RyukGram(RootHide)
 Author: Ryuk
 
+Package: com.dao.stella
+Architecture: iphoneos-arm64e
+Version: 1.1.5
+Section: 嗨-工具
+Maintainer: yan & 刀刀
+Installed-Size: 1332
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), com.ginsu.comet
+Conflicts: com.yan.stella, xyz.cypwn.stella
+Filename: debs/com.dao.stella_1.1.5_iphoneos-arm64e.deb
+Size: 458020
+MD5sum: 89a4066f8aacc442d5a6c7a6b4954325
+SHA1: 42a508eb19579e156c1f5c20bcbbb1caa7bd73ca
+SHA256: 6494e90787b8ede69cf94c7d987bf39fd359c77b1b2d69274ef59ffa14f9369b
+SHA512: cf66badb7e76743a427a7187aadc24362949106fb6221c2bbc75edbc0f0262e39d044397cefb54b46218274bb7c931c8c1e40044ffe9d7495b4a89c5f93817ec
+Description: 让你的设备在主屏/锁屏上下雪！根据开源，定制的中文版。
+Name: Stella
+Author: yan
+
 Package: com.dao.ytkace
 Architecture: iphoneos-arm64e
 Version: 1.1.4
