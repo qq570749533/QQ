@@ -1422,6 +1422,24 @@ Author: zhaonan
 SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.fix-filza-path/js.json
 Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
 
+Package: com.nathan.dynamicnotland
+Architecture: iphoneos-arm64e
+Version: 1.2.5
+Section: Tweaks
+Maintainer: Nathan
+Installed-Size: 348
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.nathan.dynamicnotland_1.2.5_iphoneos-arm64e.deb
+Size: 18018
+MD5sum: e6990eaddde87c22855f0ee74fd140c6
+SHA1: ff01d87c17cb9e1bdfc739b3cbae783ce15269b7
+SHA256: b31e2f72f952e537a7583492a548eaec3ff7f09f7d15dbea05fc912350f3680f
+SHA512: b961c9b480c3f088c29986cfa21f55b7b6b83b33e25f871069ad0f1a5d5429449b8d8c465369f05f79d1cc788d8aecea09131341dd7601ec3400d6a270e3d88a
+Description: 在14 Pro系列中隐藏不使用时的动态岛的调整！
+Name: DynamicNotLand
+Author: Nathan
+
 Package: com.nathan.internalstoragesettings
 Architecture: iphoneos-arm64e
 Version: 1.0.1
