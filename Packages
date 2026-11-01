@@ -312,6 +312,24 @@ Author: zqbb
 Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.hello.mnt.png
 SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.hello.mnt
 
+Package: cn.zqbb.hellospeed
+Architecture: iphoneos-arm64e
+Version: 1.2.2
+Section: Tweaks
+Maintainer: zqbb
+Installed-Size: 424
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/cn.zqbb.hellospeed_1.2.2_iphoneos-arm64e.deb
+Size: 120094
+MD5sum: d487048b435a7f827894b450891e1bd7
+SHA1: 53dd8b29914c5bfe14cdc02e7c8e8bf28a40e70c
+SHA256: 50cd0474cd36b6e76771afd2f49ad8cbbc5869766cc16a1305dfe7ec69fafe5f
+SHA512: 0f710f7799813454a2da5f27ca57bfcb76696d42b1d163f2761425eda43e2971634fbfcc9a5399ebe7943d53efcda8afda6af345525f15dbb107e50d6dc06953
+Description: SpringBoard动画加速!
+Name: Hello Speed
+Author: zqbb
+Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.hellospeed
+
 Package: cn.zqbb.holdcpu
 Architecture: iphoneos-arm64e
 Version: 2.3.5-5
