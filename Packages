@@ -1881,6 +1881,26 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/vitreux.png
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/vitreux/js.json
 Author: MTAC
 
+Package: com.sini921.batterybuddy
+Architecture: iphoneos-arm64e
+Version: 1.3.5-14
+Section: 越狱插件
+Maintainer: Traurige & neilsardesai & SINI
+Installed-Size: 656
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Conflicts: love.litten.batterybuddy
+Filename: debs/com.sini921.batterybuddy_1.3.5-14_iphoneos-arm64e.deb
+Size: 310130
+MD5sum: ca31ae53eec50a50515429aa6fe7ace9
+SHA1: a2ffe2171fe2d8eaa5f8c5c3eeea1413f0db06a4
+SHA256: 87079a59f768958f955fd8d0612f0d8e03309ed3cc97823666f872f650c7eec0
+SHA512: 589d88781ee789b3bf30e4d7ba58d4e735ac04a476e64b4b4f274e4044375f51bf3775b71f2b30f69370735066dc37f3416508e050753a04e1a5ceb79325422b
+Description: 一个可爱的电池，基于开源修改编译。新增自定义颜色。
+Name: BatteryBuddy(roothide)
+Icon: https://sini921.github.io/repo/sileodepiction/icon/batterybuddy.png
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/batterybuddy/js.json
+Author: Traurige & neilsardesai & SINI
+
 Package: com.sini921.ccborder
 Architecture: iphoneos-arm64e
 Version: 1.1.2-44
