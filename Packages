@@ -792,6 +792,23 @@ Description: 功能丰富的 Instagram 增强插件，可以下载 1080p 等；�
 Name: RyukGram(RootHide)
 Author: Ryuk
 
+Package: com.dao.settingsrevamp
+Architecture: iphoneos-arm64e
+Version: 3.0.1.1
+Section: 嗨-工具
+Maintainer: SOPPPra
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
+Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, com.sop.settingsrevamp
+Filename: debs/com.dao.settingsrevamp_3.0.1.1_iphoneos-arm64e.deb
+Size: 574848
+MD5sum: 5c40ce4ba977a2c0c3682fc79018a506
+SHA1: 2041b1266c3088a343da0b6570be6dab99571b3d
+SHA256: f594c06d287508e6ca62b0aac7dcaf4c1b6e77e6a799ab2f78fbb284785a67f3
+SHA512: 0a0bd043108cec9845e9751f275816340bd5d5004d83d5d1b4604ef1308f7acb0509e5e591232f82b7658be075092797f558e3d1df40900ae83f1cacefd4d35f
+Description: 设置自定义、归类插件，源内有汉化包；v3.0.x版本，功能大体和之前v2.1.1差不多，就改了个插件首页。
+Author: SOPPPra
+Name: SettingsRevamp(RootHide)
+
 Package: com.dao.stella
 Architecture: iphoneos-arm64e
 Version: 1.1.5
