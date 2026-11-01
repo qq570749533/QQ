@@ -1813,6 +1813,25 @@ Name: LSTimeSeconds
 Author: b4db1r3
 icon: https://s1.imagehub.cc/images/2025/01/21/41ef6b4004a05a669e5679b61a1bb012.png
 
+Package: com.wkk.magicsms
+Architecture: iphoneos-arm64e
+Version: 0.0.1-9
+Section: Tweaks
+Maintainer: rain
+Installed-Size: 232
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.wkk.magicsms_0.0.1-9_iphoneos-arm64e.deb
+Size: 21802
+MD5sum: 6d499f7f0b371501c163abb3569bc9a8
+SHA1: 72dfa4956b2cb7a435c5d4cc6958fc0352b89edc
+SHA256: 5f1c3d695b110f0e4dc543ba95983290597ea2624021cad2934a5c68b9ad5999
+SHA512: a2341aa2d8bc82ffef7da9bf011f5e6685e4793f43455acc835c31db99e8c8d07cc59671b4bd6a4a9a8ce945744961331c8163c10df278afa398aa0510d4af05
+Description: 免责声明：不存在任何收费且严禁用于商业用途，仅供学习交流使用，严禁用于欺骗与误导，后果自负。本人不承担任何法律责任。信息搜索栏输入8开启/关闭。
+Name: MagicSMS
+Author: rain
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
 Package: com.wkk.photox
 Architecture: iphoneos-arm64e
 Version: 1.0-2
