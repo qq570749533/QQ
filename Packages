@@ -1859,6 +1859,25 @@ Author: xybp888
 Depiction: https://apt.htv123.com/view/1115
 SileoDepiction: https://apt.htv123.com/sileo/1115
 
+Package: com.xybp888.noapplemobilerepair
+Architecture: iphoneos-arm64e
+Version: 0.0.1-104
+Section: Tweaks
+Maintainer: xybp888
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.xybp888.noapplemobilerepair_0.0.1-104_iphoneos-arm64e.deb
+Size: 21100
+MD5sum: 5e0045c8166569d7f61e2dd519b49844
+SHA1: 21cb9d7cef14a40db3dfcc473fb333f4da5a61a6
+SHA256: 764a0465733a4edb5a73e8e0a81d34fa0ff5c08c607501e05ad979e4ca8d0d40
+SHA512: cbea2932594bc1bebbcb19c2602bace602cc00916043e2d754d1ed9d0b615d1b53ceea6f03a31c5c6e059de1bd1ad8ea5f50cd90a721f8c2df29a5f0b7eaed72
+Description: 禁止显示苹果手机维修
+Name: No Apple MobileRepair(RootHide)
+Author: xybp888
+Depiction: https://apt.htv123.com/view/185
+SileoDepiction: https://apt.htv123.com/sileo/185
+
 Package: com.xybp888.perfectdynamiclsland.roothide
 Architecture: iphoneos-arm64e
 Version: 1.4.0
