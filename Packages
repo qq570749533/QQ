@@ -658,6 +658,26 @@ Name: GoodWiFi(RootHide)
 Author: julioverne & daodao
 SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi/js.json
 
+Package: com.developlab.appbadges
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: 插件
+Maintainer: developlab
+Installed-Size: 152
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Conflicts: com.developlab.appbadge
+Filename: debs/com.developlab.appbadges_1.0_iphoneos-arm64e.deb
+Size: 16432
+MD5sum: 25ebf32185e3e305043f04ab99554ce0
+SHA1: 4b28f83d89f834408aca8d86672e3fb4c619de47
+SHA256: d02882fa1a101851fcd131e6a69bad0bfefefbaa9be5238ed3a32c5c4b34f2be
+SHA512: d335569016315dbdcbd948b82a2f5f597fc89da40a4d6ab2570c014052a9bc4ec932fe2e498612d1dfa0efa0ab217bdd2e82e8f3aba801a1b047efc0f4a88697
+Description: 在刘海或灵动岛下显示应用的「图标、名称、版本」
+Name: AppBadge 应用胶囊
+Author: developlab
+Icon: https://TrollStoreX.Github.io/sileodepiction/AppBadge/icon.png
+
 Package: com.doimty.fixrepairsystempower
 Architecture: iphoneos-arm64e
 Version: 0.0.8
