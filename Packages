@@ -333,6 +333,91 @@ Description: 删除主屏幕上小部件的背景。
 Name: Remove Widget Background
 Author: Lessica <82flex@gmail.com>
 
+Package: com.CopyFaster
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: CHG-Tweaks
+Maintainer: 7abib0 <(null)>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: debs/com.CopyFaster_0.0.1_iphoneos-arm64e.deb
+Size: 2392
+MD5sum: 80ccdda1cc5ca12d5a73f9a963176844
+SHA1: a0a99dfd7d4d0ea8acdf3754bd6e0fb03ccdc0f0
+SHA256: da06bf830e40d7e891c01b049598b6d2f05c7d11e32456f2b3d54367fada7120
+SHA512: 7c7fa31e01b4e2ea623b2c12d83d39e6d3281152eb62f5a0157cfe814cb078de176d63dc10ca8dfde9562acaa95a83c7c44b1e92b5b3e1ca162d53ea68889f57
+Description: 消除编辑菜单、复制，粘贴时的延迟。
+Name: CopyFaster
+Author: 7abib0
+
+Package: com.PowerSave
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: CHG-Tweaks
+Maintainer: DeerSpotter <(null)>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: debs/com.PowerSave_0.0.1_iphoneos-arm64e.deb
+Size: 3824
+MD5sum: 260fb7fb0d26d5b44dbd1ef897095c50
+SHA1: 976d08976b4c9a666c33b995cee72cb96225b355
+SHA256: b2d80bafb665badddc27173b59aa520c728049811104d454a99bbcca9901991f
+SHA512: cf71dbd7ec9a9fd6b8f98e2a20fecb0f142b97977e88cff8907af0e5c93c5baa02241818f38d2d88b280ed5aa8981f008f39189bdd847ad787417f7595f4dc9d
+Description: 系统范围：禁用诊断和使用信息。应可提高电池使用时间并减少对网络的使用
+Name: PowerSave
+Author: DeerSpotter
+
+Package: com.SuperNetwork
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: CHG-Tweaks
+Maintainer: Dragonmichael69 <(null)>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: debs/com.SuperNetwork_0.0.1_iphoneos-arm64e.deb
+Size: 2594
+MD5sum: d34c2b24ee7bacc6fec604d3c3033985
+SHA1: 920fcea8c56865f46bd4a8185cdc16c3e8a728be
+SHA256: c5acc356b06a0edf13171beddc956e37696614bb33b71cd5e5452ab3c2e5573f
+SHA512: 77e682d15d668f48539f73c7e0aad62d282fc797e78c2c80227b6ff709c5658f7e3aa202b9f89f50e22c539c28c9e810b254690316ee1f1d43ea243750f81c5a
+Description: 优化网络框架，提高网络速度。像在Windows上一样禁用Nagle算法，网络使用和优先级平衡。可以改善流媒体，提升下载速度。
+Name: SuperNetwork
+Author: Dragonmichael69
+
+Package: com.UltraVideos
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: CHG-Tweaks
+Maintainer: tyiiirfvjjkjjj <(null)>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: debs/com.UltraVideos_0.0.1_iphoneos-arm64e.deb
+Size: 2758
+MD5sum: 169511d3b94fdcc73b01eebe830a6817
+SHA1: 07e49d1557397e2e32e01ee572714c90690e695d
+SHA256: 86050308373c0c8f8526b5e24b32cadac9b258d1a134fe90af88993b6fb80953
+SHA512: b563e902b8cc29fcce439835803b0e5353835eb04b135d8c08d57522b660cc3ad007fa494d6e9122590a010ebf3f8afca6ed8a9af66cb615168020c2acb5e379
+Description: 关闭内嵌视频播放，不再使用低劣的html5视频播放器。在三方应用程序工作，强制使用iOS的原生播放器。全局播放效果Ultra
+Name: UltraVideos
+Author: tyiiirfvjjkjjj
+
+Package: com.WebkitAcceleratork
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: CHG-Tweaks
+Maintainer: kms <(null)>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: debs/com.WebkitAcceleratork_0.0.1_iphoneos-arm64e.deb
+Size: 2456
+MD5sum: 691f0e23d9784d324d3d85f30b38432a
+SHA1: 38708287abbb1370b1c420d6aa8fd12af7cce1de
+SHA256: efa252555a70857fd61dead02a05414e29b12deec3d988985a02f053eba62bc8
+SHA512: 6d9610c2d625f3c7934192da2cdf6c7dcda06ab07b66483f98789d57cb62aaa953a3775cc2a0b1034b6b490dfd80930a1c945e8ebc738b0a2f7c46b4210ab07e
+Description: 它清除了一个简单的WebKit调用，但却产生了巨大的效果。加载的暂停几乎为零！通用Webkit浏览器加速器
+Name: WebkitAcceleratork
+Author: kms
+
 Package: com.ali7assan.swipeselection.rootless
 Architecture: iphoneos-arm64e
 Version: 2.0
@@ -573,6 +658,24 @@ Name: GoodWiFi(RootHide)
 Author: julioverne & daodao
 SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi/js.json
 
+Package: com.doimty.fixrepairsystempower
+Architecture: iphoneos-arm64e
+Version: 0.0.8
+Section: Tweaks
+Maintainer: doimty
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: debs/com.doimty.fixrepairsystempower_0.0.8_iphoneos-arm64e.deb
+Size: 6540
+MD5sum: a1e51af9cd9c4d3ef559947767d8361b
+SHA1: 6392632f708751d76d4f9563c7c033be61b0215c
+SHA256: d72b93a87ea43afd2d4158ae53e33cc05d55793030698ece826e57d5a70dd52b
+SHA512: 305e22371a4a0ef69af3aa41e7b2bab3305a5a1d9053fddbb3520a5a9d8dababa9f62d2793a71393b00b3dfbc644d330b535742d592596519f2c72b3713af207
+Description: CPU电池保护器电池连接状态不更改删除受监控区域不使用后台位置服务不更新WiFi状态删除假装在电话管理器中搜索没有WiFi扫描结果禁用WiFi充电器队列有蜂窝电话专用位置应用程序不使用位置和详细信息删除动画删除动画虚假服务如果不必要不扫描更新删除检查时区时区（固定）AdBlock-阻止某些iAds没有自动同步隐藏iAds设备
+Tag: supports::roothide
+Name: Fix Repair System Power
+Author: doimty
+
 Package: com.dvntm.fbos
 Architecture: iphoneos-arm64e
 Version: 0.0.1
@@ -594,6 +697,23 @@ Name: FilesBrowsingOnly 精简文件 App
 Author: dvntm
 Icon: https://TrollStoreX.Github.io/sileodepiction/FilesBrowsingOnly/icon.png
 SileoDepiction: https://TrollStoreX.Github.io/sileodepiction/FilesBrowsingOnly/js.json
+
+Package: com.goodbattery
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: CHG-Tweaks
+Maintainer: 1inchpunch <(null)>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: debs/com.goodbattery_0.0.1_iphoneos-arm64e.deb
+Size: 4118
+MD5sum: eba3e24ab5fb93d9aa6a2ab1b4628056
+SHA1: edc0a13005084dea51e5f323daf83569517b7002
+SHA256: 20f51606795d4bbc65778096d9bbe82148f3f68fb15682e4ed0a3df5a6d454cc
+SHA512: 35b3f0122157ada7dd7e780f76cdf22a16da604110cb23f260448a5f61056d97ee5c91b773be09fa34dbbb4f679d3d062981bd9cf297cb45e1a2426b38007aa7
+Description: 电池优化：关闭低级别热量、内存和应用程序使用监控，同时优化WiFi和无线电，以降低设备闲置时的电池消耗。在末尾添加了一些值，以降低DataAccessd进程的使用率
+Name: goodbattery
+Author: 1inchpunch
 
 Package: com.hbwechathelper.ailun
 Architecture: iphoneos-arm64e
