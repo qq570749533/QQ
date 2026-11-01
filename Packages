@@ -811,6 +811,24 @@ Name: NeoFreeBird(RootHide)
 Author: NeoFreeBird
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb/js.json
 
+Package: com.dao.ngc
+Architecture: iphoneos-arm64e
+Version: 1.0.6
+Section: 嗨-工具
+Maintainer: 0xkuj
+Installed-Size: 432
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.0xkuj.notificationsgroupcount
+Filename: debs/com.dao.ngc_1.0.6_iphoneos-arm64e.deb
+Size: 70948
+MD5sum: 454fd3b683843e586e233a3d242a771c
+SHA1: 3dad060f57a361827f21f9c5986a84695c0b3501
+SHA256: bbb4d970882ed3d48c3a55a4e25113a9d0d7d183dc03dcf57e642fca27f8f17d
+SHA512: edb12a46b7ab2e86f3fa1edb960b6f32ad2bcb521eecc1f264e3b7b0e3d747bc5898101f3ecb9de0fdf5747bad3f6b79d555da4ac03381082979195f0d17c3bd
+Description: 仿 iOS18.1，在锁屏通知堆栈中添加角标，显示组内的通知计数；根据开源编译并汉化。
+Name: 通知组计数(RootHide)
+Author: 0xkuj
+
 Package: com.dao.reverie
 Architecture: iphoneos-arm64e
 Version: 1.1
