@@ -904,6 +904,23 @@ Description: 支持录屏/截图套壳，水印以及区域截图、长截图、
 Name: SHELLX
 Author: iosdump
 
+Package: com.iosdump.trollcmtweak
+Architecture: iphoneos-arm64e
+Version: 1.1.8
+Section: Tweaks
+Maintainer: iosdump
+Installed-Size: 476
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.iosdump.trollcmtweak_1.1.8_iphoneos-arm64e.deb
+Size: 111998
+MD5sum: c8ec49316d56d9aa3a9706f00d7fabe6
+SHA1: daa474840818db770b4c66eb9a4421769a109fcb
+SHA256: 76310ac747851b793d20954cd5252e3e600fc1957cd9b34501a79db06d9790c9
+SHA512: 761310debe6f197748380afb2ae5f44b6183b198dd948c91468db626dbed3d15fee8dc924a96a1a812ea8278e2f11acca3da3171ecbc8c22c39d53f96a1a2d18
+Description: 显示屏幕触摸轨迹，支持iOS14-17所有越狱
+Name: TrollCM
+Author: iosdump
+
 Package: com.iosdump.zone
 Architecture: iphoneos-arm64e
 Version: 2.1.0
