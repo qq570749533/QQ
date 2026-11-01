@@ -1302,6 +1302,26 @@ Sileodepiction: https://sini921.github.io/repo/sileodepiction/fixset/js.json
 Author: @bswbw
 Name: FixSet
 
+Package: com.sini.powersettings
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: 越狱插件
+Maintainer: Nightwind& 刀刀
+Installed-Size: 264
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Filename: debs/com.sini.powersettings_0.0.1_iphoneos-arm64e.deb
+Size: 40576
+MD5sum: a8d1481360693a1a4e14758ef92d3ef1
+SHA1: eafef1556c3532a468b8ecbb4cb10bac9e0ca008
+SHA256: e66df619642eb6a1e0da29a00576fbcc1eb4bbc9651a8cbe4f2b1dead1d6bd30
+SHA512: 8c9c7bbae5c154f0f991a9f6d58dcb8eb8655b0b0e7ce24d4e133f15bdfd47e57604ee7617fd9efb63869e8f070e2422e270309ef1b0be33b1d40359c0a8ccdf
+Description: 将电源菜单(注销、重启等)添加到“设置”右上角！
+Name: PowerSettings
+icon: https://sini921.github.io/repo/sileodepiction/icon/powersettings.png
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/powersettings/js.json
+Author: Nightwind
+
 Package: com.sini.vitreux
 Architecture: iphoneos-arm64e
 Version: 1.3
