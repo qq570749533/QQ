@@ -2118,6 +2118,24 @@ Name: MagicSMS
 Author: rain
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 
+Package: com.wkk.oleddarkmode
+Architecture: iphoneos-arm64e
+Version: 0.5.1-11
+Section: Tweaks
+Maintainer: @fr0st & b4db1r3 <nfive060@gmail.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: debs/com.wkk.oleddarkmode_0.5.1-11_iphoneos-arm64e.deb
+Size: 10802
+MD5sum: 0486451ca20adc08e3cbaf0a67c9724e
+SHA1: 80e5d1504e8da6300562cf324b20f8655330ace1
+SHA256: 62f9bd72ac35e9c306c7138434029edc957cd77eb5d37e86a601ccce8290615b
+SHA512: 38968325f403ab359180e0232aeefe5ec1297ce5167c161ccbe7b1acaf639f472eea1af683f111086443d34f552fb0be370324389ba072f440a5f87c22b6effc
+Description: 让深色模式更深
+Name: OLED Dark Mode
+Author: @fr0st & b4db1r3 <nfive060@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
 Package: com.wkk.photox
 Architecture: iphoneos-arm64e
 Version: 1.0-2
