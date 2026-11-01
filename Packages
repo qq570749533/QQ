@@ -1915,6 +1915,27 @@ Name: Senri
 Sponsor: sini921
 icon: https://sini921.github.io/repo/sileodepiction/icon/senri.png
 
+Package: com.sini.sleeperx
+Architecture: iphoneos-arm64e
+Version: 3.0.5
+Section: Tweaks
+Maintainer: Sini921
+Installed-Size: 1836
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>=15.0), firmware (<<17.0)
+Filename: debs/com.sini.sleeperx_3.0.5_iphoneos-arm64e.deb
+Size: 272924
+MD5sum: d51e1e40026066a32243a4e97fc2c8f2
+SHA1: b9074ba9411ecb821a6978e30be71fa380fd03ac
+SHA256: 84e10a6bae7ca95395817c697e87bce361ff249f11f1ac6546fbcd8a89b5a93a
+SHA512: f73cfc4edfb819f501a917b18c43e597197df106de5ea53da7827458d3cda3b397d079dbc957d599fb877f19714efa3dea4195ba4fa0e8923f16adf47fa8fe95
+Description: 闹钟增强
+icon: https://sini921.github.io/repo/sileodepiction/icon/sleeperx.png
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/sleeperx/js.json
+Name: SleeperX
+Author: Joshua Seltzer
+Sponsor: Sini921
+
 Package: com.sini.vitreux
 Architecture: iphoneos-arm64e
 Version: 1.3
