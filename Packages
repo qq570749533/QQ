@@ -754,6 +754,25 @@ Description: Infuse增强插件，开启Plus功能，新增更多实用功能。
 Name: Infuse Plus(RootHide)
 Author: dvntm
 
+Package: com.dao.milkywayreborn
+Architecture: iphoneos-arm64e
+Version: 1.4
+Section: 嗨-系统
+Maintainer: MilkyWay Reborn
+Installed-Size: 308
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.milkyway.reborn
+Filename: debs/com.dao.milkywayreborn_1.4_iphoneos-arm64e.deb
+Size: 49220
+MD5sum: 3150bd7695a04d8b89a457ae2233031d
+SHA1: b743949e88ce39d8c630c0876124348d8a0fef77
+SHA256: 5f6bce55853466ff8f1cafe044746ed2c51168d17f4d4213fc8ded8ed4e9fc35
+SHA512: d57dc5e5331c9569bb556fd36228959b77b6688559e48bfc53ad93b5327dfd217d0db908829c1db1600b4b3eb590355ac764d03c010a15765388cac2678175a6
+Description: 窗口化分屏，长按APP图标菜单—>窗口分屏；或者后台界面，按住程序卡片1.5秒，即可将此程序分屏；点击红按钮—>关闭窗口(长按彻底杀死)、黄按钮—>最小化(长按胶囊彻底杀死)、绿按钮—>最大化。
+Name: MilkyWayReborn(RootHide)
+Author: MilkyWay Reborn
+SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/milkyway/js.json
+
 Package: com.dao.neofreebird.bht
 Architecture: iphoneos-arm64e
 Version: 7.3.0+debug
