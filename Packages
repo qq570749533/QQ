@@ -2263,6 +2263,24 @@ Name: sileo悬浮底栏
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 
+Package: com.wkk.yskbhook
+Architecture: iphoneos-arm64e
+Version: 1.0-1
+Section: Tweaks
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.wkk.yskbhook_1.0-1_iphoneos-arm64e.deb
+Size: 6956
+MD5sum: 92a7aff9bfd8b7c3ecb10f5bcb08aba9
+SHA1: 4cc4adefedd6894dbe00e8f49baf0b2d86187ccc
+SHA256: 087c8c0f981ba914523fbcc3445ec3e33a0e5cfdf8d33dd1314ed48d9fa502f9
+SHA512: 0d3192f461d561f695b147de2eda9861459f56ffaf52ab8ce23ae5990bd262cb733549e43be4d4405c66f901b4fa334010f943b82a9bed8fa9a95e8294e43dba
+Description: 放大了3个像素，可以搭配源里的系统键盘圆角一起使用，键盘变得胖乎乎，很可爱。（不支持放大模式下使用）
+Name: 原生键盘放大
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
 Package: com.wkk.zaire
 Architecture: iphoneos-arm64e
 Version: 0.9.0
