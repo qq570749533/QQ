@@ -1283,6 +1283,25 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/ccrespring.png
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/ccrespring/js.json
 Author: Mr.Zhang <mr_zhang_00@163.com>
 
+Package: com.sini.fixset
+Architecture: iphoneos-arm64e
+Version: 1.1
+Section: Tweaks
+Maintainer: gblw
+Installed-Size: 123
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.sini.fixset_1.1_iphoneos-arm64e.deb
+Size: 36756
+MD5sum: 27365ed2a46fa965e96d0d37b66af562
+SHA1: b6b302748ab0f559b7d2bc23e18d214083013d4a
+SHA256: 3d41ca3a97c71264909f5a46b5e6568ac312f201d34b57775804efd1552ab698
+SHA512: 69debe7fdb24aa739e0bd1fb4f0a7cbe81700d4d8372607e41b1189ea33a102869ff65c9c871d5a16dec3d12059fea953dd58ed350c4d83de0395b4a92ec0578
+Description: 修复部分插件转roothide配置不保存问题
+Icon: https://sini921.github.io/repo/sileodepiction/icon/fixset.png
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/fixset/js.json
+Author: @bswbw
+Name: FixSet
+
 Package: com.sini.vitreux
 Architecture: iphoneos-arm64e
 Version: 1.3
