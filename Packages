@@ -1790,6 +1790,25 @@ Author: PoomSmart & SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/pscamera.png
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/pscamera/js.json
 
+Package: com.sini921.quickactions
+Architecture: iphoneos-arm64e
+Version: 1.0.1-5
+Section: 越狱插件
+Maintainer: Cameron Katri & SINI
+Installed-Size: 468
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: debs/com.sini921.quickactions_1.0.1-5_iphoneos-arm64e.deb
+Size: 101212
+MD5sum: 347d2bc350118930ea744a7be0abb43b
+SHA1: 2b9fd4b01f8503afb4e6e9846d0bade5a35d5e9b
+SHA256: d46321f5e7eb65bd808219fa20bd23d3e698aef38fa2104bf6bbe1390a244599
+SHA512: 7d777f0259e1943e112dfb565d1586c810e5e6daec209eb8613ff5c9dfa0c309f526b322a60804a783c0c6787dfe87db92115ad07899b812310afa0e374e9148
+Description: 锁屏界面的相机与手电筒按钮自定义，基于开源修改编译，添加一些电源操作。
+Name: QuickActions(roothide)
+Icon: https://sini921.github.io/repo/sileodepiction/icon/quickactions.png
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/quickactions/js.json
+Author: Cameron Katri & SINI
+
 Package: com.sini921.quickappskill
 Architecture: iphoneos-arm64e
 Version: 0.0.1-14
