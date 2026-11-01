@@ -1990,6 +1990,24 @@ Name: AFakerXI
 Author: lenglengyu
 Icon: https://s1.imagehub.cc/images/2025/12/25/84d30bdfaeb41881309878d3cc6c574d.png
 
+Package: com.wkk.apthook
+Architecture: iphoneos-arm64e
+Version: 1.0-1
+Section: Tweaks
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.wkk.apthook_1.0-1_iphoneos-arm64e.deb
+Size: 6140
+MD5sum: 50335d340204c0e7de30ac0746530861
+SHA1: b12f651aa66563cf3993adbae3ffce9ce01d7d47
+SHA256: a5696d3845080f0d21a61d19a1e78b71d54623ce632aaaba21c6fa0046ec78e3
+SHA512: ca7930bd95681d9a6ec90ae8bbef48f2bc8310fd94406c5e56520a365088d9f9364d9cfbbc97b90e75e76cd67486c724633ad6e925269990443337672dc60985
+Description: 无需长按app后再拖拽app布局，点住app的那一刻直接进行拖拽即可。
+Name: 加速App拖拽
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
 Package: com.wkk.cctunneltap
 Architecture: iphoneos-arm64e
 Version: 1.0.0
