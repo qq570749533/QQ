@@ -2030,6 +2030,25 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/quickpowerbutton.png
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/quickpowerbutton/js.json
 Author: SINI
 
+Package: com.sini921.zoomanimation
+Architecture: iphoneos-arm64e
+Version: 0.0.1-13
+Section: 越狱插件
+Maintainer: SINI
+Installed-Size: 472
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.sini921.zoomanimation_0.0.1-13_iphoneos-arm64e.deb
+Size: 121354
+MD5sum: 8d463520eeef53190f5446c00f4a76da
+SHA1: b9b9eb066efc0ebf05f6409f0bc2f98b6d080b6d
+SHA256: 1ad57bad730fe0cea60a9fd42a79088af45dd8d643e0b08474c37dc308bf5a49
+SHA512: 685281966bd803af0aab462ac21fd16a0313f417b27c3763650d5ca5ff98860246356d7832b8ddf801e97f13da2f046283f853f9a82a0e1cb5a3972cc309ec2c
+Description: 桌面动画，可选动画样式，调节动画幅度。
+Name: ZoomAnimation(roothide)
+Icon: https://sini921.github.io/repo/sileodepiction/icon/zoomanimation.png
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/zoomanimation/js.json
+Author: SINI
+
 Package: com.snail.allowlocationonce.roothide
 Architecture: iphoneos-arm64e
 Version: 1.0.2
