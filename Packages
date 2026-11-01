@@ -442,6 +442,23 @@ Description: 删除主屏幕上小部件的背景。
 Name: Remove Widget Background
 Author: Lessica <82flex@gmail.com>
 
+Package: com.82flex.unseen
+Architecture: iphoneos-arm64e
+Version: 0.0.5
+Section: Tweaks
+Maintainer: 82flex
+Installed-Size: 492
+Depends: firmware (>= 14.0), preferenceloader
+Filename: debs/com.82flex.unseen_0.0.5_iphoneos-arm64e.deb
+Size: 103344
+MD5sum: 352c4efeefd2e61f0be5b956845e2255
+SHA1: 9fb641a1d8ea2bd8dd7a44916c54b1e8f7af8171
+SHA256: 2047066e74704b3421c8b4a434ac7431c47b117e45e9f670eba9761bd3b8573d
+SHA512: 94329278b558b02636b69d4b85406697b002a5a565178f6da7aa83cfe9da3c86a19b462da3e8f78876af32fa863d079fc74e3fafaf20255f8442f5ac74234648
+Description: 屏蔽屏幕截图检测和录屏检测。
+Name: Unseen屏蔽截图检测
+Author: 82flex
+
 Package: com.CopyFaster
 Architecture: iphoneos-arm64e
 Version: 0.0.1
