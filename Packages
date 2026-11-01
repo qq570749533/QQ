@@ -1287,6 +1287,24 @@ dev: kingpuffdaddi
 icon: https://TrollStoreX.Github.io/sileodepiction/CCVPN/icon.png
 SileoDepiction: https://TrollStoreX.Github.io/sileodepiction/CCVPN/js.json
 
+Package: com.lclrc.cccalc
+Architecture: iphoneos-arm64e
+Version: 2.1.0
+Maintainer: gilesgc & paisseon & lclrc
+Installed-Size: 348
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: debs/com.lclrc.cccalc_2.1.0_iphoneos-arm64e.deb
+Size: 81736
+MD5sum: 3a1aace7cc4bb8ab0b87721a5d6f0ced
+SHA1: f073f58d4859daae72f677d2f59de9b32d5546b0
+SHA256: 78c500f85c7c6afce03b629420f8d6a892d15288263f2993e1ac7709e2b82ca7
+SHA512: 56e83a7cb59d3ee794e466c7054e42e87c5c1fe4eb123007a302654c8ba087ec42ef358f7bdf5070f8fbc93472b5581730788b5f22c3564081332e510a1c6681
+Description: 把控制中心的计算器变成真正的计算器，而不仅仅是复制上一个计算结果。
+Name: CCCalc
+Author: gilesgc & paisseon & lclrc
+Icon: https://gilesgc.github.io/repo/depictions/com.gilesgc.cccalc/cccalc-icon.png
+
 Package: com.lclrc.recordanywhere
 Architecture: iphoneos-arm64e
 Version: 1.1.0
