@@ -1455,6 +1455,25 @@ icon: https://sini921.github.io/repo/sileodepiction/icon/powersettings.png
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/powersettings/js.json
 Author: Nightwind
 
+Package: com.sini.recorder-bubble
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Tweaks
+Maintainer: sunshinesong
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/com.sini.recorder-bubble_0.0.1_iphoneos-arm64e.deb
+Size: 53058
+MD5sum: 6ad140dd37a7f6221da7d982ad3caf09
+SHA1: 107b16c5ead46b1e3c0a7630c268a611a681cf96
+SHA256: 85c85b68f1d77ca02804da078a73f0beb17821e2f18d48a40ff2ddeb972a7f23
+SHA512: bf4484ebda8186a90e9935f40802db6db0f88a8404f216131bea1a74cc145c6d1575b5e71cb37aaa0ee33abddee932247b55bf3cc326ad35c357dad84b92dad0
+Description: 当录制屏幕时，显示一个花瓣悬浮球指示器。
+icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/recorder-bubble/js.json
+Name: recorder-bubble
+Author: sunshinesong
+
 Package: com.sini.vitreux
 Architecture: iphoneos-arm64e
 Version: 1.3
