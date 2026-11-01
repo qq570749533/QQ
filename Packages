@@ -718,6 +718,25 @@ Name: 3DBadgeClear(RootHide)
 Author: isklikas
 SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/3dbadgeclear/js.json
 
+Package: com.dao.axon
+Architecture: iphoneos-arm64e
+Version: 2.6
+Section: 嗨-工具
+Maintainer: 刀刀
+Installed-Size: 720
+Depends: mobilesubstrate, firmware (>= 14.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
+Filename: debs/com.dao.axon_2.6_iphoneos-arm64e.deb
+Size: 284752
+MD5sum: 3b4cc6355490fcc186aeca8619937135
+SHA1: 85cf1daf9b06809289cf12b9462241f8ff5177e0
+SHA256: 9745f94ff19d516d11acfb3cb0570736dec3dc0568087da65a08544240058969
+SHA512: 53e9b3dc9a6e36e3a61c98a6d545e642f80855402d303358f4843b222d49f04d55337508e2954628f88be7694630f2baac5675bbeb0a1c86c90d1107ed75726e
+Description: 锁屏通知聚合插件，刀刀中文优化版，提升执行效率与稳定性。
+Name: Axon(RootHide)
+Author: Nepeta & daodao
+SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
+
 Package: com.dao.griddy
 Architecture: iphoneos-arm64e
 Version: 1.2.3
