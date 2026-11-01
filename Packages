@@ -2318,6 +2318,24 @@ Author: Luki
 Sponsor: ekk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 
+Package: com.wkk.zmzhook
+Architecture: iphoneos-arm64e
+Version: 1.0-1
+Section: Tweaks
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.wkk.zmzhook_1.0-1_iphoneos-arm64e.deb
+Size: 7292
+MD5sum: 689fc2d8ff2fa68c668bdc545d072114
+SHA1: 534396a474e5e6c8ac7b0d6a2d1a0c45e7fb3c6f
+SHA256: e7644181fcef63232083d9b62cd8ba237fc16f02b1e463877084d94cb7e6d489
+SHA512: 1347b9eb75f71dc227deee6318664c792c37f672c6f6c9c8897b5a01ea36a677218296861536d723cb9b0e12b6d7826497ef9c245f5ea27f96697df155909efa
+Description: cool
+Name: 隐藏文图标文字阴影
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
 Package: com.xybp888.callassist16.dopamine.roothide
 Architecture: iphoneos-arm64e
 Version: 3.3.2
