@@ -239,6 +239,22 @@ Author: zqbb
 Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.disupdateapp
 SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.disupdateapp
 
+Package: cn.zqbb.editprefs
+Architecture: iphoneos-arm64e
+Version: 1.1.0
+Section: Utilities
+Maintainer: zqbb
+Installed-Size: 160
+Filename: debs/cn.zqbb.editprefs_1.1.0_iphoneos-arm64e.deb
+Size: 47052
+MD5sum: a3f6c28a43922edee2d509fa473d3cef
+SHA1: 442ae90a82e50e03c89aaeefb555150f61acdead
+SHA256: e174193d9fbc803e06d1bcbc8e2608520664796b4128b0902f209c9eb71e8cf6
+SHA512: c65477b4bdd5a58c8e9333f35cf6926e7f3812fa5cca7ea6fd2e695e8e44aa6b579c713c58e944f170effcfc373a3496bc5ef90234ac44bee5b36b538d95799c
+Description: 一个很棒的应用程序！
+Name: Hello Edit Prefs
+Author: zqbb
+
 Package: cn.zqbb.hello.memorystatus
 Architecture: iphoneos-arm64e
 Version: 3.9.0-9
