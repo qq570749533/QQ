@@ -1740,6 +1740,25 @@ Name: sileo头像旋转
 Author: liuf <1602389262>
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 
+Package: com.wkk.filzaswipeselect
+Architecture: iphoneos-arm64e
+Version: 0.0.2
+Section: Tweaks
+Maintainer: korboy <korboybeats@gmail.com>
+Installed-Size: 184
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.wkk.filzaswipeselect_0.0.2_iphoneos-arm64e.deb
+Size: 10500
+MD5sum: 32eb847c4de750d7c6d817e07915ab0c
+SHA1: 483183ca71607e25f99e259fbd287ada2ab8772f
+SHA256: 7c4b986bdc14d4b45310e61903286fe7745d6b1b198d99faf2118d9caa3bdedc
+SHA512: f88c5b8eed1c10928e615939314d4e4428a12f53ea920cef2510bc6514d4f791eb34e8c11c31a073ad7ec0d7d569efed7f971994204aecdde6c74a688f9e006b
+Description: Filza的滑动多选功能。
+Icon: https://sini921.github.io/repo/sileodepiction/icon/filzaswipeselect.png
+Name: FilzaSwipeSelect
+Author: korboy <korboybeats@gmail.com>
+
 Package: com.wkk.kb2hook
 Architecture: iphoneos-arm64e
 Version: 1.0-1
