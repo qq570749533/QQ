@@ -1271,6 +1271,26 @@ Name: 控制中心音乐模块动画
 Author: simon
 icon: https://huayuarc.github.io/icon/fugap.jpg
 
+Package: com.sini.autofillfix
+Architecture: iphoneos-arm64e
+Version: 0.1
+Section: Tweaks
+Maintainer: P2KDev
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: debs/com.sini.autofillfix_0.1_iphoneos-arm64e.deb
+Size: 3072
+MD5sum: 438b4948842a02fae6e1492444972b95
+SHA1: 5f8435c5e5a60cc15e48fdea4f7fbfc9f06d668e
+SHA256: bb2b62d2863bc72941295b51f6bf119b23aca6a859e62e79117a7dce46a14361
+SHA512: b1b81e128beb338b6ec11985eef411d1b1a9c4bc01af9dd21f51e0924bb0ce8e98bb3b4be9786f0421ccc76ad88b46e1ac4c7d060d3edb7d12392bc297c9c3b7
+Description: 修复越狱后，短信验证码不自动填充问题
+Name: AutoFillFix
+Author: P2KDev
+Sponsor: P2KDev
+icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/autofillfix/js.json
+
 Package: com.sini.autoscroll15
 Architecture: iphoneos-arm64e
 Version: 1.0.0
