@@ -573,6 +573,25 @@ Author: CydiaGeek <lucaluca86@aol.com>
 dev: lucaluca86
 icon: https://huayuarc.github.io/icon/huayuarc.jpg
 
+Package: com.dao.griddy
+Architecture: iphoneos-arm64e
+Version: 1.2.3
+Section: 嗨-工具
+Maintainer: mikifp
+Installed-Size: 236
+Depends: mobilesubstrate, firmware (>= 15.0)
+Conflicts: com.mikifp.griddy, xyz.cypwn.griddy
+Filename: debs/com.dao.griddy_1.2.3_iphoneos-arm64e.deb
+Size: 16644
+MD5sum: e7c5fb429d06a9e278ef8c6bd53c559b
+SHA1: 925fdcefb319eec04abe685f424773b429f264ac
+SHA256: 6377029690bfbee188482434019ef2d8749ce769e26753d57b09c9ed26f2ddd2
+SHA512: f4f57725467f7ae343b909fe8985cba6b185ef1523677985cca0bb002daf60e6c1989fc3da180f98c72a8ecfd8a6f5836bb23a113fe91bf132574244251d329e
+Description: 让你的程序图标在桌面随意摆放。
+Name: Griddy 随意摆(RootHide)
+Author: mikifp
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/griddy/js.json
+
 Package: com.dao.infuseplus
 Architecture: iphoneos-arm64e
 Version: 2.6
