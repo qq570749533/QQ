@@ -548,6 +548,31 @@ Name: PKC
 Author: Curtin
 Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
 
+Package: com.cydiageek.morelinesnotifications
+Architecture: iphoneos-arm64e
+Version: 1.0.5
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 179
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 8.0)
+Filename: debs/com.cydiageek.morelinesnotifications_1.0.5_iphoneos-arm64e.deb
+Size: 9690
+MD5sum: 65ee8f850a7ccd7eeafb5a570839ea90
+SHA1: 36413202c110ee36d15eecc010f1b177025c7473
+SHA256: 78613b86121051409f55bc805f06c1137bca9e9986f7b330a48f1d23b05775fa
+SHA512: 02a064d356e52217cbd2bf032d33456bb209b370c2ad05f51d7b694f5b432b8e04746f5f91679e9de81ff7708a3c154bfc3246093bb626664393c7ca6a7c8a55
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=morelinesnotificationDp
+Description: 为通知增加更多的行，显示更多的通知！
+Tag: purpose::extension
+Name: MoreLinesNotifications
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=morelinesnotificationDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CydiaGeek <lucaluca86@aol.com>
+dev: lucaluca86
+icon: https://huayuarc.github.io/icon/huayuarc.jpg
+
 Package: com.dao.infuseplus
 Architecture: iphoneos-arm64e
 Version: 2.6
