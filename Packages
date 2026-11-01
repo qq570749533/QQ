@@ -2191,6 +2191,24 @@ Name: 隐藏画中画挂起背景
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 
+Package: com.wkk.qcglhook
+Architecture: iphoneos-arm64e
+Version: 1.0-1
+Section: Tweaks
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.wkk.qcglhook_1.0-1_iphoneos-arm64e.deb
+Size: 6602
+MD5sum: f353a508ff8f13e1d705b856601d9567
+SHA1: 41da9445ed84426629d5bd1a583df9db37ef23a9
+SHA256: 77a4eaa33d990dcd924c0a2225796ddf897d1e0195a3c2accb4dfdb350aa3cd8
+SHA512: 1e6a1f2d5de887aba3de9091713e2765c5af0f38a79ea9c192b7e3f26060254230258c08f9f6e55279c6461df063edb0eab88346e5fe36fac75cc5735bb51a93
+Description: cool
+Name: 去除原生键盘候选词高亮背景
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
 Package: com.wkk.sileosourcesearch
 Architecture: iphoneos-arm64e
 Version: 1.0-1
