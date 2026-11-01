@@ -184,6 +184,23 @@ Name: AVPhotos照片视频画中画
 Author: MiRO 来了老弟
 Icon: https://huayuarc.github.io/icon/avphotos.jpg
 
+Package: cn.llld.dndmyrecording
+Architecture: iphoneos-arm64e
+Version: 1.2.1
+Section: roothide修复插件
+Maintainer: 来了老弟
+Installed-Size: 196
+Depends: mobilesubstrate
+Filename: debs/cn.llld.dndmyrecording_1.2.1_iphoneos-arm64e.deb
+Size: 5194
+MD5sum: faf45f13fb40dcfe907b1c571a1b8c24
+SHA1: 32974faef751a7cb62b2f23e83668acf32423617
+SHA256: 2d0df4fd436c124b3ac9b1917cb2948dc02d2ff16c9f268814a7ee23134cc70d
+SHA512: 804651e7ca3b03a6b616de8e8488a6ec74146f25a9ac12d8408e127750aee93f1479cd1744dea62d2ab29182d8b1f2ab167fb90efa61fc97658352684250c2f0
+Description: 手机在录屏时，自动开启勿扰模式
+Name: DNDMyRecording录屏勿扰模式
+Author: gilshahar7, 0xkuj
+
 Package: cn.zqbb.3dtouch.inject.roothide
 Architecture: iphoneos-arm64e
 Version: 2.1
