@@ -1141,6 +1141,23 @@ Author: zhaonan
 SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.fix-filza-path/js.json
 Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
 
+Package: com.nathan.internalstoragesettings
+Architecture: iphoneos-arm64e
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Nathan Senter
+Installed-Size: 136
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: debs/com.nathan.internalstoragesettings_1.0.1_iphoneos-arm64e.deb
+Size: 2688
+MD5sum: 732cbbab2fc91378863e1ea53e322a1e
+SHA1: 89cb97e5bcc3f04206f1c98389120be752c1d534
+SHA256: 2cb8c305b93c48b17528de1521dae8f2066f14a1a332aa85f30aef5b7a822960
+SHA512: e9b72e9f84665b30fd907b58d128e261006d55c1a7e7e2e5b20a4051544a94bc80957c9a6e886cb4da96eb2a8e75c405c5dbab8769cf4b91ab426b66c50985f1
+Description: 调整以启用隐藏存储设置
+Name: InternalStorageSettings
+Author: Nathan Senter
+
 Package: com.netskao.ccquantumultxswitch
 Architecture: iphoneos-arm64e
 Version: 1.1-3
