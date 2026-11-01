@@ -2808,6 +2808,27 @@ Description: 隐根越狱依赖插件。无根调整的兼容层。
 Name: rootless-compat
 Author: roothide
 
+Package: ws.hbang.common
+Architecture: iphoneos-arm64e
+Version: 2.0-51
+Section: 依赖插件
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Installed-Size: 3260
+Depends: firmware (>= 15.0)
+Filename: debs/ws.hbang.common_2.0-51_iphoneos-arm64e.deb
+Size: 785382
+MD5sum: 2964ea8b07bdd4f5cb5bc498e4e3dfbe
+SHA1: ac999c69e62b669cb5bc192f828d85c3f7e8cd33
+SHA256: 1690dc2c20e55abf772e8018817083e2dc009b2119404b26333f67a166bd8f6d
+SHA512: c748ea081f7c105da4108196cba00611f87182a99a50d8f0003e559923a8b18e75c561e410c036adaae1e357094a659f45939bf161c5de153cff9388f8e427a7
+Description: 隐根越狱依赖插件。调整支持库
+Tag: role::developer, compatible_min::ios15.0
+Name: Cephei Tweak Support
+Author: HASHBANG Productions <support@hbang.ws>
+Icon: https://img.chariz.cloud/icon/cephei/icon@3x.png
+Depiction: https://chariz.com/get/cephei
+Support: https://hashbang.productions/support/
+
 Package: zp.stopshortcutsautomationnotif
 Architecture: iphoneos-arm64e
 Version: 1.0.1
