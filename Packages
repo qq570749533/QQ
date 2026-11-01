@@ -823,6 +823,23 @@ Description: 支持录屏/截图套壳，水印以及区域截图、长截图、
 Name: SHELLX
 Author: iosdump
 
+Package: com.iosdump.zone
+Architecture: iphoneos-arm64e
+Version: 2.1.0
+Section: Tweaks
+Maintainer: iosdump
+Installed-Size: 1160
+Depends: mobilesubstrate, preferenceloader, unzip, com.opa334.ccsupport
+Filename: debs/com.iosdump.zone_2.1.0_iphoneos-arm64e.deb
+Size: 444996
+MD5sum: 5798464d2147d23e7ef04533b13f2e76
+SHA1: 9a87e17dc66b7e267a510eda0859a5f9ff06b9a7
+SHA256: cb7e80340bf145e15e67d37134807ed522ccbdae00e8df50d9e62dd360bc19c9
+SHA512: ca8fdc5777c8e303e98492cdf3b71ee974f4f36137e48f255f407ce5e1cf2e56464e0e117033e7ed5ddfd448555580388ea7b0d6510b1d0533faf47b1b44a19d
+Description: Zone 插件用于设置.tendies交互壁纸/视频壁纸 支持iOS14-17
+Name: Zone
+Author: iosdump
+
 Package: com.lenglengyu.ghallownetwork
 Architecture: iphoneos-arm64e
 Version: 0.0.1
