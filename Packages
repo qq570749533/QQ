@@ -850,6 +850,26 @@ Author: dvntm
 Icon: https://TrollStoreX.Github.io/sileodepiction/FilesBrowsingOnly/icon.png
 SileoDepiction: https://TrollStoreX.Github.io/sileodepiction/FilesBrowsingOnly/js.json
 
+Package: com.dvntm.oledkeyboards
+Architecture: iphoneos-arm64e
+Version: 0.0.3
+Section: Bootstrap
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.dvntm.oledkeyboard
+Filename: debs/com.dvntm.oledkeyboards_0.0.3_iphoneos-arm64e.deb
+Size: 9194
+MD5sum: 93e2685710e23ac6629aaed2c1d2bfb4
+SHA1: f0f50ecdfe2b325146290a63b33fed6703431b6f
+SHA256: 64b050960337d4bb8bcc1ca877660df30784f9d812bd5f403483167e20e53f4a
+SHA512: d14c5fff9caae49a94d6362856516bd3939a9d13d81a325505032ddaf16411e751610d5e479af997b76336c1145e727fd2265e9cf56db937029827fe57ce6046
+Description: 深色模式下键盘背景显示为纯黑
+Name: OledKeyboard 深色纯黑键盘
+Author: dvntm
+icon: https://TrollStoreX.Github.io/sileodepiction/OledKeyboard/icon.png
+SileoDepiction: https://TrollStoreX.Github.io/sileodepiction/OledKeyboard/js.json
+
 Package: com.goodbattery
 Architecture: iphoneos-arm64e
 Version: 0.0.1
