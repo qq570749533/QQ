@@ -828,6 +828,24 @@ Description: 让你的设备在主屏/锁屏上下雪！根据开源，定制的
 Name: Stella
 Author: yan
 
+Package: com.dao.tvlock
+Architecture: iphoneos-arm64e
+Version: 1.2.3
+Section: 嗨-工具
+Maintainer: Wes <wes.hamster@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: com.wrp1002.tvlock, com.dao.tvlock.cn
+Filename: debs/com.dao.tvlock_1.2.3_iphoneos-arm64e.deb
+Size: 45052
+MD5sum: ff171aa904c6b1705fa0100b7f949e72
+SHA1: 5399516b3474517bc31b10607c8b87b5670093b1
+SHA256: 4a1937cffc31dff31c8613dd63b91d1960373909fcb86d0d527357be3936e45c
+SHA512: 7c73fc0c0fa2de4a4659e58cb9c264930c0464b34863ed0eaa3b7d857b2817cd0731d8e7156c6d92bb13e68d24cbf4ca9c851fa1cb52ba819675152c3a888273
+Description: 很棒的老电视关屏动画，根据开源编译，已内置简体中文。
+Name: TVLock(RootHide)
+Author: Wes <wes.hamster@gmail.com>
+SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/tvlock/js.json
+
 Package: com.dao.ytkace
 Architecture: iphoneos-arm64e
 Version: 1.1.4
