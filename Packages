@@ -773,6 +773,24 @@ Description: Infuse增强插件，开启Plus功能，新增更多实用功能。
 Name: Infuse Plus(RootHide)
 Author: dvntm
 
+Package: com.dao.liqlite
+Architecture: iphoneos-arm64e
+Version: 0.2
+Section: 嗨-工具
+Maintainer: daodao
+Installed-Size: 520
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 14.0), firmware (<< 26.0)
+Filename: debs/com.dao.liqlite_0.2_iphoneos-arm64e.deb
+Size: 146474
+MD5sum: 3746d6e689a2d16a56c20adbbdcdc811
+SHA1: 9bfccc1874846793fae1c19e63d5e6a8116e1d70
+SHA256: dd4efbf70ca917df51ec2453eef0415614f8d08d98451488d1a863a905d62887
+SHA512: 04a982ab68af223da87ef5e353c481fa6277c345e1fcc890b509b9116572fc955215239a2c80af14809351f6a2ee2ee5f777c86948134dbdcb89dbb90ef8a7f8
+Description: 基于dylv/liquidass项目，程序坞和文件夹图标启用液态玻璃效果。
+Name: LiqLite(RootHide)
+Author: daodao
+SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/liqlite/js.json
+
 Package: com.dao.milkywayreborn
 Architecture: iphoneos-arm64e
 Version: 1.4
