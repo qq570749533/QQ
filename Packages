@@ -2064,6 +2064,25 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/filzaswipeselect.png
 Name: FilzaSwipeSelect
 Author: korboy <korboybeats@gmail.com>
 
+Package: com.wkk.fuckicon
+Architecture: iphoneos-arm64e
+Version: 1.0-1
+Section: Tweaks
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
+Filename: debs/com.wkk.fuckicon_1.0-1_iphoneos-arm64e.deb
+Size: 3522
+MD5sum: 02893af084df84ec12bb7eed8af726f7
+SHA1: 19ac65cb1c6cbf2257dc4ee6a5f92d33c687f7d4
+SHA256: 034d6d7cc06b66a188510baa4c168e54a71301400f2a472c14e259c72582310d
+SHA512: 3294fe6397117b1227f2bf7d1f8b6574026da3689aa7ba421cec3d2e7ec9cd626a060515b474b4815c6af1e06c85eacc0810f4a2e7854150c4a65a349bdfc54d
+Description: 隐藏桌面App以及小组件名字。
+Name: HideIconName
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
 Package: com.wkk.hideserialnumber
 Architecture: iphoneos-arm64e
 Version: 1.0-4
