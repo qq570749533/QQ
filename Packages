@@ -2718,23 +2718,6 @@ Description: iOS 15.0中对传统arm64e ABI的支持+
 Name: Legacy arm64e Support
 Author: Nightwind
 
-Package: org.coolstar.sileo
-Architecture: iphoneos-arm64e
-Version: 2.5.1-14
-Section: 嗨-系统
-Maintainer: 刀刀
-Depends: firmware (>= 11.0), firmware (>= 12.2) | org.swift.libswift (>= 5.0), coreutils (>= 8.30-1), dpkg (>= 1.19.4-1), apt (>= 1.8.2), libzstd1
-Replaces: org.coolstar.sileo
-Filename: debs/org.coolstar.sileo_2.5.1-14_iphoneos-arm64e.deb
-Size: 5187148
-MD5sum: 1383a133b4aaac97aa763e0dc26d0e31
-SHA1: d46250eb743a33ee5fd030130a0c978220b212b5
-SHA256: f3a3a2d2fc059fb48dea8523b7f44209fcec9b5d3602f6bd95002dc055e0e27f
-SHA512: 65e8a612c5c8535a382a16445cd24071dabf061b3c6da612c8c567c4b787a28ec1f08d67b5279786e3e8f54f916b3208284e56552029857d396b6c9c03438729
-Description: 刀刀补充汉化，并在插件列表左侧增加架构指示器(arm64e → 绿色、arm64 → 蓝色、arm → 橙色、all → 灰色)，可识别刀刀源内的 RootHidePatcher 中文版，也识别 UmbraPatcher，转换插件一条龙。
-Name: Sileo(RootHide)
-Author: Amy While
-
 Package: preferenceloader.top
 Architecture: iphoneos-arm64e
 Version: 2.2.8-2
