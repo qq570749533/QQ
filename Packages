@@ -938,6 +938,24 @@ Description: Zone 插件用于设置.tendies交互壁纸/视频壁纸 支持iOS1
 Name: Zone
 Author: iosdump
 
+Package: com.lclrc.recordanywhere
+Architecture: iphoneos-arm64e
+Version: 1.1.0
+Section: Tweaks
+Maintainer: Muirey03 & lclrc
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: debs/com.lclrc.recordanywhere_1.1.0_iphoneos-arm64e.deb
+Size: 4794
+MD5sum: 01492cefad87afd23d1f62b1affd99b9
+SHA1: c041f7b51bc06823225ac251cbd6ecd34f9e3092
+SHA256: c5dda86b0b76a09fecc29bd1457db118bdad2480becfbba567a595caef23f05a
+SHA512: 37010228986987eb18ff25141f5a31054bde117f416914a2ba956f65a5156e002ed106ddee9d4ef3d09958901992fdc62ac55f37915d556d1bb485c833947086
+Description: 使手机在锁屏状态也可以继续录屏。修复支持Dopamine，感谢原作者提供的思路。
+Name: 锁屏录屏RecordAnywhere
+Author: Muirey03 & lclrc
+
 Package: com.lenglengyu.ghallownetwork
 Architecture: iphoneos-arm64e
 Version: 0.0.1
