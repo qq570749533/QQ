@@ -2245,6 +2245,24 @@ Name: Sileo 源搜索
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 
+Package: com.wkk.springboardanimation
+Architecture: iphoneos-arm64e
+Version: 1.0-1
+Section: Tweaks
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.wkk.springboardanimation_1.0-1_iphoneos-arm64e.deb
+Size: 6458
+MD5sum: 588bc008673b17dd976156a762c784fb
+SHA1: b6cea500983227f8be1cb2ba880a607a7611dd92
+SHA256: e3c2799fc22c98ebf5046802ce16643278851d5417f9fe75fec073de83722879
+SHA512: 31173c6340b4bd16017b326f565da321e443f62bf2698ecc10b15fd45166e8e9ba9a6d651e25fb11ae97e5301320c2c9425216a5d3f2ecb5c28ea53c23f6a726
+Description: 返回桌面及切换后台动画进行一定比例的缩放，双0.1模式。
+Name: 神奇的交互动画
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
 Package: com.wkk.tbhook
 Architecture: iphoneos-arm64e
 Version: 1.0-1
