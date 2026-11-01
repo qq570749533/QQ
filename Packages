@@ -2623,6 +2623,24 @@ Name: PhotoX
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 
+Package: com.wkk.pip2hook
+Architecture: iphoneos-arm64e
+Version: 1.0-1
+Section: Tweaks
+Maintainer: wkk
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.wkk.pip2hook_1.0-1_iphoneos-arm64e.deb
+Size: 19478
+MD5sum: ff9f2a660194e32036ab892e3582f960
+SHA1: 02e63d0bdb912ac458a55b16613a56c6797b92cd
+SHA256: 56f5ea77bd58926fb50ccace7e5ee8994deaebf4e2345c21244ba6c8fcffd3e1
+SHA512: e4b8941b8f81c5958418646e430fcf61621aa9423b1c376a7bc3200b8ac707d7ce08981f6d23a40faf40260fc5df44decc1cb14991d7214cce9defda4db94e8f
+Description: 隐藏画中画挂起时的背景和箭头，保留交互，使其完全隐藏。
+Name: 隐藏画中画挂起背景2
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
 Package: com.wkk.piphook
 Architecture: iphoneos-arm64e
 Version: 1.0-1
