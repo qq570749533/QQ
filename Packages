@@ -2509,6 +2509,27 @@ Author: 82Flex, zqbb
 Icon: https://apt.002599.xyz/web/icon/com.zqbb.kayoko.png
 SileoDepiction: https://apt.002599.xyz/web/com.zqbb.kayoko
 
+Package: com.zqbb.limitcharging
+Architecture: iphoneos-arm64e
+Version: 1.0.8
+Section: Tweaks
+Maintainer: zqbb
+Installed-Size: 244
+Depends: mobilesubstrate (>= 0.9.5000) , firmware (>= 15.0)
+Conflicts: zp.limitcharging.rootless
+Filename: debs/com.zqbb.limitcharging_1.0.8_iphoneos-arm64e.deb
+Size: 27446
+MD5sum: 7026de7efb06742e00d6324e03636e6e
+SHA1: d7044d86330f357cc1f0f8ccf4f02a2d9c53d927
+SHA256: a52eded72a422ca508c50186faf95f0d9330b416e2e9299a7a870f0372da07e9
+SHA512: b3c7582e97bbee8325e6176d816dbe67ee2e3b3e83e74c019881b43312903255f4ef08ab416093d87480980326df5c18ada13bbcd63131238c30ad628ebd3809
+Description: Hello Charging (限制充电)
+ - Wi-Fi Not Disconnected on Lock Screen (Standby consumes 5% more power)
+ - 锁屏不断Wi-Fi(待机多费电5%)
+Name: Hello Charging
+Author: zqbb
+SileoDepiction: https://rootless.002599.xyz/web/com.zqbb.limitcharging
+
 Package: daniel.batman
 Architecture: iphoneos-arm64e
 Version: 0.0.2-1+debug
