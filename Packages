@@ -255,6 +255,26 @@ Description: 一个很棒的应用程序！
 Name: Hello Edit Prefs
 Author: zqbb
 
+Package: cn.zqbb.fix120hz
+Architecture: iphoneos-arm64e
+Version: 3.3.3-6
+Section: zqbb Tweaks
+Maintainer: zqbb
+Installed-Size: 6284
+Depends: mobilesubstrate (>= 0.9.5000) , firmware (>= 15.0), preferenceloader, com.opa334.altlist
+Conflicts: cn.zqbb.fix120hz15, com.zqbb.fix120hz, com.zqbb.dynamic120hz
+Filename: debs/cn.zqbb.fix120hz_3.3.3-6_iphoneos-arm64e.deb
+Size: 3307106
+MD5sum: 6da3c6ddf6bc56e19765518e515d6d06
+SHA1: fc068442e76e4515338368b54832294718cba2d6
+SHA256: 7d60ed8bc220eb150a67a0f55ab4232f1dc1d72dd1298d0a453827ee61342a27
+SHA512: 3c0b9d9a960d1993392c0666d5f718f47342d705228e936f6cf7411ebff0bf71e0060b7537fb04b5621d27d06aecbe5a3df6a2030de6798af1bbb9954b8425d5
+Description: 解锁动态刷新率80hz到120hz.
+Name: Hello 120Hz
+Author: zqbb
+Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.fix120hz
+SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.fix120hz
+
 Package: cn.zqbb.hello.memorystatus
 Architecture: iphoneos-arm64e
 Version: 3.9.0-9
