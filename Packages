@@ -688,6 +688,23 @@ Description: 获取当前页面的视频并下载，仅Safari浏览器可用；�
 Name: PyVideo
 Author: crctdd
 
+Package: com.crctdd.stayalivelite
+Architecture: iphoneos-arm64e
+Version: 0.4.1
+Section: Tweaks
+Maintainer: crctdd
+Installed-Size: 1272
+Depends: firmware (>= 15.0), firmware (<< 17.4), preferenceloader, com.opa334.ccsupport
+Filename: debs/com.crctdd.stayalivelite_0.4.1_iphoneos-arm64e.deb
+Size: 483730
+MD5sum: b0bf534eec82be50755ad972d1b77c39
+SHA1: 199f15b45c4924aae2b4c877aea8b9bfd0c4a650
+SHA256: 2032c500672b0c3937cc7cb293342f054daeacb939af92fed5daaa87b0922181
+SHA512: 2aafb466fe02f1c543d30adb1c1228f88f79183186768040f41263a362141927839be1452d3faee7eacce2d572d7f2d2c7b2ebfe4464d7b036ac66c7967bcc94
+Description: 轻量后台守护插件，支持多种运行方式与任务角色性能控制，让app后台运行更稳定。(支持ios15-17)
+Name: StayAlive Lite
+Author: crctdd
+
 Package: com.curtin.pkc
 Architecture: iphoneos-arm64e
 Version: 0.9-9-Beta2
