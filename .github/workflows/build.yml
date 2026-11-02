@@ -1,0 +1,34 @@
+name: Build Cydia Repo
+on:
+  push:
+    branches: [ main ]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Generate Packages
+        run: |
+          sudo apt update
+          sudo apt install -y dpkg-dev
+          cd debs
+          dpkg-scanpackages . /dev/null > ../Packages
+          gzip -k -f ../Packages
+      - name: Generate Release
+        run: |
+          echo "Origin: My Repo" > Release
+          echo "Label: My Repo" >> Release
+          echo "Suite: stable" >> Release
+          echo "Codename: stable" >> Release
+          echo "Architectures: arm64 arm64e" >> Release
+          echo "Components: main" >> Release
+          echo "Description: iOS Cydia Repo" >> Release
+          apt-ftparchive release . >> Release
+      - name: Commit & Push
+        run: |
+          git config --global user.name "qq570749533"
+          git config --global user.email "qq570749533@users.noreply.github.com"
+          git add Packages Packages.gz Release
+          git commit -m "Auto update repo index" || echo "No changes"
+          git push
