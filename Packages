@@ -3306,6 +3306,23 @@ Description: 显示更多电池信息
 Name: Batman (roothide)
 Author: daniel
 
+Package: daniel.lowpowerlock
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Tweaks
+Maintainer: daniel
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: debs/daniel.lowpowerlock_0.0.1_iphoneos-arm64e.deb
+Size: 7576
+MD5sum: 2d87527c49264afb44d8eb92db5faf4d
+SHA1: 7fb087e12eb97c025434ca7d1ae7f3e5789e57f3
+SHA256: 43ab99381c89e08c02ac2983dbc78b6b1f746896ec99a9108cfcd08f64123e2d
+SHA512: 626ef4ab6cbe1eb3debe35a8e031811aec0871ca132409387462136221bed96b29ad539ab6f30a53b26db0f1151a1c9e5d9fe7d68953edc8c121f312f5260ef2
+Description: 设备锁定时启用低功耗模式，解锁时禁用。
+Name: LowPowerLock
+Author: daniel
+
 Package: dev.mineek.appstoretroller
 Architecture: iphoneos-arm64e
 Version: 0.0.2-2+debug
