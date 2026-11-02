@@ -275,6 +275,24 @@ Author: zqbb
 Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.fix120hz
 SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.fix120hz
 
+Package: cn.zqbb.hello.gradientsound
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Tweaks
+Maintainer: zqbb
+Installed-Size: 76
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/cn.zqbb.hello.gradientsound_0.0.1_iphoneos-arm64e.deb
+Size: 5820
+MD5sum: b5e3e84f8a70bfabad06868147fda17a
+SHA1: 98247d24af260d750c763594a6d3b523108ab258
+SHA256: 884d6017dcfc13bc5a44103d3e55b2735d2ea95ce4d7f6d83b6b1b387b34c1de
+SHA512: 179c2a30d545e630d66179280ec4acfee65321fc677b25dc117e906b34da15938d5330e00e3dde6edbe3867d4d10f9fc2ea8ad281ac54d8ff3e619499972a93b
+Description: 为时钟 App 的计时器响铃和铃声试听添加平滑渐强效果，从低音量开始，在铃声前半段逐渐提升至正常音量。
+Name: Hello GradientSound
+Author: zqbb
+SileoDepiction: https://apt.002599.xyz/web/cn.zqbb.hello.gradientsound
+
 Package: cn.zqbb.hello.memorystatus
 Architecture: iphoneos-arm64e
 Version: 3.9.0-9
