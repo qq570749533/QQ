@@ -649,23 +649,6 @@ Description: 下拉桌面图标弹出多开应用容器，无设置项。(支持
 Name: Crane Drop Down
 Author: crctdd
 
-Package: com.crctdd.deleterecords
-Architecture: iphoneos-arm64e
-Version: 0.0.1
-Section: Tweaks
-Maintainer: crctdd
-Installed-Size: 108
-Depends: mobilesubstrate, firmware (>= 15.0), firmware (<< 18.0)
-Filename: debs/com.crctdd.deleterecords_0.0.1_iphoneos-arm64e.deb
-Size: 14840
-MD5sum: 47fab19c5680d0db261b84e32be8365b
-SHA1: c9c4b8a0b5d169ffc4f81dc7077dd9e3c8d88e5a
-SHA256: 2a4793ab2a9177c661444afe146f92f5316ff6ada9a3834e5fcdf321a07938fa
-SHA512: 069a16857250281cc951f452902c7a655da505044d1b66e581ef6caf540ce6265131a0543040c7d85d82012a6b2f33a8d3735af831d1f9cc0ac0f44b877d3d6b
-Description: 长按桌面电话/信息图标可快速清除记录，无设置项。(支持iOS 15-17)
-Name: 快速清除通话短信记录
-Author: crctdd
-
 Package: com.crctdd.disablecallpop
 Architecture: iphoneos-arm64e
 Version: 0.0.1
