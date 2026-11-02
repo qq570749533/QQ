@@ -1106,6 +1106,24 @@ Description: 为 App (文件夹) 添加生物识别锁（Touch ID / Face ID）�
 Name: LockTouchX(RootHide)
 Author: hades
 
+Package: com.hang.keyboardeffects
+Architecture: iphoneos-arm64e
+Version: 1.7
+Section: Tweaks
+Maintainer: 航
+Installed-Size: 856
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: debs/com.hang.keyboardeffects_1.7_iphoneos-arm64e.deb
+Size: 337008
+MD5sum: bde407cd6cb513721937f1cd3ce32bdf
+SHA1: 37df19873f75cacb9378be1f63ac32e850014462
+SHA256: feb30febc2a3e234b049a70a3535650cd4908fcf18abf26161e114b10b5c233b
+SHA512: a3365f92abab3951a565b8e94080bb99378acf963be9065989ac94e2c981bdd8baca2b34570aa8c4f8b0765a380064a8eb5b530bcd60c5690ec9f11840f09c95
+Description: 原生键盘圆角与沿圆角轮廓的彩色发光点击特效
+Name: 键盘特效
+Author: 航
+Sileodepiction: https://hang1888.github.io/depictions/com.hang.keyboardeffects/depiction.json?v=1.7-ui
+
 Package: com.hbwechathelper.ailun
 Architecture: iphoneos-arm64e
 Version: 2.2.1
