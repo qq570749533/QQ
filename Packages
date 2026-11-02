@@ -2390,15 +2390,15 @@ Author: unknown
 
 Package: com.w3ltyyy.lead
 Architecture: iphoneos-arm64e
-Version: 1.4.4
+Version: 2.0
 Section: Tweaks
 Maintainer: w3ltyyy
-Filename: debs/com.w3ltyyy.lead_1.4.4_iphoneos-arm64e.deb
-Size: 9776884
-MD5sum: e5389d96b945989e4217327b83a72049
-SHA1: b9e91b14d7e73dff20f4ca7b29275c4e43a94d7d
-SHA256: b7c697e0d0411f2c23137ecbc4d5e18ed20bcfffad9721f458b4a6837050b219
-SHA512: 7225c68e2f0dd0abefe7e8235271e156939a91d9208de8bb0fbda10802eee4187554019dfea356802578ba9864d73bff6d2f192f5d1061f2aad0d7f1fac765f1
+Filename: debs/com.w3ltyyy.lead_2.0_iphoneos-arm64e.deb
+Size: 2898388
+MD5sum: bb57d5f22ac36cfc7a3fb36b46d075c2
+SHA1: 0da9eef3cbf26a7c5d01a375a931e80719dbfe1d
+SHA256: a0db93fbff96167395de8a5b0e92970b354f458acd88fb22234c49073af683fa
+SHA512: f210b7cae414eb92ac1cbcb2420169e143a829173199ccd20eecc913b9c51a3d9af5d8886ea4bac74f229c07c361e64cce26712d69fd018c3791eabdd1d78262
 Description: Telegram iOS 版的最佳调整工具
 Name: Lead
 Author: w3ltyyy
