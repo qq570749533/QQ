@@ -3192,6 +3192,25 @@ Author: xybp888
 Depiction: https://apt.htv123.com/view/999
 SileoDepiction: https://apt.htv123.com/sileo/999
 
+Package: com.yan.ring
+Architecture: iphoneos-arm64e
+Version: 1.0.2
+Section: Tweaks
+Maintainer: yan
+Installed-Size: 792
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), com.opa334.ccsupport
+Filename: debs/com.yan.ring_1.0.2_iphoneos-arm64e.deb
+Size: 80492
+MD5sum: dea0e7be6de587154831756cdc04f2da
+SHA1: e63776c1f5968feee78731ff16a7cdfd85f0fc7c
+SHA256: 78a2b9fd3802cc09e31dcf05c73bea65ef08b65c39725d526cd3aa03ecdd4ed6
+SHA512: b50452bd8ade29697101671e4d6618cdaaa7828409c6c71cff1bb5c68a7fd4be90f7e63f77db0f804e7547fe1dd74f5af6f33246519519eebc8bd4cb1882e586
+Description: 轻松管理您的铃声音量！
+Name: Ring (无设置项)
+Author: yan
+Icon: https://yandevelop.github.io/assets/icons/ring/icon.png
+
 Package: com.zqbb.kayoko
 Architecture: iphoneos-arm64e
 Version: 4.3
