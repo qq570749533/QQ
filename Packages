@@ -3062,6 +3062,24 @@ Name: Sileo 源搜索
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 
+Package: com.wkk.sileowarningblockx
+Architecture: iphoneos-arm64e
+Version: 1.0-1
+Section: Tweaks
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: debs/com.wkk.sileowarningblockx_1.0-1_iphoneos-arm64e.deb
+Size: 13026
+MD5sum: 9c7cc4f3f4d14b85998d41c4018c205c
+SHA1: 3b60eca954f87dfedfc0da1002e5c1e592bf8d76
+SHA256: 90ec5dd00aeee3d8282eef877bc48e3eed25208cd5f9be2c41329514ad3949a2
+SHA512: a6d97b1616ed075269b03829f28a1d796ec7b5771895b6d59f7fc44898d76001c000d9a897d10434bce48397cb0099cf1d3a5f69f1273fe66a6eedd08bce2151
+Description: 拦截sileo 商店刷新时，跳出的黄字提醒：Warning: Didn't find availabile architectures in Optional("iphoneos-arm iphoneos-arm64") : xxxxx
+Name: 禁用 sileo 黄字提醒
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
 Package: com.wkk.springboardanimation
 Architecture: iphoneos-arm64e
 Version: 1.0-1
