@@ -2417,6 +2417,23 @@ Description: 微信主题盒子
 Name: 主题盒子
 Author: Mao
 
+Package: com.tsangbaby.kbrc
+Architecture: iphoneos-arm64e
+Version: 1.0.3
+Section: Tweaks
+Maintainer: Tsangbaby
+Installed-Size: 168
+Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.tsangbaby.kbrc_1.0.3_iphoneos-arm64e.deb
+Size: 4020
+MD5sum: cf6a80358411ac36060bc6219232e164
+SHA1: 1f5d0b51afb89fd0cf1e5ea22615d8b7f4760bf2
+SHA256: 1e2896609510e24fa7bed676277e1b6214bb5c8d1d2a72ab8024c244499f48cb
+SHA512: 713fa78f9910c7c5effe087097b0c8168c93863a112aff60b1700701e0e0967fb7d848dba1e905e1bed364ae2028ed4e7a613e12aa529baac779d3b76e63285b
+Description: 调整系统键盘按键圆角，让键盘外观更加圆润、简洁。需要 iOS 15 或更高版本。
+Name: 系统键盘圆角
+Author: Tsangbaby
+
 Package: com.unknown.notesreadonly
 Architecture: iphoneos-arm64e
 Version: 1.0.8
