@@ -666,6 +666,57 @@ Description: 长按桌面电话/信息图标可快速清除记录，无设置项
 Name: 快速清除通话短信记录
 Author: crctdd
 
+Package: com.crctdd.disablecallpop
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Tweaks
+Maintainer: crctdd
+Installed-Size: 88
+Depends: mobilesubstrate, firmware (>= 15.0), firmware (<< 18.0)
+Filename: debs/com.crctdd.disablecallpop_0.0.1_iphoneos-arm64e.deb
+Size: 3266
+MD5sum: e10f15a2d46972af2975b18a36892027
+SHA1: 9bcf9fed1ae1eed754793b80b870dcc080bf579e
+SHA256: 3768c56e6504c32c4bc78ac12fade2524c84f8357a6dc3b6977980e0144bd138
+SHA512: 8de9937d28684548b349db93322adc60e75bba487b7a0d96e573435edd154b136ec70eee5335c3c70e26901d776afde2c9f457815ab0fa2cf95acba60c6fd897
+Description: 禁用闪信弹窗通知；无设置项。(支持iOS 15-17)
+Name: Disable CallPoP
+Author: crctdd
+
+Package: com.crctdd.disablecarrierpop
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Tweaks
+Maintainer: crctdd
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>= 15.0), firmware (<< 18.0)
+Filename: debs/com.crctdd.disablecarrierpop_0.0.1_iphoneos-arm64e.deb
+Size: 3504
+MD5sum: acb51dafab8a2c83b5c8b1ac863bda32
+SHA1: 2dbc4295b3650aa871b20df0a53cc731d36bc7d1
+SHA256: e506d3d96a18664a632322eeb2f08e428833ab8c52275bd69fe107add47d6796
+SHA512: 4507aaa0f790e2b6102df6ae4a763a50f04b49e6060c92b496374ee6b1f9ea5fc9f0b6cd4b1762cf9c37fc2b0978c3e95e3db65bd622bda4b671e53eb40fb4bf
+Description: 禁用运营商弹窗；无设置项。(支持iOS 15-17)
+Name: Disable CarrierPoP
+Author: crctdd
+
+Package: com.crctdd.disablecutpop
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Tweaks
+Maintainer: crctdd
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>= 15.0), firmware (<< 18.0)
+Filename: debs/com.crctdd.disablecutpop_0.0.1_iphoneos-arm64e.deb
+Size: 3284
+MD5sum: 058717c716637bfe2fa1f3f06df0996a
+SHA1: 4dbd0533d5d6aef8dad14e98559e132024724839
+SHA256: 8233155936c8762ee5c7fc1615bbed05639bcd799d3e3ac6486dfd9b5782bd4b
+SHA512: 4a6f89dd052e360d17358b64e26cab1af4886d3dc2c063612883ebb0bdd1c79e344943f208504004ba3481cd8561a9cfbd785ef8c485a3309798587bb9cd6bd3
+Description: 设备互通粘贴时禁用弹窗，无设置项。(支持iOS 15-17)
+Name: Disable CutPoP
+Author: crctdd
+
 Package: com.crctdd.mobileslideshowhook
 Architecture: iphoneos-arm64e
 Version: 0.0.5
