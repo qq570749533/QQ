@@ -3142,6 +3142,25 @@ Depiction:
 SileoDepiction:
 Icon: https://apprecs.org/ios/images/app-icons/256/3a/1161431866.jpg
 
+Package: iya.banana.iphoneduoicon
+Architecture: iphoneos-arm64e
+Version: 1.1.6
+Section: Tweaks
+Maintainer: Banana
+Installed-Size: 5596
+Depends: firmware (>= 15.1), firmware (<< 27.0), mobilesubstrate, preferenceloader
+Suggests: iya.banana.audioservice (>= 1.0.4)
+Conflicts: com.82flex.singlevpn
+Filename: debs/iya.banana.iphoneduoicon_1.1.6_iphoneos-arm64e.deb
+Size: 2587098
+MD5sum: e40e444a3add1c1018472890db8cffb6
+SHA1: b3326769607d8750022db5bcc2553a502074389e
+SHA256: ddefb1b53237d57bdfbda9cb9b4711e2d3c2602b4f7e49490db947d069154497
+SHA512: 6d6b6eff0f09a091e798aad9910e531e520e2a10c1c1f0b220494144de96174d1800c8b5e8afe908ae9eb7f91975b743b962eb3d6081ecdf0722e1902d046175
+Description: 可定制的玻璃状态栏胶囊，带有天气、媒体、通知和迷你Dock。
+Name: Lunora
+Author: Banana
+
 Package: oldabi
 Architecture: iphoneos-arm64e
 Version: 2.0.1+roothide-1
