@@ -632,6 +632,23 @@ Description: 给Choicy增加已设置置顶 / 进程页面本地缓存。(支持
 Name: Choicy Patch
 Author: crctdd
 
+Package: com.crctdd.cranedd
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Tweaks
+Maintainer: crctdd
+Installed-Size: 112
+Depends: mobilesubstrate, firmware (>= 15.0), firmware (<< 18.0), com.opa334.crane
+Filename: debs/com.crctdd.cranedd_0.0.1_iphoneos-arm64e.deb
+Size: 17570
+MD5sum: 1d778532a27627292e12c47967713f30
+SHA1: 15cb2b15636b8879bd355ed11ccd089b089ecb14
+SHA256: 30214bc08a60d25ca885d9076019b5602e3d99b7b5cea31fdd712a323f6b4258
+SHA512: ad1c4acfc8d1a771a4fdd73cf7a5375746394d56a1a6436c36c13ddcca605a730691d2288db4109aa0875075c0372c3f3e1233650240372f6f321f0a3bbc040e
+Description: 下拉桌面图标弹出多开应用容器，无设置项。(支持iOS 15-17)
+Name: Crane Drop Down
+Author: crctdd
+
 Package: com.crctdd.deleterecords
 Architecture: iphoneos-arm64e
 Version: 0.0.1
