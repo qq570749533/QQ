@@ -580,6 +580,23 @@ Description: 沿键盘轻扫可移动光标和选择文本。
 Name: SwipeSelection
 Author: Kyle Howells
 
+Package: com.aptzh
+Architecture: iphoneos-arm64e
+Version: 1.3-3+debug
+Section: Tweaks
+Maintainer: Custom
+Installed-Size: 240
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: debs/com.aptzh_1.3-3+debug_iphoneos-arm64e.deb
+Size: 40490
+MD5sum: ad35332cf6e6ec95fb1e64d074f47433
+SHA1: f6505c3bc726e2b7103dc0a6827cd952dccd06c3
+SHA256: ebf1b95eb5196b2add34bbc67ce60880356b05e441fc00fd34e2d449f277c60a
+SHA512: 1290bb66f3acc9ca9be2198b80fb4c5ad21fbfdc0b8554a63ada0760d548e11e63495abc8307b02fd282466f1f63d950ad4958b39e6fa0765a7054d8799fe8cb
+Description:  Sileo软件源刷新、dpkg安装日志完整汉化，覆盖全部报错与输出文本
+Name: Sileo APT/DPKG汉化
+Author: Custom
+
 Package: com.brend0n.nopassafterrespringsafe
 Architecture: iphoneos-arm64e
 Version: 0.0.3
