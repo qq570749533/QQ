@@ -3340,6 +3340,24 @@ Description: 设备锁定时启用低功耗模式，解锁时禁用。
 Name: LowPowerLock
 Author: daniel
 
+Package: dev.apelin.appstoreupdateblock
+Architecture: iphoneos-arm64e
+Version: 0.1.0
+Section: Tweaks
+Maintainer: 白白白
+Installed-Size: 109
+Depends: firmware (>= 16.0), mobilesubstrate
+Filename: debs/dev.apelin.appstoreupdateblock_0.1.0_iphoneos-arm64e.deb
+Size: 15706
+MD5sum: 5c636f6dcb47f59150e114326c419a0e
+SHA1: 9584fdc698910f6a43a63a4ddaffd9424e4adaca
+SHA256: b53af1d08e7325db4fe1bd99acf7501c5041664cc3edd4311a3d66fc9f79a184
+SHA512: 1db66c32a0de3805ee0ae4b81c0af23345b95ef009cca87cfb6a90df3ce7c30ec37311bc76eaca44edb9c4b144773889e952d6cc5f56f54f5b7e75f4766aeed1
+Description: 在 App Store 里按应用屏蔽更新，被屏蔽的应用不再出现在更新列表，也不会被一次全部更新。
+Name: App Store 更新屏蔽
+Icon: https://owngoal-dev.github.io/Apelin/icons/wiki.qaq.apelin.dev.tweak.png
+Author: 白白白
+
 Package: dev.mineek.appstoretroller
 Architecture: iphoneos-arm64e
 Version: 0.0.2-2+debug
