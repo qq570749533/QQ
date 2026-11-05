@@ -2749,6 +2749,24 @@ Name: Lead
 Author: w3ltyyy
 Icon: https://github.com/Kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/Lead@2x.png?raw=true
 
+Package: com.white.i4notes
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: NoAds
+Maintainer: White <(null)>
+Installed-Size: 200
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: debs/com.white.i4notes_1.0_iphoneos-arm64e.deb
+Size: 22022
+MD5sum: 56741af6e3d5a7c599b75c200efc50a0
+SHA1: e8d23b0213a278d8bdca4adf85e3d36d28ed0aa5
+SHA256: 26b6c2786fcaf5a32e119f88d553aae229c9e07316056046988eb827409fc4ca
+SHA512: bcae075c5b1e8840e16726254d8580769c803d6d764715c5db60ff352cb280135e2f6dc2de9532d465e534c1df6fe461bf404d74746a30906b6e84e545872027
+Description: 支持极速版和全能版，去启动广告，去除关闭限制广告追踪弹窗提示
+Name: 爱思助手 NoAds
+Author: White <(null)>
+
 Package: com.wkk.afakerxi
 Architecture: iphoneos-arm64e
 Version: 1.0.3
