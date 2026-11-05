@@ -1315,6 +1315,26 @@ dev: HuangBai
 Sponsor: Mao
 Name: 黄白助手(微信娱乐插件)
 
+Package: com.huami.dyyy
+Architecture: iphoneos-arm64e
+Version: 2.2-9
+Priority: optional
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 2720
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/com.huami.dyyy_2.2-9_iphoneos-arm64e.deb
+Size: 587338
+MD5sum: 56538ba144c7671c6aa192000327a3de
+SHA1: 6e2e45d575ab4834e48b10367e0de5ab4e7b4619
+SHA256: a85c192878f50053dc287b02482e9f8a16deb42f4dcb538d93255ae04310b36f
+SHA512: 376e5841d32842e42e106334db7e9c37350f7914c9f8eb2e9040c6d8b5fb2019a947bb32c56e29904f3b21e2244431714fe23a6d108f1d21b4c46e050aec3f9b
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Name: DYYY
+Author: huami
+Icon: https://Mieing.Github.io/repo/file/TikTok.png
+
 Package: com.huami.wcpulse
 Architecture: iphoneos-arm64e
 Version: 1.7-6
