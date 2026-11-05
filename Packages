@@ -3589,6 +3589,24 @@ Description: 刀刀补充汉化，并在插件列表左侧增加架构指示器(
 Name: Sileo(RootHide)
 Author: Amy While
 
+Package: org.coolstar.sileo
+Architecture: iphoneos-arm64e
+Version: 2.5.1-15
+Section: Packaging
+Maintainer: Amy While <me@anamy.gay>
+Depends: firmware (>= 11.0), firmware(>=12.2) | org.swift.libswift (>=5.0), coreutils (>= 8.30-1), dpkg (>= 1.19.4-1), apt (>= 1.8.2), libzstd1
+Filename: debs/org.coolstar.sileo_2.5.1-15_iphoneos-arm64e.deb
+Size: 5154792
+MD5sum: 324bf2fbf8f34bcbe36ce066a71c84e7
+SHA1: c7f25404434171eda19aecd83913e134cc293650
+SHA256: a044c8074b5cedd4b087597d5bc0b8760a256629f6a290c8029de4b020dc0f98
+SHA512: b644bfec65ed44b63b41b5b51ddc607e8d1ccba899ebf46c6a66f0690f9efe04c55b200ff08c22b26a7ac87196fb2eb7603b51c22462c0b5446b7a86b8a001bb
+Description: 现代APT包管理器前端Sileo RootHide 越狱源安装 rootless 插件免跳转，直接在 Sileo 内转换完成
+Name: Sileo
+Author: Amy While <me@anamy.gay>
+Icon: https://getsileo.app/img/icon.png
+SileoDepiction: https://featuredpage.getsileo.app/depiction.json
+
 Package: preferenceloader.top
 Architecture: iphoneos-arm64e
 Version: 2.2.8-2
