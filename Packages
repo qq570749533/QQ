@@ -2758,11 +2758,11 @@ Installed-Size: 200
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate
 Filename: debs/com.white.i4notes_1.0_iphoneos-arm64e.deb
-Size: 22022
-MD5sum: 56741af6e3d5a7c599b75c200efc50a0
-SHA1: e8d23b0213a278d8bdca4adf85e3d36d28ed0aa5
-SHA256: 26b6c2786fcaf5a32e119f88d553aae229c9e07316056046988eb827409fc4ca
-SHA512: bcae075c5b1e8840e16726254d8580769c803d6d764715c5db60ff352cb280135e2f6dc2de9532d465e534c1df6fe461bf404d74746a30906b6e84e545872027
+Size: 19632
+MD5sum: efc4175c085b2679f889772a73372e1e
+SHA1: 5516f2add32df9b1d811b7cc259f7d2295832005
+SHA256: cae0670cabdfdb02005fb029431bb948c7df4f9d0e50efe733ba3e3a0b5064d2
+SHA512: 83380eb27466eb7a5e3dc6aec2ca77a092a60288d43bd0089ebedbc2fe41fcd4de7afcb80a6c7b0f4710f93bd9a8e403b87221cd8e5b2677a075ba66bcb90ad5
 Description: 支持极速版和全能版，去启动广告，去除关闭限制广告追踪弹窗提示
 Name: 爱思助手 NoAds
 Author: White <(null)>
