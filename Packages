@@ -616,25 +616,6 @@ Description:  Sileo软件源刷新、dpkg安装日志完整汉化，覆盖全部
 Name: Sileo APT/DPKG汉化
 Author: Custom
 
-Package: com.brend0n.nopassafterrespringsafe
-Architecture: iphoneos-arm64e
-Version: 0.0.3
-Section: Tweaks
-Maintainer: Brend0n <brendonjkding@126.com>
-Installed-Size: 168
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate
-Filename: debs/com.brend0n.nopassafterrespringsafe_0.0.3_iphoneos-arm64e.deb
-Size: 6964
-MD5sum: a7ce7ba1196d878308420a7dc527a2e6
-SHA1: b8905114989c976b7eab2c3b0ba37c755b90bb5e
-SHA256: 89c4406a07f48495cd3b401d356bd35c85fc520ae77538c3f353525cff7fad6b
-SHA512: 8d5af7d2c70cc4a8b366be2f28164551ffedf0d49ce9cefedb2999001316de10ddd1a03ca08d0cfddbf8167dac4f1c7508e554061a9989836c16d69bdc9ba965
-Description: Disables passcode after a respring.在注销前是解锁状态的情况下，注销后自动跳过人脸或指纹识别到桌面。
-Name: NoPassAfterRespring (Safe)
-Author: Brend0n <brendonjkding@126.com>
-icon: https://huayuarc.github.io/icon/huayuarc.jpg
-
 Package: com.chargelimiter.mod
 Architecture: iphoneos-arm64e
 Version: 1.17.5
