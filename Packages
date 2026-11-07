@@ -433,11 +433,11 @@ Maintainer: Lessica <82flex@gmail.com>
 Installed-Size: 1212
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
 Filename: debs/codes.aurora.kayoko_3.6.1_iphoneos-arm64e.deb
-Size: 428438
-MD5sum: 9a690c079cbf36fbe0b1f23a015318e3
-SHA1: 32dcb24065972d5477265600ddb5897d9d54b0b4
-SHA256: af86e0f1f61983e6c21efc3468995c5d47f8afcef4acfe4bcac8f8e350fa29ee
-SHA512: 19a79e3f675e61e3692d40eec2ab8d42bae225ab0c9b053b66a00ea9a9f582f95c63f4ea69e1474cc9434816ca1bb7a2ef09a4d0b7bb3412085c1691de8e1286
+Size: 428304
+MD5sum: b0434bc9a8cbb661505713d832614e77
+SHA1: 4aa2c22363464c895b7de5b34c6dd7aaf8eb12ad
+SHA256: ece4cbefb7aab36c0a9be1394111ac0b4bcebddf1a9136d0d142f98199ea8272
+SHA512: f0d4f325fb3ca4590fb1a7f9684e5a22a89637df83b7a978c8b97d2835117963d5bd0959cd102349e50f13ce94cf0dd437c6d1b77b70c61df3681df922181506
 Description: iOS版剪贴板管理器。
 Name: Hello Kayoko
 Author: Alexandra Aurora Göttlicher
