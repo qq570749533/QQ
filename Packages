@@ -2071,6 +2071,24 @@ Tag: role::developer
 Name: PatchLoader
 Author: roothide
 
+Package: com.shepgoba.settingswidgets
+Architecture: iphoneos-arm64e
+Version: 1.2.3
+Section: Tweaks
+Maintainer: shepgoba
+Installed-Size: 512
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.shepgoba.settingswidgets_1.2.3_iphoneos-arm64e.deb
+Size: 111980
+MD5sum: 29fcd84ad7dd3cfe300e1a0538e097a4
+SHA1: 308ce0157ab84e5726ba3061f60294872f0faca6
+SHA256: 548bf1106221431753488b8d78c6d454f3cd4bbece72bd71e5b3cc3249676865
+SHA512: 68685eea3051ea30bb208fbccc593e51b567b23e6d04a1a01636401ab88b28015f764ea467cadfac255aa550222b419a04b06e922938429935721677d2d6ab6a
+Description: 将美观的小部件带到设置的首页！
+Name: SettingsWidgets
+Author: shepgoba
+
 Package: com.simon.ccmusic
 Architecture: iphoneos-arm64e
 Version: 2.4
