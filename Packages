@@ -2733,6 +2733,23 @@ Description: 在备忘录 App 的右上角菜单里加一个只读开关。
 Name: 备忘录只读
 Author: unknown
 
+Package: com.w3ltyyy.lead
+Architecture: iphoneos-arm64e
+Version: 2.0.2
+Section: Tweaks
+Maintainer: w3ltyyy
+Installed-Size: 6008
+Filename: debs/com.w3ltyyy.lead_2.0.2_iphoneos-arm64e.deb
+Size: 3013060
+MD5sum: deed6be462e9c16044773b480703a3ef
+SHA1: cabaa31945fcc4ea3d9d75448a121e458772390f
+SHA256: 386660d00e8bb0399bb78638adac8781adeacc2a5452f77202c7706f1ece5b1d
+SHA512: bb1461e946a995ef4086c1b5b9ecad6f8989af204010d63efe88fa468bc8b595a23ceef24d2879937a6fcae99877a637c4a3ffd72664d24fc992599518cc6388
+Description: Telegram iOS的最佳调整
+Name: Lead
+Author: w3ltyyy
+Icon: https://github.com/Kernelrw/kernelrw.github.io/blob/main/depictions/web/com.kernelrw.sample/screenshots/Lead@2x.png?raw=true
+
 Package: com.white.i4notes
 Architecture: iphoneos-arm64e
 Version: 1.0
