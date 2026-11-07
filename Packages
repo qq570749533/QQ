@@ -1694,24 +1694,6 @@ Description: 模仿27系统状态栏（兼容 Single VPN Wi-Fi 变色） 信号�
 Name: iOS27状态栏
 Author: 半生年华&yaowell&Benja Guo
 
-Package: com.mlgm.prefnest
-Architecture: iphoneos-arm64e
-Version: 1.2.2
-Section: Tweaks
-Maintainer: mlgm
-Installed-Size: 888
-Depends: mobilesubstrate, firmware (>= 15.0), preferenceloader
-Filename: debs/com.mlgm.prefnest_1.2.2_iphoneos-arm64e.deb
-Size: 347304
-MD5sum: ec62322b87c90daa1fcb13d4329bc574
-SHA1: dc8a205713c0530a8dbf713b6ebfd0b6a7e4504a
-SHA256: 7f7d69f4c196f2cef60cd8d76d5b6d435efc9777f6f8c3b564fd94c3419a3af6
-SHA512: bf827487d447439965ccfdadad9c0911cc62453e6a9ee3862c476e5ac7e48ee24efc5396311a24ae5941482edcde681cca6811d95eb19497e25ce6e28c5e4981
-Description: 整理设置首页，集中收纳越狱插件。
-Name: PrefNest
-Icon: https://mlgm66.github.io/icon/prefnest.png
-Author: mlgm
-
 Package: com.mrgcgamer.libgcuniversal
 Architecture: iphoneos-arm64e
 Version: 1.7.0
