@@ -425,6 +425,25 @@ Description: CocoaTop64 进程查看，基于真皮版定制：中文翻译+UI�
 Name: CocoaTop64 中文版(Relaxin)
 Author: Domo, SXX
 
+Package: codes.aurora.kayoko
+Architecture: iphoneos-arm64e
+Version: 3.6.1
+Section: Tweaks
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 1212
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: debs/codes.aurora.kayoko_3.6.1_iphoneos-arm64e.deb
+Size: 428438
+MD5sum: 9a690c079cbf36fbe0b1f23a015318e3
+SHA1: 32dcb24065972d5477265600ddb5897d9d54b0b4
+SHA256: af86e0f1f61983e6c21efc3468995c5d47f8afcef4acfe4bcac8f8e350fa29ee
+SHA512: 19a79e3f675e61e3692d40eec2ab8d42bae225ab0c9b053b66a00ea9a9f582f95c63f4ea69e1474cc9434816ca1bb7a2ef09a4d0b7bb3412085c1691de8e1286
+Description: iOS版剪贴板管理器。
+Name: Hello Kayoko
+Author: Alexandra Aurora Göttlicher
+Icon: https://apt.002599.xyz/web/icon/codes.aurora.kayoko.png
+SileoDepiction: https://apt.002599.xyz/web/codes.aurora.kayoko
+
 Package: com.25mao.leftpan
 Architecture: iphoneos-arm64e
 Version: 2.0-1
