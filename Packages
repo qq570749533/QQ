@@ -1370,6 +1370,24 @@ Name: SneakyCam 隐私相机
 Author: Spark
 icon: https://huayuarc.github.io/icon/SneakyCam.png
 
+Package: com.huayuarc.zombiereaper
+Architecture: iphoneos-arm64e
+Version: 1.0.0-1+debug
+Section: Tweaks
+Maintainer: Mr_佳先生
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: debs/com.huayuarc.zombiereaper_1.0.0-1+debug_iphoneos-arm64e.deb
+Size: 7434
+MD5sum: 75ca5c96d3d6e34cbe06ade9204083ad
+SHA1: a9a3d8ec580b8133dbadd6a9f769aee803f19205
+SHA256: 42cd91c5b2e0df5a42142fc3cb2eff9dabe3cb8deb3901b71265fb3b473d8bc3
+SHA512: b7f3afbd51e57b20cc9780be2f82f90b969df968a56e7fd8952d4809f163781f8e17a95f31528e5cf0f0ca226da5176e581ccf96e134426672b563707b4da29b
+Description: 后台每5秒自动清理SpringBoard产生的僵尸子进程，防止大量调用外部脚本后堆积僵尸进程、耗尽系统PID，避免后续命令无法正常拉起。仅作用于SpringBoard进程。
+Name: ZombieReaper 清理子进程
+Author: Mr_佳先生
+icon: https://huayuarc.github.io/icon/zombiereaper.jpg
+
 Package: com.icraze.keepmyjb
 Architecture: iphoneos-arm64e
 Version: 1.1
