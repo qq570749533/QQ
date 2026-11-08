@@ -3476,18 +3476,18 @@ Author: 白白白
 
 Package: dev.mineek.appstoretroller
 Architecture: iphoneos-arm64e
-Version: 0.0.2-2+debug
+Version: 0.1.2-2+debug
 Section: Tweaks
 Maintainer: iosdump
 Installed-Size: 176
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/dev.mineek.appstoretroller_0.0.2-2+debug_iphoneos-arm64e.deb
-Size: 13348
-MD5sum: cb20af0d715be02fcd4230587f7b9944
-SHA1: 7c811ca235ae2cbc3b5cbc2bbfd290a4d52b706e
-SHA256: dae191e72a68987c8e7c6ec2069d1cd118418e33af20563a6d2f539b881f65d1
-SHA512: bfe5354a5291a82baf428e73a9226f57b60d322b988bdc48d293ced5f97bede9cb3db312b04850fa3f60c26cd9779cfa7b404245a2e049b5cea463a5eee6ef6c
-Description: An awesome MobileSubstrate tweak! 将设置移至桌面AppStore长按快捷菜单
+Filename: debs/dev.mineek.appstoretroller_0.1.2-2+debug_iphoneos-arm64e.deb
+Size: 30026
+MD5sum: 62df828fd7bf96ad99929a438e0c2d4a
+SHA1: 539d08a0202e20fa3bf166bd23fd98866b9c7d91
+SHA256: 7d8286e7441da4e2bcd253f93e2879fd24e108c42127faa7a2626781db7f0f26
+SHA512: 0da0496da82421f44e9d08b95bf59a920856bae18aa634e98685a7006fe0318865b5f65777ede5b4d7b27ae0b9a2a086ae6d8ca791a312f0dce781606aa4837e
+Description: 将设置移至桌面AppStore长按快捷菜单
 Name: appstoretroller
 Author: Mineek
 
