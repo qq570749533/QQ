@@ -2245,6 +2245,26 @@ Name: SleeperX
 Author: Joshua Seltzer
 Sponsor: Sini921
 
+Package: com.sini.swipeselection
+Architecture: iphoneos-arm64e
+Version: 2.0
+Section: Tweaks
+Maintainer: iCraze
+Installed-Size: 156
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: debs/com.sini.swipeselection_2.0_iphoneos-arm64e.deb
+Size: 17414
+MD5sum: f2868f5e39d3553f125e6f5a976c7720
+SHA1: 62584d29e296f1056f6e3a75dab14e9aa7fe60e5
+SHA256: 9cde16d3c3e70ca69562210a9b5ae407a50a6dd4d7b3f3685daae5a7d0834069
+SHA512: 13334c1128715b2bdc269619175bdccaa8782b05a7bc3054fd8a58623db90eaa5891a1b3e7a29465fe689998b75e4b12be0032dd499e6450edb800d25668f7d9
+Description: 沿键盘滑动以移动光标并选择文本。
+Name: SwipeSelection
+Icon: https://sini921.github.io/repo/sileodepiction/icon/swipeselection.png
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/swipeselection/js.json
+Author: Kyle Howells
+
 Package: com.sini.vitreux
 Architecture: iphoneos-arm64e
 Version: 1.3
