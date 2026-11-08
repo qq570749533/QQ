@@ -3264,11 +3264,11 @@ Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.wkk.tbhook_1.0-1_iphoneos-arm64e.deb
 Size: 13910
-MD5sum: 5cc554c1fd2f4adc5816dc0880f5aa6c
-SHA1: 633c2e3bbf181fbf4502e7ca44b0d8bbec06ea57
-SHA256: 7613ad1b31eff490386f3f81e810589aeefb764c12f0515bd51032ffc0dd1c11
-SHA512: ad50b25135d9ec342927845f5e65a0bac162d84f01f6e8b4ce7bf4ff9e5035677b7b4034caf6f40aff05afc00b5a7329f2b7cda8418fb84e64783bf0d52929d6
-Description: ...
+MD5sum: 9567539d876c1a8afd2cdda5b1f1ecce
+SHA1: 5726ffafc22b9150e4cfc91a936dee888bfb229b
+SHA256: f1fea6106a16098e6061f0a6af4ec59eae822573efcce6cc53d68280fa2f63f2
+SHA512: 47d226f20a6c20bfdb5ec9fc90d9cd4f75d63cc90fc62d804d84492409c98966d540a0a8e0b66173a211d8bda9cf7e3bba8c942b9ae6cb8da531976a3ca3e372
+Description: Sileo悬浮底栏
 Name: sileo悬浮底栏
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
