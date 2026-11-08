@@ -929,6 +929,24 @@ Description: Infuse增强插件，开启Plus功能，新增更多实用功能。
 Name: Infuse Plus(RootHide)
 Author: dvntm
 
+Package: com.dao.keybar
+Architecture: iphoneos-arm64e
+Version: 1.1
+Section: 嗨-工具
+Maintainer: daodao
+Installed-Size: 428
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: debs/com.dao.keybar_1.1_iphoneos-arm64e.deb
+Size: 48786
+MD5sum: 72863180a5a56a3d3371da2fd27ae188
+SHA1: 6f1f075696484f973172fb0c0c496d05d345eae3
+SHA256: a3ffb4af1301c3ac8cecf1a3b51237a5428966aae5ff7d3ea117605e40c93a89
+SHA512: c02c79d5ec2654e0ca0de0935ec1603f3c59978d8d1e9668b6d956693a584e315b074b18a549f0065c004d9fe11e520c963996c7e5ca30b6c2907dfc9af4c972
+Description: 键盘增强插件，支持调整键盘底部间距及地球键、听写键的垂直位置，并在键盘下方添加全选、复制、剪切和粘贴快捷按钮，长按即可快速收起键盘，让输入操作更加便捷。
+Name: KeyBar(RootHide)
+Author: daodao
+SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/keybar/js.json
+
 Package: com.dao.liqlite
 Architecture: iphoneos-arm64e
 Version: 0.2
