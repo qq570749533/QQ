@@ -1573,6 +1573,27 @@ Icon: https://eleveny123.github.io/EvoCenter/assets/icon.png
 Depiction: https://eleveny123.github.io/EvoCenter/legacy.html
 SileoDepiction: https://eleveny123.github.io/EvoCenter/native-legacy.json?v=4.1.0-beta.2&r=beta41fix2-20261101
 
+Package: com.joshuaseltzer.sleeperx
+Architecture: iphoneos-arm64e
+Version: 4.0.0
+Section: Tweaks
+Maintainer: Joshua Seltzer
+Installed-Size: 1768
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>=15.0), firmware (<<26.0)
+Conflicts: org.thebigboss.sleeper, com.joshuaseltzer.sleeper
+Filename: debs/com.joshuaseltzer.sleeperx_4.0.0_iphoneos-arm64e.deb
+Size: 377586
+MD5sum: 0f695c1a8028de7a4d79f83325c496a0
+SHA1: 94b3f6a139483083b37b3fbe9cb0bbb247a8b608
+SHA256: c130b9b42bc465b570d697656fcd6e5bf897e5319bab08bb7771aea5a3fa54cb
+SHA512: 79bf751064746edde978247b7ddc497b5fb3ce19119c07eee2477b928f57428f9eef7a46c9e5c2da58bd891315aebbe65c90da23e53fcadfc100eb24a12224fd
+Description: 使用SleeperX设置自定义贪睡时间、跳过闹钟等。
+Name: SleeperX
+Author: Joshua Seltzer
+Sponsor: Joshua Seltzer
+icon: https://huayuarc.github.io/icon/sleeperx.jpg
+
 Package: com.kingpuffdaddi.control-center.ccvpn.surge
 Architecture: iphoneos-arm64e
 Version: 1.0.6
