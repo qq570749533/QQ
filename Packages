@@ -898,19 +898,19 @@ SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/3dbadgeclear/
 
 Package: com.dao.apptools15
 Architecture: iphoneos-arm64e
-Version: 2.9.1
+Version: 2.9.2
 Section: 嗨-付费
 Maintainer: aReo
 Depends: firmware (>= 15.0), mobilesubstrate
 Conflicts: com.flex2areo.apptools15rootless, com.flex2areo.apptools15roothide, com.flex2areo.apptools15, com.dao.apptools15roothide, com.dao.apptools15rootless
-Filename: debs/com.dao.apptools15_2.9.1_iphoneos-arm64e.deb
-Size: 3660200
-MD5sum: 0ea3d2dbdd7a0b22f7b6161f2f5afb37
-SHA1: 8a45c4b93a7cf0a9fbab8522522b37cd0d5d80d5
-SHA256: 1f95ae62056fbfb3e477e0bd14be3e13bd527bc6707eb50afbb790f84eb9b3c7
-SHA512: 0e35aa6152bae73c77a8c7ba5bce618ce56ef73da8e39e9b0b69471112670412879230583f6d266ecb655430f26fdf5d20e9174f86cbe8020d533927835af9d9
+Filename: debs/com.dao.apptools15_2.9.2_iphoneos-arm64e.deb
+Size: 3566418
+MD5sum: 26d1e49537cb5f2e0c1a3be3761f7a4e
+SHA1: 200d8dabeb3bdf9046238fad87beed6853d817cc
+SHA256: bdab70284dbdd6595cc9f212582fcfdbf9d88d604fcacc8243572f802296ca8b
+SHA512: b10c6980d5fa72331bab1f2caeb6b8badfa7e2f4512b964dded24471e456969de7f54880c8b878d971b2dd190b38d3955a2d332046bea79e4ed23e0393c5d8de
 Description: AppTools for iOS15~17，强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。
-Name: AppTools（免授权）
+Name: AppTools
 Author: aReo
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/apptools/js.json
 
