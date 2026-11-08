@@ -2684,23 +2684,6 @@ Name: 位置自动允许一次
 Author: Snail <mu514983786@gmail.com>
 icon: https://huayuarc.github.io/icon/huayuarc.jpg
 
-Package: com.snail.easynotify.rootless
-Architecture: iphoneos-arm64e
-Version: 1.0.0
-Section: Tweaks
-Installed-Size: 152
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate
-Filename: debs/com.snail.easynotify.rootless_1.0.0_iphoneos-arm64e.deb
-Size: 16296
-MD5sum: 206f61c9e05928cd7869448648eccc36
-SHA1: babc615f8ea9f4eb7486f12af356a28ca205792e
-SHA256: 0b63c7fd10a54af1f2eac5602dbdb0d6c6b53f2d36bc15889b1f252f2e28899d
-SHA512: eb9dbb2094f53707c1a63bbceeff09a670ef6624bb4335ba8fbf3e3d89d860ade34dd693be7927381be37fa224e95871b02f29d8bcf32b5e3c2f7a3967e62ea7
-Description: 按压APP图标3D Touch菜单快速开关消息通知。
-Name: 3D开关APP消息通知 EasyNotify
-icon: https://huayuarc.github.io/icon/EasyNotify.jpg
-
 Package: com.squidforce.hidenotificationbadges
 Architecture: iphoneos-arm64e
 Version: 0.0.1
