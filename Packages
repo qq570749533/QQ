@@ -3382,6 +3382,24 @@ Name: Ring (无设置项)
 Author: yan
 Icon: https://yandevelop.github.io/assets/icons/ring/icon.png
 
+Package: com.yaowell.cellbell
+Architecture: iphoneos-arm64e
+Version: 1.1
+Section: Tweaks
+Maintainer: yaowell
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: debs/com.yaowell.cellbell_1.1_iphoneos-arm64e.deb
+Size: 16216
+MD5sum: a0edde9b69aad205b47e6d9c4eda7bbf
+SHA1: e42026d7592c7421f56053339cc39ac6f189fc50
+SHA256: a020dcca346aea02a45f150a695ae8c4269a9281d780238558fcd05d4b90d645
+SHA512: 669def232f0ec6c0acb0827191e14841efd86e16bf661e811d0cfdf96cace0065761d14aa4626992701603064b74aa30a92885bf1a1ad462072e74a56079a33e
+Description: 关闭电池百分比时启用 iOS 27 风格电池图标。
+Name: CellBell
+Author: yaowell & 半生年华
+icon: https://huayuarc.github.io/icon/cellbell.jpg
+
 Package: com.zqbb.kayoko
 Architecture: iphoneos-arm64e
 Version: 4.3
