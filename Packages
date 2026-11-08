@@ -3404,6 +3404,24 @@ Name: Ring (无设置项)
 Author: yan
 Icon: https://yandevelop.github.io/assets/icons/ring/icon.png
 
+Package: com.yaowell.batterymirrorlite
+Architecture: iphoneos-arm64e
+Version: 1.1
+Section: Tweaks
+Maintainer: yaowell
+Installed-Size: 172
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/com.yaowell.batterymirrorlite_1.1_iphoneos-arm64e.deb
+Size: 27178
+MD5sum: 94a5a2c703c6f9a41d799ebf739301c1
+SHA1: cd2c498c02602e5c5ddaaf4c500a738bb9ec265c
+SHA256: 8e90687bf6fad8b39ce94ae3d91b5178e40bd8c646381852f52f76996a125d5a
+SHA512: 1130c421b186eedc6898827ad8ee9653e6dfe0dddde8b501e18488b57de5f5900457f106608b77d5a2cef9c8010075a72dd6be38d33f637a28e7b4e190581c28
+Description: 将控制中心低电量模块图标替换为状态栏电池胶囊图标（适合非全面屏或隐藏了控制中心状态栏、且未开启顶部电量百分比时，方便查看实时电量）。
+Name: BatteryMirror Lite
+Author: yaowell futur3sn0w
+icon: https://huayuarc.github.io/icon/batterycc.jpg
+
 Package: com.yaowell.cellbell
 Architecture: iphoneos-arm64e
 Version: 1.1
