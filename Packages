@@ -3665,26 +3665,6 @@ Author: Amy While <me@anamy.gay>
 Icon: https://getsileo.app/img/icon.png
 SileoDepiction: https://featuredpage.getsileo.app/depiction.json
 
-Package: preferenceloader.top
-Architecture: iphoneos-arm64e
-Version: 2.2.8-2
-Section: System
-Maintainer: ProcursusTeam <support@procurs.us>
-Installed-Size: 340
-Provides: preferenceloader (= 2.2.6)
-Depends: mobilesubstrate
-Conflicts: preferenceloader, preferenceloader.rootless, preferenceloader.rootless.top
-Replaces: preferenceloader, preferenceloader.rootless, preferenceloader.rootless.top
-Filename: debs/preferenceloader.top_2.2.8-2_iphoneos-arm64e.deb
-Size: 39094
-MD5sum: 62d38d206424120e09df1f1ab2b36757
-SHA1: 5a4c7ace21052193c1f4c022c4d286fbdec84724
-SHA256: add3f0fe335a02e4013b3b2350785e8b2912ff16a01dfe218e5fdd3aa495d3ed
-SHA512: d2e9e4ee187a3c9fd4a71aebd769e38238dadf0e0a82089fbce556fd6554e3b68120dc9aa60dd360013fbf0b5e554210ceb4641f012d0ffd48f89a16943e2774
-Description: 加载样式偏好
-Author: Dhinak G <dhinak@dhinak.net>
-Name: PreferenceLoader (Top)
-
 Package: preferenceloader
 Architecture: iphoneos-arm64e
 Version: 2.2.8
@@ -3698,6 +3678,23 @@ MD5sum: 866ebe42c7c18c3580bc5ae7d2e2038d
 SHA1: 4548a12481e30f0b2ece02e943e80729e77b4176
 SHA256: 28dff031821cfd649bd0e6f599f5a8732772f38bb2262d714ef8439b9ef06236
 SHA512: 96dffb6aaf3951c55d9f6404b02ee5aca37bfdd53d1ee69975fcd0334bcdfb87615c01d590a9d2da187fd20b4a8abcd610051a5d4606c6d49486db79b10bc4b4
+Description: 加载样式偏好
+Author: Dhinak G <dhinak@dhinak.net>
+Name: PreferenceLoader
+
+Package: preferenceloader
+Architecture: iphoneos-arm64e
+Version: 2.3
+Section: System
+Maintainer: ProcursusTeam <support@procurs.us>
+Installed-Size: 340
+Depends: mobilesubstrate
+Filename: debs/preferenceloader_2.3_iphoneos-arm64e.deb
+Size: 38800
+MD5sum: d8c7ebae17bb7e44c44e4879c34a2bfb
+SHA1: 62f7f6255f05e6727adc2793a6391b110aa2eed7
+SHA256: 598f1b7bdceb7e743f58bebc248577f8ada3976c38ea311c7df257d76bdf470f
+SHA512: ac31225ea67ad554406e6f0dcce751c14ed4c4d2ef232ffce01ce110f9d19d56d13419f94f978f314ac64210075dafb57b1e9725b68ec3c411caac6194bff26e
 Description: 加载样式偏好
 Author: Dhinak G <dhinak@dhinak.net>
 Name: PreferenceLoader
