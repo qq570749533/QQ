@@ -581,24 +581,6 @@ Description: 它清除了一个简单的WebKit调用，但却产生了巨大的�
 Name: WebkitAcceleratork
 Author: kms
 
-Package: com.ali7assan.swipeselection.rootless
-Architecture: iphoneos-arm64e
-Version: 2.0
-Section: Tweaks
-Maintainer: Ali7assan
-Installed-Size: 156
-Pre-Depends: rootless-compat (>= 0.9)
-Depends: mobilesubstrate
-Filename: debs/com.ali7assan.swipeselection.rootless_2.0_iphoneos-arm64e.deb
-Size: 28464
-MD5sum: 73022939118ed1d218309f48830f8508
-SHA1: 8cef688799c15956054f754839ad498eebbca734
-SHA256: 36e100bb298a312a5cf5d9dd2bd9b007b843cf2f186a18e5e22720bb20c40a83
-SHA512: 4268c3df5daf234eb5f1683e328a0053ea3ddf1facb4a9003c7be217ec6042847aafb40c31288228b252498d3f1dcdf19e6f3013047affafd653f261abf1b09b
-Description: 沿键盘轻扫可移动光标和选择文本。
-Name: SwipeSelection
-Author: Kyle Howells
-
 Package: com.aptzh
 Architecture: iphoneos-arm64e
 Version: 1.3-3+debug
