@@ -3723,6 +3723,23 @@ Depiction:
 SileoDepiction:
 Icon: https://apprecs.org/ios/images/app-icons/256/3a/1161431866.jpg
 
+Package: iya.banana.dockicon
+Architecture: iphoneos-arm64e
+Version: 0.9.20
+Section: Tweaks
+Maintainer: hades
+Installed-Size: 1960
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0), firmware (<< 28.0)
+Filename: debs/iya.banana.dockicon_0.9.20_iphoneos-arm64e.deb
+Size: 1006684
+MD5sum: 54bfc580935c5dd5dbf220c6613b437c
+SHA1: ac40c64fefcfed7ded3e318b629b34311fd5741c
+SHA256: 12395eb7af1e0698f34e3af6bdd30d5dcf8c12f4f06120a18e54ed91f9ef3f72
+SHA512: 8e453872e3f6c0299fca47ff64085fb13bb92027fb4e3bc8e6460017e8d5fa4faff63c0b38405f793b73e20af79d282ff869d693cb3961c69df67e718f45d1ba
+Description: iOS 15-18、26和27上的图标样式和主题包；iOS 16-18上的照片壁纸调光。
+Name: DarkIcon
+Author: hades
+
 Package: iya.banana.iphoneduoicon
 Architecture: iphoneos-arm64e
 Version: 1.1.6
