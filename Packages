@@ -3404,6 +3404,24 @@ Name: Ring (无设置项)
 Author: yan
 Icon: https://yandevelop.github.io/assets/icons/ring/icon.png
 
+Package: com.yaowell.alarmvibrate
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: yaowell
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: debs/com.yaowell.alarmvibrate_1.0_iphoneos-arm64e.deb
+Size: 6808
+MD5sum: 335f2b000df090d4e6171c90a720cbe1
+SHA1: 8d95020e4389cac857073ffdfb61b4f9255cf1dc
+SHA256: 2cc196471a7cc9a57831a3adbcf44817bf33cccca974fdfc6958b6dd4acc77a6
+SHA512: ffde69efa5d4c6180fe8ca4bde36bd0b2ec45a6b88ce6acf4371eb557970b81611b10052edac9cde5028ffe8dd8d6902feb892d973f2d934baca41a98a8f2a37
+Description: 震动关闭时 闹钟仍保持正常震动。
+Name: AlarmVibrate
+Author: yaowell
+icon: https://huayuarc.github.io/icon/alarmvibrate.jpg
+
 Package: com.yaowell.batterymirrorlite
 Architecture: iphoneos-arm64e
 Version: 1.1
