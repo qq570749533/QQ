@@ -581,6 +581,28 @@ Description: 它清除了一个简单的WebKit调用，但却产生了巨大的�
 Name: WebkitAcceleratork
 Author: kms
 
+Package: com.a0.resumerecafterflip
+Architecture: iphoneos-arm64e
+Version: 0.8.0
+Section: Tweaks
+Maintainer: 王
+Installed-Size: 204
+Provides: com.local.resumerecafterflip
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: com.local.resumerecafterflip
+Replaces: com.local.resumerecafterflip
+Filename: debs/com.a0.resumerecafterflip_0.8.0_iphoneos-arm64e.deb
+Size: 16628
+MD5sum: 2feaf2d18c31653d7f4aa9356a3cb1f5
+SHA1: 1bf4037df83a33d2d4e5aaa534094ffe98994d47
+SHA256: 4c8c58fe458b79d9fe504b2630afba5e908ef18672c495630708c7d058f764c2
+SHA512: efb882f913af5821539ad4643bfaf46a7a8a1ca2adeb823c46ad5f6bbc16ffce332a371a73221f398eeb356ac265e6b8adaf274a5575922243bb016fc55fae78
+Description: 系统相机录像中双击翻转会打断录像（-11818）。本插件在被打断后自动续录，并在按停止时把各分段无损拼成一个完整视频写入相册，原分段自动清理。全程无需手动操作，翻转前后不丢画面。
+Name: Camera Resume Rec
+Author: 王
+icon: https://huayuarc.github.io/icon/resumerecafterflip.jpg
+
 Package: com.aptzh
 Architecture: iphoneos-arm64e
 Version: 1.3-3+debug
