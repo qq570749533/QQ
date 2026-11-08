@@ -1286,6 +1286,24 @@ Author: dvntm
 icon: https://TrollStoreX.Github.io/sileodepiction/OledKeyboard/icon.png
 SileoDepiction: https://TrollStoreX.Github.io/sileodepiction/OledKeyboard/js.json
 
+Package: com.dynamicx.tweak
+Architecture: iphoneos-arm64e
+Version: 1.5.1
+Section: Tweaks
+Maintainer: 半生年华
+Installed-Size: 2308
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.dynamicx.tweak_1.5.1_iphoneos-arm64e.deb
+Size: 477594
+MD5sum: a0623d77754dd52cf49cfaa73005d5b5
+SHA1: 88c08c1056131e7978098945131dad29fd1109e5
+SHA256: ee96c482fe77ac28bad1f23023bb7bbb9d8d58c29c2c3f0f8fba7831ae69e577
+SHA512: f8de754e6176528837a5a2e7158b2f2dbadcf38386e3ecc7dc7fd62f8f558fc70c4b0556065cb12c2789001ce6e9619e1a130ed9ead2ed2182bef27136c0032a
+Description: 万物皆上岛
+Name: DynamicX
+Author: 半生年华
+Icon: https://abc07968695-a11y.github.io/Sileo/DynamicX.png
+
 Package: com.fizz.ripple
 Architecture: iphoneos-arm64e
 Version: 0.1.0
