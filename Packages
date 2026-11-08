@@ -959,11 +959,11 @@ Maintainer: daodao
 Installed-Size: 428
 Depends: mobilesubstrate, firmware (>= 15.0)
 Filename: debs/com.dao.keybar_1.1_iphoneos-arm64e.deb
-Size: 48786
-MD5sum: 72863180a5a56a3d3371da2fd27ae188
-SHA1: 6f1f075696484f973172fb0c0c496d05d345eae3
-SHA256: a3ffb4af1301c3ac8cecf1a3b51237a5428966aae5ff7d3ea117605e40c93a89
-SHA512: c02c79d5ec2654e0ca0de0935ec1603f3c59978d8d1e9668b6d956693a584e315b074b18a549f0065c004d9fe11e520c963996c7e5ca30b6c2907dfc9af4c972
+Size: 99452
+MD5sum: c143599b16361afdaf5f0274f64a2b20
+SHA1: 194529c1dfba5216378af913c8052bbf30f0073d
+SHA256: 5c1565eb709741b539bd1f5d5b18e223695052802defc09ac9287e29c7f74073
+SHA512: 1e704cb7b2429c13ccb38e3c68091a8a6b816a59418878e7038322b609870e994d9bbb30ecd2498d54e18bb80eb02348dd48c49dcef30a7d9c5ead7fab34654d
 Description: 键盘增强插件，支持调整键盘底部间距及地球键、听写键的垂直位置，并在键盘下方添加全选、复制、剪切和粘贴快捷按钮，长按即可快速收起键盘，让输入操作更加便捷。
 Name: KeyBar(RootHide)
 Author: daodao
