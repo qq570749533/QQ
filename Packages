@@ -3685,6 +3685,23 @@ Description: 加载样式偏好
 Author: Dhinak G <dhinak@dhinak.net>
 Name: PreferenceLoader (Top)
 
+Package: preferenceloader
+Architecture: iphoneos-arm64e
+Version: 2.2.8
+Section: System
+Maintainer: ProcursusTeam <support@procurs.us>
+Installed-Size: 340
+Depends: mobilesubstrate
+Filename: debs/preferenceloader_2.2.8_iphoneos-arm64e.deb
+Size: 38802
+MD5sum: 866ebe42c7c18c3580bc5ae7d2e2038d
+SHA1: 4548a12481e30f0b2ece02e943e80729e77b4176
+SHA256: 28dff031821cfd649bd0e6f599f5a8732772f38bb2262d714ef8439b9ef06236
+SHA512: 96dffb6aaf3951c55d9f6404b02ee5aca37bfdd53d1ee69975fcd0334bcdfb87615c01d590a9d2da187fd20b4a8abcd610051a5d4606c6d49486db79b10bc4b4
+Description: 加载样式偏好
+Author: Dhinak G <dhinak@dhinak.net>
+Name: PreferenceLoader
+
 Package: rootless-compat
 Architecture: iphoneos-arm64e
 Version: 2.0.1
