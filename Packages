@@ -1758,18 +1758,17 @@ icon: https://TrollStoreX.Github.io/sileodepiction/PassbyCC/icon.png
 
 Package: com.local.ios27statusbar
 Architecture: iphoneos-arm64e
-Version: 1.3.1
+Version: 1.4.0~ios16native2
 Section: Tweaks
 Maintainer: 半生年华&yaowell&Benja Guo
-Installed-Size: 260
-Depends: mobilesubstrate
-Filename: debs/com.local.ios27statusbar_1.3.1_iphoneos-arm64e.deb
-Size: 18980
-MD5sum: 930e9f5676336d4d07b3d0099566e60b
-SHA1: db70a0428ccb72461853b98a53ef0df745bc63ed
-SHA256: 5a49b2e86add932573710da7dbd4a6c7742066cd0c2be1dead97515a752f73c3
-SHA512: 96842723377c01e6f534d49e76c5985445090d4459ade0d0bf2d8c0a3ab846e95d8cf80e67e71eeadb9db1a42ebcc321e1f6b9ec03b1d0c0e371da8ae1886b2d
-Description: 模仿27系统状态栏（兼容 Single VPN Wi-Fi 变色） 信号与Wi-Fi素材来源：Benja Guo  电池源码感谢yaowell提供
+Depends: mobilesubstrate, firmware (>= 16.0)
+Filename: debs/com.local.ios27statusbar_1.4.0~ios16native2_iphoneos-arm64e.deb
+Size: 61076
+MD5sum: eaa23634cdfb18d147936296e6acada1
+SHA1: 2a584af2eb85581980c43b7bded81149c3bd5a42
+SHA256: 04cbc654baebf668455b661ea580ac3e3fbeb4de26b3a4cc197e0fadaead3b1e
+SHA512: 0b3077e70c436a57c2aa0441328c6e452df6c01812e9b2914242730b6019229dbc3592819b307624e56a5aed85059bdc50249e52abf27726547e2ccec83d78ad
+Description: 模仿27系统状态栏（兼容 Single VPN Wi-Fi 变色）
 Name: iOS27状态栏
 Author: 半生年华&yaowell&Benja Guo
 
