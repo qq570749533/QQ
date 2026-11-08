@@ -3422,6 +3422,24 @@ Name: CellBell
 Author: yaowell & 半生年华
 icon: https://huayuarc.github.io/icon/cellbell.jpg
 
+Package: com.yaowell.hideavcontrols
+Architecture: iphoneos-arm64e
+Version: 1.1
+Section: Tweaks
+Maintainer: yaowell
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: debs/com.yaowell.hideavcontrols_1.1_iphoneos-arm64e.deb
+Size: 9972
+MD5sum: ceaa882eaf7739892c59f8f3271f6462
+SHA1: a85bd6d7979f87b27601ee40b2365a111c0bb9a7
+SHA256: 02632c367d2b61895215779c49cf650510e79751230267df5b7c175efd14de63
+SHA512: ab792566636bca2e93e767180997fc31f13aa4a0576889ed9da236e87408f2f6c645e39c1b8e53aa37fa6f516ab222f1da16d1c99497eea74148b69bc4ef6955
+Description: 隐藏控制中心顶部的麦克风模式与视频效果模块
+Name: HideAVControls
+Author: yaowell
+icon: https://huayuarc.github.io/icon/hideavcontrols.png
+
 Package: com.zqbb.kayoko
 Architecture: iphoneos-arm64e
 Version: 4.3
