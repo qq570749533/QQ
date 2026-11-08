@@ -1631,11 +1631,11 @@ Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader, cy+cpu.arm64e
 Conflicts: com.jaysuen.ccflex16, com.jaysuen.evocenter.arm64, com.jaysuen.evocenter.arm64e
 Replaces: com.jaysuen.ccflex16, com.jaysuen.evocenter.arm64, com.jaysuen.evocenter.arm64e
 Filename: debs/com.jaysuen.evocenter_4.1.0-beta.2_iphoneos-arm64e.deb
-Size: 2907492
-MD5sum: 21f467e9aa17af82e46def8291fe69e6
-SHA1: 7265e9f898ade98bd03c358461137cc99df36a03
-SHA256: 4263406f42612fb5c8fa7622471e47bcc09b365d62477a3c608e3d63bcfdb22b
-SHA512: 883b787e34cc77327fc25d17981fb8044063030741b4e55c0752f59132f6b04771989d77fe2fc9e9e2e5ddd7b5377b4c0e531f5add5066874fcf0331146f35ae
+Size: 2907236
+MD5sum: a08406eb2981721d16acdc13064d431a
+SHA1: 1e0025db82bd3e12b82f3bd3f36227772898e72f
+SHA256: c1e2e8b5060450a63c8238b13fbf37e0b23973ea11ab0ca0f46943e4da00a683
+SHA512: 3cca5d1134c76dee0872a6761c457f4000a1a4ee9a2d37dfb615960810ab04e481216e9f93148129b5ca9dbc07500f2dbc507ed46e0273877644cb8e15463ada
 Homepage: https://eleveny123.github.io/EvoCenter/
 Description: 为旧系统带来类似ios18的现代化控制中心体验。arm64e设备专用，arm64设备请下载legacy版本。
  调节模块尺寸、自定义圆角大小和控制中心背景透明度。
