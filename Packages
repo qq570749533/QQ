@@ -3259,12 +3259,12 @@ Installed-Size: 480
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader
 Filename: debs/com.wkk.popoutbuttons_1.0.2_iphoneos-arm64e.deb
-Size: 66894
-MD5sum: 8e91ee80bfc58f5848365f9979e1ac35
-SHA1: ed153008a71a342254609aa8ed7233fa0c219d7f
-SHA256: 8422c69082434c5d3a526e7f7834e6de5eff76df105c0537ca488dfcc2f9e835
-SHA512: 5a1bddbea9d1a49cc6118707a1c81cbbc749705e33b3259a9a15dd96cc763ad6fafda2355d9b7d4a0b9c9f5ae164837e8ea0d6a32e42ab9b399af19d09a25ba9
-Description: 将iOS18按钮弹出窗口带到你的设备上，支持iOS13-17（已汉化）
+Size: 66770
+MD5sum: 21c6b2230a75e7abb1dc361cf7b5b512
+SHA1: aa1444532489c1b062b29d74646871863413c0c3
+SHA256: 0778954846556bcc068b93deda883d2c5c56e11a7b5953154e0073edf42a6cb0
+SHA512: 8b1744c0edf8ab0acc8b463c4a095cfdeeb6f838efaedba5d5884270ca37e4c660c58dd9acf1473dbc2c8d3451465fb7e52317488d22932cd6a2ac50b49ee259
+Description: 将iOS18按钮弹出窗口带到你的设备上，支持iOS13-17
 Tag: compatible_min::ios13.0
 Author: tesla_man <computerman939+POBsupport@gmail.com>
 Name: PopOutButtons
