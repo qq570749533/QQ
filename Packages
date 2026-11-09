@@ -3931,11 +3931,11 @@ Depends: mobilesubstrate, preferenceloader
 Conflicts: com.yourcompany.liquidsiri
 Replaces: com.yourcompany.liquidsiri
 Filename: debs/iya.iapple.siri_1.1.4_iphoneos-arm64e.deb
-Size: 1534644
-MD5sum: 3f0c4bc55dcbeedec1f6012d56cc97bb
-SHA1: cf8a2dc11717666aea28be006791f4ee41890b87
-SHA256: 7b59eac85503faa7893824135553647c723d9bbdea5f3fb15e0cb6579a331691
-SHA512: f6c217a179acadcd5f43b64dd11ff13886c47a834694ebf2d0c83abfb558a741f568c6b8914bf066f196626f0649f746ffca64ea5e6b045da15e84abee0c6e26
+Size: 696018
+MD5sum: df5ec52e09e5fa260366a99e238f37a1
+SHA1: aaeff4aff6230b272d77e15f1bef7e772aa9ca9f
+SHA256: d58edf2eae9c668700ed7063c4cdb865055aaf347a06bdf55997abf9610a22b3
+SHA512: 4664afa3aec2530edf2376b6b4d1bd54137c3c3c047c3e71d65b857daaf4f65d8222e683434e76d7100096a66b065367a14819c0bbad69577b5ba0eb09204816
 Description: 使用NewSiri边缘照明或SiriAI玻璃界面自定义Siri。
 Name: LiquidSiri
 Author: Thijs mussig, Banana
