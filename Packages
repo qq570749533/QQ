@@ -4065,23 +4065,6 @@ Author: CoolStar and contributors
 Icon: https://apt.002599.xyz/web/icon/org.coolstar.libhooker.png
 SileoDepiction: https://apt.002599.xyz/web/org.coolstar.libhooker
 
-Package: org.coolstar.sileo
-Architecture: iphoneos-arm64e
-Version: 2.5.1-14.1
-Section: 嗨-系统
-Maintainer: 刀刀
-Depends: firmware (>= 11.0), firmware(>=12.2) | org.swift.libswift (>=5.0), coreutils (>= 8.30-1), dpkg (>= 1.19.4-1), apt (>= 1.8.2), libzstd1
-Replaces: org.coolstar.sileo
-Filename: debs/org.coolstar.sileo_2.5.1-14.1_iphoneos-arm64e.deb
-Size: 5056416
-MD5sum: c4444c6a86eecfc321b80670a0db47cf
-SHA1: e83b185d46ef61834eb430b2e76458678a3a7e0e
-SHA256: 64cfdea150aee366d0438771fc7a3d0dbc0efc10ffeb23b644d86fe4dd459af0
-SHA512: c61a98ce12115810a156cb66afb00b6fd764546b6e311d8cc2685a217215f41766797f8630edbe88ecd926268a16b78f9dba945729d35acd663ebb63eab43b2b
-Description: 刀刀补充汉化，并在插件列表左侧增加架构指示器(arm64e → 绿色、arm64 → 蓝色、arm → 橙色、all → 灰色)，可识别刀刀源内的 RootHidePatcher 中文版，也识别 UmbraPatcher，转换插件一条龙。
-Name: Sileo(RootHide)
-Author: Amy While
-
 Package: preferenceloader
 Architecture: iphoneos-arm64e
 Version: 2.2.8
