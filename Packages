@@ -3670,19 +3670,20 @@ Author: yaowell
 icon: https://huayuarc.github.io/icon/hideavcontrols.png
 
 Package: com.yourepo.ok95.5
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm64e
 Version: 5.0
 Section: Tweaks
 Maintainer: Dragonmichael69 <kk99588077@gmail.com>
+Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate
-Filename: debs/com.yourepo.ok95.5_5.0_iphoneos-arm64.deb
-Size: 60360
-MD5sum: b42722ef7623551ee23636ec9293b9f6
-SHA1: 16e6bb5703321ddcc9297f55c0d29f039ad4dcad
-SHA256: 85f2391743b1cdc2dfed2fc25a2c664d18daa2e026b8b10398382817d4730e1c
-SHA512: 7626269a55b252f479db9167462995980a0260a1c26158fd2aa7a861e783b759c888f48ddcc025f2624bf089fc5b3cbbcda7655784a433351f7f50595f93a7b3
-Description: 优化网络框架，优化启动动画，优化电池，优化系统，优化运行内存，优化后台策略，自动开启杜比音效，优化复制粘贴的延迟，总之，这就是优化合集！
-Name: 去他妈的卡顿(rootless)
+Filename: debs/com.yourepo.ok95.5_5.0_iphoneos-arm64e.deb
+Size: 17730
+MD5sum: a0788d36d369a6a7bce0f3065f9e91e8
+SHA1: c5b3f6fc754cc9ecb3f9ed487602fb57b0527328
+SHA256: 14d432943ca7e6d576664a500eb8b6539161c3e524a132d0d566ea73a6815140
+SHA512: b8b3c1aee753459375f188d05bf070386c00bd9c4d6231af866a2a8b1f8f9b7dd5d1b6f1b61240120d442e91088f389df59231e5780673c21a1bebea7f9afae6
+Description: 优化启动动画，优化运行内存，自动开启杜比音效。
+Name: 优化合集
 Author: 空白 <kk99588077@gmail.com>
 
 Package: com.yourname.backgroundkeepalive.roothide
