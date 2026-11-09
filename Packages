@@ -1766,20 +1766,20 @@ SileoDepiction: https://TrollStoreX.Github.io/sileodepiction/CCVPN/js.json
 
 Package: com.lclrc.cccalc
 Architecture: iphoneos-arm64e
-Version: 2.1.0
-Maintainer: gilesgc & paisseon & lclrc
-Installed-Size: 348
+Version: 2.1.0-roothide
+Section: Tweaks
+Maintainer: gilesgc & paisseon & lclrc <xuanhua880@gmail.com>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate
-Filename: debs/com.lclrc.cccalc_2.1.0_iphoneos-arm64e.deb
-Size: 81736
-MD5sum: 3a1aace7cc4bb8ab0b87721a5d6f0ced
-SHA1: f073f58d4859daae72f677d2f59de9b32d5546b0
-SHA256: 78c500f85c7c6afce03b629420f8d6a892d15288263f2993e1ac7709e2b82ca7
-SHA512: 56e83a7cb59d3ee794e466c7054e42e87c5c1fe4eb123007a302654c8ba087ec42ef358f7bdf5070f8fbc93472b5581730788b5f22c3564081332e510a1c6681
+Filename: debs/com.lclrc.cccalc_2.1.0-roothide_iphoneos-arm64e.deb
+Size: 94362
+MD5sum: a938deb75b690eb0de473eef202f4e9a
+SHA1: f5876cb35ad8903c96a068fbbbe23c73d065e6c3
+SHA256: 805b18616d30dfb77f0569548d64b8a9e7cbbcfa1092649a600e14b1d46e568a
+SHA512: 9eb676c0c6fc11c12b0792d90ea3806e88715a16fa6a64fd30c4f25753ba9575df64f193ecfd4589364439e6baf2c92162a2890c2f3351c0ed757a6cd7862b81
 Description: 把控制中心的计算器变成真正的计算器，而不仅仅是复制上一个计算结果。
 Name: CCCalc
-Author: gilesgc & paisseon & lclrc
+Author: gilesgc & paisseon & lclrc <xuanhua880@gmail.com>
 Icon: https://gilesgc.github.io/repo/depictions/com.gilesgc.cccalc/cccalc-icon.png
 
 Package: com.lclrc.recordanywhere
