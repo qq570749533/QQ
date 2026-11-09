@@ -3289,6 +3289,24 @@ Name: 去除原生键盘候选词高亮背景
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 
+Package: com.wkk.screenfarewell
+Architecture: iphoneos-arm64e
+Version: 1.0-3
+Section: Tweaks
+Maintainer: wkk
+Installed-Size: 556
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: debs/com.wkk.screenfarewell_1.0-3_iphoneos-arm64e.deb
+Size: 157968
+MD5sum: dd77b5688f358ee2cba9e8ab644b1b51
+SHA1: 74ab7c65cc9330bf1293c737385af5b6874e1d83
+SHA256: c879b0e6818873d35fa36cc89ef1b50c3c9747a3f644dfda2ea9a264ef748e58
+SHA512: cae173a09b89979c40c004725b4c8a7e3b55fc8bb8750b1e9d80aa98d8a0af94bf3f258838bc34ec9e3e1bd14042380ca2f7f59abc243e1f3e12ca25cba6139c
+Description: 锁屏特效，效果任选，无用请卸载。
+Name: DriftX
+Author: wkk
+icon: https://huayuarc.github.io/icon/screenfarewell.png
+
 Package: com.wkk.sileoseparatorhider
 Architecture: iphoneos-arm64e
 Version: 1.0-1
