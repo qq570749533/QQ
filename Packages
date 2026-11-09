@@ -2853,6 +2853,22 @@ Description: 调整系统键盘按键圆角，让键盘外观更加圆润、简�
 Name: 系统键盘圆角
 Author: Tsangbaby
 
+Package: com.ttt.cccurrentmodule
+Architecture: iphoneos-arm64e
+Version: 1.4
+Section: 嗨-工具
+Maintainer: ttt & daodao
+Depends: firmware (>= 15.0), com.opa334.ccsupport
+Filename: debs/com.ttt.cccurrentmodule_1.4_iphoneos-arm64e.deb
+Size: 26664
+MD5sum: 3b7edfb3935b8003ec6da835d19c78ef
+SHA1: a5195a89bd4351f1cf8ec48b87c82834c851a3c5
+SHA256: 4594d5d591cad5c9c89b9a1ca916329ab954b933b8057a6c0bd507cffad7170f
+SHA512: b4f768c480adab854c1b38105c050a7fc27ff6990d0cbab96083b4fa8fe33142a27ed3700c0652393f984a33aed60360e3a13ade773065fc95a9ebcc938812a3
+Description: 控制中心电池状态模块，双行内容，可自定义设置；长按模块可展示更多电池信息。
+Name: CCBatt(RootHide)
+Author: ttt & daodao
+
 Package: com.unknown.notesreadonly
 Architecture: iphoneos-arm64e
 Version: 1.0.8
