@@ -3694,11 +3694,11 @@ Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
 Conflicts: com.rpetrich.backgrounder, com.jevinskie.backgroundmanager
 Filename: debs/com.yourname.backgroundkeepalive.roothide_1.0.0-1_iphoneos-arm64e.deb
-Size: 170064
-MD5sum: ef4c7a6fe69907787b4f6dacfdd82352
-SHA1: 474201f2ae235efa31ea4ff8622d3d91cad6c98f
-SHA256: 565ab70c057e5b54b7bae695c18ab9f0027301d9b63116fbbce86e2290476f1a
-SHA512: 4f2f687c32ddd58d02ec6b50ab4d1f26e905a0119506e006b5dd7bad4fcdc10afa28dbd9e4741b9da656d030abb6373b3c5e20ed9536fbca7f49b9eab08defc3
+Size: 111368
+MD5sum: f887da39c2d3b7b4e53e0160f6ffd54e
+SHA1: e391fb3f23766f18b6c0a3d71e7d9f8799e7876b
+SHA256: 7766980868e3ce0140bd968a8c6274a5a7df15dd6da0d94186e08c5063801e65
+SHA512: a39035fd3b46d3b2412bafed9cec7e8f201aa60fd3096c9cae597b895e43b4e1f7738d0cc86e96f7c6d91e5b7151666d7ed8f3facbf50eafb95cddc0577d3a9c
 Description: 基于iOS墓碑机制的后台保活插件这是一个专为Dopamine越狱环境设计的后台保活插件，通过Hook iOS系统的墓碑机制来提高应用的后台留存率。.主要功能：• 拦截应用挂起和终止操作• 智能内存管理和优化• 自动监控和重启机制• 适配RootHide隐根越狱环境• 长时间稳定运行，自动故障恢复.支持iOS 14.0及以上版本，兼容arm64和arm64e架构。
 Name: BackgroundKeepAlive
 Author: YourName <your.email@example.com>
