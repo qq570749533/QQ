@@ -3791,13 +3791,13 @@ Section: Libraries
 Maintainer: opa334 <opa334@protonmail.com>
 Provides: opainject
 Filename: debs/dopamine-basebin-link_1.0.0_iphoneos-arm64e.deb
-Size: 746
-MD5sum: 6741af6bcb35f2e6fd26dd109e690b21
-SHA1: 54eb195e01894bbe8982e6d9234453c28d62f69d
-SHA256: 6d4bf27c00670b52162dafd547cc34e61db023982f89058f319330df51c2a962
-SHA512: 9cf50771274bc6b1069db1985b40bc877fe315064f44eff01e9dcaf669d4a876f22b78e293fa4054e19818b0e738c7e6364ab46dcab00a2061b4c410f47d79d4
+Size: 826
+MD5sum: 13343ece476f1b32ff292b7fcd810bcc
+SHA1: 8251869f07dc52ffb4b5c7b0cc24f6518ad78784
+SHA256: 9e5640f55d15f9d01209183fb405cd6a5e2d5a0b9c58971af3cc55dc6bf2a477
+SHA512: 4c95a945b55f425d5d4f1835aabf66b9e286d54e3794bca74e9ff4947fa68161f6a149ce894b765c2442e54b535438ae559fe39df04b5b935eee83470740ba46
 Homepage: https://github.com/opa334/Dopamine/tree/main/BaseBin
-Description: 多巴胺碱二元组的符号链接
+Description: 解决无根越狱某些情况下（使用一键挂载脚本)缺失一些运行库的问题（毕竟opa334不开放挂载)
 Name: Dopamine BaseBin Link
 Author: opa334 <opa334@protonmail.com>
 
