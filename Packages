@@ -4153,6 +4153,44 @@ Icon: https://img.chariz.cloud/icon/cephei/icon@3x.png
 Depiction: https://chariz.com/get/cephei
 Support: https://hashbang.productions/support/
 
+Package: xyz.cypwn.startupoptimizations
+Architecture: iphoneos-arm64e
+Version: 2.3.6
+Section: System
+Maintainer: CyPwn
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>> 14.0), mobilesubstrate, preferenceloader, bash
+Filename: debs/xyz.cypwn.startupoptimizations_2.3.6_iphoneos-arm64e.deb
+Size: 3446
+MD5sum: 4ad88be7f78d2b1c6139fd77be8c67b5
+SHA1: a1bf745bae3c884929afbb2e09a1c30d32b91a2b
+SHA256: 9338ae433b7503a639785c88f77d6dd5cf8382ba3dc24d09c34d2e143e45733e
+SHA512: 692211554d7a596875fa70db00efd0232694587e8b3637797e665b0c1a83388f5e5b9ff562d4445bbd7ccf9dcb4164e062c4a62026c7d9878dd9ebb601a5b922
+Description: 越狱后，通过删除不必要的用户安装的应用程序数据、系统缓存文件并执行其他系统优化，自动优化和清理您的设备。
+  - ****`--- 优化 ---`****
+  - 通过改进线程管理增强多任务处理。
+  - 优化内存处理以获得更流畅的性能。
+  - 防止在内存压力下过早终止应用程序。
+  - ****`--- 已删除缓存 ---`****
+  - /var/MobileAsset/AssetsV2
+  - /var/mobile/Media/PhotoData/Thumbnails/VideoKeyFrames/DCIM
+  - /var/mobile/Media/PhotoData/Thumbnails/V2/PhotoData/CPLAssets
+  - /var/mobile/Media/PhotoData/Thumbnails/V2/DCIM
+  - /var/mobile/Library/Mail/MessageData
+  - /var/mobile/Library/Mail/MessageData
+  - /var/mobile/Library/Mail/AttachmentData
+  - /var/mobile/Library/Caches
+  - /var/mobile/Containers/Data/Application/*/Library/Caches
+  - /var/db/uuidtext
+  - /var/db/diagnostics/Special
+  - /var/db/diagnostics/Signpost
+  - /var/db/diagnostics/Persist
+Depiction: https://repo.cypwn.xyz/depiction/3200
+SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/3200
+Icon: https://repo.cypwn.xyz/packages/StartupOptimizations-Rootless/icon.png
+Author: LF, Korboy
+Name: StartupOptimizations
+
 Package: zp.stopshortcutsautomationnotif
 Architecture: iphoneos-arm64e
 Version: 1.0.1
