@@ -3669,6 +3669,24 @@ Name: HideAVControls
 Author: yaowell
 icon: https://huayuarc.github.io/icon/hideavcontrols.png
 
+Package: com.yourname.backgroundkeepalive.roothide
+Architecture: iphoneos-arm64e
+Version: 1.0.0-1
+Section: Tweaks
+Maintainer: YourName <your.email@example.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
+Conflicts: com.rpetrich.backgrounder, com.jevinskie.backgroundmanager
+Filename: debs/com.yourname.backgroundkeepalive.roothide_1.0.0-1_iphoneos-arm64e.deb
+Size: 170064
+MD5sum: ef4c7a6fe69907787b4f6dacfdd82352
+SHA1: 474201f2ae235efa31ea4ff8622d3d91cad6c98f
+SHA256: 565ab70c057e5b54b7bae695c18ab9f0027301d9b63116fbbce86e2290476f1a
+SHA512: 4f2f687c32ddd58d02ec6b50ab4d1f26e905a0119506e006b5dd7bad4fcdc10afa28dbd9e4741b9da656d030abb6373b3c5e20ed9536fbca7f49b9eab08defc3
+Description: 基于iOS墓碑机制的后台保活插件这是一个专为Dopamine越狱环境设计的后台保活插件，通过Hook iOS系统的墓碑机制来提高应用的后台留存率。.主要功能：• 拦截应用挂起和终止操作• 智能内存管理和优化• 自动监控和重启机制• 适配RootHide隐根越狱环境• 长时间稳定运行，自动故障恢复.支持iOS 14.0及以上版本，兼容arm64和arm64e架构。
+Name: BackgroundKeepAlive
+Author: YourName <your.email@example.com>
+
 Package: com.zqbb.kayoko
 Architecture: iphoneos-arm64e
 Version: 4.3
