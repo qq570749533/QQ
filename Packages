@@ -1842,6 +1842,23 @@ Description: 模仿27系统状态栏（兼容 Single VPN Wi-Fi 变色）
 Name: iOS27状态栏
 Author: 半生年华&yaowell&Benja Guo
 
+Package: com.minis.lockscreengradientclock
+Architecture: iphoneos-arm64e
+Version: 2.0.24
+Section: Tweaks
+Maintainer: MoWang
+Installed-Size: 1060
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.minis.lockscreengradientclock_2.0.24_iphoneos-arm64e.deb
+Size: 372776
+MD5sum: ebc1cde326bbe5ffe6f2cd5d26d2a2fa
+SHA1: 36770f1edb0d985b15ae6e7fa881129a9fbe7870
+SHA256: 16cbb7db8c1071aeb05e5a74750fa1f8315770735fddc5e695628200f4ebe6b1
+SHA512: 4cd5bb7eae445dd7f1a082aaf0cc5fa60f923e2fedbb6ea686846f763b730772247c7508e69b3743676a11514278e936716723c494a726d591ff6346b3cd0a21
+Description: 可配置的锁屏时钟梯度。
+Name: 独立锁屏时间渐变
+Author: MoWang
+
 Package: com.mlgm.prefnest
 Architecture: iphoneos-arm64e
 Version: 1.2.3
