@@ -620,6 +620,25 @@ Description:  Sileo软件源刷新、dpkg安装日志完整汉化，覆盖全部
 Name: Sileo APT/DPKG汉化
 Author: Custom
 
+Package: com.azzou.rounderls
+Architecture: iphoneos-arm64e
+Version: 1.5-6+debug
+Section: Tweaks
+Maintainer: Azzou
+Installed-Size: 2208
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 13), ws.hbang.common (>= 1.16), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: debs/com.azzou.rounderls_1.5-6+debug_iphoneos-arm64e.deb
+Size: 58338
+MD5sum: 841079963aca33e7afa7c0858dbd560d
+SHA1: e385d89c8c16d29cb9303f8feaafd8781ade40f7
+SHA256: d350fd1f41438b8597aa67990dc6028166a78ed7fcb297bb8a53613bae732878
+SHA512: faaf4b039dff591168c9c07e0ccdf69d84f15d096f15cbfcfd3f77915bd18d81f971277d01ea2b24917a84a379214ac799eab9188a07b4bd883c9c6a70372722
+Description: 稍作调整，让你的锁屏更圆润！ 下拉通知圆角
+Name: RounderLS
+Author: Azzou
+Icon: https://huayuarc.github.io/icon/RounderLS.png
+
 Package: com.brend0n.nopassafterrespringsafe
 Architecture: iphoneos-arm64e
 Version: 0.0.3
@@ -4104,25 +4123,6 @@ SHA512: 2e4e1748a6b97904b2cd4407b17cc7b712114d058daa130a36d86f51d52189e7ea61146d
 Description: 屏蔽快捷指令自动化通知!
 Name: 屏蔽快捷指令自动化通知
 Author: zqbb
-
-Package: com.azzou.rounderls
-Architecture: iphoneos-arm64e
-Version: 1.5-6+debug
-Section: Tweaks
-Maintainer: Azzou
-Installed-Size: 2208
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, firmware (>= 13), ws.hbang.common (>= 1.16), cy+cpu.arm64v8 | oldabi-xina | oldabi
-Filename: debs/下拉通知圆角.deb
-Size: 58446
-MD5sum: c27193c3d0400e71fa3cfd23fd5d4ea1
-SHA1: 3e16e93c55c47d6efec420664f9f751393d03544
-SHA256: aa81725b941f5bc415a9fa42833ffc6a081ddf08f47097562f3507258688323f
-SHA512: e190eb33593f9ece8c5fbb55f74b1897b4c9d6f5e368714b68a53f0daca42fc06496267f16d84d0dcfabbc47bbb0d71f93dfe245d73a5681d7da458690ddd903
-Description: 稍作调整，让你的锁屏更圆润！ 下拉通知圆角
-Name: RounderLS
-Author: Azzou
-Icon: https://huayuarc.github.io/icon/RounderLS.png
 
 Package: cn.octoforce.squidgesturepro
 Architecture: iphoneos-arm64e
