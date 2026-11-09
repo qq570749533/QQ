@@ -3311,18 +3311,18 @@ Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.
 
 Package: com.wkk.sileosourcesearch
 Architecture: iphoneos-arm64e
-Version: 1.0-1
+Version: 1.0-2
 Section: Tweaks
 Maintainer: wkk
-Installed-Size: 92
+Installed-Size: 108
 Depends: org.coolstar.sileo
-Filename: debs/com.wkk.sileosourcesearch_1.0-1_iphoneos-arm64e.deb
-Size: 22998
-MD5sum: aef9214f0c663addf0c6842eb21b32cd
-SHA1: 7ec62d8bfc919a767380f20ca197acf4d536c8a2
-SHA256: 3d0f47e5eb3f66ea9a9aac00378001e5038171d1a00058b3c61be9c8ee4b62be
-SHA512: 0582da952f56a8f9f5c05bc3005be3443b4e0887557045c6e52165a2c5767888c9fb69355f320c8f9816294bb154081edd352be737f868bc5ffffe3703aa908d
-Description: 在 Sileo 软件源页面加入源名称和网址模糊搜索，并可直接跳转到对应软件源。
+Filename: debs/com.wkk.sileosourcesearch_1.0-2_iphoneos-arm64e.deb
+Size: 28244
+MD5sum: 20fc17d16318eb692e9435de09b31b23
+SHA1: 9ecaefdb97bf217ba3b285773ce5d5c96c241894
+SHA256: 6674d68c9c5072e70f5839f539b879774fd53775bf46d5a18961cad4e101a38e
+SHA512: 8a9880353a237fe04b683841b2d131a5a929df02da67f4f155ee9a28462f9284cec0a8bb4f2ee79a7a93e67f77102c3dd6ca6d0a239bb2814bb80a4ff8bfe5ec
+Description: 为 Sileo 软件源页面增加源名称和网址模糊搜索，点击搜索结果可直接进入对应软件源；同时在软件源左滑菜单中增加置顶和取消置顶，按置顶先后顺序排列，最多可置顶 5 个软件源。
 Name: Sileo 源搜索
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
