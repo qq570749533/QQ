@@ -1875,6 +1875,42 @@ Description: 可配置的锁屏时钟梯度。
 Name: 独立锁屏时间渐变
 Author: MoWang
 
+Package: com.mlgm.filzacrack
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: mlgm
+Installed-Size: 204
+Depends: firmware (>= 15.0), mobilesubstrate, com.tigisoftware.filza64bit (>= 5.0.0~), com.tigisoftware.filza64bit (<< 6~)
+Filename: debs/com.mlgm.filzacrack_1.0_iphoneos-arm64e.deb
+Size: 8218
+MD5sum: 2b3ff3386e5bac07350d3603f38dbdf8
+SHA1: ac263dd2b716545ba3ccdceaebd980159b61fdab
+SHA256: a7c6701650c28da8dd03d4eacb23c959e3b35ddcb5bb9c50a2a5c1e57c4906c1
+SHA512: 72bf266c9622ef83f8438a32f050d0431d6e1ac14b0bd7c31f1cba0789ebb59a256d800192168712d1bc6a791e580549ba76a65eb545274f350247111e8a51c2
+Description: Filza 5.x 解锁完整版
+Name: Filza Crack
+Author: mlgm
+Icon: https://mlgm66.github.io/icon/FilzaCrack.png
+
+Package: com.mlgm.filzapatch
+Architecture: iphoneos-arm64e
+Version: 1.0.2
+Section: Tweaks
+Maintainer: mlgm
+Installed-Size: 170
+Depends: firmware (>= 15.0), com.roothide.patchloader (>= 0.0.8), roothide (>= 0.1.0)
+Conflicts: roothide.patches.filza
+Filename: debs/com.mlgm.filzapatch_1.0.2_iphoneos-arm64e.deb
+Size: 48904
+MD5sum: 578be85487e37de334ee9332e891c527
+SHA1: 979ece1f0f66abe1920bfdc0b55ff3e6c4330982
+SHA256: 1b5807b00d8eccee4e84e0fc20a5448d5a243891080f53abffe23b92a838ad4f
+SHA512: ca70939b880645dc21d70e081665385f57580797a6624937831b37d9d25a1dd2ffc6d8b721e30b27c87b1860a3ddb22bb7d62240d24a62dec3737bb87fa2b355
+Description: Filza 5.x 的 RootHide 动态补丁
+Name: Filza Patch
+Icon: https://mlgm66.github.io/icon/FilzaPatch.png
+
 Package: com.mlgm.prefnest
 Architecture: iphoneos-arm64e
 Version: 1.2.3
@@ -2960,6 +2996,25 @@ SHA512: aeb4b151e61bc3ef26f2600ff3dcd025afcf85dea1e86618611e1385fd8d3acfe79e48eb
 Description: 微信主题盒子
 Name: 主题盒子
 Author: Mao
+
+Package: com.tigisoftware.filza64bit
+Architecture: iphoneos-arm64e
+Version: 5.0.1-3
+Section: Utilities
+Maintainer: TIGI Software
+Installed-Size: 28616
+Depends: firmware (>= 15.0), com.mlgm.filzapatch (>= 1.0.2)
+Recommends: zip, tar
+Conflicts: com.tigisoftware.filza, com.tigisoftware.filza39
+Filename: debs/com.tigisoftware.filza64bit_5.0.1-3_iphoneos-arm64e.deb
+Size: 17869960
+MD5sum: 88119b4b36bbd723d256b948913dd74a
+SHA1: 96f7be7b3d0a5cf7384bc8b4f05291e0911c7e9e
+SHA256: 7af488f842d27e136157c5a79fa9eb703547c136847bb43789591a18ec7af104
+SHA512: 83426d61f43b1acf69bb3bab1c3554ac14d34f774c341055a7877b33971e8017ef946a75e858a69bc958277571f452c65b41cd6204df67c8b9dda5e9b24641a6
+Description: iPhone、iPad、iPod Touch的文件管理器。支持iOS 15+。此版本仅支持64位设备
+Name: Filza File Manager 64-bit
+Author: TIGI Software
 
 Package: com.tsangbaby.kbrc
 Architecture: iphoneos-arm64e
