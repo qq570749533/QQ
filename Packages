@@ -3812,6 +3812,24 @@ Depiction:
 SileoDepiction:
 Icon: https://apprecs.org/ios/images/app-icons/256/3a/1161431866.jpg
 
+Package: iya.banana.billie.ambientbadge
+Architecture: iphoneos-arm64e
+Version: 0.1.16
+Section: Tweaks
+Maintainer: Banana
+Installed-Size: 748
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: debs/iya.banana.billie.ambientbadge_0.1.16_iphoneos-arm64e.deb
+Size: 236816
+MD5sum: 39e8f1391aa8436889f066a2098a3ee5
+SHA1: fd571997151944384d775d05e2091c40b324d8d9
+SHA256: 461436246d8ef3e06c6ae0043b0b708bbd684b91abe7cb4833a3d6423a4dcbd6
+SHA512: 22ad0e13d545e95f2686d56aeb5106eb4ab44c5db7fcbe1e27a62bc6f93d750843ce7db39361cf1e2bc33e7a6e84c449b49d151024da360941045918f1f6cdf6
+Description: 为桌面通知角标加入玻璃质感与柔和光晕。
+Name: AmbientBadge
+Author: Banana
+icon: https://huayuarc.github.io/icon/AmbientBadge.png
+
 Package: iya.banana.dockicon
 Architecture: iphoneos-arm64e
 Version: 0.9.20
