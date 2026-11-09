@@ -913,6 +913,22 @@ Author: CydiaGeek <lucaluca86@aol.com>
 dev: lucaluca86
 icon: https://huayuarc.github.io/icon/huayuarc.jpg
 
+Package: com.cylex.performance-tweaks
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Cylex <xuanhua880@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Filename: debs/com.cylex.performance-tweaks_0.0.1_iphoneos-arm64e.deb
+Size: 9278
+MD5sum: 501cd8054bfd5db306616b44de2162f8
+SHA1: 80bd84fe2f67b97c818f0fff2ee6ec4e77584ee4
+SHA256: 909669768165c9c8487de4910c192e8754850008a218707e2281264ccbc0663d
+SHA512: a7f82f2b85e42acf7617ae0ab0a80b17a91a08d566d0f29b43f819d0ebc36e5ff945983c50fa306399310498a748906eb60454649bf5553b0e8cfa442730737c
+Description: 全面的系统性能和电池优化调整
+Name: PerformanceTweak
+Author: Cylex <xuanhua880@gmail.com>
+
 Package: com.dao.3dbadgeclear
 Architecture: iphoneos-arm64e
 Version: 1.7.0.1
