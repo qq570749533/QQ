@@ -1918,6 +1918,25 @@ Author: Netskao
 Markdowndescription: Add a quick toggle for Quantumult X VPN status in Control Center<br><br>• v1.1-3: Fixed potential icon status synchronization issues
 icon: https://huayuarc.github.io/icon/huayuarc.jpg
 
+Package: com.netskao.ccsim
+Architecture: iphoneos-arm64e
+Version: 1.1-9
+Section: Tweaks
+Maintainer: Netskao
+Installed-Size: 188
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
+Filename: debs/com.netskao.ccsim_1.1-9_iphoneos-arm64e.deb
+Size: 23532
+MD5sum: 492f7306a19f3f6f593b1edae6961069
+SHA1: 67cc83d9df67d8d758399248f0bdf4376fea2bce
+SHA256: eaf7bad0384c398b9a04506b17bb8bb235cf18f10955a3728a2aa63ebc59f68d
+SHA512: cad791fac600f8a60d570ad669077c5f43a13b3bc1290fdfce14fe62879d996ef2a205bae444b6b3864b00439d1de7b55ffb27760efb5c38690ea26f6870d23f
+Description: 控制中心快速启用或禁用其中一张SIM卡
+Name: CCSIM
+Author: Netskao
+Icon: https://huayuarc.github.io/icon/ccsim.jpg
+
 Package: com.netskao.swiftgramcrack
 Architecture: iphoneos-arm64e
 Version: 1.1-7
