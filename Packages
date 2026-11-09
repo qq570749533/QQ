@@ -2260,6 +2260,26 @@ Name: 控制中心音乐模块动画
 Author: simon
 icon: https://huayuarc.github.io/icon/fugap.jpg
 
+Package: com.sini..cccellularrate
+Architecture: iphoneos-arm64e
+Version: 1.1-1
+Section: Tweaks
+Maintainer: Netskao
+Installed-Size: 616
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
+Filename: debs/com.sini..cccellularrate_1.1-1_iphoneos-arm64e.deb
+Size: 111872
+MD5sum: c7643192d89f9edcd6dfae4af1dfdc46
+SHA1: d8c1921aa8302b72469727a7ccaa102d64d8e798
+SHA256: 0ec950b8c4a05e81fa1c931b230b21fadc19ba02949d6fb2cadc9008ed569092
+SHA512: 9afc9459e7cc5d652e114ebcd4b37bf1e9eb536579d19745dd92ae3a9a5cd732d5c23557cac8fa08b4dbc0c785ae72fbcf5a8f49d376472bf1c9ffb3554af444
+Description: 控制中心快速切换2/3/4/5G
+Icon: https://sini921.github.io/repo/sileodepiction/icon/cccellularrate.png
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/cccellularrate/js.json
+Name: CCCellularRate
+Author: Netskao
+
 Package: com.sini.autofillfix
 Architecture: iphoneos-arm64e
 Version: 0.1
