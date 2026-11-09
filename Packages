@@ -1262,6 +1262,24 @@ Name: AppBadge 应用胶囊
 Author: developlab
 Icon: https://TrollStoreX.Github.io/sileodepiction/AppBadge/icon.png
 
+Package: com.doimty.fixrepairsystempower
+Architecture: iphoneos-arm64e
+Version: 0.0.8-2
+Section: Tweaks
+Maintainer: doimty
+Installed-Size: 76
+Depends: mobilesubstrate
+Filename: debs/com.doimty.fixrepairsystempower_0.0.8-2_iphoneos-arm64e.deb
+Size: 9604
+MD5sum: 9b1263326a8647a895bea05bd5cf56bb
+SHA1: 1fb7edf24da79a3647adfc4fcba06d33d91bd831
+SHA256: a3e7dbe81802eebc91749f49f4a4e5ba6f510f78f49b4efca44077e431f4bda8
+SHA512: 9f58920d1f79cfdc0b77e6b4b21c5055f8a7fc02ea968acfcc75343738047e12ee4ce240a404b0fd57d9416e5338f53fa0aa31a4881b567cc8f2962516e0e80e
+Description: CPU电池保护器电池连接状态不更改删除受监控区域不使用后台位置服务不更新WiFi状态删除假装在电话管理器中搜索没有WiFi扫描结果禁用WiFi充电器队列有蜂窝电话专用位置应用程序不使用位置和详细信息删除动画删除动画虚假服务如果不必要不扫描更新删除检查时区时区（固定）AdBlock-阻止某些iAds没有自动同步隐藏iAds设备
+Tag: supports::roothide
+Name: Fix Repair System Power
+Author: doimty
+
 Package: com.dvntm.fbos
 Architecture: iphoneos-arm64e
 Version: 0.0.1
