@@ -3848,6 +3848,25 @@ Description: 可定制的玻璃状态栏胶囊，带有天气、媒体、通知�
 Name: Lunora
 Author: Banana
 
+Package: iya.iapple.siri
+Architecture: iphoneos-arm64e
+Version: 1.1.4
+Section: Tweaks
+Maintainer: Thijs mussig
+Installed-Size: 2340
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.yourcompany.liquidsiri
+Replaces: com.yourcompany.liquidsiri
+Filename: debs/iya.iapple.siri_1.1.4_iphoneos-arm64e.deb
+Size: 1534724
+MD5sum: a3ee5d282e6909547d0884ed2f7fb9c3
+SHA1: 7efe338646f069001c9729ac008354fa6f5d6bba
+SHA256: be2f9e8dd1f7d0c04132d2b61401bfb2e05c161712999d6c689f27b5a4c1850b
+SHA512: ee5f828bc84b0f10d5d9f92d378039c8fd805006495850df8ad37ce4d3c38b2b163e262b5fd00431e5a55edbdc16368915701edab646ecb5cffdd939f85712ee
+Description: 使用NewSiri边缘照明或SiriAI玻璃界面自定义Siri。
+Name: LiquidSiri
+Author: Thijs mussig, Banana
+
 Package: netskao.quantumultxlauncher
 Architecture: iphoneos-arm64e
 Version: 1.1-2
