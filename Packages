@@ -3850,6 +3850,25 @@ Description: 可定制的玻璃状态栏胶囊，带有天气、媒体、通知�
 Name: Lunora
 Author: Banana
 
+Package: netskao.quantumultxlauncher
+Architecture: iphoneos-arm64e
+Version: 1.1-2
+Section: Tweaks
+Maintainer: Nets
+Installed-Size: 164
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
+Filename: debs/netskao.quantumultxlauncher_1.1-2_iphoneos-arm64e.deb
+Size: 17004
+MD5sum: b4e32e177bcd1fcefca44a84b8caa321
+SHA1: 4ecb3b8b526bd7dd4046035769818006dca3c456
+SHA256: 75f2a45f0f5d04475d26fa2fc7eef3cd6dbfec3e5b2add4f7fe733dcfe7ede2d
+SHA512: c63987d7ad2c260f994f9c31d5133f0cd4bbe1cf259b37b4cfd3cdbd51337e50b6fa72449b7583ad3010453b004a1c619982f8ea30e5f79f4e69aa7fd009024c
+Description: 通过控制中心快捷进入QuantumultX
+Name: QuantumultXLauncher
+Author: Netskao
+icon: https://huayuarc.github.io/icon/huayuarc.jpg
+
 Package: oldabi
 Architecture: iphoneos-arm64e
 Version: 2.0.1+roothide-1
