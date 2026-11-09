@@ -1428,6 +1428,25 @@ Description: WCPulse
 Name: WCPulse
 Author: huami
 
+Package: com.huayuarc.ccsim
+Architecture: iphoneos-arm64e
+Version: 2.0.13
+Section: Tweaks
+Maintainer: Huayuarc
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
+Conflicts: com.netskao.ccsim.pro, com.netskao.ccsim, com.huayuarc.ccsimfix
+Replaces: com.netskao.ccsim.pro, com.netskao.ccsim, com.huayuarc.ccsimfix
+Filename: debs/com.huayuarc.ccsim_2.0.13_iphoneos-arm64e.deb
+Size: 53064
+MD5sum: f39c6f7a836d717bde7eeab45b9218f8
+SHA1: 5bba8bce3e30422d289045871ae6f98eb2b4fa46
+SHA256: da06a4918e4defdae6d0183007ac9c73d6041c2191b29faa02ce8f9e8a905fbf
+SHA512: 9f0e85542855152b1fcfe1232cb0fcfec0a20fd3f1db426ab2a578de428d8be59e6c2f402321d761d5be13ae82b7195c7cc3d7588a465b3e8dae41a3d35eed06
+Description: 控制中心 SIM 卡管理：面板里点一张卡就直接启用 / 关闭它（支持点击与长按）。
+Name: CCSIM
+Author: Huayuarc
+Icon: https://huayuarc.github.io/icon/ccsim.jpg
+
 Package: com.huayuarc.sneakycam
 Architecture: iphoneos-arm64e
 Version: 2.2.5-1
@@ -1917,25 +1936,6 @@ Name: CCQuantumultXSwitch
 Author: Netskao
 Markdowndescription: Add a quick toggle for Quantumult X VPN status in Control Center<br><br>• v1.1-3: Fixed potential icon status synchronization issues
 icon: https://huayuarc.github.io/icon/huayuarc.jpg
-
-Package: com.netskao.ccsim
-Architecture: iphoneos-arm64e
-Version: 2.1-9
-Section: Tweaks
-Maintainer: Netskao
-Installed-Size: 188
-Pre-Depends: rootless-compat (>= 0.9)
-Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
-Filename: debs/com.netskao.ccsim_2.1-9_iphoneos-arm64e.deb
-Size: 32934
-MD5sum: 5b668a3057798c5831288ebc8cf775da
-SHA1: 4769c259b4fd38bb2426c49da51d7a28e471f729
-SHA256: 418d8f3c049ac248933a778972bc2c26184294b53987ad18944d8689fc483a5c
-SHA512: 2c39f72ec134933bafbb93a359ade58483a6caf9c89532e55c882c442ac59441afa14f503a288519a835ac1654aa5be49110fc8ef04c90a83fd7bfe6c4c4691d
-Description: 控制中心快速启用或禁用其中一张SIM卡
-Name: CCSIM
-Author: Netskao
-Icon: https://huayuarc.github.io/icon/ccsim.jpg
 
 Package: com.netskao.ccswitchdata
 Architecture: iphoneos-arm64e
