@@ -1732,20 +1732,18 @@ Icon: https://gilesgc.github.io/repo/depictions/com.gilesgc.cccalc/cccalc-icon.p
 
 Package: com.lclrc.recordanywhere
 Architecture: iphoneos-arm64e
-Version: 1.1.0
+Version: 1.1.0-1
 Section: Tweaks
 Maintainer: Muirey03 & lclrc
-Installed-Size: 168
-Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate
-Filename: debs/com.lclrc.recordanywhere_1.1.0_iphoneos-arm64e.deb
-Size: 4794
-MD5sum: 01492cefad87afd23d1f62b1affd99b9
-SHA1: c041f7b51bc06823225ac251cbd6ecd34f9e3092
-SHA256: c5dda86b0b76a09fecc29bd1457db118bdad2480becfbba567a595caef23f05a
-SHA512: 37010228986987eb18ff25141f5a31054bde117f416914a2ba956f65a5156e002ed106ddee9d4ef3d09958901992fdc62ac55f37915d556d1bb485c833947086
-Description: 使手机在锁屏状态也可以继续录屏。修复支持Dopamine，感谢原作者提供的思路。
-Name: 锁屏录屏RecordAnywhere
+Filename: debs/com.lclrc.recordanywhere_1.1.0-1_iphoneos-arm64e.deb
+Size: 8726
+MD5sum: 64be9ced3031851ea86fb7a62e5b533f
+SHA1: 636a42aab17508606af2112dae3d097741f35aa5
+SHA256: 89bb178766b812c6a1d2bf91d37bd0004595cfe6ce913ddefdbc7328fea0e2b7
+SHA512: 7c1ddbb70fa1c96c8803b733856a1419fcfb56bb7050639bf16cc5956135481c2d25f0d67caf2a90f00138c6a579111a24707e7cd507a7db2065b74383716e15
+Description: 启用屏幕录制功能，即使在锁定屏幕上也能始终工作
+Name: RecordAnywhere
 Author: Muirey03 & lclrc
 
 Package: com.lenglengyu.ghallownetwork
