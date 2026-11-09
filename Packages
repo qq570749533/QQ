@@ -3848,6 +3848,24 @@ Description: 可定制的玻璃状态栏胶囊，带有天气、媒体、通知�
 Name: Lunora
 Author: Banana
 
+Package: iya.banana.springboardaction
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Banana
+Installed-Size: 588
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 16.0), firmware (<< 19.0)
+Conflicts: com.cameronkatri.quickactions
+Filename: debs/iya.banana.springboardaction_1.0.0_iphoneos-arm64e.deb
+Size: 162152
+MD5sum: 7b052474e79932dbaf0816e4afac61a4
+SHA1: cbd862f27975c44fd8fe3862057e9e3a17b02fcd
+SHA256: ec5a4864ca6ade9df86a851c3a308dd188dbae087da05787972415b4557b5fad
+SHA512: d4bb0bf6cadf572c067dbbc7719af4eb5f67092d0fd1524095a8cefa4bd76f9ad3f6cb018c6242568307ad9a14c6df4599fb341a96989d09adba0161b3267d8c
+Description: iOS 16-18的自定义锁屏快速操作、应用程序和快捷方式。
+Name: SpringBoardAction
+Author: Banana
+
 Package: iya.iapple.siri
 Architecture: iphoneos-arm64e
 Version: 1.1.4
