@@ -8,8 +8,8 @@ Components: main
 Description: qq570749533 的越狱软件源
 Support: https://qq570749533.github.io/QQ/
 MD5Sum:
- ac4a8a564b5a5db479322130f09a685a  203033 Packages
- c242ca2836ddb50f3d519deafc0c24fc  80108 Packages.gz
+ d21ef116a236bdc858f10227200e9b68  203704 Packages
+ e3707afd60198e03595829dfb509ce39  80411 Packages.gz
 SHA256:
- ed63f9afd9da9915aba120a4beff4b8ae54ab3af8df81c932fbd563d0037a7e7  203033 Packages
- c918f12665a58f4230236b39c0b83cbecf559a7f521717fd706d8e4de79e0661  80108 Packages.gz
+ 295faec7305794ca2d703f7e4b55cdecbb97f3cb302c19eeeef46c09bef1706d  203704 Packages
+ 49e32a634a7e8c80b029a22a9c748195513ce755022474b8c3d3b76689a3d3b9  80411 Packages.gz

@@ -3777,6 +3777,23 @@ Description: 基于iOS墓碑机制的后台保活插件这是一个专为Dopamin
 Name: BackgroundKeepAlive
 Author: YourName <your.email@example.com>
 
+Package: com.zero.appstoread
+Architecture: iphoneos-arm64e
+Version: 1.1.0-1+debug
+Section: Tweaks
+Maintainer: zero
+Installed-Size: 212
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.zero.appstoread_1.1.0-1+debug_iphoneos-arm64e.deb
+Size: 20246
+MD5sum: 0a5af05546cc9d960d30cc771437f89b
+SHA1: 94701990f27950318d1e8c4bf4482fc10f9dc017
+SHA256: ea699109696df6694ead438785dc5dbbae246581170e86a6503ab2c1b81cb15b
+SHA512: eb06d4aecd0757ede9d31489071eb5549ebeace7e78b0dbd7297df5e2f87f6482b09f79a29ac982e2c347ca3673c91f89536d992e66fdf5bcf185e1da98efd3a
+Description: App Store 去广告（搜索 ads-result + PromotedContent XPC）
+Name: App Store 去广告
+Author: zero
+
 Package: com.zqbb.kayoko
 Architecture: iphoneos-arm64e
 Version: 4.3
