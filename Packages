@@ -479,6 +479,24 @@ Description: 删除主屏幕上小部件的背景。
 Name: Remove Widget Background
 Author: Lessica <82flex@gmail.com>
 
+Package: com.82flex.touchvis2
+Architecture: iphoneos-arm64e
+Version: 4.2
+Section: Tweaks
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 344
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/com.82flex.touchvis2_4.2_iphoneos-arm64e.deb
+Size: 98724
+MD5sum: 266de6960bd631a98c1206b4185c7f89
+SHA1: 9865fef2e8a30ad79f273dd05a6e01fcdb0881cd
+SHA256: 007e6c602bbfdab690b8a22b13376e3ec06ceaf5be61123f5436af80fbc35c6c
+SHA512: 700d30828cd0a88c88b0f52694d35f3887a2976a8ccf4bd856d056a1afa2dfc1dce8b7e6f498191cda485ecab063a2497fa7509a56c1eaf2d2b575f7150df269
+Description: 根据 82flex 开源 Touch-Viz 二改，精简为无设置项默认鼠标素材（默认录屏时启用）
+Name: Touch-Viz
+Author: Lessica <82flex@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
 Package: com.82flex.unseen
 Architecture: iphoneos-arm64e
 Version: 0.0.5
