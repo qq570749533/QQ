@@ -2303,6 +2303,27 @@ Author: 热心网友
 dev: 君临
 Icon: https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/eb/b5/a8/ebb5a892-c161-c79f-ba51-2089219fb833/source/512x512bb.jpg
 
+Package: com.qq391160.cpucore
+Architecture: iphoneos-arm64e
+Version: 2.0.497
+Priority: optional
+Section: Tweaks
+Maintainer: qq391160
+Installed-Size: 4700
+Depends: firmware (>= 16.0)
+Conflicts: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
+Replaces: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
+Filename: debs/com.qq391160.cpucore_2.0.497_iphoneos-arm64e.deb
+Size: 1879562
+MD5sum: 12b7a96ce3c16da9e2f1f5700a9bdfb3
+SHA1: 00c76853c0a9d88029072e32d563a3e17d2b06e5
+SHA256: 3f2417f1869f32de32534878099d733fb632d4913bd0cf6d0091b927c2d706b5
+SHA512: 864a734c2108886c90e678c4682df3429d91e5d4228a94819aa8665787583a8630512eec27847955761cae7a3e055e4edaf6486cb3913a80adf3d2c8d743ec69
+Description: 三种模式一键切换的智能温控管理。 智能：游戏高性能、应用低频率、桌面原生、滑动提速、熄屏省电； 低功耗：全局省电，可放行个别应用； 性能模式：全局高性能，可单独压低指定应用； 每个应用可单独设置档位。
+Name: CPU智能温控(iOS16/17)
+Author: qq391160
+Icon: https://qq391160.github.io/repo/icons/thermal.png
+
 Package: com.qq391160.pulloverplus
 Architecture: iphoneos-arm64e
 Version: 1.0.567
