@@ -1555,19 +1555,19 @@ Author: huami
 
 Package: com.huayuarc.ccsim
 Architecture: iphoneos-arm64e
-Version: 2.0.13
+Version: 2.1
 Section: Tweaks
 Maintainer: Huayuarc
 Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
 Conflicts: com.netskao.ccsim.pro, com.netskao.ccsim, com.huayuarc.ccsimfix
 Replaces: com.netskao.ccsim.pro, com.netskao.ccsim, com.huayuarc.ccsimfix
-Filename: debs/com.huayuarc.ccsim_2.0.13_iphoneos-arm64e.deb
-Size: 53064
-MD5sum: f39c6f7a836d717bde7eeab45b9218f8
-SHA1: 5bba8bce3e30422d289045871ae6f98eb2b4fa46
-SHA256: da06a4918e4defdae6d0183007ac9c73d6041c2191b29faa02ce8f9e8a905fbf
-SHA512: 9f0e85542855152b1fcfe1232cb0fcfec0a20fd3f1db426ab2a578de428d8be59e6c2f402321d761d5be13ae82b7195c7cc3d7588a465b3e8dae41a3d35eed06
-Description: 控制中心 SIM 卡管理：面板里点一张卡就直接启用 / 关闭它（支持点击与长按）。
+Filename: debs/com.huayuarc.ccsim_2.1_iphoneos-arm64e.deb
+Size: 54840
+MD5sum: 95a0624420e3ef7e7bc2daa50367b232
+SHA1: ace3e00bad123fc50ed3ae60f9cb3ec3048b3f3e
+SHA256: 9c635bf75d19d6b6a8ffb475147054939c88725ee9c056c1bb769c251f132649
+SHA512: fabe1f9a4e3041b2b1bb6eefb466cdcc67299acd12fd312b06ed7f71ea2462316f0a693bb1eacc260122e6f21d5f109c85dfecf2cbf700ced17e52a26287697c
+Description: 控制中心 SIM 卡管理：单击或长按均展开同一 SIM 管理面板，点卡即可启用 / 关闭。
 Name: CCSIM
 Author: Huayuarc
 Icon: https://huayuarc.github.io/icon/ccsim.jpg
