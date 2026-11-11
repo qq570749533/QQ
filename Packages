@@ -3672,6 +3672,27 @@ Name: 隐藏文图标文字阴影
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 
+Package: com.xsxs18.voidy
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Applications
+Maintainer: xsxs18
+Installed-Size: 1000
+Depends: firmware (>= 15.0)
+Recommends: uikittools
+Filename: debs/com.xsxs18.voidy_1.0_iphoneos-arm64e.deb
+Size: 296620
+MD5sum: 23bbf33533c55a5106959dcc8aae31e7
+SHA1: 53097ba483f343c6da3278aebfd738c37d35854d
+SHA256: 2dc093b7be768d285b0a1cfe52a8da2beefeef54b2f1b7708cba17443cfa1a75
+SHA512: 27425097e806d46295d2b4574a0a4d89f73cf331aa68df9fae3cec6065da64dc8cbb7222f048595fb1a3e939af494e053bf26297faf56a6ea45e90c51a9fc04b
+Description: Lightweight system cleaner for rootless and roothide jailbreaks.
+ Removes caches, logs, temporary files and package leftovers, manages
+ tweaks and launch daemons, finds large files and orphaned packages and
+ can clean automatically on a schedule.
+Name: Voidy
+Author: xsxs18
+
 Package: com.xybp888.callassist16.dopamine.roothide
 Architecture: iphoneos-arm64e
 Version: 3.4.5
