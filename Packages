@@ -621,6 +621,24 @@ Name: Camera Resume Rec
 Author: 王
 icon: https://huayuarc.github.io/icon/resumerecafterflip.jpg
 
+Package: com.abyss.sileoarchbadge
+Architecture: iphoneos-arm64e
+Version: 1.1
+Section: Tweaks
+Maintainer: Abyss
+Installed-Size: 196
+Depends: mobilesubstrate
+Filename: debs/com.abyss.sileoarchbadge_1.1_iphoneos-arm64e.deb
+Size: 29712
+MD5sum: 15beda27322f520f7b3a57c3fa436d6c
+SHA1: f9efff9144d7a017d4810f22b995e6f2cdd0b9aa
+SHA256: 05c02d57e58693afb167ead48af6b683465fffa5867fb9dde1e8ca6d85fd4a38
+SHA512: 2663b7988e20e51d1f04250aee40e97b2c1818fc576bd7ecef163ba6d83b3db35a82bb92e7550847d42a7d19439a9cc0df596b0f3ffb6587913ff203bedc6d90
+Description: 复刻刀刀版sileo 在 Sileo 插件列表左侧显示架构指示条：arm64e 绿、arm64 蓝
+Name: Sileo 架构指示器
+Author: Abyss
+Icon: file:///var/jb/usr/share/sileoarchbadge/icon.png
+
 Package: com.aptzh
 Architecture: iphoneos-arm64e
 Version: 1.3-3+debug
