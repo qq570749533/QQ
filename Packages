@@ -1559,22 +1559,6 @@ Name: DYYY
 Author: huami
 Icon: https://Mieing.Github.io/repo/file/TikTok.png
 
-Package: com.huami.wcpulse
-Architecture: iphoneos-arm64e
-Version: 1.7-6
-Section: Tweaks
-Maintainer: huami
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.huami.wcpulse_1.7-6_iphoneos-arm64e.deb
-Size: 6426746
-MD5sum: 3b9c4263a7c4c22dbe3dce14669ebf42
-SHA1: ca28c9abcd42464f7dc955aa572c04611263c307
-SHA256: 24933a9401fa5059517f5855229f90bb80760391a252a50159c25fff42afa79f
-SHA512: af734d019cd280b3bdca0abdc7c59b88f908319f848ae5c2dfb9157482dcba5a228545e16d2f80c5be435722359fb485342889fe2a9249128a016a56cb0349f3
-Description: WCPulse
-Name: WCPulse
-Author: huami
-
 Package: com.huayuarc.ccsim
 Architecture: iphoneos-arm64e
 Version: 2.1
