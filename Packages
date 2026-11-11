@@ -3076,22 +3076,6 @@ Author: subdiox & iosdump
 icon: https://TrollStoreX.Github.io/sileodepiction/StoreSwitcher/icon.png
 SileoDepiction: https://TrollStoreX.Github.io/sileodepiction/StoreSwitcher/js.json
 
-Package: com.tencent.themebox
-Architecture: iphoneos-arm64e
-Version: 3.0.7
-Section: Tweaks
-Maintainer: admin@25mao.com
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.tencent.themebox_3.0.7_iphoneos-arm64e.deb
-Size: 16228106
-MD5sum: a5714798a6fbb801cc7145c73fc4c3b9
-SHA1: e2337e4dd581adf92377e601a23dbe5182a19d67
-SHA256: e507a5739dccf3ba61e7cb8923cbe5b619658e048f6a0952022e1afbbc2ea16c
-SHA512: aeb4b151e61bc3ef26f2600ff3dcd025afcf85dea1e86618611e1385fd8d3acfe79e48ebcbfc03390addaa5fe8093ab4461fd6d7351aeb02f51692b2b6c7fe4c
-Description: 微信主题盒子
-Name: 主题盒子
-Author: Mao
-
 Package: com.tigisoftware.filza64bit
 Architecture: iphoneos-arm64e
 Version: 5.0.1-3
