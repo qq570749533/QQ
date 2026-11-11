@@ -1451,6 +1451,24 @@ Name: HotspotVPN
 Author: evgeniy
 icon: https://huayuarc.github.io/icon/hotspotvpn.jpg
 
+Package: com.example.safesim
+Architecture: iphoneos-arm64e
+Version: 1.2
+Section: Tweaks
+Maintainer: 半生年华
+Installed-Size: 436
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
+Filename: debs/com.example.safesim_1.2_iphoneos-arm64e.deb
+Size: 32180
+MD5sum: 03b2590a5edc1386294b3c0b241441fb
+SHA1: c5c9fb705f1a4c6b739671214c7c4b3d8f26c826
+SHA256: e3cceb39a6709781324a784ca07ef2f39141b70c472827c99121fe0cb0ac6781
+SHA512: 56dfee69e36e6db52a3c855935c9d5cd7f660fadd6632a9aee5992e7c123f0bddb44d22f917575f5deb2ccda9d30343f04dd972c20c4fe612341cfa340e858ad
+Description: 在控制中心快速开启或关闭手机卡。
+Name: SafeSIM
+Author: 半生年华
+icon: https://huayuarc.github.io/icon/safesim.png
+
 Package: com.fizz.ripple
 Architecture: iphoneos-arm64e
 Version: 0.1.0
