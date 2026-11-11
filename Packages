@@ -1296,6 +1296,24 @@ Name: AppBadge 应用胶囊
 Author: developlab
 Icon: https://TrollStoreX.Github.io/sileodepiction/AppBadge/icon.png
 
+Package: com.doimty.fiona
+Architecture: iphoneos-arm64e
+Version: 0.3
+Section: Tweaks
+Maintainer: doimty
+Installed-Size: 304
+Depends: firmware (>= 15.0)
+Filename: debs/com.doimty.fiona_0.3_iphoneos-arm64e.deb
+Size: 5020
+MD5sum: 2a4b32f222a1de655b7a69ddc78d4d8b
+SHA1: e51c0c61b4b8f38277389923cb21b0f9effce378
+SHA256: bbf2e0a737a761266f63cc89124977505c51374f505ef0e30d1c8778f26ec94f
+SHA512: d9200a2ff382b7285a2771faf779af50b99b8b087908cc77a312d483550c73e07b99e38c42b011d0a286afa1da5a30cdad70482cce549c1e753a4eb4a169c285
+Description: 锁屏时保持 WiFi 连接；热点无客户端时不自动关闭。无开关，安装即生效；
+Name: Fiona
+Author: doimty
+icon: https://huayuarc.github.io/icon/fiona.png
+
 Package: com.doimty.fixrepairsystempower
 Architecture: iphoneos-arm64e
 Version: 0.0.8-2
