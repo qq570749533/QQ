@@ -1134,25 +1134,6 @@ Name: MilkyWayReborn(RootHide)
 Author: MilkyWay Reborn
 SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/milkyway/js.json
 
-Package: com.dao.neofreebird.bht
-Architecture: iphoneos-arm64e
-Version: 7.3.0+debug
-Section: 嗨-工具
-Maintainer: NeoFreeBird
-Installed-Size: 14128
-Depends: mobilesubstrate
-Conflicts: com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter, com.nfb.tweak
-Filename: debs/com.dao.neofreebird.bht_7.3.0_debug_iphoneos-arm64e.deb
-Size: 7781784
-MD5sum: 09fdea048de7a0d37d19dea4cde6c372
-SHA1: 80e680159d08619ad1bf2b4158ce252736e1948f
-SHA256: 39e2b1ff186a0cfd009240392dea495f631ccb8fc7fa8271e25e808c9319b57c
-SHA512: e2f7ecaabb335d515442897f2f5882b624a2340c8a1f3b980523d34bc919aef5e87610cbae22d303f2473cedfc6be09688f5f4f23da5065894466439f2208dc7
-Description: NeoFreeBird 推特增强插件。
-Name: NeoFreeBird(RootHide)
-Author: NeoFreeBird
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb/js.json
-
 Package: com.dao.ngc
 Architecture: iphoneos-arm64e
 Version: 1.0.6
