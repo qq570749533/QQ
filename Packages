@@ -1539,6 +1539,22 @@ dev: HuangBai
 Sponsor: Mao
 Name: 黄白助手(微信娱乐插件)
 
+Package: com.huami.WCPulse
+Architecture: iphoneos-arm64e
+Version: 1.7-7
+Section: Tweaks
+Maintainer: huami
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.huami.WCPulse_1.7-7_iphoneos-arm64e.deb
+Size: 4933852
+MD5sum: dd58266e16bce92349cfad3937780732
+SHA1: 05efaaa92cb1023a805036aafcc039e2f25ccea6
+SHA256: b6a5a5355506f574af6745c2997ebfe8cc337c8381e1298954c0bb3ef27004a5
+SHA512: 777d2d49b5dad9bb62d784abbe0b0405e189aff2adfc061a8290a4304b72bd6b7652f0e5d8cfed05465807001809ad667a132d09181b2ac43303cad5f1627922
+Description: WCPulse
+Name: WCPulse
+Author: huami
+
 Package: com.huami.dyyy
 Architecture: iphoneos-arm64e
 Version: 2.2-9
