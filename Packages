@@ -711,6 +711,28 @@ Description: 优化了一下界面
 Name: Modified ChargeLimiter
 Author: tune
 
+Package: com.cracklock.7513
+Architecture: iphoneos-arm64e
+Version: 1.0.5
+Section: Tweaks
+Maintainer: 7513
+Installed-Size: 1793
+Provides: com.cracklock.shatter
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Replaces: com.cracklock.shatter
+Filename: debs/com.cracklock.7513_1.0.5_iphoneos-arm64e.deb
+Size: 1171188
+MD5sum: ed0b4223cae8eff7dbb3eee6d6e58f3d
+SHA1: e5c5acdfbb573594f362799efa04ec1007ffc94a
+SHA256: 8d744f258d5366879005712e090fc91198428fcb0cf5101d3caffeb906b2ecb3
+SHA512: f1bb5abe112853abb1407ccc851ceb9b003f9a0855a751dca3040013fb5556db927ffb80d4f7c4c2af73736201228e93cb2ef8f62a8b18c1bda2f9b51af731ea
+Description: 熄屏幻术（FadeCraft）—— 18 种熄屏 / 锁屏动画，按电源键的瞬间把真实画面打碎、吹散或溶解。内置碎屏、像素消散、百叶窗、信号故障、CRT 关机、竖条翻牌、旋涡吸入、灰烬升腾、风沙吹散、条带垂落、波纹扭曲、方块散开、螺旋甩出、漆皮剥落、灯管熄灭、烟尘飘散、柏林溶解、灭霸响指。可在设置里勾选多种效果随机播放，每种效果都能单独调整时长、颗粒大小、力度等参数。
+Name: 熄屏幻术
+Author: 7513
+Depiction: https://lubenjian88.github.io/7513/depictions/com.cracklock.7513/
+SileoDepiction: https://lubenjian88.github.io/7513/depictions/com.cracklock.7513/depiction.json
+Icon: https://lubenjian88.github.io/7513/depictions/com.cracklock.7513/icon.png
+
 Package: com.crctdd.autocopyverify
 Architecture: iphoneos-arm64e
 Version: 0.0.5
