@@ -3649,25 +3649,6 @@ Name: 隐藏文图标文字阴影
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 
-Package: com.xybp888.callassist16.dopamine.roothide
-Architecture: iphoneos-arm64e
-Version: 3.3.2
-Priority: optional
-Section: Tweaks
-Maintainer: xybp888
-Depends: firmware (>= 16.0), preferenceloader, com.opa334.libsandy
-Filename: debs/com.xybp888.callassist16.dopamine.roothide_3.3.2_iphoneos-arm64e.deb
-Size: 7701868
-MD5sum: 039da17173201a1bc44864aee3978b32
-SHA1: b43f4c2c894404616afefc7896ee7c1a64793493
-SHA256: 725920bd85370ff7776c50f615696e906daef82d0084c59e6012a097293c2485
-SHA512: fe39c0ccaad01be00d6525da551a31a510a9a3f7cfe94d76c656cc8fcfc3c94ccdbd520c7709719cb256be0c63a1eed0d764c2d4d1ebe67b2c59a6f50392d742
-Description: 电话助手授权版本,通话录音,通话记录合并,T9双卡选卡拨号键盘,短信双卡选卡,来去电归属地,黑名单,骚扰拦截,状态栏图标替换,时间格式修改,常用小功能等强大插件
-Name: 电话助手iOS16-正式版(Roothide)
-Author: xybp888
-Depiction: https://apt.htv123.com/view/1115
-SileoDepiction: https://apt.htv123.com/sileo/1115
-
 Package: com.xybp888.noapplemobilerepair
 Architecture: iphoneos-arm64e
 Version: 0.0.1-104
