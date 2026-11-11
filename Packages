@@ -3681,15 +3681,12 @@ Installed-Size: 1000
 Depends: firmware (>= 15.0)
 Recommends: uikittools
 Filename: debs/com.xsxs18.voidy_1.0_iphoneos-arm64e.deb
-Size: 296620
-MD5sum: 23bbf33533c55a5106959dcc8aae31e7
-SHA1: 53097ba483f343c6da3278aebfd738c37d35854d
-SHA256: 2dc093b7be768d285b0a1cfe52a8da2beefeef54b2f1b7708cba17443cfa1a75
-SHA512: 27425097e806d46295d2b4574a0a4d89f73cf331aa68df9fae3cec6065da64dc8cbb7222f048595fb1a3e939af494e053bf26297faf56a6ea45e90c51a9fc04b
-Description: Lightweight system cleaner for rootless and roothide jailbreaks.
- Removes caches, logs, temporary files and package leftovers, manages
- tweaks and launch daemons, finds large files and orphaned packages and
- can clean automatically on a schedule.
+Size: 503834
+MD5sum: e5aae8231c93da1b7eaae97a425e59e6
+SHA1: b462b1e25646443e58f6891e8b756196f37db341
+SHA256: aef1392eaa40fb548e7d97cbb2cf22b7cf0c57dd4b05ead01224f38aaf8aeef9
+SHA512: bedf26b7fc2b3e27f1da3801d1e577ccc1c89a53c26081182bd0d12360549183822ff0768bc29a3d56b900cb61f9c5b7feda9567bc8c0bb5a8c85504c53aee0d
+Description: 轻量级的系统清理程序，用于无根和隐藏根的越狱。删除缓存、日志、临时文件和包残留物，管理调整和启动守护进程，查找大文件和孤立包，以及可以按计划自动清洁。
 Name: Voidy
 Author: xsxs18
 
