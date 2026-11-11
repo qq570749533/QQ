@@ -1392,6 +1392,25 @@ Name: DynamicX
 Author: 半生年华
 Icon: https://abc07968695-a11y.github.io/Sileo/DynamicX.png
 
+Package: com.evgeniy.hotspotvpn
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: evgeniy
+Installed-Size: 600
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate | substitute | libhooker | ellekit, com.opa334.ccsupport
+Filename: debs/com.evgeniy.hotspotvpn_1.0_iphoneos-arm64e.deb
+Size: 136578
+MD5sum: a582becfe40c4cb8f59e7ef91a0bc4a1
+SHA1: 6b665d4b05591625edc27c022accdf92cfb335f9
+SHA256: 595f1d0e5655d804f00163daad6719e3758d9a2a4fdbe742d0626c6017b3f44d
+SHA512: adc8e17a1644d8713f0c9ecfcdd226db20d1dc8e8814f53f5b313cdf389daf62f929da4f9de1317ae5710350f89711c42cb14c58997d5fa250c0232f68f0f66e
+Description: 与个人热点上的设备共享iPhone的VPN连接。
+Name: HotspotVPN
+Author: evgeniy
+icon: https://huayuarc.github.io/icon/hotspotvpn.jpg
+
 Package: com.fizz.ripple
 Architecture: iphoneos-arm64e
 Version: 0.1.0
