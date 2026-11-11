@@ -1261,6 +1261,25 @@ Name: TVLock(RootHide)
 Author: Wes <wes.hamster@gmail.com>
 SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/tvlock/js.json
 
+Package: com.dao.ytkace
+Architecture: iphoneos-arm64e
+Version: 1.1.5.1
+Section: 嗨-工具
+Maintainer: daodao
+Installed-Size: 6312
+Depends: mobilesubstrate, firmware (>= 15.0)
+Conflicts: com.itzzace.ytkace
+Filename: debs/com.dao.ytkace_1.1.5.1_iphoneos-arm64e.deb
+Size: 2030680
+MD5sum: f751f5881701818ce439d2de4ca05a98
+SHA1: fd9472bbc0a7aab6f745cafb0c27594708f85dd8
+SHA256: f33f40a7fcee42bf258ae9700166cab00c2a002ef6a4b2399ba3e3f262f9e8eb
+SHA512: 744961a80234babc7ae1cc784d4661c1dc0005b8d90c9d72f6e0360592522b690cf73f7d9874100f3e118e8a4176d212fd4d2bfbfd1a306a9ad324970b636bb8
+Description: YouTube 多功能插件，根据开源编译，刀刀补全翻译，并优化部分功能。
+Name: YTKACE(RootHide)
+Author: itzzace & daodao
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytkace/js.json
+
 Package: com.daodao.goodwifi
 Architecture: iphoneos-arm64e
 Version: 1.7.5
