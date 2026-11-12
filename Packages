@@ -480,6 +480,29 @@ Name: 左滑返回-Roothide
 Author: Mao
 Sponsor: admin@25mao.com
 
+Package: com.25mao.miyou.rootless
+Architecture: iphoneos-arm64e
+Version: 3.9-5
+Priority: optional
+Section: 微信插件
+Maintainer: admin@25mao.com
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Conflicts:
+Replaces:
+Filename: debs/com.25mao.miyou.rootless_3.9-5_iphoneos-arm64e.deb
+Size: 8417388
+MD5sum: 8a5b7176da95e0e08b269c854281d127
+SHA1: 2115d1f0aacbcd9d416b198ed96318d54295c29e
+SHA256: 24e772452e1baa13d987bde5a3c93d0aa68a7e26cdaecf9d64f051a8e2663778
+SHA512: 4e6d6d4a5b851e63f2f9f5fbed4c0b4f693fa65cc6d67b78fc1e4af30d9dae8ea01d3044619ac64028b65b24ae79a0863e9a4a4ac420d5b8f740ede63f8b42c2
+Homepage:
+Description: 微信助手-Roothide版
+Name: 微信助手-Roothide
+Author: Mao
+dev:
+Depiction:
+
 Package: com.82flex.removewidgetbg
 Architecture: iphoneos-arm64e
 Version: 2.1.1
