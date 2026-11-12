@@ -3341,6 +3341,25 @@ Name: sileo头像旋转
 Author: liuf <1602389262>
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 
+Package: com.wkk.folder4
+Architecture: iphoneos-arm64e
+Version: 1.3-0
+Section: Tweaks
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.wkk.folder4_1.3-0_iphoneos-arm64e.deb
+Size: 12578
+MD5sum: 1df9a45d39894fa85ea2a827c5c3bd43
+SHA1: 421244ffd0b02414344b53f0e849ff16b87914ae
+SHA256: b473ac5846317bb70aa4909f1b3b1398a7c35a82aad5306f8cdf901214b4a2c2
+SHA512: 51ccbe8ecba5c1178980dd4eab375b5420a3bcb514bea442f5836dccdc49657cd0926ebc5e82bddedb7a336c3753e9a518cff9bb6df7bec1d0681f528d699a8d
+Description: 4x4的文件夹布局/隐藏打开后的文件夹背景/打开文件夹内app自动关闭文件夹/调整打开后文件夹布局整体为中心/修复springboard奔溃后文件夹图标剩9个/配合源里文件夹阴影使用将springboard占用压榨到最低。
+Name: Folder4x4
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2026/01/17/9209c2f3055f3d518df1df10d0fee36e.png
+
 Package: com.wkk.fuckicon
 Architecture: iphoneos-arm64e
 Version: 1.0-1
