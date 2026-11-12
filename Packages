@@ -4393,12 +4393,12 @@ Section: Packaging
 Maintainer: Amy While <me@anamy.gay>
 Depends: firmware (>= 11.0), firmware(>=12.2) | org.swift.libswift (>=5.0), coreutils (>= 8.30-1), dpkg (>= 1.19.4-1), apt (>= 1.8.2), libzstd1
 Filename: debs/org.coolstar.sileo_2.5.1-15_iphoneos-arm64e.deb
-Size: 5498432
-MD5sum: b5720b6ddc693155e73020efadccaa0a
-SHA1: 5b40a5d9a6ed4a381cfd4f706fe32fdbcc05daee
-SHA256: 6b2c7f700184f0b4607517b7512a897152e346c21909cfe9617fff162c715828
-SHA512: ad55b976ccdaa2cb9348c4119b3a10c5ec0a7f75e62586d1ecea9c36dbe4d06c5e26b26142466ca30c0366d0f9a1138418519d2c47b371100885d5da1f655ab6
-Description: 现代APT包管理器前端
+Size: 5517476
+MD5sum: 72ebf8e8da263750309e91f9feb737c1
+SHA1: a67cde0fd3a45edf37939dd00c56d9319905a71a
+SHA256: d302bd390ea94819af5716c959662597e881195aa79b0b098b5bfc8bc17a1acd
+SHA512: f98a18cfc2383a13b96ef1c49c6839e54b4b0d598d5caa70282101d82c1eac0fd5cae3aaf0e10a770fe1f7e6373a22a1257bd5a723322f59093012cb3d820643
+Description: 现代APT软件包管理器前端
 Name: Sileo
 Author: Amy While <me@anamy.gay>
 Icon: https://getsileo.app/img/icon.png
