@@ -201,6 +201,24 @@ Description: 手机在录屏时，自动开启勿扰模式
 Name: DNDMyRecording录屏勿扰模式
 Author: gilshahar7, 0xkuj
 
+Package: cn.llld.ql
+Architecture: iphoneos-arm64e
+Version: 1.3.0
+Section: System
+Maintainer: 来了老弟
+Installed-Size: 628
+Depends: firmware (>= 14.0)
+Filename: debs/cn.llld.ql_1.3.0_iphoneos-arm64e.deb
+Size: 326942
+MD5sum: 27da3e4f092030d63faad8e21a125308
+SHA1: a5ff5d59a40ade9b4d8aaa1a77b33949d0cd44ce
+SHA256: 08d44d433638c5fdf382d962f928de24f527fe1da36b06d81d44a43e1e5700c9
+SHA512: 27c0702c62fede5ee6d3aa19d4d3c63e0ee044eb046829f28bbe4fe1a331e2f5556bed3227c8effd1c931318f8975f5ce1e73ad4ac30aa56f5af365fbdd4f468
+Description: 越狱 iOS 桌面清理工具：扫描 App 缓存与临时文件、按应用单独清理、明细左滑清理缓存/临时、可跳过后缀、清理短信与 Safari 书签、系统垃圾（系统缓存/相册缩略图/日志/残留数据）
+Tag: purpose::uikit, compatible::ios14
+Name: QL 清理
+Author: 来了老弟
+
 Package: cn.zqbb.3dtouch.inject.roothide
 Architecture: iphoneos-arm64e
 Version: 2.1
