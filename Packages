@@ -503,6 +503,29 @@ Author: Mao
 dev:
 Depiction:
 
+Package: com.25mao.miyou
+Architecture: iphoneos-arm64e
+Version: 3.9-5
+Priority: optional
+Section: 微信插件
+Maintainer: admin@25mao.com
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Conflicts:
+Replaces:
+Filename: debs/com.25mao.miyou_3.9-5_iphoneos-arm64e.deb
+Size: 8417386
+MD5sum: 3fa36ff70f2a638a6e0ad80e1a60b515
+SHA1: e221da88baac2d48a236555964496171d918df37
+SHA256: 43beac4368482c3f485e638c1ed563473ef23cba480d0b00ffe7ce3836b578ea
+SHA512: 6ab8632b67bb435639b16405c42d46951bb4aae14fc6ceb2a0680080399e56db5c24c3775fa74c0478fc6021be0bc2ee8cb1bd0c4171aa15b8f0a569bfbedae4
+Homepage:
+Description: 微信助手-Roothide版
+Name: 微信助手-Roothide
+Author: Mao
+dev:
+Depiction:
+
 Package: com.82flex.removewidgetbg
 Architecture: iphoneos-arm64e
 Version: 2.1.1
