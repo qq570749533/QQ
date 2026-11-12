@@ -3534,12 +3534,11 @@ Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.wkk.photohook_1.0-6_iphoneos-arm64e.deb
 Size: 4362
-MD5sum: 6f7407d8516a6464c882a3e39971f61c
-SHA1: a011447b26e481cb88d9888657c86f8a9c041dcd
-SHA256: a4c4cb1a37d3a77882f05907f93385c7497c27dbe1372c8537427ba444a5d013
-SHA512: a4f9ca1d5130c5e9325adee6f387843e146891a9e00eccd117544481f6e8dbc6d5991ce9c9ba8ee95c1bd2e66c9fff2f49b6545c47f3ab93ab24671c950957b5
-Description: 
-  * 隐藏创建的相册（这里不作禁用创建，没有找到禁止创建相册而不冲突的最好办法，隐藏最为稳妥）
+MD5sum: bb847594126d8ed1f358eb76e4beba92
+SHA1: a8c40d76d47dc7b21cc2fad5a7fbcd149883825f
+SHA256: 53ecff7be58f2ad43105cf40421b21c8649e463ff3f96530800225648462311b
+SHA512: b5d05a7523ef1bd9147e1c3539bab21aee0faa55d4a0e35de9fbd2160084d30df52878f92e41fc8c5010939f1b6cf1e8b26a2e26d46047fdfa19f9ef75a5c483
+Description: * 隐藏创建的相册（这里不作禁用创建，没有找到禁止创建相册而不冲突的最好办法，隐藏最为稳妥）
   * 跳过删除确认步骤，直接删除照片（最近删除会保留）
   * 禁用搜索和为你推荐标签页。
   * 移除人物与地点/媒体类型。
