@@ -2192,6 +2192,23 @@ Name: Swiftgram Crack
 Author: Netskao
 icon: https://huayuarc.github.io/icon/huayuarc.jpg
 
+Package: com.notiflyx.tweak
+Architecture: iphoneos-arm64e
+Version: 1.1
+Section: Tweaks
+Maintainer: 半生年华
+Installed-Size: 448
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.notiflyx.tweak_1.1_iphoneos-arm64e.deb
+Size: 52864
+MD5sum: 08fe6532a6354966c6baec81cf33f763
+SHA1: 038c849d603543816bb216125b66cb2e71fefc26
+SHA256: 68ce527d0dd8d3138ee6c9ab6e6bd7082f219dbfde616fc7d69cdafe335431d7
+SHA512: d5a1593fb80c588dbc030653044f5fc436881fe00fda631aa12840d67c3db7c8ef740ee3f752664f3b043ac713edc56a53db1c2ba473659b80048e105d826860
+Description: 横屏弹幕通知
+Name: NotiflyX
+Author: 半生年华
+
 Package: com.nx.stheno
 Architecture: iphoneos-arm64e
 Version: 2.0
@@ -4278,11 +4295,11 @@ Section: Packaging
 Maintainer: Amy While <me@anamy.gay>
 Depends: firmware (>= 11.0), firmware(>=12.2) | org.swift.libswift (>=5.0), coreutils (>= 8.30-1), dpkg (>= 1.19.4-1), apt (>= 1.8.2), libzstd1
 Filename: debs/org.coolstar.sileo_2.5.1-15_iphoneos-arm64e.deb
-Size: 5502976
-MD5sum: d10d74df397724133ae31375b6e9bb60
-SHA1: d073f490e603447025246664226fbeb642cedfb9
-SHA256: 3e783ff08728f7d3828421992bbcecb83eac428ee5fae634dc1d5f768c9c6303
-SHA512: e233dd60f6a3566d754b1f2124d35acdf61ab0bb04b7fe072f95b37a0a8ef4465507e63146f235fb34ae5f000d2c356eb142989db5fa7e34408e9af617e6e56a
+Size: 5498432
+MD5sum: b5720b6ddc693155e73020efadccaa0a
+SHA1: 5b40a5d9a6ed4a381cfd4f706fe32fdbcc05daee
+SHA256: 6b2c7f700184f0b4607517b7512a897152e346c21909cfe9617fff162c715828
+SHA512: ad55b976ccdaa2cb9348c4119b3a10c5ec0a7f75e62586d1ecea9c36dbe4d06c5e26b26142466ca30c0366d0f9a1138418519d2c47b371100885d5da1f655ab6
 Description: 现代APT包管理器前端
 Name: Sileo
 Author: Amy While <me@anamy.gay>
