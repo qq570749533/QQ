@@ -2217,11 +2217,11 @@ Maintainer: 半生年华
 Installed-Size: 448
 Depends: mobilesubstrate, preferenceloader
 Filename: debs/com.notiflyx.tweak_1.1_iphoneos-arm64e.deb
-Size: 52864
-MD5sum: 08fe6532a6354966c6baec81cf33f763
-SHA1: 038c849d603543816bb216125b66cb2e71fefc26
-SHA256: 68ce527d0dd8d3138ee6c9ab6e6bd7082f219dbfde616fc7d69cdafe335431d7
-SHA512: d5a1593fb80c588dbc030653044f5fc436881fe00fda631aa12840d67c3db7c8ef740ee3f752664f3b043ac713edc56a53db1c2ba473659b80048e105d826860
+Size: 100742
+MD5sum: 750c1a892dd54d877e8d31f56a654e34
+SHA1: 061bbac07601e7f13828e5848bfee2b1025fa7e4
+SHA256: 7e64219657d396cd8fe08156975390064e1427298867ac919ab0c51e67e67596
+SHA512: 793509f8393f3b59c2dbd9bfd9ca4c244a4bffc88619ac1c1bc207f71e5343b8d29d1b29764351eb28db8cec4a0253ac07ade0c6aeecd23e1eba017b5aa9dd4d
 Description: 横屏弹幕通知
 Name: NotiflyX
 Author: 半生年华
