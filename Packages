@@ -3949,13 +3949,13 @@ Installed-Size: 792
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), com.opa334.ccsupport
 Filename: debs/com.yan.ring_1.0.2_iphoneos-arm64e.deb
-Size: 80492
-MD5sum: dea0e7be6de587154831756cdc04f2da
-SHA1: e63776c1f5968feee78731ff16a7cdfd85f0fc7c
-SHA256: 78a2b9fd3802cc09e31dcf05c73bea65ef08b65c39725d526cd3aa03ecdd4ed6
-SHA512: b50452bd8ade29697101671e4d6618cdaaa7828409c6c71cff1bb5c68a7fd4be90f7e63f77db0f804e7547fe1dd74f5af6f33246519519eebc8bd4cb1882e586
+Size: 80476
+MD5sum: e2293d27894a88529a0e73833a78393e
+SHA1: cdf6e06cbed4a35fbf606a9b500ab217a8c2d705
+SHA256: 1cbf59c322eb3acb90ba5aafdc2a4a2bc806bc6d311c73e875910265f2d77bf6
+SHA512: a9ca5a53a8ab53302dab986f7e01ca7ca1dfc7f6814b78297de3fe0168a244982326bccd66e3643cb8f457b0a930303317f23073610055be7360dde21135b88b
 Description: 轻松管理您的铃声音量！
-Name: Ring (无设置项)
+Name: Ring
 Author: yan
 Icon: https://yandevelop.github.io/assets/icons/ring/icon.png
 
