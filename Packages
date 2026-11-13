@@ -4432,11 +4432,11 @@ Section: Packaging
 Maintainer: wwg151 <wwg151@users.noreply.github.com>
 Depends: firmware (>= 11.0), firmware(>=12.2) | org.swift.libswift (>=5.0), coreutils (>= 8.30-1), dpkg (>= 1.19.4-1), apt (>= 1.8.2), libzstd1
 Filename: debs/org.coolstar.sileo_2.5.1-15_iphoneos-arm64e.deb
-Size: 5578314
-MD5sum: 42f0187774c41e94eeb79d42561f99ef
-SHA1: d4e6a32ed4f8dff9338c0d10150fe202fbfa6a65
-SHA256: 75ee1969495ffa47db1b81b004cfdecffcc66bda0c0573241770d68fd6957440
-SHA512: ebf2b1a7a5f55c0c9e61421ad2c9bb5de109f53523b70d82d662bd191855585728bd3ea307671dc46830907be06a7ec77b1cf40ecb74f7bb61dc047274a7beb2
+Size: 5637658
+MD5sum: b7f8dfb53f7891a977a23d598943ea7a
+SHA1: ec39890d4ed760807beb9c2d6b5665c403f12acc
+SHA256: 66d4c93740dccfef5a7979dfdf97f4e7616e9b7a414f82127c00a3cb6f2ee346
+SHA512: b2765f668e50ddceefc11ad5d8bef0c6336802c836bb1575db40ced3319dc9d8d1cfffabe5d13a82e03151447f7dbf2a5c574cc20dcd575fc545a24f28a8e5ac
 Description: 现代APT包管理器前端
 Name: Sileo
 Author: wwg151 <wwg151@users.noreply.github.com>
