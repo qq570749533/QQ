@@ -3261,6 +3261,24 @@ Author: subdiox & iosdump
 icon: https://TrollStoreX.Github.io/sileodepiction/StoreSwitcher/icon.png
 SileoDepiction: https://TrollStoreX.Github.io/sileodepiction/StoreSwitcher/js.json
 
+Package: com.susudear.appdata
+Architecture: iphoneos-arm64e
+Version: 1.4.1
+Section: Tweaks
+Maintainer: Fouad Raheb & SuSuDear
+Installed-Size: 1084
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/com.susudear.appdata_1.4.1_iphoneos-arm64e.deb
+Size: 666774
+MD5sum: 38df1b5bb5add442a5c980a00d3e30a1
+SHA1: 8eb6e74d074d06c8383589043dd7c5160f286e9b
+SHA256: e1aee189c00894c663c34a4fd51088a926f681130ff0a070da8abdf735261489
+SHA512: 7a401e39e117308c8b3a86c27424a9ef0a221ac83c35bb2f1c4701ee1c90eb29e135a75f7ebb695820482609be774ee2d2f1c16bf5dd26fcc72bc52570233fb2
+Description: AppData 根据 Fouad Raheb 开源二改，默认上滑启动，无设置项，添加降级功能。
+Name: AppData
+Author: Fouad Raheb & SuSuDear
+Icon: https://repo.susubaby.cn/icons/AppData.png
+
 Package: com.tencent.themebox
 Architecture: iphoneos-arm64e
 Version: 3.0.8
