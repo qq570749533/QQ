@@ -1562,6 +1562,23 @@ Description: 两指展开手势用于主页：图标向外扩散，每个应用�
 Name: Fizz
 Author: Lessica <82flex@gmail.com>
 
+Package: com.fouadraheb.appdata
+Architecture: iphoneos-arm64e
+Version: 1.5.0-1
+Section: Tweaks
+Maintainer: zqbb
+Depends: firmware (>= 15.0), mobilesubstrate, cy+cpu.arm64e
+Filename: debs/com.fouadraheb.appdata_1.5.0-1_iphoneos-arm64e.deb
+Size: 121016
+MD5sum: 7d5485158a8dc8786b38df4ef2485602
+SHA1: 51a70a59a9800a0af885ab3a5a6e5322582970af
+SHA256: c77e79281bc642146ecb7237ca6f36e622b633e94d9ab1c10d7184c5ddd1baa9
+SHA512: 8015e251b33144d040d5dd6b1e004c853de8a6b2f5c9cdd3c93eaed0f9e2ce6e8f91cc15c868d8670849aee801d43fbd4d5e534466fc4570564d4bc8bccaa597
+Description: 从主屏幕查看和管理应用程序数据，无需设置。
+Name: AppData
+Author: Fouad Raheb
+Icon: https://github.com/F0rd0w/f0rd0w.github.io/blob/main/depictions/web/com.f0rd0w.sample/screenshots/AppData@100x.png?raw=true
+
 Package: com.goodbattery
 Architecture: iphoneos-arm64e
 Version: 0.0.1
