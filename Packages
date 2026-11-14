@@ -4518,16 +4518,16 @@ SileoDepiction: https://apt.002599.xyz/web/org.coolstar.libhooker
 
 Package: org.coolstar.sileo
 Architecture: iphoneos-arm64e
-Version: 2.5.1-15
+Version: 2.5.1-16
 Section: Packaging
 Maintainer: wwg151 <wwg151@users.noreply.github.com>
 Depends: firmware (>= 11.0), firmware(>=12.2) | org.swift.libswift (>=5.0), coreutils (>= 8.30-1), dpkg (>= 1.19.4-1), apt (>= 1.8.2), libzstd1
-Filename: debs/org.coolstar.sileo_2.5.1-15_iphoneos-arm64e.deb
-Size: 5637254
-MD5sum: b092f013c165a7d0e285666ef8cc71b4
-SHA1: f3755b791da3321acf62783f330e437a39e39898
-SHA256: 37908e93df6402fe9c2b82fabe3a792aa1b27d0e9dd610ea015912a7ba5fd807
-SHA512: 3f54b296519e7a88f5b476de0a8d2a7375813817a81f7bccb15c9d9c5e816a5cbe7fd4976de225263b518a156675dc04da7d8faa2d24456a7650901bef6942eb
+Filename: debs/org.coolstar.sileo_2.5.1-16_iphoneos-arm64e.deb
+Size: 5661726
+MD5sum: 72e918d0fabe527012abaaa6fdc55a22
+SHA1: 4e8b8215caf33dd95ca24322250862be1f3d2f68
+SHA256: 592473a21fb0452a58a18bd7123914669affa33b14a4b7c3bd5700f57d8c03da
+SHA512: 20d9c7b577833e3a7ff4cd2879c0c2bb496a5e585585b04d49cc9db3092652dc0306a31800b8b2cecde0e7a9cd34b53385fafadf05313a2b186fee0a8b49a723
 Description: 现代APT包管理器前端
 Name: Sileo
 Author: wwg151 <wwg151@users.noreply.github.com>
