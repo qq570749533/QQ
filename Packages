@@ -219,6 +219,23 @@ Tag: purpose::uikit, compatible::ios14
 Name: QL 清理
 Author: 来了老弟
 
+Package: cn.llld.settingsudid
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: roothide修复插件
+Maintainer: 来了老弟
+Installed-Size: 140
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000)
+Filename: debs/cn.llld.settingsudid_1.0_iphoneos-arm64e.deb
+Size: 4820
+MD5sum: 8baf24b6b3eaaf7106c598f3cb61f6af
+SHA1: d12e0f560af84479c4724586c585ccd0e5a5cca8
+SHA256: 7d477c3d92fb9a6959072e46be9c3ebf57a4ce0cc514d2dca8794f00798e8567
+SHA512: ddbe784046994399e16c612ab75171c21923534c30b5f969753dddeb95e89653886e70e36e01a839d5baedf55f89071acb4f813ae28f552839e43b6353fa7a5c
+Description: 从“设置”>“通用”>“关于手机”页面检查您的UDID！
+Name: 查看UDID
+Author: iCraze
+
 Package: cn.zqbb.3dtouch.inject.roothide
 Architecture: iphoneos-arm64e
 Version: 2.1
