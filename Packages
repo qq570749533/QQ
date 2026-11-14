@@ -2082,6 +2082,26 @@ Description: 可配置的锁屏时钟梯度。
 Name: 独立锁屏时间渐变
 Author: MoWang
 
+Package: com.mlgm.appdata
+Architecture: iphoneos-arm64e
+Version: 1.3.9
+Section: Tweaks
+Maintainer: mlgm
+Installed-Size: 1236
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.fouadraheb.appdata
+Replaces: com.fouadraheb.appdata
+Filename: debs/com.mlgm.appdata_1.3.9_iphoneos-arm64e.deb
+Size: 409602
+MD5sum: de95f4509fcffe78f4c6026b7f959c9f
+SHA1: e824134a8e668d50880a4494021833fea9c64c4c
+SHA256: 5d9b01d0da0cb9567546e4886271f6fdb4fd0713522500f96772db1bd9fae50a
+SHA512: f23f79a23ef82d2f311468a1b44a5aebfe5edd3baf068a015ca754f5521b98806a3e06e894a5858bfb95e3865d0451485406cf208b2ff804d4012c0a36ef9e1c
+Description: 上滑或长按桌面图标，即可查看和管理应用数据，清理缓存并自定义图标与名称。
+Name: AppData
+Author: Fouad Raheb <support@fouadraheb.com>
+Icon: https://mlgm66.github.io/icon/appdata.png
+
 Package: com.mlgm.filzacrack
 Architecture: iphoneos-arm64e
 Version: 1.0
