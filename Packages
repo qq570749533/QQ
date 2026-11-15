@@ -1553,13 +1553,13 @@ Installed-Size: 5672
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate
 Filename: debs/com.flex2areo.apptools15roothide_2.9.5_iphoneos-arm64e.deb
-Size: 2988854
-MD5sum: d0b694bf5743d42b3d1d34ae22cf3bda
-SHA1: 1e50c85dfd0c893f4cb9c58b81e7ce893a4fd2b3
-SHA256: c51b018443b855fab757217e27b6273ba2d2a0013e2de829d2a5653d01dd91a6
-SHA512: 56420c0c26b5b10337e813e0103872b8d0b9d0b1a388425fa270d82909aee7a456de8563e85b25379bf1548ef2534f29074d15578849d9ade4aac6be1f774143
-Description: AppTools for iOS15-17 Rootless
-Name: AppTools15-17(Rootless)
+Size: 2988818
+MD5sum: 2cc9b308c3385e67a32df32a1289cf69
+SHA1: 55ecb04ae0aaf41bb2c1b96066664d36149cdcf2
+SHA256: 446876ff297a38b48f08207dc4869c9beaddddb5271c442858db8f8d59832ea9
+SHA512: d6e108cdcafe1e58f1a761866a82a1707fb46f4bd02277b50eb8c76455a33cb82dd395f93530839a117e1149423c24395ff07aa028d2bf7ab0e709f116c6037a
+Description: iOS15-17应用工具
+Name: AppTools
 Author: aReo
 
 Package: com.fouadraheb.appdata
