@@ -1083,24 +1083,6 @@ Name: 3DBadgeClear(RootHide)
 Author: isklikas
 SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/3dbadgeclear/js.json
 
-Package: com.dao.apptools15
-Architecture: iphoneos-arm64e
-Version: 9.9.9
-Section: 嗨-付费
-Maintainer: aReo
-Depends: firmware (>= 15.0), mobilesubstrate
-Conflicts: com.flex2areo.apptools15rootless, com.flex2areo.apptools15roothide, com.flex2areo.apptools15, com.dao.apptools15roothide, com.dao.apptools15rootless
-Filename: debs/com.dao.apptools15_9.9.9_iphoneos-arm64e.deb
-Size: 3566438
-MD5sum: 6c8c4f868a7da491ec8d28b27dcec1b4
-SHA1: 7bb7acc367aa13ff45c0adf1fc5a68dc7012d1a1
-SHA256: 43df74c0802865b049edfb5048093ede16b21186ab09af39ce0ec72ce83483e6
-SHA512: 7b951f572dfc4ab3eca3758dde27f741cfbfc855b2d6c91671a06a4b558aa3032d7917dd4bf02595414706e6933611717044582dcacc60b644b44a1220d882b9
-Description: AppTools for iOS15~17，强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。
-Name: AppTools
-Author: aReo
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/apptools/js.json
-
 Package: com.dao.axon
 Architecture: iphoneos-arm64e
 Version: 2.6
@@ -1561,6 +1543,24 @@ SHA512: aa2264deb4d6aa88911ab337aaaadd5c1fd0de0bd1c9818e11ef9bc7009ac73a44f2e171
 Description: 两指展开手势用于主页：图标向外扩散，每个应用徽章向外生长并淡出，保持清除状态，一次系统点击标记它们消失的时刻。
 Name: Fizz
 Author: Lessica <82flex@gmail.com>
+
+Package: com.flex2areo.apptools15roothide
+Architecture: iphoneos-arm64e
+Version: 2.9.5
+Section: Tweaks
+Maintainer: aReo
+Installed-Size: 5672
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: debs/com.flex2areo.apptools15roothide_2.9.5_iphoneos-arm64e.deb
+Size: 2988854
+MD5sum: d0b694bf5743d42b3d1d34ae22cf3bda
+SHA1: 1e50c85dfd0c893f4cb9c58b81e7ce893a4fd2b3
+SHA256: c51b018443b855fab757217e27b6273ba2d2a0013e2de829d2a5653d01dd91a6
+SHA512: 56420c0c26b5b10337e813e0103872b8d0b9d0b1a388425fa270d82909aee7a456de8563e85b25379bf1548ef2534f29074d15578849d9ade4aac6be1f774143
+Description: AppTools for iOS15-17 Rootless
+Name: AppTools15-17(Rootless)
+Author: aReo
 
 Package: com.fouadraheb.appdata
 Architecture: iphoneos-arm64e
