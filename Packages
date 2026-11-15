@@ -929,6 +929,23 @@ Description: 设备互通粘贴时禁用弹窗，无设置项。(支持iOS 15-17
 Name: Disable CutPoP
 Author: crctdd
 
+Package: com.crctdd.fileenhan
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Tweaks
+Maintainer: crctdd
+Installed-Size: 76
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: debs/com.crctdd.fileenhan_0.0.1_iphoneos-arm64e.deb
+Size: 11268
+MD5sum: 9a5ff4aa3c3fc7540e97eefff3886b9a
+SHA1: 8f7d5d88606f1ef58481e276269ac383e91c2072
+SHA256: 7cdb7b6c1b8f0077bb4c7713b05c8bbca21d86706a9205ecf1963277cbf728eb
+SHA512: 4f9006515f5057f0b1aa908d87d5a15b348ee095e92ed1500c2c1a911211e259335285f8280dcb5a0467f6117dc91ba5bc5162d326988242d91e097384b3964b
+Description: 在“文件”应用程序浏览菜单中添加“显示隐藏文件”切换。
+Name: FileEnhan
+Author: crctdd
+
 Package: com.crctdd.memtrim
 Architecture: iphoneos-arm64e
 Version: 0.0.3
