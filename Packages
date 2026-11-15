@@ -2139,19 +2139,19 @@ Icon: https://mlgm66.github.io/icon/FilzaCrack.png
 
 Package: com.mlgm.filzapatch
 Architecture: iphoneos-arm64e
-Version: 1.0.2
+Version: 1.1.2
 Section: Tweaks
 Maintainer: mlgm
-Installed-Size: 170
-Depends: firmware (>= 15.0), com.roothide.patchloader (>= 0.0.8), roothide (>= 0.1.0)
+Installed-Size: 178
+Depends: firmware (>= 15.0), mobilesubstrate, uikittools, com.tigisoftware.filza64bit (= 5.0.1-3)
 Conflicts: roothide.patches.filza
-Filename: debs/com.mlgm.filzapatch_1.0.2_iphoneos-arm64e.deb
-Size: 48904
-MD5sum: 578be85487e37de334ee9332e891c527
-SHA1: 979ece1f0f66abe1920bfdc0b55ff3e6c4330982
-SHA256: 1b5807b00d8eccee4e84e0fc20a5448d5a243891080f53abffe23b92a838ad4f
-SHA512: ca70939b880645dc21d70e081665385f57580797a6624937831b37d9d25a1dd2ffc6d8b721e30b27c87b1860a3ddb22bb7d62240d24a62dec3737bb87fa2b355
-Description: Filza 5.x 的 RootHide 动态补丁
+Filename: debs/com.mlgm.filzapatch_1.1.2_iphoneos-arm64e.deb
+Size: 10852
+MD5sum: 508d50a87e344a1e92f86213b56f8a83
+SHA1: 7376fba010a15669f1c5d35b52390b6b47dc5918
+SHA256: a559cb6459df110e999beef726c6c305adb40adee3336e07caf3f716220b0dc5
+SHA512: 2d7d5b43c702a9b5a9ad9a1ef0388f9dece213926b3ef825782d00351e222e43d6a3e5c00fed5deff44160ee39db00431c5b41a951374227e56fa250ea924774
+Description: Filza 5.x 的 RootHide 动态补丁，收藏夹增加常用随机化路径目录。(原版 Filza 已适配 RootHide，如遇崩溃等问题需重装 Filza)
 Name: Filza Patch
 Icon: https://mlgm66.github.io/icon/FilzaPatch.png
 
