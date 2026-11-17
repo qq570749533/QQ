@@ -733,6 +733,28 @@ Name: RounderLS
 Author: Azzou
 Icon: https://huayuarc.github.io/icon/RounderLS.png
 
+Package: com.bazik1337.ios27animsreborn
+Architecture: iphoneos-arm64e
+Version: 1.0.0~beta1+ningzh1
+Section: Tweaks
+Maintainer: Ning&bazik1337 <https://t.me/bazik1337>
+Installed-Size: 561
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.bazik1337.ios2627anims, com.bazik.codexgenie27, com.bazik.genie27
+Filename: debs/com.bazik1337.ios27animsreborn_1.0.0~beta1+ningzh1_iphoneos-arm64e.deb
+Size: 140760
+MD5sum: 569fee491cc84199be1e4040bfcea7c4
+SHA1: 4e9be3e7a072007e99298b7cde843fffdecb5a6b
+SHA256: 8b5f8c87f4e5a50464c2cad3bc1de64bf31160e620e2ead83444df09089bd4de
+SHA512: 98964a9294fb0b4bd156f9d842cffb847f506b20261bc5a5d0f2f1ba14dbc9a2f71913cb5dd5409ef7a8c9b631a14cb4fd9e98a9a5a09765b07f27d7eca62449
+Homepage: https://t.me/ba31k_tweaks
+Description: Reborn 重做版简体中文汉化：神灯应用开关动画、小组件动画及通知中心。
+Name: iOS 27 动画 Reborn（简体中文）
+Author: Ning&bazik1337 <https://t.me/bazik1337>
+Icon: https://repo.ba31k.com/depictions/com.bazik1337.ios27animsreborn/icon.png
+Depiction: https://repo.ba31k.com/depictions/com.bazik1337.ios27animsreborn/
+SileoDepiction: https://repo.ba31k.com/depictions/com.bazik1337.ios27animsreborn/depiction.json
+
 Package: com.brend0n.nopassafterrespringsafe
 Architecture: iphoneos-arm64e
 Version: 0.0.3
