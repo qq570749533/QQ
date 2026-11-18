@@ -791,6 +791,25 @@ Description: 优化了一下界面
 Name: Modified ChargeLimiter
 Author: tune
 
+Package: com.cpdigitaldarkroom.itsevanesco
+Architecture: iphoneos-arm64e
+Version: 2024.05.26-20
+Section: Tweaks
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.cpdigitaldarkroom.evanesco, com.1conan.evanescoxi, com.randy420.evanescocc
+Filename: debs/com.cpdigitaldarkroom.itsevanesco_2024.05.26-20_iphoneos-arm64e.deb
+Size: 66082
+MD5sum: 8b9b84706c13e7b6282f85ea5b5208c6
+SHA1: e3752f09c81bd4a92ef6d2d9a1ce4ab5c0c654b9
+SHA256: 466e56f4f30bb9464089a5354fb71e3c272ae8f6ca53ff7fe48f59295b33cb09
+SHA512: 86a3aa143551e020ca4c0ce5351d72633ecb740fe4564055ac833591f55465e8a3dcb313416ef97870b58b2fa8dfa341579dec717fa49a81ef34bf6185ee45d8
+Description: 不活动后清除主屏幕（原生arm64e重建）
+Name: Evanesco!
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Depiction: https://Randy-420.GitHub.io/depic/evanesco.html
+icon: https://huayuarc.github.io/icon/evanesco.png
+
 Package: com.cracklock.7513
 Architecture: iphoneos-arm64e
 Version: 1.0.5
