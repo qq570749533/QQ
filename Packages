@@ -774,6 +774,25 @@ Name: NoPassAfterRespring (Safe)
 Author: Brend0n <brendonjkding@126.com>
 icon: https://huayuarc.github.io/icon/huayuarc.jpg
 
+Package: com.brkr1.tweaks.betterccvpn
+Architecture: iphoneos-arm64e
+Version: 0.1
+Section: Tweaks
+Maintainer: brkr1
+Depends: mobilesubstrate, com.opa334.ccsupport, firmware (>= 15.0)
+Filename: debs/com.brkr1.tweaks.betterccvpn_0.1_iphoneos-arm64e.deb
+Size: 30414
+MD5sum: 9685459895ed3ed0cb79f3433d0bcdb5
+SHA1: 0e7afa199420478a0947d56c83778aad91059b3d
+SHA256: 866f4fe72c10ba148f4a3ebe08fd73fa194a376f58315719a91d6699bc97f36c
+SHA512: 76e47d65396b5f6b30bdee500bef272a752e34e79862d201906453f70c27f0a7f7867d5bc966d18be522d3a35cb66ff8eafda4ed9b4d5bf85159f0dfaacec621
+Description: 控制中心VPN切换-按住可选择哪个配置的VPN处于活动状态。
+Name: BetterCCVPN
+Author: brkr1
+Depiction: https://brkr1.github.io/repo/depictions/com.brkr1.tweaks.betterccvpn/depiction.json
+SileoDepiction: https://brkr1.github.io/repo/depictions/com.brkr1.tweaks.betterccvpn/depiction.json
+icon: https://huayuarc.github.io/icon/betterccvpn.png
+
 Package: com.chargelimiter.mod
 Architecture: iphoneos-arm64e
 Version: 1.17.5
@@ -3425,6 +3444,24 @@ SHA512: 713fa78f9910c7c5effe087097b0c8168c93863a112aff60b1700701e0e0967fb7d848db
 Description: 调整系统键盘按键圆角，让键盘外观更加圆润、简洁。需要 iOS 15 或更高版本。
 Name: 系统键盘圆角
 Author: Tsangbaby
+
+Package: com.tsangbaby.storeid
+Architecture: iphoneos-arm64e
+Version: 0.3.2
+Section: Tweaks
+Maintainer: Tsangbaby
+Installed-Size: 396
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/com.tsangbaby.storeid_0.3.2_iphoneos-arm64e.deb
+Size: 147242
+MD5sum: f59c9618635404223f6de891bc1199f4
+SHA1: c6f79a4a28ed5c9fa36f843644d4f24cefd69f31
+SHA256: 02209c7baa30cd9480880304a98cb08c6d54dd40c6da4cb083eb40d077001f48
+SHA512: a227193fe783212145dbf3caf6ab3ad851a09a117f5888584484960ced40fc3a6d7c2d99511cb307e7b564c69ea609ff4cc2a1a48f6263e76ddcd083101186d1
+Description: 在App Store产品页面上显示和复制捆绑包ID。
+Name: StoreID
+Author: Tsangbaby
+Icon: https://tsangbaby.github.io/Icon/StoreID.png
 
 Package: com.ttt.cccurrentmodule
 Architecture: iphoneos-arm64e
