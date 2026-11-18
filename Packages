@@ -2214,6 +2214,24 @@ Name: Filza Crack
 Author: mlgm
 Icon: https://mlgm66.github.io/icon/FilzaCrack.png
 
+Package: com.mlgm.filzapatch
+Architecture: iphoneos-arm64e
+Version: 1.1.4
+Section: Tweaks
+Maintainer: mlgm
+Installed-Size: 178
+Depends: firmware (>= 15.0), mobilesubstrate, uikittools, com.tigisoftware.filza64bit (= 5.0.1-6)
+Conflicts: roothide.patches.filza
+Filename: debs/com.mlgm.filzapatch_1.1.4_iphoneos-arm64e.deb
+Size: 10820
+MD5sum: 02ee26bb1df6e903dbcb6c3030576633
+SHA1: b1f97dd231b8bd54dbd32a38660bf1e3244b5c82
+SHA256: cfa1041d754497c956269f51152335efef5f8dca057860addbc8e1fe3043d651
+SHA512: 9c309214f5cebeddad28738d8d1838e722ab6d7dc69baed365ecf3c836b83ac2e97d57fef53f222ab89ece47f113be9f10f0faf46ad8dbfc24f0b56c4c8a2b8f
+Description: 适用于 Filza 5.0.1-6，增加常用随机化路径收藏、调整 Documents 路径，并注册 filza:// 跳转。
+Name: Filza Patch
+Icon: https://mlgm66.github.io/icon/FilzaPatch.png
+
 Package: com.mlgm.prefnest
 Architecture: iphoneos-arm64e
 Version: 1.2.3
