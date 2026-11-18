@@ -968,6 +968,25 @@ Description: 在“文件”应用程序浏览菜单中添加“显示隐藏文�
 Name: FileEnhan
 Author: crctdd
 
+Package: com.crctdd.fix-shellx
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Tweaks
+Maintainer: crctdd
+Installed-Size: 340
+Depends: mobilesubstrate, com.iosdump.shellx (= 11.3), firmware (>= 16.0), firmware (<< 17.0)
+Conflicts: local.shellx.ios16ocrfix
+Replaces: local.shellx.ios16ocrfix
+Filename: debs/com.crctdd.fix-shellx_0.0.1_iphoneos-arm64e.deb
+Size: 22552
+MD5sum: a0ff8fb3e6e7c567cd2047a1a23c2fcd
+SHA1: 0868e68897d58081071452b6514eb034e5090da3
+SHA256: 1e9ba8535c1ba5b4dd769dcc09eb8e9d5c240faa0fc5684a1e8ebfdf69127c7e
+SHA512: 1a03da78847708fedb4cbe1fa762091f8b16433c35be1b5867e56ca41df81276f49f9c6a131de5b927ff91c2c3eac40a782054c3ae2f8c0f9ec26d0d802409ba
+Description: 修复ShellX在iOS16的OCR识别问题。
+Name: Fix ShellX iOS16 OCR
+Author: crctdd
+
 Package: com.crctdd.memtrim
 Architecture: iphoneos-arm64e
 Version: 0.0.3
