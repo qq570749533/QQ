@@ -3390,6 +3390,27 @@ Description: iPhone、iPad、iPod Touch的文件管理器。支持iOS 15+。此�
 Name: Filza File Manager 64-bit
 Author: TIGI Software
 
+Package: com.tigisoftware.filza64bit
+Architecture: iphoneos-arm64e
+Version: 5.0.1-4
+Section: Utilities
+Maintainer: TIGI Software
+Installed-Size: 28867
+Provides: patches-com.tigisoftware.filza64bit (= 5.0.1-4~roothide)
+Depends: firmware (>= 15.0), com.roothide.patchloader, ellekit
+Recommends: zip, unzip, gzip, p7zip, unrar, xz-utils
+Conflicts: com.tigisoftware.filza, com.tigisoftware.filza39
+Replaces: roothide.patches.filza
+Filename: debs/com.tigisoftware.filza64bit_5.0.1-4_iphoneos-arm64e.deb
+Size: 18067096
+MD5sum: e74b925dde240ab08548087464936fb5
+SHA1: 52899d4cd282696a4c8ee5623d526d3ff6cc906f
+SHA256: ec568f8db1e7d865e949828a9f8ea246fa2648959a28ebb9c5e71370ff3f153a
+SHA512: d985dcbce0b8878f234114f34d7c63f6fef0e32c4a9a42ef47b864a54fb61ced2c2b506ea13072685e734aef110612469e946fec6a434f94e64c299ee6b3d1f2
+Description: iPhone、iPad、iPod Touch的文件管理器。支持iOS 15+。此版本仅支持64位设备
+Name: Filza File Manager 64-bit
+Author: TIGI Software
+
 Package: com.tsangbaby.kbrc
 Architecture: iphoneos-arm64e
 Version: 1.0.3
