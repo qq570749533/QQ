@@ -3353,6 +3353,25 @@ Name: 主题盒子-Roothide
 Author: Mao
 Sponsor: admin@25mao.com
 
+Package: com.tigisoftware.filza64bit
+Architecture: iphoneos-arm64e
+Version: 5.0.1-6
+Section: Utilities
+Maintainer: TIGI Software
+Installed-Size: 32472
+Depends: firmware (>= 15.0)
+Recommends: zip, tar
+Conflicts: com.tigisoftware.filza, com.tigisoftware.filza39
+Filename: debs/com.tigisoftware.filza64bit_5.0.1-6_iphoneos-arm64e.deb
+Size: 17931912
+MD5sum: 73ef498f9ce0d44fc28372aabdb9d12d
+SHA1: fb2785d949628e6d26c0c495338156641fc33c73
+SHA256: 837115ddbbdb7d75d4e83ad2ff551369e723e0454752d4c168e7c2de3bec0c7f
+SHA512: f73987645b8fcbc3cd6b07cfbf5a3195099f30744884477688ed1d3f8c06f62831a22a568fb4893348a643bf07b33b7a69ab5ade6f7b8b58e5cc3bade09c3b1d
+Description: iPhone、iPad、iPod Touch的文件管理器。支持iOS 15+。此版本仅支持64位设备
+Name: Filza File Manager 64-bit
+Author: TIGI Software
+
 Package: com.tsangbaby.kbrc
 Architecture: iphoneos-arm64e
 Version: 1.0.3
