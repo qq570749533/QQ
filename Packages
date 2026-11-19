@@ -2605,18 +2605,18 @@ Author: opa334
 
 Package: com.qimiao.WCRefine
 Architecture: iphoneos-arm64e
-Version: 2.2-2beta4
+Version: 2.2-2beta5
 Priority: optional
 Section: Tweaks
 Maintainer: 热心网友
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 14.0), mobilesubstrate
-Filename: debs/com.qimiao.WCRefine_2.2-2beta4_iphoneos-arm64e.deb
-Size: 12932796
-MD5sum: b9d6e4914ae5e4f5059bcca04ad00fb5
-SHA1: 682850b2e2ecfc9e57051a2551ba4d9fa56bb669
-SHA256: 996bf906c805894650078d7f45e185d66b2b3d7df08ad0e8a5cda2014e73fc93
-SHA512: b33f5313f2bd64fa1c1326e99bcc915fcfc7e9fa9885fdabcab2272d4fc6fb82343698f647cc81689f0ecaaf30b2274d691385600d6ff74dcaae05f570e7f31d
+Filename: debs/com.qimiao.WCRefine_2.2-2beta5_iphoneos-arm64e.deb
+Size: 13303402
+MD5sum: dd2ef6c84c5722d6e97bf9046f06409d
+SHA1: 5ddd1654a25b1605331b061e5eaaaa9abbb8721b
+SHA256: 234a247831ad63a323778ef82c382fd35ed4a14c07314fe293cbd5152a80fa73
+SHA512: 079fc4cf12129dc1e1f9ba2f142f5ccd024b2c65a3c54d112a58c503cad05436cfadfabfae8de1d1ddefb19442b6624cf6c48b551a4b9cde3b75adbf54f1dbb7
 Description: 微信优化的重制版，上百种功能优化你的微信。
 Name: WCRefine
 Author: 热心网友
