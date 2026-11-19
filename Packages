@@ -1837,6 +1837,23 @@ Name: ZombieReaper 清理子进程
 Author: Mr_佳先生
 icon: https://huayuarc.github.io/icon/zombiereaper.jpg
 
+Package: com.hx.shihua
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: 半生年华
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: debs/com.hx.shihua_1.0_iphoneos-arm64e.deb
+Size: 6586
+MD5sum: 8ca1ccd29eadb0ba35277140a0a250a5
+SHA1: 6b8463ca9fc334693b6bb0a10aceca909cac8abf
+SHA256: 8c43a7d57077d2c193aa30537c1b3b6e5a0877f273b581da55c1803c5e5a726b
+SHA512: fcdc2329ef4110f18482489ea3721bcc7d7fce6387424ebc2ad1827a15994ede3288ff5b88902f986e610c7c6cf3646b815532bb1570283bfee9c59283d67217
+Description: 光标丝滑
+Name: SilkCursor
+Author: 半生年华
+
 Package: com.icraze.keepmyjb
 Architecture: iphoneos-arm64e
 Version: 1.1
