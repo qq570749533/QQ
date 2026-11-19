@@ -2754,26 +2754,6 @@ Name: 控制中心音乐模块动画
 Author: simon
 icon: https://huayuarc.github.io/icon/fugap.jpg
 
-Package: com.sini..cccellularrate
-Architecture: iphoneos-arm64e
-Version: 1.1-1
-Section: Tweaks
-Maintainer: Netskao
-Installed-Size: 616
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
-Filename: debs/com.sini..cccellularrate_1.1-1_iphoneos-arm64e.deb
-Size: 111872
-MD5sum: c7643192d89f9edcd6dfae4af1dfdc46
-SHA1: d8c1921aa8302b72469727a7ccaa102d64d8e798
-SHA256: 0ec950b8c4a05e81fa1c931b230b21fadc19ba02949d6fb2cadc9008ed569092
-SHA512: 9afc9459e7cc5d652e114ebcd4b37bf1e9eb536579d19745dd92ae3a9a5cd732d5c23557cac8fa08b4dbc0c785ae72fbcf5a8f49d376472bf1c9ffb3554af444
-Description: 控制中心快速切换2/3/4/5G
-Icon: https://sini921.github.io/repo/sileodepiction/icon/cccellularrate.png
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/cccellularrate/js.json
-Name: CCCellularRate
-Author: Netskao
-
 Package: com.sini.autofillfix
 Architecture: iphoneos-arm64e
 Version: 0.1
@@ -4587,6 +4567,25 @@ SHA512: d4bb0bf6cadf572c067dbbc7719af4eb5f67092d0fd1524095a8cefa4bd76f9ad3f6cb01
 Description: iOS 16-18的自定义锁屏快速操作、应用程序和快捷方式。
 Name: SpringBoardAction
 Author: Banana
+
+Package: netskao.cccellularrate
+Architecture: iphoneos-arm64e
+Version: 1.1-1
+Section: Tweaks
+Maintainer: Nets
+Installed-Size: 616
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
+Filename: debs/netskao.cccellularrate_1.1-1_iphoneos-arm64e.deb
+Size: 185000
+MD5sum: e3d1f2aec8bc7416d4ee2d1bb565847d
+SHA1: d72a56bc5781aa5feb6d6c8127cf4bcfd69734de
+SHA256: 63044c2ba88438ad48bcf917783ebb07b006b24e6325a0457f8a625229355a23
+SHA512: e5a16153a5c7095a10fbf6941926a71b48ed652ce703b7a2716b17a261dd2ac25183d4847ee7bc9c9997866ab8d32ecd0a1f3df7f1412f7cdaff39c40ff09e51
+Description: 通过控制中心快速切换当前使用的2/3/4/5G蜂窝数据类型，仅显示当前设备设置中支持的类型
+Name: CCCellularRate
+Author: Netskao
+icon: https://huayuarc.github.io/icon/cccellularrate.png
 
 Package: netskao.quantumultxlauncher
 Architecture: iphoneos-arm64e
