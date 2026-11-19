@@ -1727,25 +1727,6 @@ Name: 键盘特效
 Author: 航
 Sileodepiction: https://hang1888.github.io/depictions/com.hang.keyboardeffects/depiction.json?v=1.7-ui
 
-Package: com.hbwechathelper.ailun
-Architecture: iphoneos-arm64e
-Version: 2.2.1
-Section: Tweaks
-Maintainer: HuangBai <QQ:1343309363@qq.com>
-Pre-Depends: rootless-compat (>= 0.9)
-Depends: firmware (>= 7.0), mobilesubstrate
-Filename: debs/com.hbwechathelper.ailun_2.2.1_iphoneos-arm64e.deb
-Size: 15196440
-MD5sum: d1b146ac1d24613914344863dbfc48ad
-SHA1: a315be89bf9c96f5ce85d8d9901e5c0a8557219a
-SHA256: eaa7a8f00439fef9549cab4da8fa9a02114e65154d7701c89e6cbebe05234894
-SHA512: 0abe075a68b115bf13a3a1a8641560b5859de4acd32a09705e3f8c817a73fe4c4b57c79d889d1feb898c306f21297c5d98391327641bc7332055b7b0159c2522
-Description: 黄白助手-微信插件，点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况 Live 图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载 dylib 文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能
-Author: HuangBai <QQ:1343309363@qq.com>
-dev: HuangBai
-Sponsor: Mao
-Name: 黄白助手(微信娱乐插件)
-
 Package: com.huami.WCPulse
 Architecture: iphoneos-arm64e
 Version: 1.7-7
