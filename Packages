@@ -2048,11 +2048,11 @@ Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>=15.0), firmware (<<26.0)
 Conflicts: org.thebigboss.sleeper, com.joshuaseltzer.sleeper
 Filename: debs/com.joshuaseltzer.sleeperx_4.0.0_iphoneos-arm64e.deb
-Size: 362604
-MD5sum: e009aa1dd2f848ac106c31edbf5641fd
-SHA1: e7eff0ae383c0d76647c5009cde474233d327ccb
-SHA256: 5c02b228664cfab0941659ad3b151c155c200239c6fb2ab842f3fae1fcb13782
-SHA512: d4dac3af6c14ebb0984d7a87e8e24fe8fe0d1dc1e1f16e28559f8506f9de1e578fc2775482e4f885f267226939cba838a88bebbb46fb290d502862fbbb76e82f
+Size: 192628
+MD5sum: 91014fe3c05817d78cfe182fb002d474
+SHA1: ab5acb84b5cf850ee605c200047700ad0df90d87
+SHA256: 08df30ed4fda98bd9cf74c48573cdaef1bf82b3a79a0a1d057292172ce746ed7
+SHA512: d0d594b95804cffdb4e23d3159d019b8366b9246bb839ff5a13f43925e72ce37fee8f3adb5d31f9014466bc00498f0784546bc9db5c3e5764010f9d059968aba
 Description: 使用SleeperX设置自定义贪睡时间、跳过闹钟等。
 Name: SleeperX
 Author: Joshua Seltzer
