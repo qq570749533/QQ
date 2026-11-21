@@ -1814,6 +1814,22 @@ Name: DYYY
 Author: huami
 Icon: https://Mieing.Github.io/repo/file/TikTok.png
 
+Package: com.huania.patch
+Architecture: iphoneos-arm64e
+Version: 1.0.0-1
+Section: Tweaks
+Maintainer: doubao
+Installed-Size: 750
+Filename: debs/com.huania.patch_1.0.0-1_iphoneos-arm64e.deb
+Size: 661384
+MD5sum: 48bfa3c0aaffdb5fe3ab617171eb0024
+SHA1: cc52c03a39dac0926689c8025e74b172ef8d5f63
+SHA256: ed58304fc8b70e2af2ce1ea4fec72a77d62e182fbfb2d8dbf32b366ffcd9fc8e
+SHA512: fe49251eaba9d4a461489e6cbe6c884d0b0a8e7eb68800bddf014f40a5c92cd2d6d23ec3facca23bc5e1310e8b7a3f8a422c5e16e344a2878c481a17c6d1332f
+Description: 地震预警会员
+Name: 地震预警插件
+Author: original
+
 Package: com.huayuarc.ccsim
 Architecture: iphoneos-arm64e
 Version: 2.1
