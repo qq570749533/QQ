@@ -829,6 +829,22 @@ Description: 优化了一下界面
 Name: Modified ChargeLimiter
 Author: tune
 
+Package: com.chinatelecom.refresh
+Architecture: iphoneos-arm64e
+Version: 1.0.0-1
+Section: Tweaks
+Maintainer: doubao
+Installed-Size: 1100
+Filename: debs/com.chinatelecom.refresh_1.0.0-1_iphoneos-arm64e.deb
+Size: 933734
+MD5sum: 100956f266fd800b78b703e90eb8a6f7
+SHA1: e5a1e2c611a6bbf61c8a463981038de8546d623e
+SHA256: 89886b727e3783c249b6d6a0533024a1212d2b5402418696192c5460bbab9b4e
+SHA512: 015b90644335fe5c233a54f0fb5c1326d3403af857596a13a23dbdae0779f2c3b1eb115d125c1c4369f5475e84f456e9b351f06a65370a0022e361c1dc6fe063
+Description: 中国电信UI
+Name: 中国电信UI重构
+Author: 一个人的冬季
+
 Package: com.cpdigitaldarkroom.itsevanesco
 Architecture: iphoneos-arm64e
 Version: 2024.05.26-20
