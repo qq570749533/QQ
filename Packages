@@ -2953,6 +2953,22 @@ Name: AutoScroll
 Author: pxcex
 icon: https://sini921.github.io/repo/sileodepiction/icon/auto.png
 
+Package: com.sini.bhtkplus
+Architecture: iphoneos-arm64e
+Version: 1.9.3-2
+Section: Tweaks
+Maintainer: doubao
+Installed-Size: 1200
+Filename: debs/com.sini.bhtkplus_1.9.3-2_iphoneos-arm64e.deb
+Size: 444382
+MD5sum: 87bf772ab034eb731f14e3217647de40
+SHA1: 2b1da6d8dd034fedd538174ec12176e2135432b5
+SHA256: c14ab14f8773f8c10f9bc44fbbc181e805b9a6040357ee311b858376dad7adfa
+SHA512: e3d994e89fe270565fc4fca9eefad05d5851396b9d8c00b603fe952988181f38ab701a50ed512a96b7fed4321d7ca5cd7f9d7984d83b1092557deb0f6308c38b
+Description: TikTok增强
+Name: BHTikTok++
+Author: raul saeed
+
 Package: com.sini.ccrespring
 Architecture: iphoneos-arm64e
 Version: 2.0.0-1
