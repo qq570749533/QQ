@@ -2445,12 +2445,12 @@ Maintainer: Ning
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 16.0), firmware (<< 18.0), com.opa334.ccsupport
 Filename: debs/com.ning.simcontrol_1.0.4_iphoneos-arm64e.deb
-Size: 135890
-MD5sum: c608776df17399d3524e38a476c39c7d
-SHA1: 1302c42af089f555ebeae90bfd23725a83885a34
-SHA256: 4c76c39687250b6dbcb38d8aaa05e55e9b76b6d0cb591eac5fb268c11a8ae8f1
-SHA512: 8342a23fa3d9c86b6674aa77b346b1a914ea1dcfaf4cccd40677b1195898263fa88241b797e2909e153cd5431cadff686f37138230c34dc87259d6ab980a55cd
-Description: Native SIM switches for the system Control Center (rootless).
+Size: 133808
+MD5sum: 813a0089a3fcd7334c583ca21cc680d7
+SHA1: a7b85218d09626ac269cc8afa3173b3af7bf142e
+SHA256: cb85d8b4aa7ed927f51ca8740b29513b348428d5e13d9daaf8e8216a914d09a1
+SHA512: 8d72ec68e4f6bb348e206df6581a522ae385b4eac0a00e9adac442ac15ef330ee751eabb23e71de5f957097f2f92b6f68370f7b2d3473c22925a8bbac0972352
+Description: 系统控制中心的本机SIM交换机。
 Name: SIM卡切换
 Author: Ning
 Icon: file:///var/jb/usr/share/icons/com.ning.simcontrol.png
