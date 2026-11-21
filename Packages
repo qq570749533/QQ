@@ -2227,6 +2227,22 @@ Depiction: https://repo.lenglengyu.top/packageInfo/passbycc.html
 SileoDepiction: https://TrollStoreX.Github.io/sileodepiction/PassbyCC/js.json
 icon: https://TrollStoreX.Github.io/sileodepiction/PassbyCC/icon.png
 
+Package: com.libxinji.reset
+Architecture: iphoneos-arm64e
+Version: 1.0.0-1
+Section: Tweaks
+Maintainer: doubao
+Installed-Size: 160
+Filename: debs/com.libxinji.reset_1.0.0-1_iphoneos-arm64e.deb
+Size: 42318
+MD5sum: 4ad2bdaf5b2738fb64895df3cf55abf2
+SHA1: edb1fd0a23c8d1ce73f5429a68ed1f6a3135bd50
+SHA256: 86516ed8a42aaf23b14cba498fc5ce429008e264f8d26df29e27138662ee8eda
+SHA512: f95232e73a78b1ae549c39af2d5fe953145f92233a8cc0a5a588eaadcac28e19e5925c47a629e357b53f22b48a7ca0aeb5b86b6999590a0bf6e947fb1b08e87d
+Description: 闪连重置插件
+Name: 闪连重置插件
+Author: original
+
 Package: com.local.ios27statusbar
 Architecture: iphoneos-arm64e
 Version: 1.4.0~ios16native2
