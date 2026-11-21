@@ -2075,6 +2075,22 @@ Description: Zone 插件用于设置.tendies交互壁纸/视频壁纸 支持iOS1
 Name: Zone
 Author: iosdump
 
+Package: com.ixdzs.bzhelper
+Architecture: iphoneos-arm64e
+Version: 1.6.7-1
+Section: Tweaks
+Maintainer: doubao
+Installed-Size: 2454
+Filename: debs/com.ixdzs.bzhelper_1.6.7-1_iphoneos-arm64e.deb
+Size: 1508504
+MD5sum: 0a02c7a8b5a3a2ac81e705f6128093ff
+SHA1: 223c907c6c165347b4927aab3d90558e7f726fec
+SHA256: 639b54d4a05fa9741681d52060472f8b50e9e62e64a85e143a6cf72d3e021781
+SHA512: 80e844aa6400f0c19ee42efa9a6d1c32e5b7feae6910349e9dc2c83c355308b9ca22b35f7d699fe71b570e27e4ab640d17d18b11e56fcd6ce905952180bc5615
+Description: 爱下电子书去广告，宝藏助手
+Name: 爱下电子书（宝藏助手）
+Author: original
+
 Package: com.jaysuen.evocenter
 Architecture: iphoneos-arm64e
 Version: 4.1.0-beta.2
