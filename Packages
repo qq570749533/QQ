@@ -1851,6 +1851,22 @@ Name: SneakyCam 隐私相机
 Author: Spark
 icon: https://huayuarc.github.io/icon/SneakyCam.png
 
+Package: com.huayuarc.wifipro
+Architecture: iphoneos-arm64e
+Version: 2.5.5-1
+Section: Tweaks
+Maintainer: doubao
+Installed-Size: 110
+Filename: debs/com.huayuarc.wifipro_2.5.5-1_iphoneos-arm64e.deb
+Size: 7212
+MD5sum: 4bb4d17d797159b66db7f56d30bc67d0
+SHA1: cb50c65182e8691fd36b5fa1c920319944860f7f
+SHA256: 1b362b6391ff115bf5dce1fcaf82a8a4834b8e6b3b3d3d078057c7283630a38d
+SHA512: 3a50843907aca70ecac9d1cf96e9086619ea3f1448dc1bb65b0af1b341409c66f40ee842ebf99ae197d0f8d2d474275b64c551e87dc30b8a42dfe125009896a6
+Description: WiFi万能钥匙会员/广告相关增强
+Name: WiFi万能钥匙去广告
+Author: huayuarc
+
 Package: com.huayuarc.zombiereaper
 Architecture: iphoneos-arm64e
 Version: 1.0.0-1+debug
