@@ -2798,6 +2798,22 @@ Tag: role::developer
 Name: PatchLoader
 Author: roothide
 
+Package: com.shanlian.auto
+Architecture: iphoneos-arm64e
+Version: 0.0.12-1
+Section: Tweaks
+Maintainer: doubao
+Installed-Size: 250
+Filename: debs/com.shanlian.auto_0.0.12-1_iphoneos-arm64e.deb
+Size: 50310
+MD5sum: 42c0036a2bac42ded122e52f3574172e
+SHA1: 5435878e2d911724e8f9ff4282bc577dac022f1c
+SHA256: a91be11d24e30fd36480fc5bb8a8bc2a862aeaf65c454aefad521babf1d30fa4
+SHA512: fd469db173cf2eb0b4919d89a2e6b6bac6e2f70c52a4889fc60690cb49db51764b569c3c7cd32402fa2ce036f26224ddccbd2aa30deee4be332b5fca7fc35d06
+Description: 闪连一键填写邀请码
+Name: 闪连一键填写邀请码
+Author: original
+
 Package: com.shepgoba.settingswidgets
 Architecture: iphoneos-arm64e
 Version: 1.2.3
