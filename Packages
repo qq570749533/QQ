@@ -3633,6 +3633,22 @@ Description: 在备忘录 App 的右上角菜单里加一个只读开关。
 Name: 备忘录只读
 Author: unknown
 
+Package: com.valo.reader.tweaks
+Architecture: iphoneos-arm64e
+Version: 1.0.0-1
+Section: Tweaks
+Maintainer: doubao
+Installed-Size: 1130
+Filename: debs/com.valo.reader.tweaks_1.0.0-1_iphoneos-arm64e.deb
+Size: 777586
+MD5sum: 756d5a1df35fb22d8b9c6f7e7ecee70d
+SHA1: 8d00b409473dcb6eed9f06a5f11a279459443d4c
+SHA256: 7ca4e7cbbf5bf2d9175f6f26e709993cc3daba18bbcbb20f679eab68c5c59c25
+SHA512: 1f476607a935b1c711bacc15bc07ed32a4bafd172d8a1045f11be889156421201854d2e472ce289002e1386947dc83cdad9ec45f0307179e6ec2f92d06414a98
+Description: 读不舍手会员破解
+Name: 读不舍手会员破解
+Author: original
+
 Package: com.w3ltyyy.lead
 Architecture: iphoneos-arm64e
 Version: 2.0.2
