@@ -2445,15 +2445,15 @@ Maintainer: Ning
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 16.0), firmware (<< 18.0), com.opa334.ccsupport
 Filename: debs/com.ning.simcontrol_1.0.4_iphoneos-arm64e.deb
-Size: 164022
-MD5sum: 1daf8466ed4bb623bec0a8867785fa8a
-SHA1: 56c4ad2d989bc501726f17e4b583d03dd8782e5b
-SHA256: 72475dc9e273d28567a9c86c000928a7a12ae504e6c8c1e642bb284bd7bc5735
-SHA512: 9c0c444683f94a66de79843739459fd92608956aee365d4314d34d8e8a1dee381c13504c3039663e0911563191fbf95f01b4d0fa40c548c3ba02ce4b94c0bacc
-Description: 系统控制中心的本机SIM切换
+Size: 135890
+MD5sum: c608776df17399d3524e38a476c39c7d
+SHA1: 1302c42af089f555ebeae90bfd23725a83885a34
+SHA256: 4c76c39687250b6dbcb38d8aaa05e55e9b76b6d0cb591eac5fb268c11a8ae8f1
+SHA512: 8342a23fa3d9c86b6674aa77b346b1a914ea1dcfaf4cccd40677b1195898263fa88241b797e2909e153cd5431cadff686f37138230c34dc87259d6ab980a55cd
+Description: Native SIM switches for the system Control Center (rootless).
 Name: SIM卡切换
 Author: Ning
-icon: https://huayuarc.github.io/icon/simcontrol.png
+Icon: file:///var/jb/usr/share/icons/com.ning.simcontrol.png
 
 Package: com.noads.tweka
 Architecture: iphoneos-arm64e
