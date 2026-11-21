@@ -2455,6 +2455,22 @@ Name: SIM卡切换
 Author: Ning
 Icon: file:///var/jb/usr/share/icons/com.ning.simcontrol.png
 
+Package: com.noads.chinaunicom
+Architecture: iphoneos-arm64e
+Version: 0.8
+Section: Tweaks
+Maintainer: doubao
+Installed-Size: 400
+Filename: debs/com.noads.chinaunicom_0.8_iphoneos-arm64e.deb
+Size: 168120
+MD5sum: bbb6256a9443b12d37802e54726e85ac
+SHA1: bb8fe122a679aa453ee69cbb589f2cc7594f74d7
+SHA256: e78af5181669ecb7d75c6fc3d25cac6942ad0054cfbd8e303918a2fa7d343063
+SHA512: 5233e0cf094c6ee1636eafb51288586f40d4c77a3db7e37435e87765ac0bdf9c93b808379701522926a8db8cd4c7546829890c3616a5abb5206395412dfa0957
+Description: 中国联通UI重构去开屏广告
+Name: 中国联通UI重构
+Author: 一个人的冬季
+
 Package: com.noads.tweka
 Architecture: iphoneos-arm64e
 Version: 1.3.2
