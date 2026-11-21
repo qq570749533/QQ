@@ -812,6 +812,22 @@ Depiction: https://brkr1.github.io/repo/depictions/com.brkr1.tweaks.betterccvpn/
 SileoDepiction: https://brkr1.github.io/repo/depictions/com.brkr1.tweaks.betterccvpn/depiction.json
 icon: https://huayuarc.github.io/icon/betterccvpn.png
 
+Package: com.calclog.preview
+Architecture: iphoneos-arm64e
+Version: 1.0.0-2
+Section: Tweaks
+Maintainer: doubao
+Installed-Size: 170
+Filename: debs/com.calclog.preview_1.0.0-2_iphoneos-arm64e.deb
+Size: 11130
+MD5sum: 4123db1f410b313d059d10072752dffd
+SHA1: fb2a5806018516c93f990d0ceb4f03a208184ad1
+SHA256: 9165c8024f0002b0484201ef4bdcd3c1cdddfdda1d6f786ecdf6b48404f3f076
+SHA512: 90bb9ec27d7169feb4a3b45b5936090efe85ce2b8e3d02eb449243066e4ff9a293bc649cd79d9713cf260304bd600f319cff40095fae2905d065157e44b38def
+Description: 系统计算器预览计算结果
+Name: 计算器预览
+Author: 一个人的冬季
+
 Package: com.chargelimiter.mod
 Architecture: iphoneos-arm64e
 Version: 1.17.5
