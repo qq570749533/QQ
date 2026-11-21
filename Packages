@@ -774,6 +774,22 @@ Icon: https://repo.ba31k.com/depictions/com.bazik1337.ios27animsreborn/icon.png
 Depiction: https://repo.ba31k.com/depictions/com.bazik1337.ios27animsreborn/
 SileoDepiction: https://repo.ba31k.com/depictions/com.bazik1337.ios27animsreborn/depiction.json
 
+Package: com.boweili.colorfulwidgetpatch
+Architecture: iphoneos-arm64e
+Version: 1.0.0-1
+Section: Tweaks
+Maintainer: doubao
+Installed-Size: 700
+Filename: debs/com.boweili.colorfulwidgetpatch_1.0.0-1_iphoneos-arm64e.deb
+Size: 661754
+MD5sum: 0e043ba5813bf299466234d8fbceda5a
+SHA1: c2acf90f77670586df89c4979a7481c5a8f595d0
+SHA256: 36849f96d2093f5d7f3582d9c43e89c54bfb329506b779a23920881b9870f07b
+SHA512: f9c6dccf8298fc4e8503793421bcbc080df26823f14ab17e133dc711c71c5143f76029c33125354d24491521f3aaeea67101cfa8e90c41881dd4e07eebb062c7
+Description: 牛牛影视去广告，改标识符即可
+Name: 牛牛影视去广告
+Author: original
+
 Package: com.brend0n.nopassafterrespringsafe
 Architecture: iphoneos-arm64e
 Version: 0.0.3
