@@ -3374,18 +3374,21 @@ Sileodepiction: https://sini921.github.io/repo/sileodepiction/lockscreenhelper/j
 
 Package: com.sini921.pscamera
 Architecture: iphoneos-arm64e
-Version: 0.0.1-5
+Version: 0.0.1-6
 Section: 越狱插件
 Maintainer: PoomSmart & SINI
 Installed-Size: 600
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.sini921.pscamera_0.0.1-5_iphoneos-arm64e.deb
-Size: 248678
-MD5sum: bb6f90c3c4f3355eb9d9c773b9c58ce8
-SHA1: 3ee5c7bf1f8c4b39083a12bde01b70b9607fdcdd
-SHA256: 3ba522f7bf8c1f12013d02317d0a3c443f1ba5920afc96c2a99c9298ce3e0797
-SHA512: 1a87db7738edd2d55c8b337765780747a1f073d8364db58623eeb861468a4842697a24d13db3f754fe0d74679dd02673f1a6cdb8614bd38ca7d19b867a10631c
-Description: 系统相机App简单优化，使用了一些PoomSmart的开源代码
+Filename: debs/com.sini921.pscamera_0.0.1-6_iphoneos-arm64e.deb
+Size: 43282
+MD5sum: 5da99c6c253bcc818548fdd824ba5169
+SHA1: e00c845239a2069c60a31bfb5e25d11c8e2bb476
+SHA256: 6e6c17d5c83ea5b44a2b698e611c35476b2b38c4d5410d3055f727f90f2e34d7
+SHA512: 192d84fd4f2490cb503d8bacba8b1683e72fe7fe2d6e6009b295321eb65b279477d303ad389db084e51da592a9196e24f3d7c585cc3e74741e386460ebd6b99a
+Description: 系统相机App简单优化
+ * 相机全屏模式、双击切换镜头、禁用快门声音：开
+ * 暂停恢复按钮、快速开关手电：开
+ * 录制显示毫秒：开，时间格式 HH:mm:ss.SSS
 Name: PSCamera(roothide)
 Author: PoomSmart & SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/pscamera.png
