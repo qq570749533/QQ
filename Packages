@@ -2431,11 +2431,11 @@ Maintainer: mlgm
 Installed-Size: 760
 Depends: mobilesubstrate, firmware (>= 15.0)
 Filename: debs/com.mlgm.prefnest_1.2.4_iphoneos-arm64e.deb
-Size: 285430
-MD5sum: 7f0bbf3fa487ac60a8ec9486334ec65e
-SHA1: f8c5eacbe10e582d30a3bf12326acc59ecc153b8
-SHA256: c561725eaee55ae60fe3c4a5009e1618f071f11772f8aad44ee8aa3c705cff3c
-SHA512: 6bb0c1c19bdb2ed9d980e760d538f41ce347177f75df6b1815df249fb5f0da0d922b81d7a376f6b10f6c661ee4260f3a714a5d1236b6d0a0f864e926cb0515e4
+Size: 285404
+MD5sum: d6c110dc214089d4276b327c5ea880de
+SHA1: ae3b8d882b298869745ff7be5d4f8b89a825df3c
+SHA256: 7848e9293e4cafa1a5de3dfd3a8e8d42539db7c9d7c70fc6cb31c41f8d9a4221
+SHA512: db01e6f2526f52386340a9a76c59f09754c73d37770824cb672708ea676b802c7756a3c36eff8315ea31009f22ef1fc83d64bd4ecaeeee6071f5c2d80f887418
 Description: 整理设置首页，集中收纳越狱插件。
 Name: PrefNest
 Icon: https://mlgm66.github.io/icon/prefnest.png
