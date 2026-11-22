@@ -2804,6 +2804,23 @@ Tag: role::developer
 Name: libundirect
 Author: opa334
 
+Package: com.p2kdev.applock
+Architecture: iphoneos-arm64e
+Version: 1.1-3
+Section: Tweaks
+Maintainer: P2Kdev
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.p2kdev.applock_1.1-3_iphoneos-arm64e.deb
+Size: 18854
+MD5sum: e7bc56b7f32b2d126357883fff65cfe1
+SHA1: f46271569f4e05ed229f141d8f11f536cdbeebc1
+SHA256: 04607565af01c082dd206941f67571c144eb85b10454e9ce94ed12ef7daa3da7
+SHA512: cdda573fed453aa585fee3b0391d7447ede07432101e616653e972dd6da10b8e735564909a0ad73535645dc901a14cde4aa74f10b7a968367187349fa04b0c62
+Description: 使用面容ID锁定应用程序（界面已汉化）
+Name: AppLock
+Author: P2Kdev
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.clezz.touchr.png&s=180x180&f=webp
+
 Package: com.qimiao.WCRefine
 Architecture: iphoneos-arm64e
 Version: 2.2-2beta5
