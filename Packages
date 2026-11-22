@@ -522,18 +522,23 @@ Depiction:
 
 Package: com.82flex.removewidgetbg
 Architecture: iphoneos-arm64e
-Version: 2.1.1
+Version: 2.1.2
 Section: Tweaks
 Maintainer: Lessica <82flex@gmail.com>
 Installed-Size: 404
-Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.altlist
-Filename: debs/com.82flex.removewidgetbg_2.1.1_iphoneos-arm64e.deb
-Size: 55476
-MD5sum: 0f19d4852dad9b6fefd2d9d6e9e88989
-SHA1: 2bfb2b9fea367f606b6796ef271d9c9593d39778
-SHA256: d85f0eb6c1fef4a17295077b9a357e61ee2f21b898589b229f48414bc29ebfed
-SHA512: 7264b9a834b6d1e791c11842ed92ccb4a52895b28c2531d0de40e6962c263264528589c214ca744fd71c6a1017a36e89e58d49384463ec3b08982197f38831a8
-Description: 删除主屏幕上小部件的背景。
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/com.82flex.removewidgetbg_2.1.2_iphoneos-arm64e.deb
+Size: 24174
+MD5sum: afceb6227abdc0c3c33e33404f7dd8b4
+SHA1: bced028aaa8390bb450c1f028fbbaf827547a214
+SHA256: 20669ec3284eeceb08e12274ded2640be86ebe0f0e578f0b894501796039c802
+SHA512: 6570c4b198e55cafec38c381a05e00967cc9309a9796469fb2766a9d463f5615b221e81adc593d1fabde62ae0bf92d9f677a667e3977123dd55f0556926ed364
+Description: 内置固定配置，无设置界面，安装后 respring 即生效
+ * 启用：是
+ * 为材质视图启用：否
+ * 为系统小组件启用：是
+ * 强制深色模式：否
+ * 最大元素宽度 / 高度：150 / 150
 Name: Remove Widget Background
 Author: Lessica <82flex@gmail.com>
 
