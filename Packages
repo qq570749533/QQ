@@ -1450,6 +1450,26 @@ Description: 设置自定义、归类插件，源内有汉化包；v3.0.x版本�
 Author: SOPPPra
 Name: SettingsRevamp(RootHide)
 
+Package: com.dao.snowboard
+Architecture: iphoneos-arm64e
+Version: 1.5.37-Beta4
+Section: 嗨-系统
+Maintainer: Spark
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard, com.spark.snowboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: debs/com.dao.snowboard_1.5.37-Beta4_iphoneos-arm64e.deb
+Size: 1602312
+MD5sum: fdf62d7d2c441d2018c004cf6420e81d
+SHA1: 31d949bf975ef1d2f3615a8a772608ed2f0187bd
+SHA256: b1d4b69be9ffa0f4c92c6277647b81c6cba34351baa6ead648ed19fb43af0cb7
+SHA512: aa08a6332cc3b1e273db1b62e51c87071596bf060af6c5a16a8b668c533568d1fa0181a0e20371ed428ba6db62d6531b1bd22ff0cf9ce546331069275d617e4d
+Description: Snowboard 主题引擎！roothide主题路径：[jbroot]/Library/Themes
+Name: SnowBoard(RootHide)
+Author: Spark & Dennis D. Bednarz
+
 Package: com.dao.stella
 Architecture: iphoneos-arm64e
 Version: 1.1.5
@@ -5133,26 +5153,6 @@ Description: 向下滑动以关闭键盘，向上滑动以切换键盘，已汉�
 Name: BoardSwipe
 Author: AnubisTweaks
 Icon: https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/icons/boardswipe/icon.png
-
-Package: com.dao.snowboard
-Architecture: iphoneos-arm64e
-Version: 1.5.37-Beta4
-Section: 嗨-系统
-Maintainer: Spark
-Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, preferenceloader
-Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard, com.spark.snowboard
-Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Filename: debs/滑雪板.deb
-Size: 1602356
-MD5sum: 423ebf75d89b2864fd80b4afdd402b85
-SHA1: f3a34939970eceff45aa2f57b40e9cc6807fd0b0
-SHA256: e210aadc91286327977becd2207e1ea4bac72909741c2d21b4eaaa6d368c84ce
-SHA512: 43139059a901cc39d283d0e1787b189718adbbe89ed6e0d0147d6937e5fc0e23edcf9bd507e7f0470058412ec33c60518d6c3fb3ba6b83b9065c68f294862788
-Description: Snowboard 主题引擎！roothide主题路径：[jbroot]/Library/Themes
-Name: SnowBoard(RootHide)
-Author: Spark & Dennis D. Bednarz
 
 Package: com.swing.tiktoknocreatbutton
 Architecture: iphoneos-arm64e
