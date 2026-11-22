@@ -3936,24 +3936,24 @@ Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.
 
 Package: com.wkk.photohook
 Architecture: iphoneos-arm64e
-Version: 1.0-6
+Version: 1.0-7
 Section: Tweaks
 Maintainer: wkk
 Installed-Size: 168
-Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.wkk.photohook_1.0-6_iphoneos-arm64e.deb
-Size: 4362
-MD5sum: bb847594126d8ed1f358eb76e4beba92
-SHA1: a8c40d76d47dc7b21cc2fad5a7fbcd149883825f
-SHA256: 53ecff7be58f2ad43105cf40421b21c8649e463ff3f96530800225648462311b
-SHA512: b5d05a7523ef1bd9147e1c3539bab21aee0faa55d4a0e35de9fbd2160084d30df52878f92e41fc8c5010939f1b6cf1e8b26a2e26d46047fdfa19f9ef75a5c483
-Description: * 隐藏创建的相册（这里不作禁用创建，没有找到禁止创建相册而不冲突的最好办法，隐藏最为稳妥）
-  * 跳过删除确认步骤，直接删除照片（最近删除会保留）
-  * 禁用搜索和为你推荐标签页。
-  * 移除人物与地点/媒体类型。
-  * 增加一个全选功能，方便批量操作。
-  * 设置超大缩放比例，支持图片无限放大。
+Filename: debs/com.wkk.photohook_1.0-7_iphoneos-arm64e.deb
+Size: 7664
+MD5sum: 34d02a0c1b07b778731f2c4613f3688d
+SHA1: dfbade9e8514c7738d1ace39dd160ef7d3d66ec8
+SHA256: ab911b198c5e9c66b2634eccaa0ca444814ff078407fb5097bf2a8e6000e133a
+SHA512: 9fadd21566d893c825cddb28a2a2a7b89f190367f03e78ade2e194b0ae0b5858ba4b42a8b6b79cf2130424259bc12b27b6fd2234ac3fd943f19949216f0e1dd1
+Description: 内置固定功能组合，无设置界面
+ * 跳过删除确认，直接删除照片（最近删除保留）
+ * 禁用搜索页与为你推荐页
+ * 移除人物与地点相簿
+ * 相簿内增加全选按钮
+ * 图片可无限放大
+ * 隐藏年月日 / 隐藏创建的相册 / 禁止上滑 / 隐藏滑动条 已关闭
 Name: 相册优化
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/01/e181be0bd44589f6eadb6c2196dc6bb8.jpeg
