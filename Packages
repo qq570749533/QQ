@@ -5216,27 +5216,6 @@ Icon: https://orig.shtm.best/descriptions/com.shtm.neowave16/NeoWave16.png
 Depiction: https://orig.shtm.best/descriptions/com.shtm.neowave16/sileo.json
 SileoDepiction: https://orig.shtm.best/descriptions/com.shtm.neowave16/sileo.json
 
-Package: com.lclrc.exacttime
-Architecture: iphoneos-arm64e
-Version: 2.0.4
-Section: Tweaks
-Maintainer: SquidForce
-Installed-Size: 1284
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate
-Conflicts: com.gilshahar7.exacttimemail, com.gilshahar7.exacttimephone, com.gilshahar7.exacttimemessages
-Filename: debs/通知时间.deb
-Size: 93108
-MD5sum: 9f4f0d70aa2a4e5fefb2bb03ea3e4023
-SHA1: d44ffaf0a591a11fc2746f5238eb25a9c6f97da6
-SHA256: b2f9a216711fde30e3b181489ec78308c3b5272aa29813cf03089c1e0b823332
-SHA512: 853daeb7c9300daf7174a770a3951d065fad0c3b6fa021766803a6b70f0f20b716522a6856c08124719b0745af83c372c7f619d466366b8c676bb3ba0907b330
-Description: 在通知、信息、电话、邮箱中显示准确时间，闹钟中显示剩余时间。
-Name: ExactTime通知时间-Roothide
-Author: gilshahar7, SquidForce
-Icon: file:///var/jb/Library/PreferenceBundles/ExactTimeprefs.bundle/ExactTime@3x.png
-SileoDepiction: https://lclrc.github.io/repo/depictions/native/com.lclrc.exacttime/depiction.json
-
 Package: com.chloe.physpringboards
 Architecture: iphoneos-arm64e
 Version: 1.9.23
