@@ -1450,6 +1450,22 @@ Description: 设置自定义、归类插件，源内有汉化包；v3.0.x版本�
 Author: SOPPPra
 Name: SettingsRevamp(RootHide)
 
+Package: com.dao.snowboard
+Architecture: iphoneos-arm64e
+Version: 1.5.37-Beta4
+Section: 嗨-系统
+Maintainer: Spark
+Depends: mobilesubstrate
+Filename: debs/com.dao.snowboard_1.5.37-Beta4_iphoneos-arm64e.deb
+Size: 245082
+MD5sum: feafe3a16cc206c3381c7148c7d100d9
+SHA1: 64a452fc8c4fed13777b309987aac51086ecf667
+SHA256: 42dc8aa07fa853e49709fd66cc299acbed60b252ee17b2e231bc5cabc1ca7032
+SHA512: 62e4601789598abfc267fc49b75de5700db827333d5aae83d47ddecf1cc4aa30bdb6fb05ae298bbe34fda22d4c44e3fa93231207fc0bbbfa85b570225325460c
+Description: Snowboard主题引擎！roothide主题路径：[jbroot]/Library/Themes
+Name: SnowBoard(RootHide)
+Author: Spark & Dennis D. Bednarz
+
 Package: com.dao.stella
 Architecture: iphoneos-arm64e
 Version: 1.1.5
