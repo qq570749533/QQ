@@ -866,22 +866,6 @@ Description: 优化了一下界面
 Name: Modified ChargeLimiter
 Author: tune
 
-Package: com.chinatelecom.refresh
-Architecture: iphoneos-arm64e
-Version: 1.0.0-1
-Section: Tweaks
-Maintainer: doubao
-Installed-Size: 1100
-Filename: debs/com.chinatelecom.refresh_1.0.0-1_iphoneos-arm64e.deb
-Size: 933734
-MD5sum: 100956f266fd800b78b703e90eb8a6f7
-SHA1: e5a1e2c611a6bbf61c8a463981038de8546d623e
-SHA256: 89886b727e3783c249b6d6a0533024a1212d2b5402418696192c5460bbab9b4e
-SHA512: 015b90644335fe5c233a54f0fb5c1326d3403af857596a13a23dbdae0779f2c3b1eb115d125c1c4369f5475e84f456e9b351f06a65370a0022e361c1dc6fe063
-Description: 中国电信UI
-Name: 中国电信UI重构
-Author: 一个人的冬季
-
 Package: com.cpdigitaldarkroom.itsevanesco
 Architecture: iphoneos-arm64e
 Version: 2024.05.26-20
@@ -1190,6 +1174,26 @@ Description: AI对话、AI聊天分析、AI朋友圈分析、AI图像生成、AI
 Name: PKC
 Author: Curtin
 Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
+
+Package: com.custom.ctclient.donk
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: 软件优化
+Maintainer: donk
+Filename: debs/com.custom.ctclient.donk_1.0_iphoneos-arm64e.deb
+Size: 365824
+MD5sum: af685c6f0046aa862d98897409f8faea
+SHA1: e3c06dfb5e8dc190c7b7d3722e0b9e47b2a73ca8
+SHA256: afa8b2cbf147c3739c2f08345fafa91af295534ad81f4c045159706cd3886075
+SHA512: 96cefc838fd04fe0b4f0544f27c489a0fb5473b930e7aa262238bae6c18caee620ce55de2cce11e68e9c0c2c5b9e6cd56f63353cacbe39d8e4e2c071e23db615
+Description: 中国电信整页重构：首页换成清爽盖层，只留话费、流量语音与常用入口，开屏广告与原底栏一并去掉。
+ - 话费账单：主卡大字显示，点按直达详细账单
+ - 流量语音：双半卡并排，实时数据自动抓取
+ - 常用入口：搜索、服务大厅、客服、充话费直达
+ - 原版切换：右上角一键互切，原版顶栏搜索旁带圆环的「新版」钮切回（PS：个别机型不显示切回新版按钮，点击搜索按钮旁空白处也可切回新版）
+ - 源内所有插件仅供本人学习交流使用,下载后请于24小时内删除!
+Name: 电信优化-RootHide
+Author: donk
 
 Package: com.cydiageek.morelinesnotifications
 Architecture: iphoneos-arm64e
