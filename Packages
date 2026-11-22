@@ -3438,12 +3438,12 @@ Section: 越狱插件
 Maintainer: SINI
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.sini921.quickappskill_0.0.1-16_iphoneos-arm64e.deb
-Size: 35686
-MD5sum: 1d763051e236747b02261567ec38755f
-SHA1: c017f2ec841fae15d5353d2a0379b2d8bc04f2eb
-SHA256: 60de1da74cc8ef91a95cab2b7febbc40387eec6e83903148e76b3bef9547f5b0
-SHA512: 94f75a30f94e39df562ba2864bc228bb18226ebdc54ea496afb6716b2203d4413fdee6397177a83a15b03a27ee15900fe104ffe8e84162ab23272792e1192b84
-Description: 后台界面清除所有 App 按钮（无设置页，仅保留语言资源，安装即生效）
+Size: 45224
+MD5sum: 1d7d61c7e833d1eea9cff115e89cdd46
+SHA1: 399e0b8d3f7dbcd75d0a764057b836300e90bed9
+SHA256: 46f742259172dde1a085cca44b432a068228cfae333cc0ad4aaad738ef979b80
+SHA512: df70ac34225504768ea8f54c307d9cc6ff6f15907c2f479b66ea77061a0cf9951a740d7a9e21489509697aee713db697d4866ddfd828fa5ef644b9d14296b146
+Description: 后台界面添加可用内存显示
 Name: QuickAppsKill(roothide)
 Author: SINI
 
