@@ -2224,6 +2224,25 @@ Name: 控制Safari标签页
 Author: SquidForce
 SileoDepiction: https://lclrc.github.io/repo/depictions/native/com.lclrc.controltab/depiction.json
 
+Package: com.lclrc.exacttime
+Architecture: iphoneos-arm64e
+Version: 2.0.6
+Section: Tweaks
+Maintainer: SquidForce
+Installed-Size: 1284
+Depends: mobilesubstrate
+Conflicts: com.gilshahar7.exacttimemail, com.gilshahar7.exacttimephone, com.gilshahar7.exacttimemessages
+Filename: debs/com.lclrc.exacttime_2.0.6_iphoneos-arm64e.deb
+Size: 38996
+MD5sum: a81423dd31cae2ebb737b7692d1fbd41
+SHA1: ee1f910021804416c2fcab974f7ee2f10d0e43bf
+SHA256: 188ca05cc71abed3fce89894ac3ca35bcdd0d6ca6f7ec463857f20f723fa8db7
+SHA512: 5b3cb62b05752c3b730372e14e93a14e8620ae6f86be85a997768255f080b1ee98b67ce8d68c1b90f6a905cb02713775bee2c52f081e32334ec2fc9a10e8d030
+Description: 在通知中显示准确时间，闹钟中显示剩余时间。
+Name: ExactTime通知时间
+Author: gilshahar7, SquidForce
+SileoDepiction: https://lclrc.github.io/repo/depictions/native/com.lclrc.exacttime/depiction.json
+
 Package: com.lclrc.recordanywhere
 Architecture: iphoneos-arm64e
 Version: 1.1.0-1
