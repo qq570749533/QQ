@@ -3280,21 +3280,19 @@ Author: Skitty & SINI
 
 Package: com.sini921.fakesignalbar
 Architecture: iphoneos-arm64e
-Version: 0.1-7
+Version: 0.1-11
 Section: 越狱插件
 Maintainer: alias20
-Installed-Size: 404
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: debs/com.sini921.fakesignalbar_0.1-7_iphoneos-arm64e.deb
-Size: 58356
-MD5sum: f20e21cbfba6553836c63e15e1a6d65d
-SHA1: 232c90e11e230a89e4d38a0a78ad60d885ba61bc
-SHA256: 7986cb912f93d9e6e38925ff85b1af4371843da3f330c00f263ab1e43aedcf8a
-SHA512: fcc1ac61dae0c871d416246d670b25396612d2b40a29abe09d8c73be009fd4d941ff675200a73c54a9859c20c34e80f51c1f37038bbd202b5ee39dfe33a0d633
-Description: 自定义运营商名称、信号强度、蜂窝连接等等！基于开源汉化编译。
+Installed-Size: 176
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.sini921.fakesignalbar_0.1-11_iphoneos-arm64e.deb
+Size: 18278
+MD5sum: bbbf1ed1fbf6c4914754ac5a8fa36389
+SHA1: e7463d6302fb76529bf138df5bc321d307138d37
+SHA256: 09956a0486db8ceac90b7ce7f6b21e260d142f9144f271d5510c670a974a8ea5
+SHA512: a4c0233ffa84e0804846e32951f1556f875b41feaced4666f106defcf5aabd5f5a0690efa0af65645e0ee3ef90159fae621d03564bcb3d18b2aa8b8df993c7a3
+Description: 显示虚假5Ga
 Name: FakeSignalBar(roothide)
-icon: https://sini921.github.io/repo/sileodepiction/icon/fakesignalbar.png
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/fakesignalbar/js.json
 Author: alias20 & SINI
 
 Package: com.sini921.folderpro
