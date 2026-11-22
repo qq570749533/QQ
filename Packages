@@ -3299,18 +3299,18 @@ Sileodepiction: https://sini921.github.io/repo/sileodepiction/folderpro/js.json
 
 Package: com.sini921.freepip
 Architecture: iphoneos-arm64e
-Version: 0.0.6-3
+Version: 0.0.6-4
 Section: 越狱插件
 Maintainer: Soh Satoh & SINI
 Installed-Size: 440
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.sini921.freepip_0.0.6-3_iphoneos-arm64e.deb
-Size: 85588
-MD5sum: 69fb5e207918fd111aa3fdcd285b6b25
-SHA1: 3c57ad808dae5284171376b70a1c2c120d4eba9f
-SHA256: 4a5a8332557b96e3bc6be7bf99229d6b17030901ae5eb667661cde4546adafa6
-SHA512: 996995228b7fa39a2521e8839fee2847e63d2a61581b9fb1c3fce0769a4f248e82d2e0be258f61d6fedf5ebddcab252733e65302c52cbc33d6f74f9290f64c31
-Description: 任意调整画中画大小和位置，长按画中画窗口切换模式，基于开源重新编译，优化了一些代码，改进了一些细节。
+Filename: debs/com.sini921.freepip_0.0.6-4_iphoneos-arm64e.deb
+Size: 18716
+MD5sum: 6d9ac1f3a477bcfa3e5639a650c5383f
+SHA1: 86d40cbb39b36df5917efec2ad25555c9fcfee61
+SHA256: edcf211bece1fef7fe617f0865d6e2ef2e59adcd4de64e0743097b50b6ea1109
+SHA512: 3d2a077fa29b28825131920709852671a026acabec857e3abe24fb418cb222c84f22b0c7db50d833dc03afd36043369e7b617b1e45c7123ca2566a41554a0c24
+Description: 任意调整画中画大小和位置，长按画中画窗口切换模式。
 Name: FreePIP(roothide)
 icon: https://sini921.github.io/repo/sileodepiction/icon/freepip.png
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/freepip/js.json
