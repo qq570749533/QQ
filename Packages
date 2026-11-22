@@ -528,17 +528,12 @@ Maintainer: Lessica <82flex@gmail.com>
 Installed-Size: 404
 Depends: firmware (>= 15.0), mobilesubstrate
 Filename: debs/com.82flex.removewidgetbg_2.1.2_iphoneos-arm64e.deb
-Size: 24170
-MD5sum: d4889d81008e2694ef32eaa6791b4b54
-SHA1: 01586ef2781e61fd34fc5ddb5a9c045f39e6b5e4
-SHA256: c560f6879fe7a80341e4744bad957b1611a7301fd7e693eb7ddfa3761b566bce
-SHA512: aff2287f2dd8eacfb73a1aac01b1f1b7db782c1c5beb49fe7632123723f4f76a558f29a6ca8e62fb87d0781d49aaf5d47071d2a517a3efb32e4a1bc1702e66ee
-Description: 内置固定配置，无设置界面，安装后 respring 即生效
- * 启用：是
- * 为材质视图启用：否
- * 为系统小组件启用：是
- * 强制深色模式：否
- * 最大元素宽度 / 高度：150 / 150
+Size: 24030
+MD5sum: ceac0f71fba58f2c14709a72e12051d2
+SHA1: 6004d686c2d3eb6565d81ef434dec4f17521ab83
+SHA256: 2a1ff7f13e89114a15b42d0640b077bbed030892171077f135cf3da74f1bdf56
+SHA512: 01f49eeee7de4b680be2721420f1fd140992a14f209c37c361b3d36b8b8e338b44732c6b9e944b275e1eec8556001b0c4e728a9b1449bda03d5e054d5f1581bb
+Description: 删除主屏幕上小部件的背景。
 Name: 透明小组件
 Author: Lessica <82flex@gmail.com>
 
