@@ -3433,21 +3433,18 @@ Author: Cameron Katri & SINI
 
 Package: com.sini921.quickappskill
 Architecture: iphoneos-arm64e
-Version: 0.0.1-14
+Version: 0.0.1-16
 Section: 越狱插件
 Maintainer: SINI
-Installed-Size: 532
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.sini921.quickappskill_0.0.1-14_iphoneos-arm64e.deb
-Size: 137112
-MD5sum: 8f40791e945ed2965f471e93fd06723f
-SHA1: 9dc72d60705d7412b444f32f28bc06cf1ab79a72
-SHA256: 1f8562919ada2078ae7f005c2b18f6902615807903aff72e9b782d0d9d47d9d9
-SHA512: 736e009cf57f7fee5b4dc047d0cd07cd531b6f724843dea5efa5dcf771137dda4dde391ed49977024eee4da0ca3b92395129fd28ce17bd9abb39477e3da9d66d
-Description: 在后台界面添加一个清除所有App的按钮
+Filename: debs/com.sini921.quickappskill_0.0.1-16_iphoneos-arm64e.deb
+Size: 35686
+MD5sum: 1d763051e236747b02261567ec38755f
+SHA1: c017f2ec841fae15d5353d2a0379b2d8bc04f2eb
+SHA256: 60de1da74cc8ef91a95cab2b7febbc40387eec6e83903148e76b3bef9547f5b0
+SHA512: 94f75a30f94e39df562ba2864bc228bb18226ebdc54ea496afb6716b2203d4413fdee6397177a83a15b03a27ee15900fe104ffe8e84162ab23272792e1192b84
+Description: 后台界面清除所有 App 按钮（无设置页，仅保留语言资源，安装即生效）
 Name: QuickAppsKill(roothide)
-Icon: https://sini921.github.io/repo/sileodepiction/icon/quickappskill.png
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/quickappskill/js.json
 Author: SINI
 
 Package: com.sini921.quickpowerbutton
