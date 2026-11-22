@@ -2405,17 +2405,17 @@ Icon: https://mlgm66.github.io/icon/FilzaPatch.png
 
 Package: com.mlgm.prefnest
 Architecture: iphoneos-arm64e
-Version: 1.2.3
+Version: 1.2.8
 Section: Tweaks
 Maintainer: mlgm
 Installed-Size: 888
-Depends: mobilesubstrate, firmware (>= 15.0), preferenceloader
-Filename: debs/com.mlgm.prefnest_1.2.3_iphoneos-arm64e.deb
-Size: 349212
-MD5sum: 6e7aa27f6e02c826a958f945fda23bef
-SHA1: f773b2cebf92e374f349a2033e3366d4ab8f9eb8
-SHA256: bac4dc325fed5eeb36fdcbfd26e0dac1774c053aa271c849a08c39b4450eb5b5
-SHA512: afc18c76ad1ad7dc4a7fe0af1389112873a1890d3af9c839753f7ec49f3f52fdc7f84bf3f608b99cdfd0bc3f454e40df32958fcaa73e3b4550b20d2fff848198
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: debs/com.mlgm.prefnest_1.2.8_iphoneos-arm64e.deb
+Size: 283466
+MD5sum: e0a40e19c7cc13bf447e757ed0c519f6
+SHA1: 5acc819682c770815851faca3a1d118fdf20a710
+SHA256: 3c76bd45cae86c329a81b4c9b054d22e3fe56f4a1df9d3d81b35991d88f7e461
+SHA512: aa719fdc6261386b470aa090997c2b5ef312aa9153d8cf707b3b25e6209ae6f96641aa4f1b8ae6cf18c77bfb17a1662ba11a52ea8c87477b29c40324fa0ec393
 Description: 整理设置首页，集中收纳越狱插件。
 Name: PrefNest
 Icon: https://mlgm66.github.io/icon/prefnest.png
