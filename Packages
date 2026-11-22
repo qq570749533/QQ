@@ -4858,6 +4858,24 @@ Author: CoolStar and contributors
 Icon: https://apt.002599.xyz/web/icon/org.coolstar.libhooker.png
 SileoDepiction: https://apt.002599.xyz/web/org.coolstar.libhooker
 
+Package: org.coolstar.sileo
+Architecture: iphoneos-arm64e
+Version: 2.5.1-16
+Section: Packaging
+Maintainer: wwg151 <wwg151@users.noreply.github.com>
+Depends: firmware (>= 11.0), firmware(>=12.2) | org.swift.libswift (>=5.0), coreutils (>= 8.30-1), dpkg (>= 1.19.4-1), apt (>= 1.8.2), libzstd1
+Filename: debs/org.coolstar.sileo_2.5.1-16_iphoneos-arm64e.deb
+Size: 5905810
+MD5sum: 908e328c261fba2259d4bce1ffd5e2eb
+SHA1: 1fce376b66d4204eb291c4d2d06d2890f55307eb
+SHA256: b3310f088bf4687c14739da720650a9442d3b5512958674c1df01e75206edcc2
+SHA512: b2a20a5651f518a04958607f0d5b480a0ef1f5681996ecb39114fe1438e8b755f5f90876e9124380af65ed68fd9b29b718d29edd0eb1b2260a85c5b4924501f9
+Description: 现代APT包管理器前端
+Name: Sileo
+Author: wwg151 <wwg151@users.noreply.github.com>
+Icon: https://getsileo.app/img/icon.png
+SileoDepiction: https://featuredpage.getsileo.app/depiction.json
+
 Package: preferenceloader
 Architecture: iphoneos-arm64e
 Version: 2.2.8
