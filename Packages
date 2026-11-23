@@ -893,15 +893,14 @@ Architecture: iphoneos-arm64e
 Version: 1.0
 Section: Tweaks
 Maintainer: 整合打包
-Provides: com.ccdnd, lilliana.reverie, com.netskao.ccswitchdata, netskao.cccellularrate, com.nan.enableccmutemodule, center.ccvpn, com.sini.ccrespring, com.lenglengyu.passbycc
 Pre-Depends: rootless-compat (>= 0.9)
 Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader, firmware (>= 15.0)
 Filename: debs/com.ccpack_1.0_iphoneos-arm64e.deb
-Size: 640412
-MD5sum: a6e4d0ba6befc9a4c6d97c03d5c70d89
-SHA1: e4ef20d14a76569491d112a7d8b1fd720da7cf59
-SHA256: 9c7794cde7bcd1c01f2a9782e249773d622199deb3ab6aa7f6e725947c4cca86
-SHA512: 4ab3d668a031aaaac1ddec54f2d4f745d0ad04261f3a69c4e2b258d7e54265b533e55811adef95e9e23c4d184acfaeabec460de2711541478ffee7987f302b31
+Size: 638610
+MD5sum: 8097a9fec356d55a13fb8a7432d4ea0c
+SHA1: d897d88153b75d9e349b38e9781e4f0d2ce373c6
+SHA256: 0d766cbd448cf7170e9460653d2b00c293d197c44aec67b55aa7ae1b8ae66da4
+SHA512: afaced21e2767f86b11439899cd83d71f97d21cf734271e6f2197a6de936765d7fdec660f733b2fa0f9c07d8d1e70aea9ee52be84baf21fca5038a0fa3fa5b56
 Description: 把8个控制中心插件整合成一个安装包：勿扰/专注、省电休眠、双卡流量切换、蜂窝网络类型切换、原生静音模块解锁、VPN开关、注销、临时绕过面容。
 Name: CC控制中心模块
 Author: 整合打包（原作者见各组件）
@@ -2232,33 +2231,6 @@ SHA512: 80e844aa6400f0c19ee42efa9a6d1c32e5b7feae6910349e9dc2c83c355308b9ca22b35f
 Description: 爱下电子书去广告，宝藏助手
 Name: 爱下电子书（宝藏助手）
 Author: original
-
-Package: com.jaysuen.evocenter
-Architecture: iphoneos-arm64e
-Version: 4.1.0-beta.2
-Section: Tweaks
-Maintainer: chatgpt5.6sol, chatgpt6.1sol, JaySuen
-Installed-Size: 13116
-Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader, cy+cpu.arm64e
-Conflicts: com.jaysuen.ccflex16, com.jaysuen.evocenter.arm64, com.jaysuen.evocenter.arm64e
-Replaces: com.jaysuen.ccflex16, com.jaysuen.evocenter.arm64, com.jaysuen.evocenter.arm64e
-Filename: debs/com.jaysuen.evocenter_4.1.0-beta.2_iphoneos-arm64e.deb
-Size: 2907236
-MD5sum: a08406eb2981721d16acdc13064d431a
-SHA1: 1e0025db82bd3e12b82f3bd3f36227772898e72f
-SHA256: c1e2e8b5060450a63c8238b13fbf37e0b23973ea11ab0ca0f46943e4da00a683
-SHA512: 3cca5d1134c76dee0872a6761c457f4000a1a4ee9a2d37dfb615960810ab04e481216e9f93148129b5ca9dbc07500f2dbc507ed46e0273877644cb8e15463ada
-Homepage: https://eleveny123.github.io/EvoCenter/
-Description: 为旧系统带来类似ios18的现代化控制中心体验。arm64e设备专用，arm64设备请下载legacy版本。
- 调节模块尺寸、自定义圆角大小和控制中心背景透明度。
- 支持iOS16.0-17.4（已确认支持iOS16.7），其他系统版本自行测试。
- 反馈Bug和建议：在酷安 App 搜索 JAYSuen私信我，或搜索 Evo Center 找到最新帖子评论。
- 向ccborder16、horizontalsliders、bettercc致敬，感謝其设计与实现带来的启发。
-Name: Evo Center
-Author: chatgpt5.6sol, chatgpt6.1sol, JaySuen
-Icon: https://eleveny123.github.io/EvoCenter/assets/icon.png
-Depiction: https://eleveny123.github.io/EvoCenter/index.html
-SileoDepiction: https://eleveny123.github.io/EvoCenter/native.json?v=4.1.0-beta.2&r=beta41fix2-20261101
 
 Package: com.joshuaseltzer.sleeperx
 Architecture: iphoneos-arm64e
