@@ -167,6 +167,19 @@ Description: 自用
 Name: 抖音图层
 Author: 𝙓
 
+Package: center.ccvpn
+Architecture: iphoneos-arm64e
+Version: 1.0
+Depends: com.opa334.ccsupport
+Filename: debs/center.ccvpn_1.0_iphoneos-arm64e.deb
+Size: 33478
+MD5sum: 053b0fe83660f9ef92dd23788e547249
+SHA1: a84d33caa5ab9999c743a65f8bf9dbf1c8d1f21f
+SHA256: 53654c9a5267e2f273fbc43b2c868e2dde08018a8f1f725c4c5d7983ee53806f
+SHA512: 399511de2286c85ac3a6d96b94267ee1660f503a6b96ce2ae4681df2b8230333bb50986059add85a1283bf9b640eb4f3669e04eb0efe8d98f178ecbf277541dd
+Description: 控制中心VPN便捷开关模块
+Name: CCVPN
+
 Package: cn.llld.avphotos
 Architecture: iphoneos-arm64e
 Version: 1.0.1
