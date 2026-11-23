@@ -1234,6 +1234,26 @@ Description: 中国电信整页重构：首页换成清爽盖层，只留话费�
 Name: 电信优化
 Author: donk
 
+Package: com.custom.mobilebusiness.donk
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: 软件优化
+Maintainer: donk
+Filename: debs/com.custom.mobilebusiness.donk_1.0_iphoneos-arm64e.deb
+Size: 530664
+MD5sum: 03cce055fb37187eecfa4db3dac82a7a
+SHA1: 680314679cdefd9cb4880850727a425c2346cfb1
+SHA256: 0b53d6e54b5a6a9b6e78d1b5a26de79e67eaba201a9103ee64aea508ea18a2e9
+SHA512: 6f2ff9f195c11aee388ec2f92f02facfc093cc9dcbc97d48f6fc82cc3fcd25e2e0349eaab996d72e0e4fb7d00ea4d23f2022bad38afabad304e74a2bdb65b9d1
+Description: 联通首页整页重构，粉红新版面只留话费、流量、语音和常用入口，清爽直达。
+ - 话费流量：点卡直达余量与账单详情
+ - 常用入口：搜索、服务大厅、充话费一键直达
+ - 在线客服：通通助手秒开，图标指纹自学认人
+ - 开屏广告：冷启动与切回前台一并屏蔽
+ - 源内所有插件仅供本人学习交流使用,下载后请于24小时内删除!
+Name: 联通优化
+Author: donk
+
 Package: com.cydiageek.morelinesnotifications
 Architecture: iphoneos-arm64e
 Version: 1.0.5
@@ -2692,22 +2712,6 @@ Description: 系统控制中心的本机SIM交换机。
 Name: SIM卡切换
 Author: Ning
 Icon: file:///var/jb/usr/share/icons/com.ning.simcontrol.png
-
-Package: com.noads.chinaunicom
-Architecture: iphoneos-arm64e
-Version: 0.8
-Section: Tweaks
-Maintainer: doubao
-Installed-Size: 400
-Filename: debs/com.noads.chinaunicom_0.8_iphoneos-arm64e.deb
-Size: 168120
-MD5sum: bbb6256a9443b12d37802e54726e85ac
-SHA1: bb8fe122a679aa453ee69cbb589f2cc7594f74d7
-SHA256: e78af5181669ecb7d75c6fc3d25cac6942ad0054cfbd8e303918a2fa7d343063
-SHA512: 5233e0cf094c6ee1636eafb51288586f40d4c77a3db7e37435e87765ac0bdf9c93b808379701522926a8db8cd4c7546829890c3616a5abb5206395412dfa0957
-Description: 中国联通UI重构去开屏广告
-Name: 中国联通UI重构
-Author: 一个人的冬季
 
 Package: com.noads.tweka
 Architecture: iphoneos-arm64e
