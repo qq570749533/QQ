@@ -809,6 +809,24 @@ Name: NoPassAfterRespring (Safe)
 Author: Brend0n <brendonjkding@126.com>
 icon: https://huayuarc.github.io/icon/huayuarc.jpg
 
+Package: com.brend0n.nopastedfrom
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Brend0n <brendonjkding@126.com>
+Installed-Size: 152
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: mobilesubstrate
+Filename: debs/com.brend0n.nopastedfrom_0.0.1_iphoneos-arm64e.deb
+Size: 5880
+MD5sum: 3c279a747768ee0a96fe137f515eed65
+SHA1: 128bc2a289bcd2057ddc3777cc00cf2b8e6a49f7
+SHA256: 4446a9292ffe642454b194ec51a5628c90a5d65ad9f318bef1e0603edc2d2619
+SHA512: f81d42bb08682c52df00fae4803e3a3ab8df38bda0de7014a4efb2c6e02075105972010a1ffda52f78eb03665fa196b9a2adc90f1842d646c8fc841808d2f2c4
+Description: 没有“XX是从YY粘贴的”提示
+Name: NoPastedFrom
+Author: Brend0n <brendonjkding@126.com>
+
 Package: com.brkr1.tweaks.betterccvpn
 Architecture: iphoneos-arm64e
 Version: 0.1
