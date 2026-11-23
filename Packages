@@ -888,6 +888,24 @@ SHA512: 96fe82c9c9704c2c98477490c54fd8efa10766fc65cb8d0bc4444de23bcb61690881e06c
 Description: 控制中心专注模式单模块。
 Name: CCDND
 
+Package: com.ccpack
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: 整合打包
+Provides: com.ccdnd, lilliana.reverie, com.netskao.ccswitchdata, netskao.cccellularrate, com.nan.enableccmutemodule, center.ccvpn, com.sini.ccrespring, com.lenglengyu.passbycc
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader, firmware (>= 15.0)
+Filename: debs/com.ccpack_1.0_iphoneos-arm64e.deb
+Size: 640412
+MD5sum: a6e4d0ba6befc9a4c6d97c03d5c70d89
+SHA1: e4ef20d14a76569491d112a7d8b1fd720da7cf59
+SHA256: 9c7794cde7bcd1c01f2a9782e249773d622199deb3ab6aa7f6e725947c4cca86
+SHA512: 4ab3d668a031aaaac1ddec54f2d4f745d0ad04261f3a69c4e2b258d7e54265b533e55811adef95e9e23c4d184acfaeabec460de2711541478ffee7987f302b31
+Description: 把8个控制中心插件整合成一个安装包：勿扰/专注、省电休眠、双卡流量切换、蜂窝网络类型切换、原生静音模块解锁、VPN开关、注销、临时绕过面容。
+Name: CC控制中心模块
+Author: 整合打包（原作者见各组件）
+
 Package: com.chargelimiter.mod
 Architecture: iphoneos-arm64e
 Version: 1.17.5
