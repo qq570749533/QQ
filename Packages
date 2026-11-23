@@ -875,6 +875,19 @@ Description: 系统计算器预览计算结果
 Name: 计算器预览
 Author: 一个人的冬季
 
+Package: com.ccdnd
+Architecture: iphoneos-arm64e
+Version: 1.0
+Depends: com.opa334.ccsupport
+Filename: debs/com.ccdnd_1.0_iphoneos-arm64e.deb
+Size: 70626
+MD5sum: 2a3bd1e686ecae6acc52be666e625b90
+SHA1: 5a5dfa55335b578ed8c8dc706850cb1c76baeb3c
+SHA256: f92285e584219e75fe0121fa3b7cf9ef9398f073b431d95ac3733b8c62616d70
+SHA512: 96fe82c9c9704c2c98477490c54fd8efa10766fc65cb8d0bc4444de23bcb61690881e06c88a9f193c336b8c8998ba05b5cfb144f814a6c7c7bf50cf803cd93a6
+Description: 控制中心专注模式单模块。
+Name: CCDND
+
 Package: com.chargelimiter.mod
 Architecture: iphoneos-arm64e
 Version: 1.17.5
