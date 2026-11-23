@@ -2581,24 +2581,6 @@ Tag: role::developer
 Name: LibGcUniversal(RootHide)
 Author: MrGcGamer
 
-Package: com.nan.enableccmutemodule
-Architecture: iphoneos-arm64e
-Version: 0.2.0
-Section: System
-Maintainer: zhaonan
-Depends: firmware (>> 11.0)
-Filename: debs/com.nan.enableccmutemodule_0.2.0_iphoneos-arm64e.deb
-Size: 1392
-MD5sum: 3d89fbf9dbcfe82b20d2738c1db9b8a3
-SHA1: 7e1ccb2c89091f0d33b2c6bb5ff7f6688f4a54e5
-SHA256: c4862e343ff67a16694d13416b72ea105f5f38396451ed7007caeb92306c18a9
-SHA512: 9f71ee10c042cc976264ca4cc395f8404cc180ab9c132015710cc420e268d6bdc0acf0adef349d68e89d804d07c838d84f5ad5fff68346ac92c647b01d0d3ff2
-Description: 激活原生 iPhone 控制中心静音模块
-Name: Enable CC MuteModule
-Author: zhaonan <invalidunit@icloud.com>
-SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.enableccmutemodule/js.json
-Icon: https://invalidunit.github.io/sileodepiction/com.nan.enableccmutemodule/image.png
-
 Package: com.nan.fix-filza-path
 Architecture: iphoneos-arm64e
 Version: 0.1.0
