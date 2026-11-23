@@ -2934,6 +2934,26 @@ Description: 闪连一键填写邀请码
 Name: 闪连一键填写邀请码
 Author: original
 
+Package: com.sharehotspotvpn.tweak
+Architecture: iphoneos-arm64e
+Version: 1.1.7
+Section: Networking
+Maintainer: zhuifeng
+Installed-Size: 400
+Depends: preferenceloader, com.opa334.ccsupport, firmware (>= 15.0)
+Filename: debs/com.sharehotspotvpn.tweak_1.1.7_iphoneos-arm64e.deb
+Size: 117396
+MD5sum: 17672a472b39024d3ce6ad232c3f6148
+SHA1: a6bd05bc536b923f3d30135ae2ff0b9c32401b01
+SHA256: e4ceb2da78c7172f7eb9cda6b11e956ef4ce61980853f6e5ee3b4ccf16bcd54a
+SHA512: ade7956109a4f550ba533547a705c5580d4a6f8185738949008809972bc6cb54721c93057af3975952f953181eb472652598577a982c83e1e5972a2e7b2ffb89
+Description: 一键通过个人热点共享本机 Shadowrocket/VPN，连入设备零配置，支持控制中心快捷开关、DNS/UDP 转发与防 IPv6 泄露，事件驱动超省电。
+Name: VPN热点共享
+Author: zhuifeng
+Icon: https://temple002.github.io/zhuifeng/depictions/sharehotspotvpn/icon.png
+SileoDepiction: https://temple002.github.io/zhuifeng/depictions/sharehotspotvpn.json
+Depiction: https://temple002.github.io/zhuifeng/depictions/sharehotspotvpn.html
+
 Package: com.shepgoba.settingswidgets
 Architecture: iphoneos-arm64e
 Version: 1.2.4
