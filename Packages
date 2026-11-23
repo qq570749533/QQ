@@ -1215,6 +1215,30 @@ Author: CydiaGeek <lucaluca86@aol.com>
 dev: lucaluca86
 icon: https://huayuarc.github.io/icon/huayuarc.jpg
 
+Package: com.cydiageek.nomoredisabled
+Architecture: iphoneos-arm64e
+Version: 1.0.2-1
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 289
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: mobilesubstrate, firmware (>= 10.0)
+Filename: debs/com.cydiageek.nomoredisabled_1.0.2-1_iphoneos-arm64e.deb
+Size: 12754
+MD5sum: 92528597cfec1e51e13302ba8eab32aa
+SHA1: a078729953b8f543ec2cbb109e45c2496855e777
+SHA256: bb73bba2b525c45337979cba960ece42902c6b97013e385a63d7519dc6cd2866
+SHA512: 25e55b6c21c67f3e4f352783bdc545cc589c165da1b020c87c7780725bb3da28f6bafe88a1fafa0829b6984992a8f56011f5867dfdcf4ab343bf47951397dfe5
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nomoredisabledDp
+Description: 防止误锁定永久密码！
+Tag: purpose::extension
+Name: NoMoreDisabled
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nomoredisabledDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CydiaGeek <lucaluca86@aol.com>
+dev: lucaluca86
+
 Package: com.cylex.performance-tweaks
 Architecture: iphoneos-arm64e
 Version: 0.0.1
