@@ -2241,6 +2241,25 @@ dev: kingpuffdaddi
 icon: https://TrollStoreX.Github.io/sileodepiction/CCVPN/icon.png
 SileoDepiction: https://TrollStoreX.Github.io/sileodepiction/CCVPN/js.json
 
+Package: com.layii.ccrnd
+Architecture: iphoneos-arm64e
+Version: 0.1.0
+Section: Tweaks
+Maintainer: LaYii
+Installed-Size: 344
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0), preferenceloader
+Filename: debs/com.layii.ccrnd_0.1.0_iphoneos-arm64e.deb
+Size: 10450
+MD5sum: cc4f7f90af1a4de3b1f902fbf5bd11b1
+SHA1: 4ea70300e6ce77b15fd705be672ef4291485b2e9
+SHA256: 3f966f84fdf494117388a374eabf42d6d9f5aff41985d74992f68415155b9518
+SHA512: b03e1d5eab95ccc84b60676a93961ac4ea00307b733a92fde5e08a96bf4748045dea04e612ca92066852044b318dc3b3352649e89d0ea1808a1ab718fd9ebbbc
+Description: 去除录屏延迟，并可实时配置控制中心收起行为
+Name: 去除录屏延迟
+Author: LaYii
+icon: https://huayuarc.github.io/icon/luzhi.jpg
+
 Package: com.lclrc.cccalc
 Architecture: iphoneos-arm64e
 Version: 2.1.0-roothide
