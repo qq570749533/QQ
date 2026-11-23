@@ -4869,6 +4869,25 @@ Description: iOS 16-18的自定义锁屏快速操作、应用程序和快捷方�
 Name: SpringBoardAction
 Author: Banana
 
+Package: lilliana.reverie
+Architecture: iphoneos-arm64e
+Version: 0.0.3
+Section: Tweaks
+Maintainer: Paisseon
+Installed-Size: 788
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, com.opa334.ccsupport
+Filename: debs/lilliana.reverie_0.0.3_iphoneos-arm64e.deb
+Size: 114030
+MD5sum: 84b4aea41cf3efa010e4a52ae1eb4082
+SHA1: 112777faa18c3db590d3089c05707b067723142b
+SHA256: 3fcb1e06f20b002d020e790ce61453b99ae838b1931ddc5b3d8bbaeed222ece1
+SHA512: 331ad279f21c3479010cb0ba82ef70ca31babdd985ccd6f6b1de43acb36a0f79302e1cbb3d33c33ce23ccc4bdc3c4299a95c0c62be92e90679d50b5e69479641
+Description: 当电池电量不足时，将设备置于休眠模式以节省电池。上调音量三次即可退出休眠模式。
+Name: Reverie
+Author: Paisseon
+Icon: https://paisseon.github.io/icons/Reverie.png
+
 Package: netskao.cccellularrate
 Architecture: iphoneos-arm64e
 Version: 1.1-1
