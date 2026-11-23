@@ -818,12 +818,12 @@ Installed-Size: 152
 Pre-Depends: rootless-compat (>= 0.9)
 Depends: mobilesubstrate
 Filename: debs/com.brend0n.nopastedfrom_0.0.1_iphoneos-arm64e.deb
-Size: 5880
-MD5sum: 3c279a747768ee0a96fe137f515eed65
-SHA1: 128bc2a289bcd2057ddc3777cc00cf2b8e6a49f7
-SHA256: 4446a9292ffe642454b194ec51a5628c90a5d65ad9f318bef1e0603edc2d2619
-SHA512: f81d42bb08682c52df00fae4803e3a3ab8df38bda0de7014a4efb2c6e02075105972010a1ffda52f78eb03665fa196b9a2adc90f1842d646c8fc841808d2f2c4
-Description: 没有“XX是从YY粘贴的”提示
+Size: 5888
+MD5sum: b5aa9978c742daf8c9cb61990549e630
+SHA1: d0396f8787f36a511e08e386cdf96018d81e3595
+SHA256: b5d69274dd4a8fdd837f0d2c0eae553813851d016ea618c8c041088c77d964f9
+SHA512: dc2d7183f3c0cc7758bbd3cfde47afa1cb1565e474784780766e2441fe996889992435d4404020b3f5d59539f6b47ef42978e66853e2246759f2d8e45cf4a270
+Description: 没有“XX是从YY粘贴的”弹窗提示
 Name: NoPastedFrom
 Author: Brend0n <brendonjkding@126.com>
 
