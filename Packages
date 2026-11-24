@@ -1233,15 +1233,15 @@ Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135
 
 Package: com.custom.ctclient.donk
 Architecture: iphoneos-arm64e
-Version: 1.0
+Version: 1.2
 Section: 软件优化
 Maintainer: donk
-Filename: debs/com.custom.ctclient.donk_1.0_iphoneos-arm64e.deb
-Size: 934210
-MD5sum: a14cf61c3ccc37aaa833743c48ab3b86
-SHA1: b46931f5c95e79d26f3ed6251931bc675374db1b
-SHA256: ad64583c74e1abdd8a7f7c7072d08c27651660a4f784ec6935fd551e71623358
-SHA512: ed2747e4152d57ab735408c140c1fa5dd5e85f7c59d34ca487c01e62068a941be682c534aea208d623844007ff5e8f30862fb90d7eae4e468789976c16de9c8d
+Filename: debs/com.custom.ctclient.donk_1.2_iphoneos-arm64e.deb
+Size: 937398
+MD5sum: cc60921cb42a11f59740d32f10357ff6
+SHA1: 76a2bd9476907697c4bb8a08bd3156f81abf3e7b
+SHA256: e2415be722ce1908182714d8c6593ca1409ffd31b1c3a362344c2dc3c6864715
+SHA512: 683572921383b04358a5815a07ff207773456d0ec236a260e3b04ec08772efa2b8705b06599d9d165a6717f61c6e88125f326b3165b514c69fc99faf0aa816bb
 Description: 中国电信整页重构：首页换成清爽盖层，只留话费、流量语音与常用入口，开屏广告与原底栏一并去掉。
  - 话费账单：主卡大字显示，点按直达详细账单
  - 流量语音：双半卡并排，实时数据自动抓取
