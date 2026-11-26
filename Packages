@@ -3017,18 +3017,18 @@ Author: original
 
 Package: com.sharehotspotvpn.tweak
 Architecture: iphoneos-arm64e
-Version: 1.1.7
+Version: 1.2.2
 Section: Networking
 Maintainer: zhuifeng
-Installed-Size: 400
+Installed-Size: 484
 Depends: preferenceloader, com.opa334.ccsupport, firmware (>= 15.0)
-Filename: debs/com.sharehotspotvpn.tweak_1.1.7_iphoneos-arm64e.deb
-Size: 117396
-MD5sum: 17672a472b39024d3ce6ad232c3f6148
-SHA1: a6bd05bc536b923f3d30135ae2ff0b9c32401b01
-SHA256: e4ceb2da78c7172f7eb9cda6b11e956ef4ce61980853f6e5ee3b4ccf16bcd54a
-SHA512: ade7956109a4f550ba533547a705c5580d4a6f8185738949008809972bc6cb54721c93057af3975952f953181eb472652598577a982c83e1e5972a2e7b2ffb89
-Description: 一键通过个人热点共享本机 Shadowrocket/VPN，连入设备零配置，支持控制中心快捷开关、DNS/UDP 转发与防 IPv6 泄露，事件驱动超省电。
+Filename: debs/com.sharehotspotvpn.tweak_1.2.2_iphoneos-arm64e.deb
+Size: 132424
+MD5sum: 07787a33861369fed096f9f717629c70
+SHA1: 7c3d83c8cc317d712349894e8983ca59f642c779
+SHA256: 592faea80f53ec5fb1bb1e5435e7ceac010de667880c613b045c49e779bee271
+SHA512: 3243313048c2aa6c8605ae095a6c0ae1406d7c4ddcdc85bcdda2fe0b33cc3eb1609a19f259feffd59e051a2b8afccaa1ce00e0b9464a3205fc0966df482247df
+Description: 一键通过个人热点共享本机 Wi-Fi、移动数据或 Shadowrocket/VPN（支持 Wi-Fi+VPN 叠加与状态栏保留 Wi-Fi 图标），连入设备零配置，控制中心支持轻点开关与长按 5 模式菜单切换，事件驱动超省电，兼容 iOS 15–17 Rootless/RootHide。
 Name: VPN热点共享
 Author: zhuifeng
 Icon: https://temple002.github.io/zhuifeng/depictions/sharehotspotvpn/icon.png
