@@ -138,11 +138,11 @@ Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 14.0), mobilesubstrate | org.coolstar.libhooker | ellekit
 Replaces: com.siwenjiajia.awemeloginrepair
 Filename: debs/awej_1.2.0_iphoneos-arm64e.deb
-Size: 147852
-MD5sum: 76acd6d65ba39c00ea75558b238d7500
-SHA1: e63016ccea024653943976d49b3da5367d87dac7
-SHA256: 59851f6a8f3637220d3693e9f6cc3e05247f342ae90c723c46bbd5315ef1fc28
-SHA512: ea5f39208792003e858519ab6ac59412d1c4e436eae3032d5eac532f9cbc0cec7ae6046ad0f1fe13af55fe8ca6ce1efc6c33251ecf02be726b8976af5380f493
+Size: 147910
+MD5sum: be5450edb25087e3e5065839e4834455
+SHA1: 276061fd5cb3f10dd55b680e03f906cd60afe617
+SHA256: 74db1228f312097e3ddade9d2d9dfe6ff2b7bf970bf25ccbb33bed482f6d0066
+SHA512: 256edbe744e8d68b0bf27b72df93c180d8b1c09d792294eb6f5b5822b965c6b5687b0fa7bff9404025927db435a0e9957ab0203817b70594d7716d1fa302342a
 Description: aweJ 独立版抖⁺功能插件
 Name: aweJ
 Author: siwenjiajia
