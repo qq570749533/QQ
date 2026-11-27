@@ -3962,11 +3962,11 @@ Maintainer: lenglengyu <lenglengyu@126.com>
 Installed-Size: 212
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Filename: debs/com.wkk.afakerxi_1.0.3_iphoneos-arm64e.deb
-Size: 29380
-MD5sum: d51f0c1f581ca84e6674682b15f68458
-SHA1: ec345562ffe34365bad5c4f9109eefb3160f05c9
-SHA256: cddb224890f8f13bc9dad660dd7aa7eaed37301fab028e6c4c41a67878e4aa79
-SHA512: 9bc4b1f76a8c385c39707a293b9829fec21fbab3fcd9c6c73958c5309962a4b264f32c1f42e7a304b28eb28aa637813d599dcef99c33c65177ccabceb3484a61
+Size: 29364
+MD5sum: 1fb9b84972a749186bc4a88ae84248f8
+SHA1: 0c711dbe91835f886d06c573c172c2df63f3aac3
+SHA256: b1d87a18185c2bb1895c9e303a33cb1ae06711dbaaac27bc8245ce1789215866
+SHA512: 4635bbc29d5b85b1bf2cc1d27cf114e5f063280ac2fcde93970134d73dfecdee906c12ce065943b0375dfc5c7aa24a18a6169103964841d98bb6c51f10feccb4
 Description: 伪装电量，步数修改。
 Name: AFakerXI
 Author: lenglengyu
