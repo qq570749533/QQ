@@ -1763,28 +1763,6 @@ Tag: supports::roothide
 Name: Fix Repair System Power
 Author: doimty
 
-Package: com.dvntm.fbos
-Architecture: iphoneos-arm64e
-Version: 0.0.1
-Section: Tweaks
-Maintainer: dvntm
-Installed-Size: 168
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000)
-Conflicts: com.dvntm.fbo
-Filename: debs/com.dvntm.fbos_0.0.1_iphoneos-arm64e.deb
-Size: 3408
-MD5sum: 686d2c4d67be329037dc921d5c211ccf
-SHA1: b7123fc058c5a9854307b89d7e6912a20a4caf5b
-SHA256: 77dd98be30519c7edc2c84617a0f4e0521222b7f08dbb0ec2c3e0820a2d9a001
-SHA512: 3a886e63de182633c9f0c44a192c70f53a26381def145c5740c50ba90fe53dc771e2bf75762bbf06ee3ad4aa9bec29a92ea1eb02bdfa452b340ea40b002d2b79
-Description: 文件 App 仅显示“浏览”选项卡并隐藏底栏
- * Displays only the Browse tab and hides the tab bar
-Name: FilesBrowsingOnly 精简文件 App
-Author: dvntm
-Icon: https://TrollStoreX.Github.io/sileodepiction/FilesBrowsingOnly/icon.png
-SileoDepiction: https://TrollStoreX.Github.io/sileodepiction/FilesBrowsingOnly/js.json
-
 Package: com.dvntm.oledkeyboards
 Architecture: iphoneos-arm64e
 Version: 0.0.3
@@ -2096,11 +2074,11 @@ Maintainer: Mr_佳先生
 Installed-Size: 168
 Pre-Depends: rootless-compat(>= 0.9)
 Filename: debs/com.huayuarc.zombiereaper_1.0.0-1+debug_iphoneos-arm64e.deb
-Size: 7434
-MD5sum: 75ca5c96d3d6e34cbe06ade9204083ad
-SHA1: a9a3d8ec580b8133dbadd6a9f769aee803f19205
-SHA256: 42cd91c5b2e0df5a42142fc3cb2eff9dabe3cb8deb3901b71265fb3b473d8bc3
-SHA512: b7f3afbd51e57b20cc9780be2f82f90b969df968a56e7fd8952d4809f163781f8e17a95f31528e5cf0f0ca226da5176e581ccf96e134426672b563707b4da29b
+Size: 7370
+MD5sum: 81094e28fd8ec9fa801e15e528acd796
+SHA1: 0e85b3deb638d22885907bc805fdc6b982e4b0e7
+SHA256: 0d514c04479a3ce98e8fb7fbda9e552ca5334d5d67ae19598fb270234c1ea992
+SHA512: f77fc53527fac3b6068e8c9a1c00bdbedffc04c88c6e93660462c25053c769750fbfbca4ce2c8f753fd2db833b37c7b61b8bbdf8f36cb664ea20b24d602b054b
 Description: 后台每5秒自动清理SpringBoard产生的僵尸子进程，防止大量调用外部脚本后堆积僵尸进程、耗尽系统PID，避免后续命令无法正常拉起。仅作用于SpringBoard进程。
 Name: ZombieReaper 清理子进程
 Author: Mr_佳先生
