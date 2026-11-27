@@ -930,11 +930,11 @@ Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.cpdigitaldarkroom.evanesco, com.1conan.evanescoxi, com.randy420.evanescocc
 Filename: debs/com.cpdigitaldarkroom.itsevanesco_2024.05.26-20_iphoneos-arm64e.deb
-Size: 66082
-MD5sum: 8b9b84706c13e7b6282f85ea5b5208c6
-SHA1: e3752f09c81bd4a92ef6d2d9a1ce4ab5c0c654b9
-SHA256: 466e56f4f30bb9464089a5354fb71e3c272ae8f6ca53ff7fe48f59295b33cb09
-SHA512: 86a3aa143551e020ca4c0ce5351d72633ecb740fe4564055ac833591f55465e8a3dcb313416ef97870b58b2fa8dfa341579dec717fa49a81ef34bf6185ee45d8
+Size: 37778
+MD5sum: 1897c875c3d13f42f7a267cf206e5e6e
+SHA1: cefd43a5838360efa761d31adf9f6f2efc39857f
+SHA256: a2a07772710110ba5e2e88958404ebdaf2616343323359efc5b78febb7492d97
+SHA512: 3b4bc3cf04e8903ad176a2af82e46b1d3205f9a7bde0f52f39e7540f85421e4f4f027365b9788097cc6ce07e3676cf8b4f3007b2c760cf6e15b8f5aafd96a8dd
 Description: 不活动后清除主屏幕（原生arm64e重建）
 Name: Evanesco!
 Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
