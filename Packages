@@ -3051,11 +3051,11 @@ Maintainer: shepgoba
 Installed-Size: 512
 Depends: mobilesubstrate
 Filename: debs/com.shepgoba.settingswidgets_1.2.4_iphoneos-arm64e.deb
-Size: 86068
-MD5sum: 98081dae38823f295dd62c512dd35b63
-SHA1: c28e14cac32b37211759682b75417c8deca3aa04
-SHA256: c0d1f9525b69b24b249a7621144ea34a000ef3b250165ef3a08d958b6bfec4dd
-SHA512: 227e60e52e3ff6a12591ba01e9f42c0bcb5d52a9fe7e59217273db73c7b9884110836ee1aef017f80bfe48b20e52c83ef9149447fa1d1225bb632b273048610c
+Size: 61870
+MD5sum: b61c0321ec9131cffe1d78b3e7cfb908
+SHA1: a0cdb435c9c745190c152d326f3b93043f680c39
+SHA256: 35f0644daab30250e42b0cd8fb0abc3e5709c48491ce16e73bd18211af051cd5
+SHA512: 58b3a33de2fa2ce03fae6b04bf7d69e98dd40aa4063c466396897252f464ed4d84be532b6d86ac6efa75b2915702c868fdb49b1109c9fe1a44184174b1527982
 Description: 将美观的小部件带到设置的首页！
 Name: SettingsWidgets
 Author: shepgoba
