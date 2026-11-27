@@ -1663,6 +1663,25 @@ Description: 移除分享菜单中烦人的投送和联系人，Hades基于i_82�
 Name: NoCShare(RootHide)
 Author: Devvix
 
+Package: com.dengbai.tgassistant
+Architecture: iphoneos-arm64e
+Version: 1.1.2
+Section: Tweaks
+Maintainer: DengBai
+Provides: com.local.swiftgramcompat, com.local.telegramcompat, com.local.turritcompat
+Depends: firmware (>= 15.0)
+Conflicts: com.local.swiftgramcompat, com.local.telegramcompat, com.local.turritcompat, com.dengbai.swiftgram-startup-trace
+Replaces: com.local.swiftgramcompat, com.local.telegramcompat, com.local.turritcompat, com.dengbai.swiftgram-startup-trace
+Filename: debs/com.dengbai.tgassistant_1.1.2_iphoneos-arm64e.deb
+Size: 1154864
+MD5sum: 8896cf61aba9bb36ebc4793822f03ebf
+SHA1: 64092e7753dd140607d0eed1e34c145c4c7abd6a
+SHA256: c8f65c29bc5ce474c2c1285c6550e655a5c3653f6c811aaf207294d029cdd0cb
+SHA512: e317897f38d19a4e324bead629c7daec8909d113b22efe1863f872b6109e69da510654d1b360e769c8abed5300e4bb63515a33775f9845d05d878e3f54909f9c
+Description: TG助手Telegram、Swiftgram和Turrit
+Name: TG助手
+Author: DengBai
+
 Package: com.developlab.appbadges
 Architecture: iphoneos-arm64e
 Version: 1.0
