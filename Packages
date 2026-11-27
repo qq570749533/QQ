@@ -3935,23 +3935,6 @@ Description: 支持极速版和全能版，去启动广告，去除关闭限制�
 Name: 爱思助手 NoAds
 Author: White <(null)>
 
-Package: com.wkk.ExplosiveIcons
-Architecture: iphoneos-arm64e
-Version: 1.1.1
-Section: Tweaks
-Maintainer: Wes
-Pre-Depends: rootless-compat(>= 0.9)
-Filename: debs/com.wkk.ExplosiveIcons_1.1.1_iphoneos-arm64e.deb
-Size: 16274
-MD5sum: 7f7bdc8017278eca5eef3ad156895586
-SHA1: 9ca3763cffc76183fd3e0d65a8d8ae5e6f0cf3e4
-SHA256: c9e80b2062da099a9907a822b1fd053b0bd111001dd03b029563d913f5758ad7
-SHA512: d033838ec1503e3c48b1e64db1613ce8b1e040aa315beffeb97c7037a42c9b7e135219494a4d23ca29a5d681aaad865dc1cce0d003d24c51e5b9431d8a29afa6
-Description: 炫酷吊爆的图标卸载动画，不支持在atria上启用，已汉化。
-Name: ExplosiveIcons
-Author: Wes
-Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
-
 Package: com.wkk.afakerxi
 Architecture: iphoneos-arm64e
 Version: 1.0.3
