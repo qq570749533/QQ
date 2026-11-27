@@ -3999,11 +3999,11 @@ Installed-Size: 1036
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, preferenceloader
 Filename: debs/com.wkk.boardswipe_1.0.0_iphoneos-arm64e.deb
-Size: 27188
-MD5sum: da22046dd6554006bb3efe66425e93c0
-SHA1: 9a5a12985af65d47e6fcac78b5dbad3ffc750c32
-SHA256: 9c14d590a616f426523941db5dff4cbb97b576646412c87cdbe89b52c1b873b2
-SHA512: 3ceaf5ca6634d6e8f6de8bc3e15ebbd5e53536ca6deccb793f00e9f1028753fb860e6af98fe8e445935a10dfd666b5984454531eeda7238d147c322f6899313d
+Size: 34652
+MD5sum: c5fa0717dc4851dec1a35c64cc55cd88
+SHA1: 279b9e0c79f1fb3fbb4bb47c5c3c8247ce7d00c7
+SHA256: b55c1ba0fa5b12756572c32b15c72bba39264ed006b0c1729dc398dd7753c5ba
+SHA512: 0fa29b348ba8c39b9bcd58b054ec59c77ace97a154acdb97d17086c8a7289389364fcd032a49426ccda331080e0fd5f74fb2a09b2a33b37a95735371e9f1efee
 Description: 向下滑动以关闭键盘，向上滑动以切换键盘，已汉化。
 Name: BoardSwipe
 Author: AnubisTweaks
@@ -5405,25 +5405,6 @@ SHA512: 2f17c502b928857166be26386bde18f036c73d1b5ee1c71253a598599e1039f14136a789
 Description: Safari 浏览器多功能增强插件；源内有汉化包；SafariX后期加了验证，不能改包名。
 Name: SafariX-New(RootHide)
 Author: 0xkuj
-
-Package: com.wkk.boardswipe
-Architecture: iphoneos-arm64e
-Version: 1.0.0
-Section: Tweaks
-Maintainer: AnubisTweaks
-Installed-Size: 1036
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, preferenceloader
-Filename: debs/滑动切换键盘.deb
-Size: 70442
-MD5sum: c91e307ec677ec944f1586edf75a4f3e
-SHA1: 12413b82624227be33d96243b3c25e5643608bae
-SHA256: 5f125ada4c3af916d958e2d2aec026d20cde08c3f41fa6fdb8dd1442787f4c4a
-SHA512: 9e32b26cadd690e714261d1e52f4edefe2f565af3c5687e5f8569830ca04e5c8f49c3b2b67b10e6b223e11ed9a50842b79ddfb65e5a2c716f07c567c07322df3
-Description: 向下滑动以关闭键盘，向上滑动以切换键盘，已汉化。
-Name: BoardSwipe
-Author: AnubisTweaks
-Icon: https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/icons/boardswipe/icon.png
 
 Package: com.swing.tiktoknocreatbutton
 Architecture: iphoneos-arm64e
