@@ -1835,22 +1835,6 @@ Name: SafeSIM
 Author: 半生年华
 icon: https://huayuarc.github.io/icon/safesim.png
 
-Package: com.fizz.ripple
-Architecture: iphoneos-arm64e
-Version: 0.1.2
-Section: Tweaks
-Maintainer: Lessica <82flex@gmail.com>
-Depends: firmware (>= 15.0), preferenceloader.top | preferenceloader
-Filename: debs/com.fizz.ripple_0.1.2_iphoneos-arm64e.deb
-Size: 131810
-MD5sum: ca97317f85292b9950ee2ce8fb2671d3
-SHA1: f60e248f1967d3624f1766e1c73e08e52cf83a47
-SHA256: acbd2b646458d023f9a7a9b5c770c4118717203561a2e6dd6e79cd583580adb2
-SHA512: aa2264deb4d6aa88911ab337aaaadd5c1fd0de0bd1c9818e11ef9bc7009ac73a44f2e17176ff9c70ca20be7a7d35bd7ff05cc9d32cbf026e3a1b96fbd0e0681c
-Description: 两指展开手势用于主页：图标向外扩散，每个应用徽章向外生长并淡出，保持清除状态，一次系统点击标记它们消失的时刻。
-Name: Fizz
-Author: Lessica <82flex@gmail.com>
-
 Package: com.flex2areo.apptools15roothide
 Architecture: iphoneos-arm64e
 Version: 2.9.5
