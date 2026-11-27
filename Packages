@@ -1296,31 +1296,6 @@ Description: 联通首页整页重构，粉红新版面只留话费、流量、�
 Name: 联通优化
 Author: donk
 
-Package: com.cydiageek.morelinesnotifications
-Architecture: iphoneos-arm64e
-Version: 1.0.5
-Priority: optional
-Section: Tweaks
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 179
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, firmware (>= 8.0)
-Filename: debs/com.cydiageek.morelinesnotifications_1.0.5_iphoneos-arm64e.deb
-Size: 9628
-MD5sum: e5e882a22cfe0f9600660fcd02c303cc
-SHA1: c03e9101a35bd2bfe095b7ab9d239de5fcc1aa90
-SHA256: ace560a1e8e894b11bfa1fee3e1b64b685ff1ce2e20e8514f4fa931436d8fd5e
-SHA512: f1473b397fbf0c87d8404cad2ba99e7a8b3d9d07dc7415581745ba88ba543b600d4af746b72244fb18ba8571f2f0f540e8a26136d6a6041d2a7d45c5e1a7ccc2
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=morelinesnotificationDp
-Description: 为通知增加更多的行，显示更多的通知！
-Tag: purpose::extension
-Name: MoreLinesNotifications
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=morelinesnotificationDp
-Sponsor: thebigboss.org <http://thebigboss.org>
-Author: CydiaGeek <lucaluca86@aol.com>
-dev: lucaluca86
-icon: https://huayuarc.github.io/icon/huayuarc.jpg
-
 Package: com.cydiageek.nomoredisabled
 Architecture: iphoneos-arm64e
 Version: 1.0.2-1
@@ -2429,6 +2404,29 @@ Author: lenglengyu
 Depiction: https://repo.lenglengyu.top/packageInfo/ghallownetwork.html
 Sileodepiction: https://repo.lenglengyu.top/packageInfo/ghallownetworksileo
 icon: https://huayuarc.github.io/icon/huayuarc.jpg
+
+Package: com.lenglengyu.passbyccs
+Architecture: iphoneos-arm64e
+Version: 1.0.2
+Section: 控制中心
+Maintainer: lenglengyu
+Provides: com.lenglengyu.passbycc
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 15.0), com.opa334.ccsupport
+Conflicts: com.lenglengyu.passbycc
+Replaces: com.lenglengyu.passbycc
+Filename: debs/com.lenglengyu.passbyccs_1.0.2_iphoneos-arm64e.deb
+Size: 126622
+MD5sum: 4b459446c95cdbdde399a33642d96efc
+SHA1: 66bba36e1e0e7e59132736f367cd308839518d81
+SHA256: 56d1abed2286e6741cf5a8b05d7604bb9e14143b09980157d84d32836e83b34e
+SHA512: e7f55a3bc3d2ac80b4d4fbc416cce977db552ca137a88a4422c6afc47aab99c8948f9d7bd28100751962c0417a8f7381156bffe13ca9fca8f4a9d2f5fde43f1e
+Description: 控制中心模块，临时绕过面容，绕过密码解锁，修改为 FaceID 图标。
+Name: 临时绕过面容 PassbyCC
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/passbycc.html
+SileoDepiction: https://TrollStoreX.Github.io/sileodepiction/PassbyCC/js.json
+icon: https://TrollStoreX.Github.io/sileodepiction/PassbyCC/icon.png
 
 Package: com.libxinji.reset
 Architecture: iphoneos-arm64e
