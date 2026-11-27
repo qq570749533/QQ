@@ -2893,6 +2893,24 @@ Tag: role::developer
 Name: libundirect
 Author: opa334
 
+Package: com.opa334.trollstorehelper
+Architecture: iphoneos-arm64e
+Version: 2.1
+Section: 应用程序
+Maintainer: opa334
+Installed-Size: 4400
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: debs/com.opa334.trollstorehelper_2.1_iphoneos-arm64e.deb
+Size: 2273184
+MD5sum: 920169c9256a803ea6433e1df87519bf
+SHA1: 5f2450b3fbd6c84610a109379a4ae2a90efbffee
+SHA256: 6dccede28500422ba5abeb4675ab83ac3850187fdc7e876af9db853fa4df2725
+SHA512: 4c5cd2e0400a92a04222ddde30f673343f156c2f6c4d8dbcf29870dc201fb019669163640d857aa414e957c4d08ac9cb0fd8dd39e01f9666d4f1fc9a0ed119d0
+Description: 当你的巨魔打不开或者丢了，我想你会回来找它！
+Name: TrollStore Helper
+Author: opa334
+Icon: https://s1.imagehub.cc/images/2025/01/21/e16a2f8fe58b0bdadf3641c868a71141.jpeg
+
 Package: com.p2kdev.applock
 Architecture: iphoneos-arm64e
 Version: 1.1
