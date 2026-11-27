@@ -2964,6 +2964,26 @@ Author: 热心网友
 dev: 君临
 Icon: https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/eb/b5/a8/ebb5a892-c161-c79f-ba51-2089219fb833/source/512x512bb.jpg
 
+Package: com.qimiao.WCRefine
+Architecture: iphoneos-arm64e
+Version: 2.2-2beta9
+Priority: optional
+Section: Tweaks
+Maintainer: 热心网友
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: debs/com.qimiao.WCRefine_2.2-2beta9_iphoneos-arm64e.deb
+Size: 14016692
+MD5sum: 6a2e0d7d4ef6030791069e988b49f399
+SHA1: a76a0a7f00d8ef747823ab2477175774f687ca51
+SHA256: 65c5e64ff904d7b30cae6b2a3002b9a1669814391ed02a7a2686f0242bbc1b36
+SHA512: 7abc7db1e657cd7a97e58102e36f15fcb426a3fca6ac5701cf6acea9d62d39eef139a6118e833661d91ef4571a85c3bf49fc94c782fc3a49dc9636bdcd4065ba
+Description: 微信优化的重制版，上百种功能优化你的微信。
+Name: WCRefine
+Author: 热心网友
+dev: 君临
+Icon: https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/eb/b5/a8/ebb5a892-c161-c79f-ba51-2089219fb833/source/512x512bb.jpg
+
 Package: com.qq391160.cpucore
 Architecture: iphoneos-arm64e
 Version: 2.0.497
@@ -4410,25 +4430,6 @@ SHA512: 0d3192f461d561f695b147de2eda9861459f56ffaf52ab8ce23ae5990bd262cb733549e4
 Description: 放大了3个像素，可以搭配源里的系统键盘圆角一起使用，键盘变得胖乎乎，很可爱。（不支持放大模式下使用）
 Name: 原生键盘放大
 Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
-
-Package: com.wkk.zaire
-Architecture: iphoneos-arm64e
-Version: 0.9.0
-Section: Tweaks
-Maintainer: wkk
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate
-Filename: debs/com.wkk.zaire_0.9.0_iphoneos-arm64e.deb
-Size: 5906
-MD5sum: 0366b427dbcdefac2e8722d9816a91dc
-SHA1: 958ff92775907ec3813c3eae1e292e35e31a3f36
-SHA256: bf931b588db036ea600c7fd0432c27ace9e12886b120b7a52fd4bb9e053fec12
-SHA512: 541ccf9830c5337c89516d842a37c6700b50f5f7180d8021aef4f2a8d50ac2c417ae521fcd46fbb489d139033abadf76aaeee247a0c3760624027b73cb94d07d
-Description: 存储页面中右上角显示已安装的应用程序的数量。
-Name: Zaire
-Author: Luki
-Sponsor: ekk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 
 Package: com.wkk.zmzhook
