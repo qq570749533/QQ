@@ -1370,11 +1370,11 @@ Installed-Size: 196
 Depends: firmware (>= 13.0), mobilesubstrate
 Conflicts: com.isklikas.3dbadgeclear, com.twickd.john-sklikas.3dbadgeclear
 Filename: debs/com.dao.3dbadgeclear_1.7.0.1_iphoneos-arm64e.deb
-Size: 22392
-MD5sum: 3ba4d48f9352c39f850797f50fa9c35a
-SHA1: ce9623cb4d196ef15302693d3013327e511c5b28
-SHA256: ae0397e822e29b761741871511775cb407b78a52f0308505dccbfccb00af23d6
-SHA512: d2fc070bc5ed4833429bca16c60e1a310377f20635e4e1be91d45d96ed3896ee45fd111e6fba701fd7be70473f8cd6ba689d7337ee1b3f1f3825c149924ce850
+Size: 23100
+MD5sum: d2210f9617ffc233b8081917ebc01bfd
+SHA1: 5c4442a2ca5a23d7bd0713bbb5a7709aa92ea738
+SHA256: fda93b83bfd38b80158731f12c655c13acd3a25fb08571202207f2870fbe7c53
+SHA512: fc63f240fb0f93fb35dbabefd5c6f19daf3a56c90e4b278cad19303051504cb377abafa5a6b51162e343b6d1fa0421931fb922388d1064f746597eec438d4e00
 Description: 长按/3DTouch「应用/文件夹」图标，即可通过“清理角标”一键清除所有通知角标。
 Name: 3DBadgeClear(RootHide)
 Author: isklikas
