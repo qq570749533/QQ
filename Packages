@@ -934,11 +934,11 @@ Depends: mobilesubstrate, preferenceloader
 Conflicts: com.chloe.gravitation17, com.chloe.physpringboard
 Replaces: com.chloe.gravitation17
 Filename: debs/com.chloe.physpringboards_1.9.23_iphoneos-arm64e.deb
-Size: 87466
-MD5sum: 365cd6ae442d853f702207a88ef7c19b
-SHA1: 356d11058296dad3b0566a4771d94c39cd2a643c
-SHA256: a603a7ae24364e519873564712c2a31028440f6c48f14b729c56d356647bbac1
-SHA512: 35b9e8a7f89204857d0f4ef608f888062ebc5e76930f95764ad14613d4eb56c50e256b58f78b5ffd6f8540cdc0f5105c24d495e0d99d246f7e2c2d9b5ab34533
+Size: 115950
+MD5sum: 882af3df926d3eda83631889a18fc5b6
+SHA1: 8873440720b399d9664fcd6a53ea2465361b30e5
+SHA256: 733e54580aa6d13270324b029a783ee57431c13f09f50d279af5ceb4ac096630
+SHA512: dddb46b3cb904b241ef04701665b1571dc34ac8f5fb68d902d45620815c87b95f81d981dfd330b9433f287843f8eff76e730f10bb1825957306ee99c63614016
 Description: 在主屏幕摇晃设备，图标会因重力感应下坠
  * 再次摇晃设备，将恢复原样
  * 长按桌面，图标会被吸引过去
