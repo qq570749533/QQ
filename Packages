@@ -1568,11 +1568,11 @@ Section: 嗨-系统
 Maintainer: Spark
 Depends: mobilesubstrate
 Filename: debs/com.dao.snowboard_1.5.37-Beta4_iphoneos-arm64e.deb
-Size: 245082
-MD5sum: feafe3a16cc206c3381c7148c7d100d9
-SHA1: 64a452fc8c4fed13777b309987aac51086ecf667
-SHA256: 42dc8aa07fa853e49709fd66cc299acbed60b252ee17b2e231bc5cabc1ca7032
-SHA512: 62e4601789598abfc267fc49b75de5700db827333d5aae83d47ddecf1cc4aa30bdb6fb05ae298bbe34fda22d4c44e3fa93231207fc0bbbfa85b570225325460c
+Size: 244914
+MD5sum: 65f6f605cb0f0a0c6fb172ba3d9c481e
+SHA1: 64a3f475088d5bfc4fce8470c1aa457f8e1319ae
+SHA256: 3ffd101aab245c58a118b9eeb86f6a8647a50390e8e289c96a1ada56246fc855
+SHA512: 4f28211496e0e8e1be5352aa002d583ff793dd307de00652e06eb53f7eab54f20a1c6ea487a51850942840af071f6001e0067ed406842131cf5dad420de498fd
 Description: Snowboard主题引擎！roothide主题路径：[jbroot]/Library/Themes
 Name: SnowBoard(RootHide)
 Author: Spark & Dennis D. Bednarz
