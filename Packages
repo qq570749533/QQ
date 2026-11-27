@@ -2479,11 +2479,11 @@ Maintainer: MoWang
 Installed-Size: 1060
 Depends: mobilesubstrate, preferenceloader
 Filename: debs/com.minis.lockscreengradientclock_2.0.24_iphoneos-arm64e.deb
-Size: 372776
-MD5sum: ebc1cde326bbe5ffe6f2cd5d26d2a2fa
-SHA1: 36770f1edb0d985b15ae6e7fa881129a9fbe7870
-SHA256: 16cbb7db8c1071aeb05e5a74750fa1f8315770735fddc5e695628200f4ebe6b1
-SHA512: 4cd5bb7eae445dd7f1a082aaf0cc5fa60f923e2fedbb6ea686846f763b730772247c7508e69b3743676a11514278e936716723c494a726d591ff6346b3cd0a21
+Size: 212310
+MD5sum: 7791cd942edbea945528bd0f262ed759
+SHA1: 7c25821fa139618b6b8f24ee2c4845914c7473fb
+SHA256: a0055a8975755c14efaa503419e23ac27234836fdba6aeed23c1d0d9a531feba
+SHA512: f5b9ad88b90482fa50d25d82ca605dfed75d7647a3d340c83584580b37974035d9accacd2c60ec83e65d6c5b9f06fb19a3ffac0fc3e1934763fa234a979e4cc8
 Description: 可配置的锁屏时钟梯度。
 Name: 独立锁屏时间渐变
 Author: MoWang
