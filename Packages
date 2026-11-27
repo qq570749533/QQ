@@ -2364,11 +2364,11 @@ Installed-Size: 1284
 Depends: mobilesubstrate
 Conflicts: com.gilshahar7.exacttimemail, com.gilshahar7.exacttimephone, com.gilshahar7.exacttimemessages
 Filename: debs/com.lclrc.exacttime_2.0.6_iphoneos-arm64e.deb
-Size: 38996
-MD5sum: a81423dd31cae2ebb737b7692d1fbd41
-SHA1: ee1f910021804416c2fcab974f7ee2f10d0e43bf
-SHA256: 188ca05cc71abed3fce89894ac3ca35bcdd0d6ca6f7ec463857f20f723fa8db7
-SHA512: 5b3cb62b05752c3b730372e14e93a14e8620ae6f86be85a997768255f080b1ee98b67ce8d68c1b90f6a905cb02713775bee2c52f081e32334ec2fc9a10e8d030
+Size: 38858
+MD5sum: 4fe50754262e4da211ffcaa597cfd679
+SHA1: aa988d8d499eb1bc735880fcc595079e5de7ab52
+SHA256: d5f493ae13bfa9bfa3feeda330d0fb1850b05c515b99e3101f3f17b23c3e0e34
+SHA512: c005c6db650c5954d35b0d0dc0375ef9e230b920c639607cd0c06c4ea0f61b6f8307af304c459e11ef297ef1d7a6b8a6ebdc8a3c8d07800ad857ac4fba0dc4ee
 Description: 在通知中显示准确时间，闹钟中显示剩余时间。
 Name: ExactTime通知时间
 Author: gilshahar7, SquidForce
