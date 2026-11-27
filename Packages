@@ -1922,6 +1922,24 @@ Name: 键盘特效
 Author: 航
 Sileodepiction: https://hang1888.github.io/depictions/com.hang.keyboardeffects/depiction.json?v=1.7-ui
 
+Package: com.hidekbsettings
+Architecture: iphoneos-arm64e
+Version: 1.0.7
+Section: 系统增强
+Installed-Size: 404
+Pre-Depends: rootless-compat(>= 0.9), firmware (>= 11.0)
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.hidekbsettings_1.0.7_iphoneos-arm64e.deb
+Size: 4516
+MD5sum: 001033269933a028d4d7d0c8280b4df8
+SHA1: 1ba8f7e14a02b6dcbabe5c3b83dbb9fd85ddd8fb
+SHA256: ec3f037b3c219cc286581ff8f05c8aca8902baaa3579a68272249fbbdaf079cd
+SHA512: d30841a6a2fc1d263b61c8d99379900e74b3058c9a1f4fe40066f6911182a576a0c1c610a84f04615fbb971ed103251041194c7deadc86f991b8ca8de57800fa
+Description: 隐藏键盘切换中的"键盘设置"选项
+Name: HideKBSettings
+Icon: https://axs66.github.io/pro/icon/HideKBSettings.png
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/HideKBSettings/js.json
+
 Package: com.huami.WCPulse
 Architecture: iphoneos-arm64e
 Version: 1.7-7
@@ -5460,24 +5478,6 @@ Description: 在键盘底部添加快捷按钮/App，已汉化。
 Name: KBApp
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
-
-Package: com.hidekbsettings
-Architecture: iphoneos-arm64e
-Version: 1.0.7
-Section: 系统增强
-Installed-Size: 404
-Pre-Depends: rootless-compat(>= 0.9), firmware (>= 11.0)
-Depends: mobilesubstrate, preferenceloader
-Filename: debs/隐藏键盘设置.deb
-Size: 28006
-MD5sum: 660985099c36a8ea8910723b7087156d
-SHA1: fcef64e8c0210642c0063e40e18a7647c5a98672
-SHA256: b174c5fd9789ba9466c529afe82e1e07b89ea135c8b08cfbd8a6b3bfad427c9c
-SHA512: 110b937ffa5bd4d878dedb8d41c4b3dcc718785c63f087d07fbdc5f12b491f64c78a50914cb2996eb76ba03c7850fe723d7f3c22da6d6ad36242c6208628db61
-Description: 隐藏键盘切换中的"键盘设置"选项
-Name: HideKBSettings
-Icon: https://axs66.github.io/pro/icon/HideKBSettings.png
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/HideKBSettings/js.json
 
 Package: com.wkk.reachplayer
 Architecture: iphoneos-arm64e
