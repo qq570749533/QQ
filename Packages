@@ -2055,13 +2055,13 @@ Maintainer: Mr_佳先生
 Installed-Size: 168
 Pre-Depends: rootless-compat(>= 0.9)
 Filename: debs/com.huayuarc.zombiereaper_1.0.0-1+debug_iphoneos-arm64e.deb
-Size: 7370
-MD5sum: 81094e28fd8ec9fa801e15e528acd796
-SHA1: 0e85b3deb638d22885907bc805fdc6b982e4b0e7
-SHA256: 0d514c04479a3ce98e8fb7fbda9e552ca5334d5d67ae19598fb270234c1ea992
-SHA512: f77fc53527fac3b6068e8c9a1c00bdbedffc04c88c6e93660462c25053c769750fbfbca4ce2c8f753fd2db833b37c7b61b8bbdf8f36cb664ea20b24d602b054b
+Size: 7438
+MD5sum: f0700d01266eea53412aefd3268c116e
+SHA1: 94e0f0fbe3ffe566c57feb52ca07879099069ae4
+SHA256: 888e1c9381a503e963164bd3ef0b68b94b87827caf81832c75c82501ab2eb032
+SHA512: 646a07c7276aa4f7bf2c61ebbe055d58d870946b898354d38a2f4104062bcd2a3c064ad91dbe30a00854e9349ec3cdd92cb9da77e58dddcf285054d92a8ed254
 Description: 后台每5秒自动清理SpringBoard产生的僵尸子进程，防止大量调用外部脚本后堆积僵尸进程、耗尽系统PID，避免后续命令无法正常拉起。仅作用于SpringBoard进程。
-Name: ZombieReaper 清理子进程
+Name: ZombieReaper清理子进程
 Author: Mr_佳先生
 icon: https://huayuarc.github.io/icon/zombiereaper.jpg
 
