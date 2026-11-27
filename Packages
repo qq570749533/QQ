@@ -3259,11 +3259,11 @@ Installed-Size: 264
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
 Filename: debs/com.sini.powersettings_0.0.1_iphoneos-arm64e.deb
-Size: 40576
-MD5sum: a8d1481360693a1a4e14758ef92d3ef1
-SHA1: eafef1556c3532a468b8ecbb4cb10bac9e0ca008
-SHA256: e66df619642eb6a1e0da29a00576fbcc1eb4bbc9651a8cbe4f2b1dead1d6bd30
-SHA512: 8c9c7bbae5c154f0f991a9f6d58dcb8eb8655b0b0e7ce24d4e133f15bdfd47e57604ee7617fd9efb63869e8f070e2422e270309ef1b0be33b1d40359c0a8ccdf
+Size: 40418
+MD5sum: 20e39e268bdcc3d2ed317fdf64af6e4a
+SHA1: d124baff8bbe96e675e083b1b3c2e54c571f5b25
+SHA256: a83c8edc4bf8e41d4c7bb5116bcf24f5d297eab50c8b9550d6ac480b346465f3
+SHA512: 5a9c894a9ce42ec14193e14e37956b30614abb2f2ec29e3842e33d503fb09fe5c703b0f2b0942268bc965589dac0657e3a107b9f26b01ab63fd8b859e206dfca
 Description: 将电源菜单(注销、重启等)添加到“设置”右上角！
 Name: PowerSettings
 icon: https://sini921.github.io/repo/sileodepiction/icon/powersettings.png
@@ -3278,11 +3278,11 @@ Maintainer: sunshinesong
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
 Filename: debs/com.sini.recorder-bubble_0.0.1_iphoneos-arm64e.deb
-Size: 53058
-MD5sum: 6ad140dd37a7f6221da7d982ad3caf09
-SHA1: 107b16c5ead46b1e3c0a7630c268a611a681cf96
-SHA256: 85c85b68f1d77ca02804da078a73f0beb17821e2f18d48a40ff2ddeb972a7f23
-SHA512: bf4484ebda8186a90e9935f40802db6db0f88a8404f216131bea1a74cc145c6d1575b5e71cb37aaa0ee33abddee932247b55bf3cc326ad35c357dad84b92dad0
+Size: 52990
+MD5sum: eb472789c9d24743f51bd6a1ab2ad59f
+SHA1: 4ac793a00ef4d15ee0ecb4ed7389b6ffffe01539
+SHA256: c04868eac0f7dcfabe86778a10fedbe55cbd81fabc9a835fa98d2a6a234730bb
+SHA512: 21c75d02d10c14a36dcdb0bcf27186412c9068dabb0b1333b5df7596ed3198cce6a7938f3df438063ae662dd9fe3b3491967c899edd296ccac2f1ca8bd757a6b
 Description: 当录制屏幕时，显示一个花瓣悬浮球指示器。
 icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/recorder-bubble/js.json
@@ -4062,6 +4062,24 @@ SHA512: 3294fe6397117b1227f2bf7d1f8b6574026da3689aa7ba421cec3d2e7ec9cd626a060515
 Description: 隐藏桌面App以及小组件名字。
 Name: HideIconName
 Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
+Package: com.wkk.hideserialnumber
+Architecture: iphoneos-arm64e
+Version: 1.0-4
+Section: Tweaks
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.2), mobilesubstrate, preferenceloader
+Filename: debs/com.wkk.hideserialnumber_1.0-4_iphoneos-arm64e.deb
+Size: 66256
+MD5sum: 26c298563fd7a96d3ccd1a30b8d314b5
+SHA1: 706bfd9c02e03cde79c8e88ebde3f9c3790b68d6
+SHA256: 94e4dac047332fcccddb9fbb4cd0d11e6e5b1a1932212076f56eff8eac374e18
+SHA512: 768280364586d51556b813355d76eac91171cae8030ced0ed21e66b533317f343270d3865f97fd4271906443914bac37a2ec3d5046af0f15f8f6d899e711b716
+Description: 自定义序列号机型等多个信息，装逼用。
+Name: HideSerialNumber
+Author: ichitaso <qiaozhani000@163.com>
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 
 Package: com.wkk.ios26kbhook
