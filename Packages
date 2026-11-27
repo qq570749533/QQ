@@ -5263,11 +5263,11 @@ Installed-Size: 168
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate
 Filename: debs/zp.stopshortcutsautomationnotif_1.0.1_iphoneos-arm64e.deb
-Size: 3494
-MD5sum: 8305b05ccc892109dedd3c78426cd0b8
-SHA1: 885977c11d63a9a6482b50f0414f9cbdf2f3754e
-SHA256: b3cd52808b3caef18bd62e84a4957cda6a01263cc9c863b18de0d6dedfbc54b7
-SHA512: 2e4e1748a6b97904b2cd4407b17cc7b712114d058daa130a36d86f51d52189e7ea61146d8e821506ca490e0ea65dcba023e1d21d915bf787cc788bd12540c44b
+Size: 3420
+MD5sum: 18b7a7287cc531f4b72afc9b92410d63
+SHA1: 6534da22318c81e5928fd8a8df5771794d5b2214
+SHA256: ec1f78ca634356fc1b7aae3146c39688596f67cde318672ee681c23a98b1a1ff
+SHA512: b6922ebb894addff7579b4cdfa0043b3bb39bb68efc8666c17fadb10973c99051cb6711c51971d18c006e93764f4fb843e41efc95d79ff6220db35fa9b4d28ab
 Description: 屏蔽快捷指令自动化通知!
 Name: 屏蔽快捷指令自动化通知
 Author: zqbb
