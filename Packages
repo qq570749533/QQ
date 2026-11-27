@@ -4080,11 +4080,11 @@ Maintainer: b4db1r3
 Installed-Size: 432
 Pre-Depends: rootless-compat(>= 0.9)
 Filename: debs/com.wkk.lstimeseconds16_1.0-1_iphoneos-arm64e.deb
-Size: 42774
-MD5sum: 4a41bc76dc73a9aed7bac3d919cd75b4
-SHA1: ef4f7f7043eac0a0d27052f29ddd1844d3e4d855
-SHA256: 75a074938d89334dcfb5da9b1124e8a9e29d2780f1b31f9188bf2a5458f2c127
-SHA512: 59956d7a750b5ce14783538f7d04b4901b2412e78698bdd88cd5def9a084be087efdd25b120f9d36e5154bc655ef52a38b5a66541b0abbf5f044b591e3f6d4d7
+Size: 32804
+MD5sum: 5cb7831208b5fe79f1725aeaa6874257
+SHA1: a1aff88d186cdf009e8d6a853d8cc73d66d5c17d
+SHA256: 345fd03edebe1bb133ac81a3c5c10d8dcef58c42195c2d055b18ad118e3dad22
+SHA512: 97d2559ec864d814c5f4038087e9b7c52e3f7e7efc6a99f0aec366be81edf665c49e2325ea12cb906a85127cabacc51e58a7e97bbda02cf33d1effae4d662e44
 Description: 锁屏时间增加秒数。
 Name: LSTimeSeconds
 Author: b4db1r3
