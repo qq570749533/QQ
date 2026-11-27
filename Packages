@@ -1296,6 +1296,31 @@ Description: 联通首页整页重构，粉红新版面只留话费、流量、�
 Name: 联通优化
 Author: donk
 
+Package: com.cydiageek.morelinesnotifications
+Architecture: iphoneos-arm64e
+Version: 1.0.5
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 179
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 8.0)
+Filename: debs/com.cydiageek.morelinesnotifications_1.0.5_iphoneos-arm64e.deb
+Size: 9622
+MD5sum: 349ec5f9618a69fc1c9cf3cc585fd396
+SHA1: 8cc98f5b99ea6d529b4e37262963e640c0090c47
+SHA256: 84aa752b59ef0603df93bca397eb542c7de8b2cbefbff7b5fe51996b91bb00d3
+SHA512: 9a500376c642e4caf168acd43c1e678792d943f306c6d26a1211d74746c475d9e58a62013c1dfe6193ca8a4b05a05d7b5a6ccde087171f6a4ff91b8d44fe9a7c
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=morelinesnotificationDp
+Description: 为通知增加更多的行，显示更多的通知！
+Tag: purpose::extension
+Name: MoreLinesNotifications
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=morelinesnotificationDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CydiaGeek <lucaluca86@aol.com>
+dev: lucaluca86
+icon: https://huayuarc.github.io/icon/huayuarc.jpg
+
 Package: com.cydiageek.nomoredisabled
 Architecture: iphoneos-arm64e
 Version: 1.0.2-1
