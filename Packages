@@ -3522,11 +3522,11 @@ Maintainer: LacertosusDeus & SINI
 Installed-Size: 584
 Depends: mobilesubstrate
 Filename: debs/com.sini921.indicators_1.2-23_iphoneos-arm64e.deb
-Size: 180312
-MD5sum: 29a2f61d05be27f470ef95f13802d9e6
-SHA1: 4add758fa48342019ed7919d639ee3dfd2f3a327
-SHA256: 81b0d8300e771586dfbffac7819045f21359ca044a8cd7eb91a3e0ed1bbb8bd6
-SHA512: 4aa1f052fd7fa1cf3f01810e1a1a15d659f9d2f1635f4592481091378de6514b97ee1543417e4a6f926cc4e320327ecba3154ced6945e5e6b3743e9add6068b0
+Size: 29788
+MD5sum: ed4064230d2cf7c45796d69c26182512
+SHA1: f325f4809c5fb64c4a15244fd3ec89434cc73210
+SHA256: 5e04168a429c9cb6b1b4e81656c8e682a5086851309abbfcd79d3bea9e52e4b1
+SHA512: 514ec2a82912c7642a59bd2116001ffffe00edf6126ef2916e071d424b4ccd8a5c0297a91a4ba743506132fdb993f2093303e0e89f20effff1728b08ee91bcb4
 Description: VPN、勿扰模式、手电筒打开时右上角显示对应的指示灯，基于开源重新编译，修复支持iOS15+无根/隐根越狱。
 Name: Indicators(roothide)
 Icon: https://sini921.github.io/repo/sileodepiction/icon/indicators.png
