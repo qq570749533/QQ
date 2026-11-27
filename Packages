@@ -2193,11 +2193,11 @@ Maintainer: iosdump
 Installed-Size: 476
 Depends: mobilesubstrate, preferenceloader
 Filename: debs/com.iosdump.trollcmtweak_1.1.8_iphoneos-arm64e.deb
-Size: 111998
-MD5sum: c8ec49316d56d9aa3a9706f00d7fabe6
-SHA1: daa474840818db770b4c66eb9a4421769a109fcb
-SHA256: 76310ac747851b793d20954cd5252e3e600fc1957cd9b34501a79db06d9790c9
-SHA512: 761310debe6f197748380afb2ae5f44b6183b198dd948c91468db626dbed3d15fee8dc924a96a1a812ea8278e2f11acca3da3171ecbc8c22c39d53f96a1a2d18
+Size: 22888
+MD5sum: d90ab0e60d15b9c79e9177412c8f240c
+SHA1: 66b8c5062f7a154c6675508e776746e1a657ff47
+SHA256: 10a322a8e77eafe14cf5007ee8818f3c1d0f94e846e1bcd373c5167444c36ed1
+SHA512: ad3a01a271d68519dd2f34d33ad17df76ccc2617647ac84f24aa923297dea0ecd91815a6f2853fdfe0809cea929fa18edd59c0927fff5427bac32db4ca8f3d4c
 Description: 显示屏幕触摸轨迹，支持iOS14-17所有越狱
 Name: TrollCM
 Author: iosdump
