@@ -737,11 +737,11 @@ Maintainer: Custom
 Installed-Size: 240
 Pre-Depends: rootless-compat(>= 0.9)
 Filename: debs/com.aptzh_1.3-3+debug_iphoneos-arm64e.deb
-Size: 40490
-MD5sum: ad35332cf6e6ec95fb1e64d074f47433
-SHA1: f6505c3bc726e2b7103dc0a6827cd952dccd06c3
-SHA256: ebf1b95eb5196b2add34bbc67ce60880356b05e441fc00fd34e2d449f277c60a
-SHA512: 1290bb66f3acc9ca9be2198b80fb4c5ad21fbfdc0b8554a63ada0760d548e11e63495abc8307b02fd282466f1f63d950ad4958b39e6fa0765a7054d8799fe8cb
+Size: 40428
+MD5sum: 24ca3a3fff6a0d9bcce042de4498c36f
+SHA1: 156bbad8ed16a99ca94a877336e4ae8954115281
+SHA256: 2cda92928504c8005734b20ece81b3b66e9c8c99ccfb1dd053c6282cb772a275
+SHA512: cfb5f7c37405e0ac5b75c75ea1ee35e3c39510a2bda5c8eabd184073e1e78ec73860419b3349cf8d78cffa2fc3949c6ef18980e70d0ab20ba721b18ca9cfccf3
 Description:  Sileo软件源刷新、dpkg安装日志完整汉化，覆盖全部报错与输出文本
 Name: Sileo APT/DPKG汉化
 Author: Custom
@@ -1859,6 +1859,24 @@ Description: 在控制中心快速开启或关闭手机卡。
 Name: SafeSIM
 Author: 半生年华
 icon: https://huayuarc.github.io/icon/safesim.png
+
+Package: com.fiore.calculatorhistory
+Architecture: iphoneos-arm64e
+Version: 1.3
+Section: Tweaks
+Maintainer: fiore
+Installed-Size: 436
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: debs/com.fiore.calculatorhistory_1.3_iphoneos-arm64e.deb
+Size: 56572
+MD5sum: 006aa7a6026dc7bb19e3e7282fee3512
+SHA1: bf28f9084410163fc697d9638edd42dfe492d323
+SHA256: dcc11f1eb800ead8640899e710ffb5c01da6da0cb8e54e206ace44b17f94733a
+SHA512: eed05c6530ce88c8607d3916000b8d3d90b82088c7d977d47e14b1e3dff9560b9c6f5c5caf37bb7d12ea117a72cf260bd2d584a2ba8512c18c801ca560aaba4c
+Description: 计算器历史记录！
+Name: 计算器历史记录
+Author: fiore
 
 Package: com.flex2areo.apptools15roothide
 Architecture: iphoneos-arm64e
@@ -4025,6 +4043,25 @@ Description: Sileo首页头像旋转。
 Name: sileo头像旋转
 Author: liuf <1602389262>
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
+Package: com.wkk.folder4
+Architecture: iphoneos-arm64e
+Version: 1.3-0
+Section: Tweaks
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.wkk.folder4_1.3-0_iphoneos-arm64e.deb
+Size: 12488
+MD5sum: d515559fed0d3197f2156cb0e0fca958
+SHA1: 2bbe10b8acfb1d0bf024008abc97ab5abbfc49ff
+SHA256: 873f657b6b8e7c2cd1c8a096957a57932727acb7b381d4fcd5905753ffdd7f9c
+SHA512: 7f0425a5d32c1543620f20dadebd8598b235289ff8c933e5b209d9d7d7347a6e4b6ccb18862ecf7e741877c217303fd27e0745cef777150881e0ea59c3bf2414
+Description: 4x4的文件夹布局/隐藏打开后的文件夹背景/打开文件夹内app自动关闭文件夹/调整打开后文件夹布局整体为中心/修复springboard奔溃后文件夹图标剩9个/配合源里文件夹阴影使用将springboard占用压榨到最低。
+Name: Folder4x4
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2026/01/17/9209c2f3055f3d518df1df10d0fee36e.png
 
 Package: com.wkk.fuckicon
 Architecture: iphoneos-arm64e
