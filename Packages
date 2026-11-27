@@ -5397,27 +5397,6 @@ Description: 计算器历史记录！
 Name: 计算器历史记录
 Author: fiore
 
-Package: com.shtm.neowave16
-Architecture: iphoneos-arm64e
-Version: 1.0.0
-Section: Tweaks
-Maintainer: SHTM
-Installed-Size: 8756
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/语音唤醒动画.deb
-Size: 82070
-MD5sum: 5ad590a4820a8f0308aa37916a2e1982
-SHA1: 8ec280b23abc60cfc3761d9d94a4c44f0a85fbad
-SHA256: bb3902a860ff9ba91e98ab0436f195cae15eccec6aa44d74b7fbcda4f642f40f
-SHA512: 5ae203fe62a46026fb43ee211d6c426145cc321c3940bee34e371cc19641f4bdf359e628101a394028cfa89fc75c6d6ab7c5341d541d512053c5d23f446f1743
-Description: Siri唤醒显示色彩渐变边缘动画
-Name: NeoWave16
-Author: SHTM
-Icon: https://orig.shtm.best/descriptions/com.shtm.neowave16/NeoWave16.png
-Depiction: https://orig.shtm.best/descriptions/com.shtm.neowave16/sileo.json
-SileoDepiction: https://orig.shtm.best/descriptions/com.shtm.neowave16/sileo.json
-
 Package: com.chloe.physpringboards
 Architecture: iphoneos-arm64e
 Version: 1.9.23
