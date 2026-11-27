@@ -2430,29 +2430,6 @@ Depiction: https://repo.lenglengyu.top/packageInfo/ghallownetwork.html
 Sileodepiction: https://repo.lenglengyu.top/packageInfo/ghallownetworksileo
 icon: https://huayuarc.github.io/icon/huayuarc.jpg
 
-Package: com.lenglengyu.passbyccs
-Architecture: iphoneos-arm64e
-Version: 1.0.2
-Section: 控制中心
-Maintainer: lenglengyu
-Provides: com.lenglengyu.passbycc
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, firmware (>= 15.0), com.opa334.ccsupport
-Conflicts: com.lenglengyu.passbycc
-Replaces: com.lenglengyu.passbycc
-Filename: debs/com.lenglengyu.passbyccs_1.0.2_iphoneos-arm64e.deb
-Size: 126684
-MD5sum: 7398c4892bde196f628302bd4c224f9b
-SHA1: 557d7cbbd77ec3c4cec10e0bf30675c7732367d7
-SHA256: b71bccdaf43a11c0cddd37b0312019d290eb2c077972c5a481d1302572f1cb74
-SHA512: 0242ab04147b4c16934cf214d1c6bc7dbc0dbd9d9b7626b293392d97e537811fc70e508bdefc3b548b8b785b4bbf93a00a93ed83823c8e78092676ecd399647e
-Description: 控制中心模块，临时绕过面容，绕过密码解锁，修改为 FaceID 图标。
-Name: 临时绕过面容 PassbyCC
-Author: lenglengyu
-Depiction: https://repo.lenglengyu.top/packageInfo/passbycc.html
-SileoDepiction: https://TrollStoreX.Github.io/sileodepiction/PassbyCC/js.json
-icon: https://TrollStoreX.Github.io/sileodepiction/PassbyCC/icon.png
-
 Package: com.libxinji.reset
 Architecture: iphoneos-arm64e
 Version: 1.0.0-1
@@ -4527,25 +4504,6 @@ Author: xybp888
 Depiction: https://apt.htv123.com/view/999
 SileoDepiction: https://apt.htv123.com/sileo/999
 
-Package: com.yan.ring
-Architecture: iphoneos-arm64e
-Version: 1.0.2
-Section: Tweaks
-Maintainer: yan
-Installed-Size: 792
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), com.opa334.ccsupport
-Filename: debs/com.yan.ring_1.0.2_iphoneos-arm64e.deb
-Size: 80476
-MD5sum: e2293d27894a88529a0e73833a78393e
-SHA1: cdf6e06cbed4a35fbf606a9b500ab217a8c2d705
-SHA256: 1cbf59c322eb3acb90ba5aafdc2a4a2bc806bc6d311c73e875910265f2d77bf6
-SHA512: a9ca5a53a8ab53302dab986f7e01ca7ca1dfc7f6814b78297de3fe0168a244982326bccd66e3643cb8f457b0a930303317f23073610055be7360dde21135b88b
-Description: 轻松管理您的铃声音量！
-Name: Ring
-Author: yan
-Icon: https://yandevelop.github.io/assets/icons/ring/icon.png
-
 Package: com.yaowell.alarmvibrate
 Architecture: iphoneos-arm64e
 Version: 1.0
@@ -5001,11 +4959,11 @@ Installed-Size: 788
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, com.opa334.ccsupport
 Filename: debs/lilliana.reverie_0.0.3_iphoneos-arm64e.deb
-Size: 114030
-MD5sum: 84b4aea41cf3efa010e4a52ae1eb4082
-SHA1: 112777faa18c3db590d3089c05707b067723142b
-SHA256: 3fcb1e06f20b002d020e790ce61453b99ae838b1931ddc5b3d8bbaeed222ece1
-SHA512: 331ad279f21c3479010cb0ba82ef70ca31babdd985ccd6f6b1de43acb36a0f79302e1cbb3d33c33ce23ccc4bdc3c4299a95c0c62be92e90679d50b5e69479641
+Size: 113914
+MD5sum: 8883842739a835ef144bac62a23ec7a5
+SHA1: 29846e634f8d8869c4720a0d671ea450ba23c5b0
+SHA256: 860d0de2f7b833c6ad11056c876edc9e4e0a07bd6100c8269cc3350ca83e47f2
+SHA512: 6b8543c0d77fa8e49dd56dd6601145ae3b9d4b61aa7d0ed901552d37145c6ddfa0d7b8545f4d3a71409d062e5623e55f3a47ecb01c7e3b55a02d5cddbc373111
 Description: 当电池电量不足时，将设备置于休眠模式以节省电池。上调音量三次即可退出休眠模式。
 Name: Reverie
 Author: Paisseon
