@@ -3055,6 +3055,27 @@ Description: 将美观的小部件带到设置的首页！
 Name: SettingsWidgets
 Author: shepgoba
 
+Package: com.shtm.neowave16
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: Tweaks
+Maintainer: SHTM
+Installed-Size: 8756
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.shtm.neowave16_1.0.0_iphoneos-arm64e.deb
+Size: 45594
+MD5sum: 635c333e2d6f24e113161d5a8269e4c4
+SHA1: 9959b7f937d2ebbb4104e3fd46c2037663ba49bd
+SHA256: a44c12d14b923bcce82bba02e69a67d0dcf07f6ce8ecf63d823f3bc6d72a28fe
+SHA512: 4787e58f5d868ce35c67ada6ee5cdab1561a215c61aa2c5914293a62d59daa27eac55838a6292765b96ce6001885b3b9bd2fbfdbea4ecff2e4965e764074bee1
+Description: Siri唤醒显示色彩渐变边缘动画
+Name: NeoWave16
+Author: SHTM
+Icon: https://orig.shtm.best/descriptions/com.shtm.neowave16/NeoWave16.png
+Depiction: https://orig.shtm.best/descriptions/com.shtm.neowave16/sileo.json
+SileoDepiction: https://orig.shtm.best/descriptions/com.shtm.neowave16/sileo.json
+
 Package: com.simon.ccmusic
 Architecture: iphoneos-arm64e
 Version: 2.4
