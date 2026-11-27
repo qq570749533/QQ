@@ -602,25 +602,6 @@ Description: 消除编辑菜单、复制，粘贴时的延迟。
 Name: CopyFaster
 Author: 7abib0
 
-Package: com.HBWechatHelper.ailun
-Architecture: iphoneos-arm64e
-Version: 2.2.1
-Section: Tweaks
-Maintainer: HuangBai <QQ:1343309363@qq.com>
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 7.0), mobilesubstrate
-Filename: debs/com.HBWechatHelper.ailun_2.2.1_iphoneos-arm64e.deb
-Size: 11325832
-MD5sum: afaa08acb64d895178983c9a2a7214db
-SHA1: 35652d6a4890af8f821ee7c8759ad5c608e2d6d2
-SHA256: 70972d0f64b91f0dbaca249d49292300134a374362324cb99a611997a72dc83d
-SHA512: 6d3f46f444c3d490d0a948d8800554c658eef44e5e2c5e7e32ba6f343224afb3aa7be2ff80903c7f70b6a635ddca910d9fc327394f9cb231cad2520b1ba6d43d
-Description: 黄白助手-微信插件，点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况 Live 图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载 dylib 文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能
-Author: HuangBai <QQ:1343309363@qq.com>
-dev: HuangBai
-Sponsor: Mao
-Name: 黄白助手(微信娱乐插件)
-
 Package: com.PowerSave
 Architecture: iphoneos-arm64e
 Version: 0.0.1
@@ -2110,11 +2091,11 @@ Installed-Size: 152
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate
 Filename: debs/com.icraze.keepmyjb_1.1_iphoneos-arm64e.deb
-Size: 7872
-MD5sum: 2b93a709116f07956b663838b5071396
-SHA1: 2fdc6a98902a303b9fbb2d37366052e086969638
-SHA256: f857b0dc777d4b5924ec2729857516751cb1e24825e12040868d414541d08e7d
-SHA512: 7b6467ba642fe9429244129265be788b2c9cbe7710acf21e4ee4b77806800d5321edbd787cf31f2705271f6bbb9d3a6ebb39af860b70b61587db06ebeed59e81
+Size: 7812
+MD5sum: 069594fb09c20f37c561db8fcdac1195
+SHA1: 5ea01130d097444740ea05203c8c5916c301dddd
+SHA256: 4b89c0741ad76ac67f1c30a99eeb4554993978e7fb02a295b2944eff3aee49fb
+SHA512: 451b4475fc8428b529ab473ae94adc6ae6590a08dbd226aa15a7d62b6451ee4c69703c2e7804200a66ba357e9950f1186b1d420bf32b64aab832e8b1bd763dc6
 Description: 隐藏“设置-通用-软件更新” & “设置-通用-传输或还原iPhone-抹掉所有内容和设置”这两个窗口。插件无设置项，安装、注销立即生效。
 Name: 隐藏系统更新窗口
 Author: iCraze
@@ -2284,11 +2265,11 @@ Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>=15.0), firmware (<<26.0)
 Conflicts: org.thebigboss.sleeper, com.joshuaseltzer.sleeper
 Filename: debs/com.joshuaseltzer.sleeperx_4.0.0_iphoneos-arm64e.deb
-Size: 181604
-MD5sum: 3feeb43ddea06b6645a415b1754e9b49
-SHA1: 4574a52b37654d1a2fa3bd1effa09549e7177240
-SHA256: 4894ccb9133c87a4d19a9751163a76ab04e310dc067131c36921bed46faeddf1
-SHA512: f87928314d06a07206c99c9d07de4297f67fe3f740bf772dca0dfc00e50d7cd0f7d47790eed77ff4dd1d9d0657484255742cfa72f2ac9b72c293bc541d493452
+Size: 181702
+MD5sum: 4c6fee2c67fbd20253db449cf6b0d5a8
+SHA1: beb4ecda69627e0c5e15bac48b569ba049eadca2
+SHA256: e870e7f967446eefc605433efd7bb800cb51df356cf926eaa73ef81973db5480
+SHA512: 6ec4ace7550bcd4dd22353075621a90242011e1614a97b28514fc1361528b70fd65dbeec5e2f7238110411faa06eadfd5a2a12627cabed52eb5595134c72d1bd
 Description: 使用SleeperX设置自定义贪睡时间、跳过闹钟等。
 Name: SleeperX
 Author: Joshua Seltzer
@@ -2418,11 +2399,11 @@ Installed-Size: 152
 Pre-Depends: rootless-compat (>= 0.9)
 Depends: mobilesubstrate
 Filename: debs/com.lenglengyu.ghallownetwork_0.0.1_iphoneos-arm64e.deb
-Size: 14530
-MD5sum: e2484f6130576d626dc1402a58c4d978
-SHA1: fc617d1bfd520721060b6b697cdccbcad3d6bf3f
-SHA256: 79486a9ceba669a6d931070f2136736fcce6e1a53bd8f979b0088b88ec4b285a
-SHA512: 016c21aa581c85df250b029cb1d37168c4e04cc315f4733f324f165a3ee6350a36376d9c5949cfb40dd1c3521d0250ffecc4157c066c342697262562c1446986
+Size: 14116
+MD5sum: ec148d1a5a41aebf3da4e1090f700a79
+SHA1: c059c302b98853cf9090c43267ed26eb4adc662b
+SHA256: 2f3390750114f34f24babbe52987da395b0dd19dc8580d523a9afa5abe0914b6
+SHA512: 7c1dfefc4adf08553835741eea23fc2589ed8ea5a6710cf92bf0102036fda15204d3879115b30a2b34493e31b27183dfd703ed58b54aee00464eb9b367e2da0f
 Description: 国行手机自动允许使用网络。
 Name: Allow Network
 Author: lenglengyu
@@ -3333,11 +3314,11 @@ Installed-Size: 156
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate
 Filename: debs/com.sini.swipeselection_2.0_iphoneos-arm64e.deb
-Size: 17414
-MD5sum: f2868f5e39d3553f125e6f5a976c7720
-SHA1: 62584d29e296f1056f6e3a75dab14e9aa7fe60e5
-SHA256: 9cde16d3c3e70ca69562210a9b5ae407a50a6dd4d7b3f3685daae5a7d0834069
-SHA512: 13334c1128715b2bdc269619175bdccaa8782b05a7bc3054fd8a58623db90eaa5891a1b3e7a29465fe689998b75e4b12be0032dd499e6450edb800d25668f7d9
+Size: 17348
+MD5sum: 5b72be044ea0a15ebeb5b32b884c8945
+SHA1: 4672f7080c257c5f0d3a3b42be0498a0f2daad07
+SHA256: 4fefb514d3bd9b77359937f4a796842c049005bfd2be138dd8470607ea765b8e
+SHA512: 1301e468497cb391a91f9615db632e98de16474282d0c034238af1ea26c55e2e20dd28cb5da4da41b6b94aa3fd6f3f5c31e158a7e361c1e9ff2460104caf1ed8
 Description: 沿键盘滑动以移动光标并选择文本。
 Name: SwipeSelection
 Icon: https://sini921.github.io/repo/sileodepiction/icon/swipeselection.png
@@ -4162,11 +4143,11 @@ Installed-Size: 232
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.wkk.magicsms_0.0.1-9_iphoneos-arm64e.deb
-Size: 21802
-MD5sum: 6d499f7f0b371501c163abb3569bc9a8
-SHA1: 72dfa4956b2cb7a435c5d4cc6958fc0352b89edc
-SHA256: 5f1c3d695b110f0e4dc543ba95983290597ea2624021cad2934a5c68b9ad5999
-SHA512: a2341aa2d8bc82ffef7da9bf011f5e6685e4793f43455acc835c31db99e8c8d07cc59671b4bd6a4a9a8ce945744961331c8163c10df278afa398aa0510d4af05
+Size: 21724
+MD5sum: d7d982f9c419a14cf38f841f035d79cb
+SHA1: c7ab9c91717ecd2bc364437cac8dbd3903f0b7c3
+SHA256: 99211b1aa8b346c539d3b5e5d8ff05999e8f6d80f55c406d50d7210f6bcbe434
+SHA512: 899aea2c49319cb70f8182fdabbd46840041e36bd06145b69b31778aa0369d755a1d3ff25b46ae52ba5238a503a9e4c77fa300533b9017088f909dcefba86bc6
 Description: 免责声明：不存在任何收费且严禁用于商业用途，仅供学习交流使用，严禁用于欺骗与误导，后果自负。本人不承担任何法律责任。信息搜索栏输入8开启/关闭。
 Name: MagicSMS
 Author: rain
