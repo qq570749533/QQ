@@ -2357,21 +2357,23 @@ SileoDepiction: https://lclrc.github.io/repo/depictions/native/com.lclrc.control
 
 Package: com.lclrc.exacttime
 Architecture: iphoneos-arm64e
-Version: 2.0.6
+Version: 2.0.4
 Section: Tweaks
 Maintainer: SquidForce
 Installed-Size: 1284
+Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate
 Conflicts: com.gilshahar7.exacttimemail, com.gilshahar7.exacttimephone, com.gilshahar7.exacttimemessages
-Filename: debs/com.lclrc.exacttime_2.0.6_iphoneos-arm64e.deb
-Size: 38858
-MD5sum: 4fe50754262e4da211ffcaa597cfd679
-SHA1: aa988d8d499eb1bc735880fcc595079e5de7ab52
-SHA256: d5f493ae13bfa9bfa3feeda330d0fb1850b05c515b99e3101f3f17b23c3e0e34
-SHA512: c005c6db650c5954d35b0d0dc0375ef9e230b920c639607cd0c06c4ea0f61b6f8307af304c459e11ef297ef1d7a6b8a6ebdc8a3c8d07800ad857ac4fba0dc4ee
+Filename: debs/com.lclrc.exacttime_2.0.4_iphoneos-arm64e.deb
+Size: 19658
+MD5sum: a352d8ccd3c2b9f1f9f78792086d8cd1
+SHA1: 60798d8692beb836d85587a717794b8d2bb3be2a
+SHA256: 1d0fca920a907dbe29c32ad48ffa2791030456efdbe4eef0b0820b217f6a1578
+SHA512: f4de0e80442e5bf621072588342f6a8b613547cf16555f93c68cd757807128898cbbc63c4d179c11cea9741d94d1ceda5cb50470114ce4b817252691019edd12
 Description: 在通知中显示准确时间，闹钟中显示剩余时间。
 Name: ExactTime通知时间
 Author: gilshahar7, SquidForce
+Icon: file:///var/jb/Library/PreferenceBundles/ExactTimeprefs.bundle/ExactTime@3x.png
 SileoDepiction: https://lclrc.github.io/repo/depictions/native/com.lclrc.exacttime/depiction.json
 
 Package: com.lclrc.recordanywhere
