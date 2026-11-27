@@ -1486,19 +1486,19 @@ Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb/js.json
 
 Package: com.dao.ngc
 Architecture: iphoneos-arm64e
-Version: 1.0.6-2
+Version: 1.0.6
 Section: 嗨-工具
 Maintainer: 0xkuj
 Installed-Size: 220
 Depends: mobilesubstrate (>= 0.9.5000)
 Conflicts: com.0xkuj.notificationsgroupcount
-Filename: debs/com.dao.ngc_1.0.6-2_iphoneos-arm64e.deb
-Size: 26622
-MD5sum: 04d117fe1adb5e6a9816ecee14c3cca0
-SHA1: b05ef956cc7bad6c0fb954f394db79451d1bde66
-SHA256: a675135388e22c12e5d38e387bcc65123da08879bc3d6c7ca11e05902b0b481d
-SHA512: 19c05a3d9a21d11c5c93e90bd75d616dde9ad7f9ee757d81db38d731a3e754f64591b95f9b006b3c7e38a08aba2dacbd23124db7c7c44abe17885236fa1b54b8
-Description: 仿 iOS18.1，在锁屏通知堆栈中添加角标，显示组内的通知计数；已移除设置页，内置默认配色，安装即生效。
+Filename: debs/com.dao.ngc_1.0.6_iphoneos-arm64e.deb
+Size: 33706
+MD5sum: d24c17f3dfe68fadfbe298f8a853335c
+SHA1: b178c84b09a8a7aa4bcdc3b9715b10aa8cc8cbad
+SHA256: cca474f1207fa66971795199f077235eda73bc917e34a7b2f21a8b68b976b03c
+SHA512: 44e59e16335fdc487edd3cde116cdaccb2e1e2ac3d45fa7619cd3ef9a0e1b6816e02e87b74309be0d63ba048c98f931be82a87cd5cf8547e49cb105830abd069
+Description: 仿iOS18，在锁屏通知堆栈中添加角标，显示组内的通知计数
 Name: 通知组计数(RootHide)
 Author: 0xkuj
 
