@@ -3807,11 +3807,11 @@ Installed-Size: 168
 Pre-Depends: rootless-compat (>= 0.9)
 Depends: firmware (>= 14.1), mobilesubstrate
 Filename: debs/com.tomaszpoliszuk.lockscreenbatterymagsafe_1.0.4_iphoneos-arm64e.deb
-Size: 10386
-MD5sum: 483453045189364f1a14336acd950a6b
-SHA1: f1f7ad24dbaf40151118d194bb5e13837169e4cc
-SHA256: 52d4e90859a2bfde5979e73357d101a0cc99faff80b9b9202bf6b5e89c22dcbb
-SHA512: 22a6b18491d1f09dae6b0ff59cc98ca4f5b152468ee82117c92e9620a1d0062ab93ace3167575514f0d85d0bfec61ccf95b3a1f8258e9cee66f6d3685910fafa
+Size: 10312
+MD5sum: f4ee92e08eea6a2e9fa4f89b7d99ae6f
+SHA1: 64a077ab00b486f144228014b57939c68fd1e903
+SHA256: b486324142990418fd8904d70851c5adaef9f34a1db7cd978a2538e9374b385d
+SHA512: fcf28bbd0acd14eb559ac7458f3cc4a6a6214711be26b60d6028233eb5495ad3f41ed60f62a1787c201446ce542196352c46033f13f693ac966522b13d0e5c29
 Description: 将设备连接到电源时，在锁定屏幕上启用原生MagSafe充电动画。
 Tag: purpose::extension
 Name: 启用MagSafe充电动画
