@@ -3325,22 +3325,6 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/swipeselection.png
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/swipeselection/js.json
 Author: Kyle Howells
 
-Package: com.sini.vitreux
-Architecture: iphoneos-arm64e
-Version: 1.4
-Section: Tweaks
-Maintainer: MTAC
-Installed-Size: 7040
-Filename: debs/com.sini.vitreux_1.4_iphoneos-arm64e.deb
-Size: 282502
-MD5sum: a45679e450151075af22a21797ebde61
-SHA1: 01ebf611c16e0cd6797dcadcb88778efc15b6e17
-SHA256: 8c6a68f3f5162d2103b822c41f084a38e223612fa9a61dcb875870c22a9119c7
-SHA512: 4c491cea159a46fa610e986f3ce1fba9114540041347068f09e35990c5b53cd7d571d9f97012557205b04b1a31fc1af3b1e84466b57f3eb91427e3acb91a79a1
-Description: 仿iOS26液态玻璃。
-Name: Vitreux
-Author: MTAC
-
 Package: com.sini921.appstoretroller
 Architecture: iphoneos-arm64e
 Version: 0.1.2-5
