@@ -3107,11 +3107,11 @@ Installed-Size: 8756
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.shtm.neowave16_1.0.0_iphoneos-arm64e.deb
-Size: 45594
-MD5sum: 635c333e2d6f24e113161d5a8269e4c4
-SHA1: 9959b7f937d2ebbb4104e3fd46c2037663ba49bd
-SHA256: a44c12d14b923bcce82bba02e69a67d0dcf07f6ce8ecf63d823f3bc6d72a28fe
-SHA512: 4787e58f5d868ce35c67ada6ee5cdab1561a215c61aa2c5914293a62d59daa27eac55838a6292765b96ce6001885b3b9bd2fbfdbea4ecff2e4965e764074bee1
+Size: 45508
+MD5sum: 3402d80186866d42af14116171e43633
+SHA1: df066bb026fc7521b3065ca80fe788072d7bba92
+SHA256: a5bc93dc3bab929b8168e506e2ec526774ec4a9f36e56ccb1192cf69834ecc17
+SHA512: eef3913d1d1ad052c3f1672bba07ccfc877989ddc89f27e6c3f337269f0244ea85844b428d7713b2e7568b81cf07f0a7fe53065965b6eb88213c759c45f75d85
 Description: Siri唤醒显示色彩渐变边缘动画
 Name: NeoWave16
 Author: SHTM
