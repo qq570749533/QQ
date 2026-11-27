@@ -755,11 +755,11 @@ Installed-Size: 2208
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, firmware (>= 13), ws.hbang.common (>= 1.16), cy+cpu.arm64v8 | oldabi-xina | oldabi
 Filename: debs/com.azzou.rounderls_1.5-6+debug_iphoneos-arm64e.deb
-Size: 58338
-MD5sum: 841079963aca33e7afa7c0858dbd560d
-SHA1: e385d89c8c16d29cb9303f8feaafd8781ade40f7
-SHA256: d350fd1f41438b8597aa67990dc6028166a78ed7fcb297bb8a53613bae732878
-SHA512: faaf4b039dff591168c9c07e0ccdf69d84f15d096f15cbfcfd3f77915bd18d81f971277d01ea2b24917a84a379214ac799eab9188a07b4bd883c9c6a70372722
+Size: 14932
+MD5sum: 7353e1c745286efa782d7a2131decf54
+SHA1: 42de02d840ee708b9e67ffaffa32a8907c364297
+SHA256: d7334ca90b46b57411137449dcea67fba82df94967946c8eb44367c72d80f905
+SHA512: c638b824a7ebdc0defb0126ddecec9a70d38fdc6add9449619a15296ac25258cfbd68fa703eb1f9f840522acc1ff0f44d260fb66c4674c2880ce9209ef6da169
 Description: 稍作调整，让你的锁屏更圆润！ 下拉通知圆角
 Name: RounderLS
 Author: Azzou
