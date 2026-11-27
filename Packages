@@ -3166,11 +3166,11 @@ Maintainer: CyPwn
 Pre-Depends: rootless-compat (>= 0.9)
 Depends: mobilesubstrate
 Filename: debs/com.sini.autoscroll15_1.0.0_iphoneos-arm64e.deb
-Size: 10686
-MD5sum: f65de280c344ec319d0275d4597daaaa
-SHA1: e7bc72acede7620ddbbf9b135697ad6671e5bc89
-SHA256: 7075159f520928a056f179f7adf6f2f34f5767b709ecd6af60888579eac57514
-SHA512: 8e6dc58480fe7f7bbd56000174b731fd51382d32b87e0c707dae4212504a8f96f19019ec1e86cb1fa2e93a8567ecd4b56d75fbb1cb11f40476a4b80b809643ac
+Size: 10248
+MD5sum: 9f21cb91bbdf498ab2030484f7a815a5
+SHA1: 3bad3621769fd92ca48822255f579dce707068d9
+SHA256: 0e9dba9eac2a016b5e3d927bedf3f2dd1c2e0a7701a7ffb2adf28782a24e48dd
+SHA512: 7a149f9b6b00c23c86dea81064cacfddb7ef01a1f76de475600ca15d7c38ab8fe3d865e61c2fb2bd52ef077fb3cabd46082e03441ffdd7a07ce8cbd82d265239
 Description: 只需滑一下即可不停的一直滑，手终于可以闲下来去打了
 Name: AutoScroll
 Author: pxcex
