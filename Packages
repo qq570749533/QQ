@@ -1636,11 +1636,11 @@ Installed-Size: 500
 Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0)
 Conflicts: com.julioverne.goodwifi, com.qms.goodwifi, com.hk.goodwifi, com.daodao.goodwifi16
 Filename: debs/com.daodao.goodwifi_1.7.5_iphoneos-arm64e.deb
-Size: 138812
-MD5sum: 45c7c87e8daccfa030cc3b80173e54aa
-SHA1: a25f58966daf3d13b9211e3469ce0a704b7e21e5
-SHA256: f2fb2044c9b292c607da98c50ed933dc604e430a94f456ced7f7a1f26ad81cd2
-SHA512: b855a32d376e309f52a4ba24c5e06cd440128716c0107489753af2e42a86868381c03e71bb0b4474b5648f34155eb3c111712d0e6434061ac18f1220cae3de10
+Size: 60514
+MD5sum: 2dffbda9cd960dada6686109504daccb
+SHA1: 6eb68d97b4e3c4ea2c45a086008a114cde5f04ea
+SHA256: 62009076a4b1c83a48f3bea7a3683e604660971963f72461a2613ad6abfb42b4
+SHA512: 0960a81afb705856465301b8ec4b6644f4cdae90b4b78ff8b31b7a30babe07bb64a66eaa11ac9ed9511e7989a78ce19d349bebbcd7a4deda59fe9d06448c1a21
 Description: 更好的 WiFi 配置，查看 WiFi 信道、加密方式和密码、信号值，去除 RSSI 限制，显示 MAC 地址等；简体中文优化版。
 Name: GoodWiFi(RootHide)
 Author: julioverne & daodao
