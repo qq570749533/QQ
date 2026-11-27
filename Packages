@@ -3780,6 +3780,26 @@ Description: iPhone、iPad、iPod Touch的文件管理器。支持iOS 15+。此�
 Name: Filza File Manager 64-bit
 Author: TIGI Software
 
+Package: com.tomaszpoliszuk.lockscreenbatterymagsafe
+Architecture: iphoneos-arm64e
+Version: 1.0.4
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 168
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: firmware (>= 14.1), mobilesubstrate
+Filename: debs/com.tomaszpoliszuk.lockscreenbatterymagsafe_1.0.4_iphoneos-arm64e.deb
+Size: 10386
+MD5sum: 483453045189364f1a14336acd950a6b
+SHA1: f1f7ad24dbaf40151118d194bb5e13837169e4cc
+SHA256: 52d4e90859a2bfde5979e73357d101a0cc99faff80b9b9202bf6b5e89c22dcbb
+SHA512: 22a6b18491d1f09dae6b0ff59cc98ca4f5b152468ee82117c92e9620a1d0062ab93ace3167575514f0d85d0bfec61ccf95b3a1f8258e9cee66f6d3685910fafa
+Description: 将设备连接到电源时，在锁定屏幕上启用原生MagSafe充电动画。
+Tag: purpose::extension
+Name: 启用MagSafe充电动画
+Author: Tomasz Poliszuk
+dev: tomaszpoliszuk
+
 Package: com.tsangbaby.kbrc
 Architecture: iphoneos-arm64e
 Version: 1.0.3
