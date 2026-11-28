@@ -495,26 +495,6 @@ Author: zqbb, roothide
 Icon: https://apt.002599.xyz/web/icon/cn.zqbb.inject.manager
 SileoDepiction: https://apt.002599.xyz/web/cn.zqbb.inject.manager
 
-Package: cn.zqbb.stopautolaunchapps
-Architecture: iphoneos-arm64e
-Version: 2.5
-Section: zqbb Tweaks
-Maintainer: zqbb
-Installed-Size: 1120
-Depends: mobilesubstrate (>= 0.9.5000) , firmware (>= 15.0)
-Conflicts: zp.stopautolaunchapps
-Filename: debs/cn.zqbb.stopautolaunchapps_2.5_iphoneos-arm64e.deb
-Size: 466134
-MD5sum: 96ca6fa29889ce3deebaeb9ce9d8cb5f
-SHA1: 79783a1850b7cbb88713ced875ea7c189a544655
-SHA256: cb5b35a96d7a36704382aa592d4d35c1cd05e0c553bc9545cd3fa95ebb45b7a8
-SHA512: 02c947ad7303777b5564414d39f5dff1b4217dfe151aeb362a8e8e1cb3061ff316c3cd305fe8f2c9bde4c1d902828d5fce3950a4ad272b028764962a638f1f01
-Description: 别在后台热加载app咯! 
- - 优点:节约内存,少杀后台.
-Author: zqbb
-Name: Hello 3Q
-SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.stopautolaunchapps
-
 Package: codes.aurora.kayoko
 Architecture: iphoneos-arm64e
 Version: 3.6.1
