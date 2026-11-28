@@ -3650,6 +3650,25 @@ Description: 后台界面添加可用内存显示
 Name: QuickAppsKill(roothide)
 Author: SINI
 
+Package: com.sini921.quickpowerbutton
+Architecture: iphoneos-arm64e
+Version: 0.0.1-39
+Section: 越狱插件
+Maintainer: SINI
+Installed-Size: 600
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.sini921.quickpowerbutton_0.0.1-39_iphoneos-arm64e.deb
+Size: 161968
+MD5sum: 1e81331212e2ca57d88413e2bb129475
+SHA1: 889bd9f769901918ee7bf06b1bcbed39ca47fa92
+SHA256: 3e00496c0b8731a7865cb8ff428e435478387a44dab2e9de6a5667b55a0c7aad
+SHA512: 134d121ba06c2352722972bdac0276c0485a040a2f701fcbe5cf869a1a3418ae413b47e3ccb3093094e0db573784b4a4dbc3fff886d94ed444f5eb9576b0e491
+Description: 在锁屏界面手电筒与相机中间添加一个快捷按钮，点击后弹出电源选项
+Name: QuickPowerButton(roothide)
+Icon: https://sini921.github.io/repo/sileodepiction/icon/quickpowerbutton.png
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/quickpowerbutton/js.json
+Author: SINI
+
 Package: com.sini921.smoothinstall
 Architecture: iphoneos-arm64e
 Version: 0.0.1-1
