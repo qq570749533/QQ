@@ -5156,12 +5156,12 @@ Maintainer: RootHide <RootHideDev@twitter>
 Installed-Size: 620
 Depends: roothide (>= 0.0.6), libiosexec1 (>= 1.3.1)
 Filename: debs/unzip_6.0-28_iphoneos-arm64e.deb
-Size: 148616
-MD5sum: 135d2ca8814846b6c09fc244da8f074d
-SHA1: 8db2047f9914097de66f2fed312267312c9eeecc
-SHA256: a1a11a8c883beb83d5697a56ec0397e2b4a1322380b9eceacb2eb3bd7e46e14b
-SHA512: 4de477ce1402bf52cb8529c42263a2144f05d8daea1dd4107df40dc026ac2c14603e1b9e38299bceb641c3afc2fb2ecc0246b3a6323b582a93953cf85a23204d
-Description: de-compesses files in zip format
+Size: 148020
+MD5sum: b1f91bd0ace1c8c495528241d9ebad2a
+SHA1: 7ba6f2293177312d87331384ec3d2f70a491eb95
+SHA256: 6705d8ad07b1302f2b883af30ba569316af6007ecce362d204d08f5b9029bd31
+SHA512: 8b036bb8c8c5ea7ba72296c1504cf8be8755713ce989eebb63397bd86b1d0c8eeacd7d03b6850a3835e8492810f3a8ef8814d212aa4f64d5a050adb9e591e3be
+Description: 解压缩zip格式的文件
 
 Package: wiki.qaq.lenslock
 Architecture: iphoneos-arm64e
