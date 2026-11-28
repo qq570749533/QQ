@@ -268,6 +268,29 @@ Name: SquidExtender VH
 Author: SquidForce, Backup
 icon: https://huayuarc.github.io/icon/SquidExtender@2x.png
 
+Package: cn.octoforce.squidgesturepro
+Architecture: iphoneos-arm64e
+Version: 2.7.6K
+Section: Tweaks
+Maintainer: SquidForce, Backup
+Installed-Size: 6620
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
+Conflicts: com.lclrc.squidgesture, com.lclrc.squidgesturepro
+Filename: debs/cn.octoforce.squidgesturepro_2.7.6K_iphoneos-arm64e.deb
+Size: 2773332
+MD5sum: 0fe6d3dd45ecfa1a46db87755741e14a
+SHA1: 251a548d8219986fa9ffd4c219a5c3b778c00749
+SHA256: 02668b4ee31a7f649bb4c5bf4b10a82708b1ec99da795a0dc1815c10faa6e237
+SHA512: bac38b4edbdf2ab4b8fa94f7fbe07169c7e4be2ab48e3fa3dc639d86d4b9935961a892c8359e19c1d637cbf4087b39c7da5e16a374c04ba11aa6c5419995eeb0
+Description: 一款手势增强插件。专业版支持将多项操作聚合到同一个手势，并以面板形式展示；后续还会支持动作流。
+ * 触发方式
+ * 底部边缘手势：逻辑和系统应用切换手势一致，根据滑动距离触发不同操作。
+ * 状态栏手势：单击、双击、长按、左滑、右滑。
+Name: SquidGesturePro
+Author: SquidForce, Backup
+icon: https://huayuarc.github.io/icon/SquidGesture@2x.png
+
 Package: cn.zqbb.3dtouch.inject.roothide
 Architecture: iphoneos-arm64e
 Version: 2.1
