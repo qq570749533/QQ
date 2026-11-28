@@ -4077,11 +4077,11 @@ Maintainer: wkk
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.2), mobilesubstrate, preferenceloader
 Filename: debs/com.wkk.hideserialnumber_1.0-4_iphoneos-arm64e.deb
-Size: 66256
-MD5sum: 26c298563fd7a96d3ccd1a30b8d314b5
-SHA1: 706bfd9c02e03cde79c8e88ebde3f9c3790b68d6
-SHA256: 94e4dac047332fcccddb9fbb4cd0d11e6e5b1a1932212076f56eff8eac374e18
-SHA512: 768280364586d51556b813355d76eac91171cae8030ced0ed21e66b533317f343270d3865f97fd4271906443914bac37a2ec3d5046af0f15f8f6d899e711b716
+Size: 58522
+MD5sum: 3da9fa5eda2540c0f4fcf5f049376369
+SHA1: d64d2756be02c22bf6fd289698b3c8691f8e5085
+SHA256: c475a8f6a8a5c315a2fbf4662253278bdf3e0e77b477640fa7f0d8d0490278dc
+SHA512: 5ff270193bd4e72adfc16d0a8b87711a285e271bb4880592bddcb7d2c06e211872e91f4dc8295d522ff8d6c16446e3337b826fa7c2e2af42cee01f3ed158efb9
 Description: 自定义序列号机型等多个信息，装逼用。
 Name: HideSerialNumber
 Author: ichitaso <qiaozhani000@163.com>
