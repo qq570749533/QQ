@@ -180,6 +180,24 @@ SHA512: 399511de2286c85ac3a6d96b94267ee1660f503a6b96ce2ae4681df2b8230333bb509860
 Description: 控制中心VPN便捷开关模块
 Name: CCVPN
 
+Package: cn.dao.relaxin.cocoatop
+Architecture: iphoneos-arm64e
+Version: 2.3.3.1
+Section: 嗨-系统
+Maintainer: SXX, Domo
+Installed-Size: 936
+Conflicts: ru.domo.cocoatop, ru.domo.cocoatop64, cn.zqbb.cocoatop64.inject.roothide, zp.cocoatop64.unject, zp.cocoatop64.unject.xina, zp.cocoatop64.inject, cn.zqbb.cocoatop64.relaxin
+Replaces: ru.domo.cocoatop, ru.domo.cocoatop64, cn.zqbb.cocoatop64.inject.roothide, zp.cocoatop64.unject, zp.cocoatop64.unject.xina, zp.cocoatop64.inject
+Filename: debs/cn.dao.relaxin.cocoatop_2.3.3.1_iphoneos-arm64e.deb
+Size: 294746
+MD5sum: 5d01582eed616e186c5d16063e1d631a
+SHA1: 0879e53275afd3b0fab0d269dc2de58b3b8af29f
+SHA256: 880daabe87c88e4403df324e557b05fb25409be12d2cc14512dc4111ddca4a75
+SHA512: c4ac747a3e31d9450509e02fae75a808d82f2735f3096f4a31dce1ea3b3d1cc90718980db54191e1217b31065cc9286edf693f2de0c0afec6f642efbf51a0f01
+Description: CocoaTop64 进程查看，基于真皮版定制：中文翻译+UI微调+更新图标等。
+Name: CocoaTop64 中文版
+Author: Domo, SXX
+
 Package: cn.llld.avphotos
 Architecture: iphoneos-arm64e
 Version: 1.0.1
@@ -496,24 +514,6 @@ Description: 别在后台热加载app咯!
 Author: zqbb
 Name: Hello 3Q
 SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.stopautolaunchapps
-
-Package: cn.dao.relaxin.cocoatop
-Architecture: iphoneos-arm64e
-Version: 2.3.3.1
-Section: 嗨-系统
-Maintainer: SXX, Domo
-Installed-Size: 936
-Conflicts: ru.domo.cocoatop, ru.domo.cocoatop64, cn.zqbb.cocoatop64.inject.roothide, zp.cocoatop64.unject, zp.cocoatop64.unject.xina, zp.cocoatop64.inject, cn.zqbb.cocoatop64.relaxin
-Replaces: ru.domo.cocoatop, ru.domo.cocoatop64, cn.zqbb.cocoatop64.inject.roothide, zp.cocoatop64.unject, zp.cocoatop64.unject.xina, zp.cocoatop64.inject
-Filename: debs/cocoatop_2.3.3.1.deb
-Size: 376088
-MD5sum: 78fd1dd591c4784dadb5e8e518a4dd5f
-SHA1: 74ff82430cb08f4a39ee815a0a8f57bff9366a58
-SHA256: 0b357951d2472cca8bf87eb481a7b8b31e4631fbafc6b53763b55ea937e745c3
-SHA512: 50d304066259a80c07d0303025e075b37455f2015423cf0718b36afce140c2132df910dfcd1832225d783c975d376c8244dac4ac9db85e187ba7c68cdcf53c50
-Description: CocoaTop64 进程查看，基于真皮版定制：中文翻译+UI微调+更新图标等。
-Name: CocoaTop64 中文版(Relaxin)
-Author: Domo, SXX
 
 Package: codes.aurora.kayoko
 Architecture: iphoneos-arm64e
