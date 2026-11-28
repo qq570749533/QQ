@@ -970,25 +970,6 @@ Author: Chloe
 SileoDepiction: https://TrollStoreX.Github.io/sileodepiction/Physpringboard/js.json
 Icon: https://TrollStoreX.Github.io/sileodepiction/Physpringboard/icon.png
 
-Package: com.cpdigitaldarkroom.itsevanesco
-Architecture: iphoneos-arm64e
-Version: 2024.05.26-20
-Section: Tweaks
-Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
-Depends: mobilesubstrate, preferenceloader
-Conflicts: com.cpdigitaldarkroom.evanesco, com.1conan.evanescoxi, com.randy420.evanescocc
-Filename: debs/com.cpdigitaldarkroom.itsevanesco_2024.05.26-20_iphoneos-arm64e.deb
-Size: 37778
-MD5sum: 1897c875c3d13f42f7a267cf206e5e6e
-SHA1: cefd43a5838360efa761d31adf9f6f2efc39857f
-SHA256: a2a07772710110ba5e2e88958404ebdaf2616343323359efc5b78febb7492d97
-SHA512: 3b4bc3cf04e8903ad176a2af82e46b1d3205f9a7bde0f52f39e7540f85421e4f4f027365b9788097cc6ce07e3676cf8b4f3007b2c760cf6e15b8f5aafd96a8dd
-Description: 不活动后清除主屏幕（原生arm64e重建）
-Name: Evanesco!
-Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
-Depiction: https://Randy-420.GitHub.io/depic/evanesco.html
-icon: https://huayuarc.github.io/icon/evanesco.png
-
 Package: com.cracklock.7513
 Architecture: iphoneos-arm64e
 Version: 1.0.5
@@ -2280,6 +2261,25 @@ SHA512: ca8fdc5777c8e303e98492cdf3b71ee974f4f36137e48f255f407ce5e1cf2e56464e0e11
 Description: Zone 插件用于设置.tendies交互壁纸/视频壁纸 支持iOS14-17
 Name: Zone
 Author: iosdump
+
+Package: com.itsevanesco
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: 一个人的冬季
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.cpdigitaldarkroom.evanesco, com.1conan.evanescoxi, com.randy420.evanescocc
+Filename: debs/com.itsevanesco_1.0_iphoneos-arm64e.deb
+Size: 68550
+MD5sum: f8748847a911677357f9efdb9cded95e
+SHA1: 85b5028c53897e1b260d992fc806299ac10f2c59
+SHA256: 5c0bceb8ae95274f95a9da713b1af8b9a26cd91f7a23ea03df0be7ef745eadfd
+SHA512: 235549159d2f603af90d45d07000a1b725811ffff2b8379f8d7fad1def4faebcdf34342e9765e15b8ff7a053b546ddba1ace06808e49fa03a221bb43f2dd6db0
+Description: 不活动后清除主屏幕。
+Name: 不活动后清除主屏幕
+Author: 一个人的冬季
+Depiction: https://Randy-420.GitHub.io/depic/evanesco.html
+icon: https://huayuarc.github.io/icon/evanesco.png
 
 Package: com.ixdzs.bzhelper
 Architecture: iphoneos-arm64e
