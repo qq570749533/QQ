@@ -4270,6 +4270,25 @@ Name: 去除原生键盘候选词高亮背景
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 
+Package: com.wkk.reachplayer
+Architecture: iphoneos-arm64e
+Version: 5.0.0
+Section: Tweaks
+Maintainer: 苏苏
+Installed-Size: 3636
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: debs/com.wkk.reachplayer_5.0.0_iphoneos-arm64e.deb
+Size: 1236246
+MD5sum: c4a78a74d8a31232f8c1cd5bcdcb6630
+SHA1: 195d284f8095d269890897a529179f6eb93ff9d5
+SHA256: 3ece6edd4a9f42932eb256a794d8ab3f14369c6b0209fcf1866c1754ee0b53cd
+SHA512: 54b72d6ef6af963e0e90b23509dfd23192b3995a5a7c66ca44420ecd294e6d27541cf3368412b85d45ce2078c18d27da80df25e2197fe61350dd4f2c042eea68
+Description: 在便捷访问模式上方的空白处增加音乐控制器。
+Name: ReachPlayer音乐专辑
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Author: 苏苏
+
 Package: com.wkk.screenfarewell
 Architecture: iphoneos-arm64e
 Version: 1.0-3
@@ -5349,23 +5368,4 @@ Description: 在键盘底部添加快捷按钮/App，已汉化。
 Name: KBApp
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
-
-Package: com.wkk.reachplayer
-Architecture: iphoneos-arm64e
-Version: 5.0.0
-Section: Tweaks
-Maintainer: 苏苏
-Installed-Size: 3636
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate
-Filename: debs/音乐专辑便捷访问.deb
-Size: 1216098
-MD5sum: d8cb94fd02d635733e9afd295dfaab2f
-SHA1: f19ec41d8b96f14737467b86817ef9a164f31a3c
-SHA256: 4e39b3017d2960bdaeb1cc152e10641428ab5894263c6b77f9c40e396b049ae6
-SHA512: 6aded6f33e3c11bf5e4eb2c5a138ffa2e9ef9eae828432cccfdc0e5ef688e5270999bb42ea2a3634a2596a89b87c0a4ecc4d93c23fbcb7a19352a0e86b908620
-Description: 抱歉自用版本，绝版了，没授权过别下载。
-Name: ReachPlayer音乐专辑
-Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
-Author: 苏苏
 
