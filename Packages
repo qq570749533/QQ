@@ -523,11 +523,11 @@ Maintainer: Lessica <82flex@gmail.com>
 Installed-Size: 1212
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
 Filename: debs/codes.aurora.kayoko_3.6.1_iphoneos-arm64e.deb
-Size: 428304
-MD5sum: b0434bc9a8cbb661505713d832614e77
-SHA1: 4aa2c22363464c895b7de5b34c6dd7aaf8eb12ad
-SHA256: ece4cbefb7aab36c0a9be1394111ac0b4bcebddf1a9136d0d142f98199ea8272
-SHA512: f0d4f325fb3ca4590fb1a7f9684e5a22a89637df83b7a978c8b97d2835117963d5bd0959cd102349e50f13ce94cf0dd437c6d1b77b70c61df3681df922181506
+Size: 328938
+MD5sum: c4c4fb3fbd4ae6ed6d6d84effc70fcd1
+SHA1: 79b92bb912244bee97af468c05c96ca5815a1e2e
+SHA256: d08b55cea36e2bb15027b310615163cbdc1b03b100f22ff7fcca8aa04700cc3d
+SHA512: 5a9b63d9056ccec22974f3ac501ebefdc759b54913db1dec1a19abf914d6fe9dcc84a38b46e8b96176ab7b67ecd1731dc8b8890a48fdf378fb4cd4a2028ef8ae
 Description: iOS版剪贴板管理器。
 Name: Hello Kayoko
 Author: Alexandra Aurora Göttlicher
@@ -1956,11 +1956,11 @@ Maintainer: 航
 Installed-Size: 856
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Filename: debs/com.hang.keyboardeffects_1.7_iphoneos-arm64e.deb
-Size: 337008
-MD5sum: bde407cd6cb513721937f1cd3ce32bdf
-SHA1: 37df19873f75cacb9378be1f63ac32e850014462
-SHA256: feb30febc2a3e234b049a70a3535650cd4908fcf18abf26161e114b10b5c233b
-SHA512: a3365f92abab3951a565b8e94080bb99378acf963be9065989ac94e2c981bdd8baca2b34570aa8c4f8b0765a380064a8eb5b530bcd60c5690ec9f11840f09c95
+Size: 266216
+MD5sum: d100eae54be7ed958ea2d79d97751df3
+SHA1: 7cb6786137a70c04808cb4eda0237c8900b2afe4
+SHA256: a8ca7c7ceadce7c8a1a110f2fc0989a66c372fca9a9f9d901542b7fbb585bec5
+SHA512: de97ba02b87713f5e64ef7662bcfde029410417885d958e40acffa40a88229aa243a1541c65e772a7b678f295975f3a5f79a2e89d264159c5a6e39f3f6326bfa
 Description: 原生键盘圆角与沿圆角轮廓的彩色发光点击特效
 Name: 键盘特效
 Author: 航
@@ -2063,11 +2063,11 @@ Maintainer: Huayuarc
 Installed-Size: 1424
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Filename: debs/com.huayuarc.sneakycam_2.2.5-1_iphoneos-arm64e.deb
-Size: 263560
-MD5sum: a86570d775ffaf779e46a8e99d0c6a8b
-SHA1: 54e03e379758eaa7ba85b533b1b0387da7391cab
-SHA256: 2bf31f819feb2ed910a736178f6647a63caffc6db1b46abfb5f2ba6b6f7dd0b1
-SHA512: 695e873c9c686872e2a654da97d96a4a0f7cc2d26fd9e7eb7c674c92197027102311a25bbe1361b26988a00ad30e37b9be1ce482ee21b424bf9b6874116336f5
+Size: 221970
+MD5sum: 36fdaecab155ffb1deb6d6869e979f26
+SHA1: ac7bc3924718b1f291215a81edecf869e6fe7aef
+SHA256: 15c3724b95f4eb59ac14316d24545b8dab36864638f6b0aa84420dc7cb3ae8ed
+SHA512: 886313b09f101e5e5f0ccdee7aa608e2a1e3122aeb668233a5f2bf143fafbdaf43dfaf1eacf5bc09ed20eaaf3c0bbbe8f65f0fcc249d31327550911eb4be3447
 Description: iOS 16原生SneakyCam为多巴胺无根和RootHide构建。 SneakyCam 是一款支持息屏状态使用拍照或录像的插件。即使在关闭屏幕的情况下，也能随时随地谨慎地拍照或录制视频。控制中心CC模块可一键启用/关闭。视频或者照片默认保存路径：/var/mobile/Media/Camera。
 Name: SneakyCam 隐私相机
 Author: Spark
@@ -4541,11 +4541,11 @@ Section: System
 Maintainer: xybp888
 Depends: firmware (>= 16.0), mobilesubstrate
 Filename: debs/com.xybp888.perfectdynamiclsland.roothide_1.4.0_iphoneos-arm64e.deb
-Size: 1814560
-MD5sum: f4903fdd41049e13c551f651264d3516
-SHA1: 803f00e27bcf29c0f4b59fbd80ab7acab69ed1f7
-SHA256: 2892a0d27523bde0a1874ed6f9f6139a4be18213c9ecaf57494c01610452dd09
-SHA512: 6e701f6b29517559b6ac655b168b4730a3812a6e567d48b69d419e5505226fc36c0b1e2ddb974a819d41a223222083a397161aff5909dd8ac128ab92bb705028
+Size: 1395122
+MD5sum: 3e3a9531723b0aad2f2cc820e541b0f4
+SHA1: 42b188c5551b3936ff4ebb4f26579724d8e241e7
+SHA256: f01d92068b3a06917a6d4e7976204d1129b8e6490dc062c028de528b8c7c1f7e
+SHA512: f23a9f982d1ef4bbc0a26ab9ebdc9d27c45dbfa4a6681df5cb62e1c7a835fc1a1fb953817024f23e52608b03f2f1cb9fc7be4f593be2b2dc76e576cd5dfbfa77
 Description: 完美的使用原生灵动岛展示系统通知等...
 Name: 灵动通知iOS16-正式版(RootHide)
 Author: xybp888
