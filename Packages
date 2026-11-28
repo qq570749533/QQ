@@ -4999,6 +4999,25 @@ Description: iOS 16-18的自定义锁屏快速操作、应用程序和快捷方�
 Name: SpringBoardAction
 Author: Banana
 
+Package: iya.iapple.siri
+Architecture: iphoneos-arm64e
+Version: 1.1.4
+Section: Tweaks
+Maintainer: Thijs mussig
+Installed-Size: 2340
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.yourcompany.liquidsiri
+Replaces: com.yourcompany.liquidsiri
+Filename: debs/iya.iapple.siri_1.1.4_iphoneos-arm64e.deb
+Size: 316900
+MD5sum: 8eb42c649135caf2a3ee93b5673687ab
+SHA1: d595537dcbcff566ee3176998b1f6de8fd4ae5aa
+SHA256: c6885e6bd4efc1869359b0da4aab0f6d90a295ae35a153f9b86aafb87efbb2a6
+SHA512: c0f25adceabef96204d626e637a11f3341206cbf5b791e973a5f0d8a1fbbf8415020e4f343b90b897a63769ad9a790a1a20650aa05cb3674a1f2d41317a4b5f2
+Description: 使用NewSiri边缘照明
+Name: LiquidSiri
+Author: Thijs mussig, Banana
+
 Package: lilliana.reverie
 Architecture: iphoneos-arm64e
 Version: 0.0.3
