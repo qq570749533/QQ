@@ -3319,11 +3319,11 @@ Maintainer: sini921
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common (>= 1.17)
 Filename: debs/com.sini.senri_1.1_iphoneos-arm64e.deb
-Size: 204050
-MD5sum: 795736b06dc4c49de713e09e052738d1
-SHA1: 8845cf7dd2d77e1d36556c600e08750a5eb57256
-SHA256: b904e33993ee8e7206177047b69ef81098c5a3db002294a5ed7ccf0cf214fd53
-SHA512: 7ab04f6ff6a3e9e7150be350d8fc16465ef64e72a25e378fd0681968210296af53338ecb3750dee821ec24a044ac35d39c09d4656491d1427e95631f266e00a7
+Size: 286918
+MD5sum: e819f50b0a313387b05f2e24c9aaca11
+SHA1: 7e6dbae6b3f2b6bc86fc29316437b884b26b06f1
+SHA256: f857cc7c313c062dfe0aa212ca7ce5512ae5d71436ddfd619cdf9532b75a36a7
+SHA512: b7384827122e5071a1294f1850eb68798baadd818c4441ca7d59d210c161935560537bb8191dcb9a931fe22df83432dfe05815789ae46df84c1dd649fb6793f5
 Description: 永远不要再丢失您的通知！Senri会记录您的设备收到的所有通知，并将其保存。
 Author: Antoine
 Name: Senri
