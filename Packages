@@ -3311,6 +3311,25 @@ Sileodepiction: https://sini921.github.io/repo/sileodepiction/recorder-bubble/js
 Name: recorder-bubble
 Author: sunshinesong
 
+Package: com.sini.senri
+Architecture: iphoneos-arm64e
+Version: 1.1
+Section: 越狱插件
+Maintainer: sini921
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common (>= 1.17)
+Filename: debs/com.sini.senri_1.1_iphoneos-arm64e.deb
+Size: 204050
+MD5sum: 795736b06dc4c49de713e09e052738d1
+SHA1: 8845cf7dd2d77e1d36556c600e08750a5eb57256
+SHA256: b904e33993ee8e7206177047b69ef81098c5a3db002294a5ed7ccf0cf214fd53
+SHA512: 7ab04f6ff6a3e9e7150be350d8fc16465ef64e72a25e378fd0681968210296af53338ecb3750dee821ec24a044ac35d39c09d4656491d1427e95631f266e00a7
+Description: 永远不要再丢失您的通知！Senri会记录您的设备收到的所有通知，并将其保存。
+Author: Antoine
+Name: Senri
+Sponsor: sini921
+icon: https://sini921.github.io/repo/sileodepiction/icon/senri.png
+
 Package: com.sini.swipeselection
 Architecture: iphoneos-arm64e
 Version: 2.0
