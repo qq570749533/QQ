@@ -3575,6 +3575,25 @@ Author: SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/kayokolite.png
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/kayokolite/js.json
 
+Package: com.sini921.lockscreenhelper
+Architecture: iphoneos-arm64e
+Version: 0.0.1-20
+Section: Tweaks
+Maintainer: SINI
+Installed-Size: 732
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist, com.opa334.libsandy
+Filename: debs/com.sini921.lockscreenhelper_0.0.1-20_iphoneos-arm64e.deb
+Size: 33990
+MD5sum: 29126b1af746515d38a1c19a5368dd01
+SHA1: 6a7665acbe75b35e1b2cb2af8c6f4e820c17a00f
+SHA256: 6009e89485dffd74ae6c038e34794a548550f6ec7574b26868f3d15b771ce13a
+SHA512: f20ff1d256d360b2c4d31e99c60dd853faa494d44f27d38d8196d34ed110d0387c1bca8cb3ebbc942d63e9acec9f1b418679507292e5d623177d30063ade24ab
+Description: 锁屏界面相关的简单优化
+Name: LockScreenHelper
+Author: SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/lockscreenhelper.png
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/lockscreenhelper/js.json
+
 Package: com.sini921.pscamera
 Architecture: iphoneos-arm64e
 Version: 0.0.1-6
