@@ -1594,11 +1594,11 @@ Maintainer: SOPPPra
 Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
 Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.sop.settingsrevamp
 Filename: debs/com.dao.settingsrevamp_3.0.1.1_iphoneos-arm64e.deb
-Size: 574664
-MD5sum: b6eceb0e9d14e741486fc05c4beae8e1
-SHA1: c2310ad88465aadfdaedeee1508f4add94b435cc
-SHA256: bd2421b646d4d5a09d5cce752a292938066f6ba5e244dce01fb011f603c7f01b
-SHA512: 14df1ce5f2ed2c0fb83e7e3f876496b5652479f63c8905f4c764aeaabae63707311e4c5c9c48270007ebda8b47f9d367b0ed01d72d93e515dfe538ab18614241
+Size: 502860
+MD5sum: 4903666d5ce3c9d8f2679422f888abd5
+SHA1: 0606d3a2eef7f292974700ec341678a3925653b5
+SHA256: fed2c2b905a5dd20fe65c61bcbe51606f8820c0591d89edcf0dcf3dc2743b866
+SHA512: 2ee8c840655b9f50ed88e9082da93c66c6238843f83206c4716a00663a09bbda58890d17b6f9df7df16db6157142674d68f7fcbad4105d180da8d6de74c807cc
 Description: 设置自定义、归类插件。
 Author: SOPPPra
 Name: SettingsRevamp(RootHide)
