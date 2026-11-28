@@ -2812,11 +2812,11 @@ Maintainer: kanuo
 Installed-Size: 3676
 Depends: dev.theos.orion, firmware (>= 16.1)
 Filename: debs/com.nx.stheno_2.0_iphoneos-arm64e.deb
-Size: 1008372
-MD5sum: d04f925f5335fcb17ec73beb5e30a6f3
-SHA1: 9e517b6033f8948e9b5453522abe6f86bfc84554
-SHA256: a0f0fd5b9f7393ee5e0b932704664cad30fa2d06bb732dabd901379611b70083
-SHA512: adc23d57be24e9b70f6019aabb71b6b456a1745488c9cf5985ae58a73511c6ffe45dffcab48f35aec3afe200de530bc2ce787ebe00fc8c63e7d59e6f219176c9
+Size: 1002756
+MD5sum: e0705455d961ddde3ad2a5bc3f8f9e71
+SHA1: 614de9333451ab6e15afc1ef6a564f7462882e16
+SHA256: 353f8843623f45cd087e544a7eaa74c873fa1468039fe49b453bdbbd5740fd5e
+SHA512: b8331e261960fd5432fa34393a069b15dd7c217588e68e70d98e45abeae1a11272bab359291a19420975211206b5276fef469bea867adfc7469417ac58e52ffb
 Description: Stheno通过分类控件、应用程序图标和收藏夹栏直接进行Swift设置。
 Name: Stheno-去除验证版
 Author: kanuo
