@@ -1567,23 +1567,6 @@ Description: 功能丰富的 Instagram 增强插件，可以下载 1080p 等；�
 Name: RyukGram(RootHide)
 Author: Ryuk
 
-Package: com.dao.settingsrevamp
-Architecture: iphoneos-arm64e
-Version: 3.0.1.1
-Section: 嗨-工具
-Maintainer: SOPPPra
-Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
-Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.sop.settingsrevamp
-Filename: debs/com.dao.settingsrevamp_3.0.1.1_iphoneos-arm64e.deb
-Size: 502886
-MD5sum: 76bf6f7bcb8e0248d11f95c763eafd90
-SHA1: 8eaa7f0948d878b1f7b3fb7c681cffdf8b435f15
-SHA256: 7519868ee8eb3357979f1b7fa12e84887b54dc7994db0d445f83502b50a0d0f0
-SHA512: cc952c102fbe07e084e2bde1b2f19e38d7af603256a52e99ca42a41f63c55359071e820c9fe2f1970df12d51b76448b6af720518a659dc7d42311f6c95404e48
-Description: 设置自定义、归类插件。
-Author: SOPPPra
-Name: SettingsRevamp(RootHide)
-
 Package: com.dao.snowboard
 Architecture: iphoneos-arm64e
 Version: 1.5.37-Beta4
