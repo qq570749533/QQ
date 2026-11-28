@@ -4746,12 +4746,12 @@ Section: Tweaks
 Maintainer: daniel
 Installed-Size: 156
 Depends: mobilesubstrate
-Filename: debs/daniel.batman_0.0.2-1_debug_iphoneos-arm64e.deb
-Size: 9686
-MD5sum: ada9dd1f59d986d8a1ed92dc629de0bf
-SHA1: 46b99fe5052946a5f20380715a1ab869335b70bf
-SHA256: 1d3597fd6d98d846021424eb7d1b35379a18ae35e8b9e57ab16f04fc20e7c065
-SHA512: f37a6252d0178eae67ba5f4a9bd5d8f306b32ed5162a02873b7036f15265eafac97b8e2dcaff7d27c696bcdbd05879109d9da56ef9e8ab598b1ed6202c968b73
+Filename: debs/daniel.batman_0.0.2-1+debug_iphoneos-arm64e.deb
+Size: 5084
+MD5sum: 86ad5ff428e4936849b6dba5e1805abd
+SHA1: f8fcc982abb1afb4d903429564baccd71de71d05
+SHA256: 860ad7b28ac10cdbb12c9641d5944426db51a79139b5d7e56222e211558c39b0
+SHA512: 7c78793fd269e81287fe0bc497abfc9b578fd0ddd0c213f479a4079cf0a719e0a9da513582467b8a971578fbd12764da15d85022311b1dcb7dda0c4928de5842
 Description: 显示更多电池信息
 Name: Batman (roothide)
 Author: daniel
