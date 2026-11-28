@@ -3357,11 +3357,11 @@ Section: Tweaks
 Maintainer: MTAC
 Installed-Size: 7040
 Filename: debs/com.sini.vitreux_1.4_iphoneos-arm64e.deb
-Size: 282418
-MD5sum: a9db1327ba9b289b4a603b3fe6c2a669
-SHA1: df800318ef0945e92cba22252af78d65a864b16c
-SHA256: 48a586a03ad86519a5e5b826ca7b6c5cee3f546911d418e68f3c64997ac811a3
-SHA512: 83af97d1e8b3110f32c1e1db6e17959dd415a7a4f715f9224fc465fca28ca913c92e47d429593d352b3b93daa5db47f32ef1e0cbb5f826aebc55dd76bc5c8b6c
+Size: 211820
+MD5sum: 84c427c3786f951df91c518ba09209ea
+SHA1: ff0f95bdfe6d99e29219a5916bdf61d19fb14dc6
+SHA256: 00b5c933691ae86a59366cacd0404cba4656cb88e2bae628d80baeefec7f65db
+SHA512: 3c95702ed96e7c96291b0d2830d60efd74ae24fd3b2b785e9802df0b1b04079bdf82f99f0f34a3def13324f179649ee894dfc323da0c6260da4b4f1bdc1e4d8e
 Description: 仿iOS26液态玻璃。
 Name: Vitreux
 Author: MTAC
