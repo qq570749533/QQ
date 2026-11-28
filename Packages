@@ -3471,11 +3471,11 @@ Maintainer: Skitty & SINI
 Installed-Size: 408
 Depends: mobilesubstrate, preferenceloader
 Filename: debs/com.sini921.ersatz_1.0.1-2_iphoneos-arm64e.deb
-Size: 69004
-MD5sum: 2ddf900b1fb421becc59aa9c0401738f
-SHA1: c2cc231c9203cd8c478f9c25a7a6c0a5fbb39892
-SHA256: 0139ab7cf35a60a819c789b9a1f17c08941a10f719f9544e6eb7c5db7d7d75cc
-SHA512: b8aa1db8ce7ca67c0a4f61da99fbfbe156e3d74f0fa1522bd690e7a766c8969bb0c8ead56506a71e54cc77cb8c6f5c40401bbb5ac475fe16767feea62996b972
+Size: 34546
+MD5sum: 600874e1e7ea7370a672b3d3ea4f6041
+SHA1: 02e2c9a998ea9edcc71fd63ecb36836b02e0cdf3
+SHA256: 96ee024f913e4eaccd58ebfb0e04f8cfec8dc454dbd8ef1a6b477abf8019306e
+SHA512: a6a7ed204959506967a108a3a2adb0d3edad8dab5fb49e81ccfd073cac3dcd7ad102edebb2bd2f33f523bfabf7599c057a84bf63e4f63e127636ce4d921aeda3
 Description: 替换系统范围内的任何文本！基于开源直接编译适配roothide。
 Name: Ersatz(roothide)
 Icon: https://sini921.github.io/repo/sileodepiction/icon/ersatz.png
